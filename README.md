@@ -19,7 +19,6 @@ The boundary file defines the adjacency table of each theme, weight and include
 
 #### This repo assists in formating your input data into the 4 mandatory files described above.
 
-<hr>
 
 ## Prerequisites
 - Raster layers that represent themes, weights and includes must be organized into one folder
@@ -28,7 +27,6 @@ The boundary file defines the adjacency table of each theme, weight and include
 
 - Raster file names should follow some type of naming convention 
 
-<hr>
 
 ## Getting Started
 #### Before you can run `02_format_data.R` you must create a new 'metadata.csv` that defines the following properties for each raster layer in the project:
@@ -86,13 +84,9 @@ Available choices: a number between 0 and 1
 
 #### The `01_populate_metadata.R` script assists in creating the metadata.csv. However, manual editing and QC is still needed.
 
-<hr>
 ## Format Data
-### Change path names in `02_format_data.R` and run. This script outputs the 4 
-mandatory files required for import into `wheretowork`
+### Change path names in `02_format_data.R` and run. This script outputs the 4 mandatory files required for import into `wheretowork`
 
-<hr>
 ## Help
-#### Reach out to Dan Wismer (daniel.wismer@natureconservancy.ca) for help using 
-these scripts or to report a bug
+#### Reach out to Dan Wismer (daniel.wismer@natureconservancy.ca) for help using these scripts or to report a bug
 
