@@ -2,19 +2,19 @@
 
 ## Introduction
 ### Where To Work 'upload project data' import method requires 4 mandatory files:
-1. configuration.yaml: <br>
+1. **configuration.yaml:** <br>
 The configuration file defines user access, UI elements in the 'Table of contents' 
 and initial values in the 'New solution' side bars.
  
-2. spatial.tif: <br>
+2. **spatial.tif:** <br>
 The spatial tiff file defines the spatial properties of the area of interest, 
-such as cell size, extent, number of rows, number of columns and coordinate reference system
+such as cell size, extent, number of rows, number of columns and coordinate reference system.
 
-3. attribute.csv.gz: <br>
+3. **attribute.csv.gz:** <br>
 The attribute file defines the cell values of each theme, weight and include in tabular form
 
 
-4. boundary.csv.gz: <br>
+4. **boundary.csv.gz:** <br>
 The boundary file defines the adjacency table of each theme, weight and include
 
 #### This repo assists in formating your input data into the 4 mandatory files described above.
@@ -31,32 +31,32 @@ The boundary file defines the adjacency table of each theme, weight and include
 ## Getting Started
 #### Before you can run `02_format_data.R` you must create a new 'metadata.csv` that defines the following properties for each raster layer in the project:
 - **Type** <br>
-Available choices: theme, weight or include
+Available choices: theme, weight or include.
 
 - **Theme** <br>
 If Type is theme, provide a name for the grouping. <br>
 Example: Species at Risk (ECCC)
 
 - **Name** <br>
-Provide a name for the layer <br>
+Provide a name for the layer. <br>
 Example: Existing conservation
 
 - **Legend** <br>
-Provide a legend type based off the data type (manual legend == categorical data) <br>
+Provide a legend type based off the data type (manual legend == categorical data). <br>
 Available choices: manual, continuous or null
 
 - **Values** <br>
-If legend is manual, provide the categorical values <br>
+If legend is manual, provide the categorical values. <br>
 Example: 0, 1
 
 - **Color** <br>
-If legend is manual, provide the hex colors. This must be the same length as values <br>
+If legend is manual, provide the hex colors. This must be the same length as values. <br>
 Example: #00000000, #b3de69 <br>
-If legend is continuous, provide a colors ramp from [wheretowork::colo_palette()](https://ncc-cnc.github.io/wheretowork/reference/color_palette.html). This must be the same length as values <br>
+If legend is continuous, provide a colors ramp from [wheretowork::colo_palette()](https://ncc-cnc.github.io/wheretowork/reference/color_palette.html) <br>
 Example: magma
 
 - **Labels** <br>
-If legend is manual, provide the labels for each value. This must be the same length as values <br>
+If legend is manual, provide the labels for each value. This must be the same length as values. <br>
 Example: absence, presence
 
 - **Unit** <br>
@@ -64,18 +64,18 @@ Provide a unit for the layer <br>
 Example: km2
 
 - **Provenance** <br>
-Define if the layer is regional or national data <br>
+Define if the layer is regional or national data. <br>
 Available choices: regional, national or missing
 
 - **Order** <br>
-Optional to define the order of the layers when `wheretowork`is initialized <br>
+Optional; define the order of the layers when `wheretowork`is initialized. <br>
 
 - **Visible** <br>
-Define if the layer will be visible when `wheretowork`is initialized <br>
+Define if the layer will be visible when `wheretowork`is initialized. <br>
 Available choices: TRUE or FALSE
 
 - **Hidden** <br>
-Define if the layer will be hidden from `wheretowork` (recommended for large projects) <br>
+Define if the layer will be hidden from `wheretowork` (recommended for large projects). <br>
 Available choices: TRUE or FALSE
 
 - **Goal** <br>
