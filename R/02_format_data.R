@@ -280,7 +280,7 @@ weights <- lapply(seq_len(raster::nlayers(weight_data)), function(i) {
 write_project(
   x = append(themes, append(includes, weights)),
   dataset = dataset,
-  name = "ECCC Alberta",
+  name = "South Western Ontario",
   path ="W2W/sw_on.yaml",
   spatial_path ="W2W/sw_on.tif",
   attribute_path ="W2W/sw_on_attribute.csv.gz",
@@ -292,9 +292,9 @@ write_project(
 
 # 7.0 Clear R environment ------------------------------------------------------ 
 
-# ## End timer
-# end_time <- Sys.time()
-# end_time - start_time
-# 
-# rm(list=ls())
-# gc()
+## End timer
+end_time <- Sys.time()
+end_time - start_time
+
+rm(list=ls())
+gc()
