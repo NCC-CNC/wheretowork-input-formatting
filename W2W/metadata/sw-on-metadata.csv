@@ -1,0 +1,77 @@
+Type,Theme,File,Name,Legend,Values,Color,Labels,Unit,Provenance,Order,Visible,Hidden,Goal
+include,,I_Military_bases.tif,Miltary bases,manual,"0, 1","#00000000, #b3de69","absence, presence",km2,regional,,FALSE,FALSE,
+include,,I_Protected.tif,Existing conservation,manual,"0, 1","#00000000, #b3de69","absence, presence",km2,national,,TRUE,FALSE,
+theme,Species at Risk (ECCC),T_ECCC_SAR_Agalinis_gattingeri.tif,Agalinis gattingeri,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Species at Risk (ECCC),T_ECCC_SAR_Ambystoma_jeffersonianum.tif,Ambystoma jeffersonianum,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Species at Risk (ECCC),T_ECCC_SAR_Ammodramus_henslowii.tif,Ammodramus henslowii,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Species at Risk (ECCC),T_ECCC_SAR_Ammodramus_savannarum_pratensis.tif,Ammodramus savannarum pratensis,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Species at Risk (ECCC),T_ECCC_SAR_Antrostomus_vociferus.tif,Antrostomus vociferus,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Species at Risk (ECCC),T_ECCC_SAR_Aristida_basiramea.tif,Aristida basiramea,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Species at Risk (ECCC),T_ECCC_SAR_Arnoglossum_plantagineum.tif,Arnoglossum plantagineum,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Species at Risk (ECCC),T_ECCC_SAR_Asio_flammeus.tif,Asio flammeus,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Species at Risk (ECCC),T_ECCC_SAR_Asplenium_scolopendrium.tif,Asplenium scolopendrium,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Species at Risk (ECCC),T_ECCC_SAR_Bombus_affinis.tif,Bombus affinis,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Species at Risk (ECCC),T_ECCC_SAR_Bombus_bohemicus.tif,Bombus bohemicus,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Species at Risk (ECCC),T_ECCC_SAR_Brychius_hungerfordi.tif,Brychius hungerfordi,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Species at Risk (ECCC),T_ECCC_SAR_Cardellina_canadensis.tif,Cardellina canadensis,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Species at Risk (ECCC),T_ECCC_SAR_Chaetura_pelagica.tif,Chaetura pelagica,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Species at Risk (ECCC),T_ECCC_SAR_Chelydra_serpentina.tif,Chelydra serpentina,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Species at Risk (ECCC),T_ECCC_SAR_Chimaphila_maculata.tif,Chimaphila maculata,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Species at Risk (ECCC),T_ECCC_SAR_Chordeiles_minor.tif,Chordeiles minor,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Species at Risk (ECCC),T_ECCC_SAR_Cirsium_hillii.tif,Cirsium hillii,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Species at Risk (ECCC),T_ECCC_SAR_Cirsium_pitcheri.tif,Cirsium pitcheri,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Species at Risk (ECCC),T_ECCC_SAR_Clemmys_guttata.tif,Clemmys guttata,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Species at Risk (ECCC),T_ECCC_SAR_Contopus_cooperi.tif,Contopus cooperi,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Species at Risk (ECCC),T_ECCC_SAR_Contopus_virens.tif,Contopus virens,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Species at Risk (ECCC),T_ECCC_SAR_Coturnicops_noveboracensis.tif,Coturnicops noveboracensis,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Species at Risk (ECCC),T_ECCC_SAR_Danaus_plexippus.tif,Danaus plexippus,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Species at Risk (ECCC),T_ECCC_SAR_Dolichonyx_oryzivorus.tif,Dolichonyx oryzivorus,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Species at Risk (ECCC),T_ECCC_SAR_Emydoidea_blandingii.tif,Emydoidea blandingii,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Species at Risk (ECCC),T_ECCC_SAR_Epeoloides_pilosulus.tif,Epeoloides pilosulus,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Species at Risk (ECCC),T_ECCC_SAR_Erynnis_martialis.tif,Erynnis martialis,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Species at Risk (ECCC),T_ECCC_SAR_Euphagus_carolinus.tif,Euphagus carolinus,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Species at Risk (ECCC),T_ECCC_SAR_Graptemys_geographica.tif,Graptemys geographica,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Species at Risk (ECCC),T_ECCC_SAR_Heterodon_platirhinos.tif,Heterodon platirhinos,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Species at Risk (ECCC),T_ECCC_SAR_Hirundo_rustica.tif,Hirundo rustica,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Species at Risk (ECCC),T_ECCC_SAR_Hylocichla_mustelina.tif,Hylocichla mustelina,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Species at Risk (ECCC),T_ECCC_SAR_Icteria_virens_virens.tif,Icteria virens virens,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Species at Risk (ECCC),T_ECCC_SAR_Iris_lacustris.tif,Iris lacustris,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Species at Risk (ECCC),T_ECCC_SAR_Ixobrychus_exilis.tif,Ixobrychus exilis,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Species at Risk (ECCC),T_ECCC_SAR_Juglans_cinerea.tif,Juglans cinerea,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Species at Risk (ECCC),T_ECCC_SAR_Lampropeltis_triangulum.tif,Lampropeltis triangulum,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Species at Risk (ECCC),T_ECCC_SAR_Lanius_ludovicianus_migrans.tif,Lanius ludovicianus migrans,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Species at Risk (ECCC),T_ECCC_SAR_Lanius_ludovicianus_ssp.tif,Lanius ludovicianus ssp,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Species at Risk (ECCC),T_ECCC_SAR_Lithobates_pipiens.tif,Lithobates pipiens,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Species at Risk (ECCC),T_ECCC_SAR_Melanerpes_erythrocephalus.tif,Melanerpes erythrocephalus,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Species at Risk (ECCC),T_ECCC_SAR_Panax_quinquefolius.tif,Panax quinquefolius,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Species at Risk (ECCC),T_ECCC_SAR_Pantherophis_gloydi.tif,Pantherophis gloydi,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Species at Risk (ECCC),T_ECCC_SAR_Papaipema_aweme.tif,Papaipema aweme,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Species at Risk (ECCC),T_ECCC_SAR_Parkesia_motacilla.tif,Parkesia motacilla,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Species at Risk (ECCC),T_ECCC_SAR_Platanthera_leucophaea.tif,Platanthera leucophaea,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Species at Risk (ECCC),T_ECCC_SAR_Potamogeton_hillii.tif,Potamogeton hillii,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Species at Risk (ECCC),T_ECCC_SAR_Pseudacris_triseriata.tif,Pseudacris triseriata,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Species at Risk (ECCC),T_ECCC_SAR_Rallus_elegans.tif,Rallus elegans,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Species at Risk (ECCC),T_ECCC_SAR_Riparia_riparia.tif,Riparia riparia,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Species at Risk (ECCC),T_ECCC_SAR_Setophaga_cerulea.tif,Setophaga cerulea,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Species at Risk (ECCC),T_ECCC_SAR_Setophaga_citrina.tif,Setophaga citrina,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Species at Risk (ECCC),T_ECCC_SAR_Setophaga_kirtlandii.tif,Setophaga kirtlandii,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Species at Risk (ECCC),T_ECCC_SAR_Sistrurus_catenatus.tif,Sistrurus catenatus,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Species at Risk (ECCC),T_ECCC_SAR_Solidago_houghtonii.tif,Solidago houghtonii,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Species at Risk (ECCC),T_ECCC_SAR_Somatochlora_hineana.tif,Somatochlora hineana,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Species at Risk (ECCC),T_ECCC_SAR_Sternotherus_odoratus.tif,Sternotherus odoratus,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Species at Risk (ECCC),T_ECCC_SAR_Sturnella_magna.tif,Sturnella magna,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Species at Risk (ECCC),T_ECCC_SAR_Taxidea_taxus_jacksoni.tif,Taxidea taxus jacksoni,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Species at Risk (ECCC),T_ECCC_SAR_Tetraneuris_herbacea.tif,Tetraneuris herbacea,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Species at Risk (ECCC),T_ECCC_SAR_Thamnophis_butleri.tif,Thamnophis butleri,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Species at Risk (ECCC),T_ECCC_SAR_Thamnophis_sauritus.tif,Thamnophis sauritus,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Species at Risk (ECCC),T_ECCC_SAR_Urocyon_cinereoargenteus.tif,Urocyon cinereoargenteus,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Species at Risk (ECCC),T_ECCC_SAR_Vermivora_chrysoptera.tif,Vermivora chrysoptera,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
+theme,Land Cover,T_LC_Lakes.tif,Lakes,continuous,,Blues,,km2,national,,FALSE,FALSE,0.2
+theme,Land Cover (lengths),T_LC_River_length.tif,River length,continuous,,Blues,,km,national,,FALSE,FALSE,0.2
+theme,Land Cover (lengths),T_LC_Shoreline_length.tif,Shoreline length,continuous,,YlOrRd,,km,national,,FALSE,FALSE,0.2
+theme,Land Cover,T_LC_Wetlands.tif,Wetlands,continuous,,PRGn,,km2,national,,FALSE,FALSE,0.2
+weight,,W_Climate_refugia.tif,Climate refugia,continuous,,magma,,index,national,,FALSE,FALSE,
+weight,,W_Freshwater.tif,Freshwater,continuous,,plasma,,index,national,,FALSE,FALSE,
+weight,,W_Human_disturbance.tif,Human disturbance,continuous,,turbo,,index,national,,FALSE,FALSE,
+weight,,W_Key_biodiversity_areas.tif,Key biodiversity areas,manual,"0, 1","#00000000, #d95f02","absence, presence",km2,national,,FALSE,FALSE,
+weight,,W_Mean_NDVI.tif,Mean NDVI,continuous,,RdYlGn,,index,regional,,FALSE,FALSE,
