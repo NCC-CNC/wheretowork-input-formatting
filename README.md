@@ -85,7 +85,7 @@ Available choices: a number between 0 and 1
 #### The `01_populate_metadata.R` script assists in creating the metadata.csv. However, manual editing and QC is still needed.
 
 ## Format Data
-#### Change path names in `02_format_data.R` to point to your "Tiffs" folder and "metadata.csv" and run. This script outputs the 4 mandatory files required for import into `wheretowork`.
+#### Change path names in `02_format_data.R` to point to your "Tiffs" folder and "metadata.csv". This script outputs the 4 mandatory files required for import into `wheretowork`.
 
 ## Help
 #### Reach out to Dan Wismer (daniel.wismer@natureconservancy.ca) for help using these scripts or to report a bug.
