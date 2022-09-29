@@ -17,7 +17,7 @@ The attribute file defines the cell values of each theme, weight and include in 
 4. **boundary.csv.gz:** <br>
 The boundary file defines the adjacency table of each theme, weight and include
 
-### This repo assists in formating your input data into the 4 mandatory files described above.
+### *This repo assists in formating your input data into the 4 mandatory files described above.
 
 
 ## Prerequisites
