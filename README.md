@@ -52,7 +52,7 @@ Example: 0, 1
 - **Color** <br>
 If legend is manual, provide the hex colors. This must be the same length as values. <br>
 Example: #00000000, #b3de69 <br>
-If legend is continuous, provide a colors ramp from [wheretowork::colo_palette()](https://ncc-cnc.github.io/wheretowork/reference/color_palette.html) <br>
+If legend is continuous, provide a colors ramp from [wheretowork::color_palette()](https://ncc-cnc.github.io/wheretowork/reference/color_palette.html) <br>
 Example: magma
 
 - **Labels** <br>
@@ -79,7 +79,7 @@ Define if the layer will be hidden from `wheretowork` (recommended for large pro
 Available choices: TRUE or FALSE
 
 - **Goal** <br>
-If Type is theme, provide a goal for the layer when `wheretowork` is initialized <br>
+If Type is theme, provide a goal for the layer when `wheretowork` is initialized. <br>
 Available choices: a number between 0 and 1
 
 #### The `01_populate_metadata.R` script assists in creating the metadata.csv. However, manual editing and QC is still needed.
