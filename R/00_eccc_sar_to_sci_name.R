@@ -3,7 +3,7 @@
 #
 # Date: September 30th, 2022
 #
-# Description: Renames ECCC SAR layers from COSWICID to their scientific name. 
+# Description: Renames ECCC SAR layers from COSEWICID to their scientific name. 
 #              This is an optional script that batch renames ECCC SAR
 #              layers extracted from the natdata-to-aoi.R script.
 #
