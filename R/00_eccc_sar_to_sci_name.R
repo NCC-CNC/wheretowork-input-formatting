@@ -7,11 +7,11 @@
 #              This is an optional script that batch renames ECCC SAR
 #              layers extracted from the natdata-to-aoi.R script.
 #
-# Inputs:  1. A folder of ECCC SAR rasters that have the COSWICID name 
+# Inputs:  1. A folder of ECCC SAR rasters that have the COSEWICID name 
 #             (view "Variables/Themes/ECCC_SAR" for example)
 #
-#          2. A look-up csv (view "Variables/Themes/eccc_sar_names.csv")
-#             for an example
+#          2. A look-up csv (view "Variables/Themes/eccc_sar_names.csv"
+#             for an example)
 #
 # Outputs: 1. Copied and renamed ECCC SAR layers
 #
