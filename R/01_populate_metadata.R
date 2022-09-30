@@ -6,10 +6,10 @@
 # Description: Assists in generating a metadata.csv required for 
 #              02_format_data.R.  
 #
-# Inputs:  1. a folder of rasters 
-#          2. required R libraries
+# Inputs:  1. A folder of rasters 
+#          2. Required R libraries
 #
-# Outputs: 1. a partially built metadata.csv to QC and manually edit in excel
+# Outputs: 1. A partially built metadata.csv to QC and manually edit in excel
 #
 #
 # 1.0 Load packages ------------------------------------------------------------
@@ -242,7 +242,7 @@ for (file in file_list) {
   hidden <- ""
   
   ## Goal ----
-  ### assigning a goal for each layer is best left for the user o manually populate
+  ### assigning a goal for each layer is best left for the user to manually populate
   ### the goal column in the output.csv. Below is a method to set default goals
   ### if the layer is a binary theme based on the proportion of area that the theme
   ### covers within the AOI
