@@ -36,6 +36,10 @@ Available choices: theme, weight or include.
 If Type is theme, provide a name for the grouping. <br>
 Example: Species at Risk (ECCC)
 
+- **File** <br>
+Provide the file name with extension of the layer. <br>
+Example: T_ECCC_SAR_Agalinis_gattingeri.tif
+
 - **Name** <br>
 Provide a name for the layer. <br>
 Example: Existing conservation
