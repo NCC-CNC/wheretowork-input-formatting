@@ -1,7 +1,8 @@
 # Where To Work Input Formatting
 
 ## Introduction
-### Where To Work 'upload project data' import method requires 4 mandatory files:
+### This repo assists in formating your raster data into the 4 mandatory files (described below) required for import into **Where To Work** when using the *upload project data* method.
+
 1. **configuration.yaml:** <br>
 The configuration file defines user access, UI elements in the 'Table of contents' 
 and initial values in the 'New solution' side bars.
@@ -17,11 +18,8 @@ The attribute file defines the cell values of each theme, weight and include in 
 4. **boundary.csv.gz:** <br>
 The boundary file defines the adjacency table of each theme, weight and include
 
-### *This repo assists in formating your input data into the 4 mandatory files described above.
-
-
 ## Prerequisites
-- Raster layers that represent themes, weights and includes must be organized into one folder
+- Raster layers that represent themes, weights, includes and AOI must be organized into one folder
 
 - All rasters must have the same spatial properties (cell size, coordinate reference system, extent, etc.)
 
