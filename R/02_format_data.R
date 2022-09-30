@@ -1,3 +1,22 @@
+#
+# Authors: Dan Wismer & Jeffrey Hanson
+#
+# Date: September 30th, 2022
+#
+# Description: This script generates the 4 mandatory files required to 
+#              upload project data into Where To Work
+#
+# Inputs:  1. a metadata.csv that defines attributes of each raster layer
+#          2. a folder of rasters (AOI, themes, includes and weights) that all
+#             have the same spatial properties (cell size, extent, CRS)
+#          3. required R libraries
+#
+# Outputs: 1. configuration.yaml
+#          2. spatial.tif
+#          3. attribute.csv.gz
+#          3. boundary.csv.gz
+#
+#
 # 1.0 Load packages ------------------------------------------------------------
 
 ## Start timer
@@ -12,22 +31,23 @@ if (any(installed_packages == FALSE)) {
   install.packages(packages[!installed_packages])
 }
 
-## Install wheretowork
+## Install wheretowork if not yet installed
 if (!require(wheretowork)) {
   if (!require(remotes)) install.packages("remotes")
   remotes::install_github("NCC-CNC/wheretowork")  
 }
 
-# Load packages
+## Load packages
 library(raster)
 library(dplyr)
 library(wheretowork)
 
 # 2.0 Set up -------------------------------------------------------------------
 
+## Set path where a QC'd metadata.csv version is located
 metadata_path <- "W2W/metadata/sw-on-metadata.csv" # <--- CHANGE PATH HERE FOR NEW PROJECT
 
-## Create a temp directory and unzip raster variables
+## Set path where rasters are located
 tiffs_path <- "Tiffs" # <--- CHANGE PATH HERE FOR NEW PROJECT
 
 ## Name of study area (planning unit) raster
@@ -41,7 +61,7 @@ metadata <- tibble::as_tibble(
   )
 )
 
-## Assort by order column
+## Assort by order column - optional
 metadata <- dplyr::arrange(metadata, Order) 
 
 ## Validate metadata
@@ -122,7 +142,7 @@ dataset <- new_dataset_from_auto(
 
 ## Create themes ----
 
-### Loop over unique theme groups (ex. Endemic Species, Species at Risk, etc.)
+### loop over unique theme groups (ex. Endemic Species, Species at Risk, etc.)
 themes <- lapply(seq_along(unique(theme_groups)), function(i) {
   
   #### store temp variables associated with group (i)
@@ -143,7 +163,7 @@ themes <- lapply(seq_along(unique(theme_groups)), function(i) {
   #### create list of features (j) associated with group
   curr_features <- lapply(seq_along(curr_theme_names), function(j) {
     
-    #### create variable
+    #### create variable (if manual legend)
     if (identical(curr_theme_legend[j], "manual")) {
       v <- new_variable(
         dataset = dataset,
@@ -157,7 +177,8 @@ themes <- lapply(seq_along(unique(theme_groups)), function(i) {
         ),
         provenance = new_provenance_from_source(curr_theme_provenance[j])
       )
-      
+    
+    #### create variable (if continuous legend)    
     } else if (identical(curr_theme_legend[j], "continuous")) {
       v <-  new_variable_from_auto(
         dataset = dataset,
@@ -170,6 +191,7 @@ themes <- lapply(seq_along(unique(theme_groups)), function(i) {
         hidden = curr_theme_hidden[j]
       )
       
+    #### create variable (if null legend)   
     } else if (identical(curr_theme_legend[j], "null")) {
       v <- new_variable(
         dataset = dataset,
@@ -205,7 +227,7 @@ themes <- lapply(seq_along(unique(theme_groups)), function(i) {
 ### loop over each raster in include_data
 includes <- lapply(seq_len(raster::nlayers(include_data)), function(i) {
   
-  ### Build legend
+  ### build legend
   if (identical(include_legend[i], "null")) {
     legend <- new_null_legend()
   } else {
@@ -215,7 +237,8 @@ includes <- lapply(seq_len(raster::nlayers(include_data)), function(i) {
       labels = unlist(strsplit(include_labels[i], ","))
     )
   }
-  ### Build include
+  
+  ### build include
   new_include(
     name = include_names[i],
     visible = include_visible[i],
@@ -226,15 +249,17 @@ includes <- lapply(seq_len(raster::nlayers(include_data)), function(i) {
       units = " ",
       total = raster::cellStats(include_data[[i]], "sum"),
       legend = legend,
-      provenance = new_provenance_from_source("missing")
+      provenance = new_provenance_from_source(include_provenance[i])
     )
   )
 })
 
 ## Create weights ---- 
-## Loop over each raster in weight_data
+
+### loop over each raster in weight_data
 weights <- lapply(seq_len(raster::nlayers(weight_data)), function(i) {
-  ## prepare variable (manual legend)
+  
+  #### prepare variable (if manual legend)
   if (identical(weight_legend[i], "manual")) {
     v <- new_variable_from_auto(
       dataset = dataset,
@@ -245,7 +270,8 @@ weights <- lapply(seq_len(raster::nlayers(weight_data)), function(i) {
       provenance = weight_provenance[i],
       labels = trimws(unlist(strsplit(weight_labels[i], ",")))
     )
-    
+  
+  #### prepare variable (if null legend)    
   } else if (identical(weight_legend[i], "null")) {
     v <- new_variable(
       dataset = dataset,
@@ -256,7 +282,8 @@ weights <- lapply(seq_len(raster::nlayers(weight_data)), function(i) {
       provenance = new_provenance_from_source("missing")
     )
     
-  } else { ## prepare variable (continuous legend, automatically identified)
+  ### prepare variable (if continuous legend)    
+  } else { 
     v <- new_variable_from_auto(
       dataset = dataset,
       index = names(weight_data)[i],
@@ -269,25 +296,25 @@ weights <- lapply(seq_len(raster::nlayers(weight_data)), function(i) {
     )
   }
   
-  ## Create weight
+  #### create weight
   new_weight(name = weight_names[i], variable = v, visible = weight_visible[i],
              hidden = weight_hidden[i])
 })
 
 # 6.0  Export Where To Work objects --------------------------------------------
 
-## Save project to disk
+## Save project to disk ----
 write_project(
   x = append(themes, append(includes, weights)),
   dataset = dataset,
-  name = "South Western Ontario",
-  path ="W2W/sw_on.yaml",
-  spatial_path ="W2W/sw_on.tif",
-  attribute_path ="W2W/sw_on_attribute.csv.gz",
-  boundary_path ="W2W/sw_on_boundary.csv.gz",
+  name = "South Western Ontario", # <--- CHANGE FOR NEW PROJECT
+  path ="W2W/sw_on.yaml", # <--- CHANGE FOR NEW PROJECT
+  spatial_path ="W2W/sw_on.tif", # <--- CHANGE FOR NEW PROJECT
+  attribute_path ="W2W/sw_on_attribute.csv.gz", # <--- CHANGE FOR NEW PROJECT
+  boundary_path ="W2W/sw_on_boundary.csv.gz", # <--- CHANGE FOR NEW PROJECT
   mode = "advanced",
-  author_name = "Dan Wismer",
-  author_email = "daniel.wismer@natureconservancy.ca"
+  author_name = "Dan Wismer", # <--- CHANGE FOR NEW PROJECT
+  author_email = "daniel.wismer@natureconservancy.ca" # <--- CHANGE FOR NEW PROJECT
 )
 
 # 7.0 Clear R environment ------------------------------------------------------ 
@@ -296,5 +323,6 @@ write_project(
 end_time <- Sys.time()
 end_time - start_time
 
+## Comment these lines below to keep all the objects in the R session
 rm(list=ls())
 gc()
