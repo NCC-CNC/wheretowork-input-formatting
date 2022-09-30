@@ -1,5 +1,17 @@
-
-
+#
+# Author: Dan Wismer 
+#
+# Date: September 30th, 2022
+#
+# Description: Assists in generating a metadata.csv required for 
+#              02_format_data.R.  
+#
+# Inputs:  1. a folder of rasters 
+#          2. required R libraries
+#
+# Outputs: 1. a partially built metadata.csv to QC and manually edit in excel
+#
+#
 # 1.0 Load packages ------------------------------------------------------------
 
 ## Start timer
@@ -49,6 +61,7 @@ df <- data.frame(Type = character(),
 
 # 3.0 Populate metadata --------------------------------------------------------
 
+## Set up counter
 counter <- 1
 len <- length(file_list)
 
@@ -56,15 +69,15 @@ len <- length(file_list)
 for (file in file_list) {
 
   ## File ----
-  ### Assign file name with extension of layer (ex. I_Protected.tif)
+  ### assign file name with extension of layer (ex. I_Protected.tif)
   file_no_ext <- paste0(tools::file_path_sans_ext(basename(file)))
   file <-  paste0(file_no_ext,".tif")
   #### message
   print(paste0("Populating ", counter, " of ", len, ": ", file))
   
-  # Type ----
-  ### Assign layer as either theme, weight, or include
-  ### Example:
+  ## Type ----
+  ### assign layer as either theme, weight, or include
+  ### example:
   
   if (startsWith(file_no_ext, "AOI")) {
     type <- "-"
@@ -77,10 +90,10 @@ for (file in file_list) {
   }
   
   ## Name ----
-  ### Assigning a name to be used in the w2w legend is best left for the user
+  ### assigning a name to be used in the w2w legend is best left for the user
   ### to manually populate the NAME column in the output csv. Or write custom
   ### code below to populate each layer with a name
-  ### Example:
+  ### example:
   
   if (startsWith(file_no_ext, "T_ECCC_SAR_")) {
     name_ <- unlist(str_split(file_no_ext, "T_ECCC_SAR_"))[2] # split string
@@ -98,11 +111,11 @@ for (file in file_list) {
     name <- ""
   }
 
-  # Theme ----
-  ### Assigning a theme name to be used in the w2w legend is best left for the user
+  ## Theme ----
+  ### assigning a theme name to be used in the w2w legend is best left for the user
   ### to manually populate the THEME column in the output csv. Or write custom
   ### code below to populate each layer with a THEME name
-  ### EXAMPLE:
+  ### example:
   
   if (startsWith(file_no_ext, "T_ECCC_SAR")) {
     theme <- "Species at Risk (ECCC)"
@@ -114,11 +127,11 @@ for (file in file_list) {
     theme <- ""
   }
   
-  # Legend ----
-  ### Assigning a legend to be used in the w2w legend is best left for the user
+  ## Legend ----
+  ### assigning a legend to be used in the w2w legend is best left for the user
   ### to manually populate the LEGEND column in the output csv. Or write custom
   ### code below to populate each layer with a LEGEND type: continuous, manual, null 
-  ### Example:
+  ### example:
   
   if (startsWith(file_no_ext, "T_ECCC_SAR")) {
     legend <- "manual"
@@ -133,8 +146,8 @@ for (file in file_list) {
     legend <- ""
   }
 
-  # Values ----
-  ### Assigning values to be used fro the w2w legend is best left for the user
+  ## Values ----
+  ### assigning values to be used fro the w2w legend is best left for the user
   ### to manually populate the values column in the output csv. Or write custom
   ### code below to populate each layer with VALUES if legend is manual.
   ### Example:
@@ -149,10 +162,10 @@ for (file in file_list) {
     values <- ""
   }
   
-  # Color ----
-  ### Assigning colors to be used for the w2w legend is best left for the user
+  ## Color ----
+  ### assigning colors to be used for the w2w legend is best left for the user
   ### to manually populate the colors column in the output csv. Or write custom
-  ### code below to populate each layer with COLOR.
+  ### code below to populate each layer with a valid COLOR.
   ### Example:
   if (startsWith(file_no_ext, "T_ECCC_SAR")) {
     color <- "#00000000, #fb8072"
@@ -164,11 +177,11 @@ for (file in file_list) {
     color <- ""
   }  
   
-  # LABEL ----
-  ### Assigning labels to be used for the w2w manual legend is best left for the user
+  ## Label ----
+  ### assigning labels to be used for the w2w manual legend is best left for the user
   ### to manually populate the labels column in the output csv. Or write custom
   ### code below to populate each layer with a LABEL if legend is manual.   
-  ### Example:
+  ### example:
   
   if (startsWith(file_no_ext, "T_ECCC_SAR")) {
     labels <- "absence, presence"
@@ -180,11 +193,11 @@ for (file in file_list) {
     labels <- ""
   }   
   
-  # Units ----
-  ### Assigning units to be used for the w2w legend is best left for the user
+  ## Units ----
+  ### assigning units to be used for the w2w legend is best left for the user
   ### to manually populate the unit column in the output csv. Or write custom
   ### code below to populate each layer with a UNIT.
-  ### Example:
+  ### example:
   if (startsWith(file_no_ext, "T_ECCC_SAR")) {
     unit <- "km2"
     
@@ -195,11 +208,11 @@ for (file in file_list) {
     unit <- ""
   }  
   
-  # Provenance ----
-  ### Assigning provenance to be used for the w2w legend is best left for the user
+  ## Provenance ----
+  ### assigning provenance to be used for the w2w legend is best left for the user
   ### to manually populate the provenance column in the output csv. Or write custom
   ### code below to populate each layer with a PROVENANCE.
-  ### Example
+  ### example
   if (startsWith(file_no_ext, "T_ECCC_SAR")) {
     provenance <- "national"
     
@@ -210,26 +223,29 @@ for (file in file_list) {
     provenance <- ""
   } 
   
-  # Order ----
-  ### Assigning order to be used for the w2w legend is best left for the user
+  ## Order ----
+  ### assigning order to be used for the w2w legend is best left for the user
   ### to manually populate the order column in the output csv. Or write custom
   ### code below to populate each layer with a ORDER value.    
   order <- ""
   
-  # Visible ----
-  ### Assigning visible to be used for the w2w legend is best left for the user
+  ## Visible ----
+  ### assigning visible to be used for the w2w legend is best left for the user
   ### to manually populate the visible column in the output csv. Or write custom
   ### code below to populate each layer with a VISIBLE value.     
   visible <- ""
 
-  # Hidden ----
-  ### Assigning hidden to be used for the w2w legend is best left for the user
+  ## Hidden ----
+  ### assigning hidden to be used for the w2w legend is best left for the user
   ### to manually populate the hidden column in the output csv. Or write custom
   ### code below to populate each layer with a HIDDEN value.     
   hidden <- ""
   
-  # Goal ----
-  ### if layer is a binary theme then set a goal based on the proportion
+  ## Goal ----
+  ### assigning a goal for each layer is best left for the user o manually populate
+  ### the goal column in the output.csv. Below is a method to set default goals
+  ### if the layer is a binary theme based on the proportion of area that the theme
+  ### covers within the AOI
   if (type == "theme") {
     r <- raster(paste0("Tiffs/", file)) # read-in layer as a raster
     
@@ -245,13 +261,13 @@ for (file in file_list) {
     goal <- ""
   }
   
-  # Append row to data.frame ----
+  ## Append row to data.frame ----
   new_row <- c(type, theme, file, name, legend, values, color, labels, unit, 
                provenance, order, visible, hidden, goal)
   
   df <- structure(rbind(df, new_row), .Names = names(df))
   
-  # Update counter
+  ## Update counter
   counter <- 1 + counter
   
 } 
@@ -259,7 +275,7 @@ for (file in file_list) {
 
 # Write to CSV ----
 write.csv(df, 
-          "W2W/metadata/sw-on-metadata-NEEDS-QC.csv",  # <--- CHANGE NAME FOR NEW PROJECT
+          "W2W/metadata/sw-on-metadata-NEEDS-QC.csv",  # <--- CHANGE FOR NEW PROJECT
           row.names = FALSE)
 
 # 4.0 Clear R environment ------------------------------------------------------ 
