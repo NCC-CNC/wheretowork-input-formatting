@@ -27,7 +27,8 @@ The boundary file defines the adjacency table of each theme, weight and include
 
 
 ## Getting Started
-#### Before you can run `02_format_data.R` you must create a new 'metadata.csv` that defines the following properties for each raster layer in the project:
+#### Before you can run `02_format_data.R` you must create a new 'metadata.csv` that defines the following properties for each raster layer in the project. You can view a QC'd version [here.](https://github.com/NCC-CNC/wheretowork-input-formatting/blob/main/W2W/metadata/sw-on-metadata.csv)
+
 - **Type** <br>
 Available choices: theme, weight or include.
 
@@ -81,8 +82,6 @@ If Type is theme, provide a goal for the layer when `wheretowork` is initialized
 Available choices: a number between 0 and 1
 
 #### The `01_populate_metadata.R` script assists in creating the metadata.csv. However, manual editing and QC is still needed.
-#### View a QC metadata.csv version [here:](https://github.com/NCC-CNC/wheretowork-input-formatting/blob/main/W2W/metadata/sw-on-metadata.csv)
-
 
 ## Format Data
 #### Change path names in `02_format_data.R` to point to your "Tiffs" folder and "metadata.csv". This script outputs the 4 mandatory files required for import into `wheretowork`.
