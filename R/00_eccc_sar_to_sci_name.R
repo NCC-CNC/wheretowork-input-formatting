@@ -1,3 +1,21 @@
+#
+# Author: Dan Wismer 
+#
+# Date: September 30th, 2022
+#
+# Description: Renames ECCC SAR layers from COSWICID to their scientific name. 
+#              This is an optional script that batch renames ECCC SAR
+#              layers extracted from the natdata-to-aoi.R script.
+#
+# Inputs:  1. A folder of ECCC SAR rasters that have the COSWICID name 
+#             (view "Variables/Themes/ECCC_SAR" for example)
+#
+#          2. A look-up csv (view "Variables/Themes/eccc_sar_names.csv")
+#             for an example
+#
+# Outputs: 1. Copied and renamed ECCC SAR layers
+#
+
 # 1.0 Load packages ------------------------------------------------------------
 
 ## Start timer

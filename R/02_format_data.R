@@ -6,15 +6,15 @@
 # Description: This script generates the 4 mandatory files required to 
 #              upload project data into Where To Work
 #
-# Inputs:  1. a metadata.csv that defines attributes of each raster layer
-#          2. a folder of rasters (AOI, themes, includes and weights) that all
+# Inputs:  1. A metadata.csv that defines attributes of each raster layer
+#          2. A folder of rasters (AOI, themes, includes and weights) that all
 #             have the same spatial properties (cell size, extent, CRS)
-#          3. required R libraries
+#          3. Required R libraries
 #
-# Outputs: 1. configuration.yaml
-#          2. spatial.tif
-#          3. attribute.csv.gz
-#          3. boundary.csv.gz
+# Outputs: 1. Configuration.yaml
+#          2. Spatial.tif
+#          3. Attribute.csv.gz
+#          3. Boundary.csv.gz
 #
 #
 # 1.0 Load packages ------------------------------------------------------------
