@@ -1,6 +1,6 @@
 Type,Theme,File,Name,Legend,Values,Color,Labels,Unit,Provenance,Order,Visible,Hidden,Goal
-include,,I_Military_bases.tif,Miltary bases,manual,"0, 1","#00000000, #b3de69","absence, presence",km2,regional,,FALSE,FALSE,
-include,,I_Protected.tif,Existing conservation,manual,"0, 1","#00000000, #b3de69","absence, presence",km2,national,,TRUE,FALSE,
+include,,I_Military_bases.tif,Miltary bases,manual,"0, 1","#00000000, #b3de69","not included, included",km2,regional,,FALSE,FALSE,
+include,,I_Protected.tif,Existing conservation,manual,"0, 1","#00000000, #b3de69","not included, included",km2,national,,TRUE,FALSE,
 theme,Species at Risk (ECCC),T_ECCC_SAR_Agalinis_gattingeri.tif,Agalinis gattingeri,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
 theme,Species at Risk (ECCC),T_ECCC_SAR_Ambystoma_jeffersonianum.tif,Ambystoma jeffersonianum,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
 theme,Species at Risk (ECCC),T_ECCC_SAR_Ammodramus_henslowii.tif,Ammodramus henslowii,manual,"0, 1","#00000000, #fb8072","absence, presence",km2,national,,FALSE,FALSE,0.2
