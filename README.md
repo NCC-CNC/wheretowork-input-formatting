@@ -27,7 +27,7 @@ The boundary file defines the adjacency table of each theme, weight and include
 
 
 ## Getting Started
-#### Before you can run `02_format_data.R` you must create a new 'metadata.csv` that defines the following properties for each raster layer in the project. You can view a QC'd version [here.](https://github.com/NCC-CNC/wheretowork-input-formatting/blob/main/W2W/metadata/sw-on-metadata.csv)
+#### Before you can run `03_format_data.R` you must create a new 'metadata.csv` that defines the following properties for each raster layer in the project. You can view a QC'd version [here.](https://github.com/NCC-CNC/wheretowork-input-formatting/blob/main/WTW/metadata/sw-on-metadata.csv)
 
 - **Type** <br>
 Available choices: theme, weight or include.
