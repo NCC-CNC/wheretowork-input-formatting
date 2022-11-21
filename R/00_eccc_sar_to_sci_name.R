@@ -39,7 +39,7 @@ library(readr)
 # 2.0 Set up -------------------------------------------------------------------
 
 # Read-in ECCC SAR csv 
-ECC_SAR_LU <- read_csv("Variables/Themes/eccc_sar_names.csv")
+ECC_SAR_LU <- read_csv("Variables/Themes/ECCC_SAR/eccc_sar_names.csv")
 # Get list of ECCC SAR .tiffs
 raster_list <- list.files("Variables/Themes/ECCC_SAR", 
                           pattern='.tif$', 
@@ -78,6 +78,3 @@ for (raster in raster_list) {
 ## End timer
 end_time <- Sys.time()
 end_time - start_time
-
-rm(list=ls())
-gc()

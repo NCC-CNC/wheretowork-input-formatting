@@ -1,0 +1,356 @@
+Type,Theme,File,Name,Legend,Values,Color,Labels,Unit,Provenance,Order,Visible,Hidden,Goal,Targets
+include,,I_Protected.tif,Existing Conservation (CPCAD),manual,"0, 1","#00000000, #7fbc41","not included, included",km2,national,,TRUE,FALSE,0.2,
+theme,Species at Risk (ECCC),T_ECCC_SAR_Agalinis_gattingeri.tif,Agalinis gattingeri,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Species at Risk (ECCC),T_ECCC_SAR_Ambystoma_jeffersonianum.tif,Ambystoma jeffersonianum,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Species at Risk (ECCC),T_ECCC_SAR_Ammodramus_henslowii.tif,Ammodramus henslowii,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.768111433
+theme,Species at Risk (ECCC),T_ECCC_SAR_Ammodramus_savannarum_pratensis.tif,Ammodramus savannarum pratensis,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.582037819
+theme,Species at Risk (ECCC),T_ECCC_SAR_Antrostomus_vociferus.tif,Antrostomus vociferus,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.584783765
+theme,Species at Risk (ECCC),T_ECCC_SAR_Aristida_basiramea.tif,Aristida basiramea,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Species at Risk (ECCC),T_ECCC_SAR_Arnoglossum_plantagineum.tif,Arnoglossum plantagineum,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Species at Risk (ECCC),T_ECCC_SAR_Asio_flammeus.tif,Asio flammeus,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.582037819
+theme,Species at Risk (ECCC),T_ECCC_SAR_Asplenium_scolopendrium.tif,Asplenium scolopendrium,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.819950745
+theme,Species at Risk (ECCC),T_ECCC_SAR_Bombus_affinis.tif,Bombus affinis,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.586954823
+theme,Species at Risk (ECCC),T_ECCC_SAR_Bombus_bohemicus.tif,Bombus bohemicus,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.586618926
+theme,Species at Risk (ECCC),T_ECCC_SAR_Brychius_hungerfordi.tif,Brychius hungerfordi,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Species at Risk (ECCC),T_ECCC_SAR_Cardellina_canadensis.tif,Cardellina canadensis,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.588997966
+theme,Species at Risk (ECCC),T_ECCC_SAR_Chaetura_pelagica.tif,Chaetura pelagica,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.584783765
+theme,Species at Risk (ECCC),T_ECCC_SAR_Chelydra_serpentina.tif,Chelydra serpentina,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.582050368
+theme,Species at Risk (ECCC),T_ECCC_SAR_Chimaphila_maculata.tif,Chimaphila maculata,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Species at Risk (ECCC),T_ECCC_SAR_Chordeiles_minor.tif,Chordeiles minor,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.58874934
+theme,Species at Risk (ECCC),T_ECCC_SAR_Cirsium_hillii.tif,Cirsium hillii,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.911316902
+theme,Species at Risk (ECCC),T_ECCC_SAR_Cirsium_pitcheri.tif,Cirsium pitcheri,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Species at Risk (ECCC),T_ECCC_SAR_Clemmys_guttata.tif,Clemmys guttata,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.58745997
+theme,Species at Risk (ECCC),T_ECCC_SAR_Contopus_cooperi.tif,Contopus cooperi,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.662031272
+theme,Species at Risk (ECCC),T_ECCC_SAR_Contopus_virens.tif,Contopus virens,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.586618926
+theme,Species at Risk (ECCC),T_ECCC_SAR_Coturnicops_noveboracensis.tif,Coturnicops noveboracensis,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.588448879
+theme,Species at Risk (ECCC),T_ECCC_SAR_Danaus_plexippus.tif,Danaus plexippus,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.585602543
+theme,Species at Risk (ECCC),T_ECCC_SAR_Dolichonyx_oryzivorus.tif,Dolichonyx oryzivorus,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.607153976
+theme,Species at Risk (ECCC),T_ECCC_SAR_Emydoidea_blandingii.tif,Emydoidea blandingii,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.903557914
+theme,Species at Risk (ECCC),T_ECCC_SAR_Epeoloides_pilosulus.tif,Epeoloides pilosulus,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.586618926
+theme,Species at Risk (ECCC),T_ECCC_SAR_Erynnis_martialis.tif,Erynnis martialis,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.816741973
+theme,Species at Risk (ECCC),T_ECCC_SAR_Euphagus_carolinus.tif,Euphagus carolinus,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.589024159
+theme,Species at Risk (ECCC),T_ECCC_SAR_Graptemys_geographica.tif,Graptemys geographica,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.862824264
+theme,Species at Risk (ECCC),T_ECCC_SAR_Heterodon_platirhinos.tif,Heterodon platirhinos,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.859279883
+theme,Species at Risk (ECCC),T_ECCC_SAR_Hirundo_rustica.tif,Hirundo rustica,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.586618926
+theme,Species at Risk (ECCC),T_ECCC_SAR_Hylocichla_mustelina.tif,Hylocichla mustelina,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.586618926
+theme,Species at Risk (ECCC),T_ECCC_SAR_Icteria_virens_virens.tif,Icteria virens virens,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.760023946
+theme,Species at Risk (ECCC),T_ECCC_SAR_Iris_lacustris.tif,Iris lacustris,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.933474961
+theme,Species at Risk (ECCC),T_ECCC_SAR_Ixobrychus_exilis.tif,Ixobrychus exilis,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.585602543
+theme,Species at Risk (ECCC),T_ECCC_SAR_Juglans_cinerea.tif,Juglans cinerea,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.583095286
+theme,Species at Risk (ECCC),T_ECCC_SAR_Lampropeltis_triangulum.tif,Lampropeltis triangulum,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.583133179
+theme,Species at Risk (ECCC),T_ECCC_SAR_Lanius_ludovicianus_migrans.tif,Lanius ludovicianus migrans,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.765499629
+theme,Species at Risk (ECCC),T_ECCC_SAR_Lanius_ludovicianus_ssp.tif,Lanius ludovicianus ssp,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.705008003
+theme,Species at Risk (ECCC),T_ECCC_SAR_Lithobates_pipiens.tif,Lithobates pipiens,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.584656202
+theme,Species at Risk (ECCC),T_ECCC_SAR_Melanerpes_erythrocephalus.tif,Melanerpes erythrocephalus,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.584783765
+theme,Species at Risk (ECCC),T_ECCC_SAR_Panax_quinquefolius.tif,Panax quinquefolius,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.597229954
+theme,Species at Risk (ECCC),T_ECCC_SAR_Pantherophis_gloydi.tif,Pantherophis gloydi,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Species at Risk (ECCC),T_ECCC_SAR_Papaipema_aweme.tif,Papaipema aweme,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Species at Risk (ECCC),T_ECCC_SAR_Parkesia_motacilla.tif,Parkesia motacilla,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.749349968
+theme,Species at Risk (ECCC),T_ECCC_SAR_Platanthera_leucophaea.tif,Platanthera leucophaea,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Species at Risk (ECCC),T_ECCC_SAR_Potamogeton_hillii.tif,Potamogeton hillii,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.892908495
+theme,Species at Risk (ECCC),T_ECCC_SAR_Pseudacris_triseriata.tif,Pseudacris triseriata,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.982110572
+theme,Species at Risk (ECCC),T_ECCC_SAR_Rallus_elegans.tif,Rallus elegans,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Species at Risk (ECCC),T_ECCC_SAR_Riparia_riparia.tif,Riparia riparia,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.586618926
+theme,Species at Risk (ECCC),T_ECCC_SAR_Setophaga_cerulea.tif,Setophaga cerulea,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.647997067
+theme,Species at Risk (ECCC),T_ECCC_SAR_Setophaga_citrina.tif,Setophaga citrina,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Species at Risk (ECCC),T_ECCC_SAR_Setophaga_kirtlandii.tif,Setophaga kirtlandii,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Species at Risk (ECCC),T_ECCC_SAR_Sistrurus_catenatus.tif,Sistrurus catenatus,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.77657984
+theme,Species at Risk (ECCC),T_ECCC_SAR_Solidago_houghtonii.tif,Solidago houghtonii,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Species at Risk (ECCC),T_ECCC_SAR_Somatochlora_hineana.tif,Somatochlora hineana,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Species at Risk (ECCC),T_ECCC_SAR_Sternotherus_odoratus.tif,Sternotherus odoratus,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Species at Risk (ECCC),T_ECCC_SAR_Sturnella_magna.tif,Sturnella magna,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.586954823
+theme,Species at Risk (ECCC),T_ECCC_SAR_Taxidea_taxus_jacksoni.tif,Taxidea taxus jacksoni,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.809846671
+theme,Species at Risk (ECCC),T_ECCC_SAR_Tetraneuris_herbacea.tif,Tetraneuris herbacea,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Species at Risk (ECCC),T_ECCC_SAR_Thamnophis_butleri.tif,Thamnophis butleri,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Species at Risk (ECCC),T_ECCC_SAR_Thamnophis_sauritus.tif,Thamnophis sauritus,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.698624249
+theme,Species at Risk (ECCC),T_ECCC_SAR_Urocyon_cinereoargenteus.tif,Urocyon cinereoargenteus,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Species at Risk (ECCC),T_ECCC_SAR_Vermivora_chrysoptera.tif,Vermivora chrysoptera,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.584783765
+theme,Amphibians (IUCN),T_IUCN_AMPH_Ambystoma_jeffersonianum.tif, Ambystoma jeffersonianum,manual,"0, 1","#00000000, #a6cee3","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Amphibians (IUCN),T_IUCN_AMPH_Ambystoma_maculatum.tif, Ambystoma maculatum,manual,"0, 1","#00000000, #a6cee3","absence, presence",km2,national,,FALSE,TRUE,0.2,0.769571913
+theme,Amphibians (IUCN),T_IUCN_AMPH_Anaxyrus_americanus.tif, Anaxyrus americanus,manual,"0, 1","#00000000, #a6cee3","absence, presence",km2,national,,FALSE,TRUE,0.2,0.742827711
+theme,Amphibians (IUCN),T_IUCN_AMPH_Dryophytes_chrysoscelis.tif, Dryophytes chrysoscelis,manual,"0, 1","#00000000, #a6cee3","absence, presence",km2,national,,FALSE,TRUE,0.2,0.769215455
+theme,Amphibians (IUCN),T_IUCN_AMPH_Dryophytes_versicolor.tif, Dryophytes versicolor,manual,"0, 1","#00000000, #a6cee3","absence, presence",km2,national,,FALSE,TRUE,0.2,0.769255023
+theme,Amphibians (IUCN),T_IUCN_AMPH_Hemidactylium_scutatum.tif, Hemidactylium scutatum,manual,"0, 1","#00000000, #a6cee3","absence, presence",km2,national,,FALSE,TRUE,0.2,0.769255023
+theme,Amphibians (IUCN),T_IUCN_AMPH_Lithobates_catesbeianus.tif, Lithobates catesbeianus,manual,"0, 1","#00000000, #a6cee3","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Amphibians (IUCN),T_IUCN_AMPH_Lithobates_clamitans.tif, Lithobates clamitans,manual,"0, 1","#00000000, #a6cee3","absence, presence",km2,national,,FALSE,TRUE,0.2,0.769571913
+theme,Amphibians (IUCN),T_IUCN_AMPH_Lithobates_palustris.tif, Lithobates palustris,manual,"0, 1","#00000000, #a6cee3","absence, presence",km2,national,,FALSE,TRUE,0.2,0.767601382
+theme,Amphibians (IUCN),T_IUCN_AMPH_Lithobates_pipiens.tif, Lithobates pipiens,manual,"0, 1","#00000000, #a6cee3","absence, presence",km2,national,,FALSE,TRUE,0.2,0.601175333
+theme,Amphibians (IUCN),T_IUCN_AMPH_Lithobates_septentrionalis.tif, Lithobates septentrionalis,manual,"0, 1","#00000000, #a6cee3","absence, presence",km2,national,,FALSE,TRUE,0.2,0.769255023
+theme,Amphibians (IUCN),T_IUCN_AMPH_Lithobates_sylvaticus.tif, Lithobates sylvaticus,manual,"0, 1","#00000000, #a6cee3","absence, presence",km2,national,,FALSE,TRUE,0.2,0.769571913
+theme,Amphibians (IUCN),T_IUCN_AMPH_Notophthalmus_viridescens.tif, Notophthalmus viridescens,manual,"0, 1","#00000000, #a6cee3","absence, presence",km2,national,,FALSE,TRUE,0.2,0.769255023
+theme,Amphibians (IUCN),T_IUCN_AMPH_Plethodon_cinereus.tif, Plethodon cinereus,manual,"0, 1","#00000000, #a6cee3","absence, presence",km2,national,,FALSE,TRUE,0.2,0.748825457
+theme,Amphibians (IUCN),T_IUCN_AMPH_Pseudacris_crucifer.tif, Pseudacris crucifer,manual,"0, 1","#00000000, #a6cee3","absence, presence",km2,national,,FALSE,TRUE,0.2,0.769255023
+theme,Amphibians (IUCN),T_IUCN_AMPH_Pseudacris_maculata.tif, Pseudacris maculata,manual,"0, 1","#00000000, #a6cee3","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Birds (IUCN),T_IUCN_BIRD_Acanthis_flammea.tif, Acanthis flammea,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.750545145
+theme,Birds (IUCN),T_IUCN_BIRD_Accipiter_cooperii.tif, Accipiter cooperii,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.74705464
+theme,Birds (IUCN),T_IUCN_BIRD_Accipiter_gentilis.tif, Accipiter gentilis,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.7662749
+theme,Birds (IUCN),T_IUCN_BIRD_Accipiter_striatus.tif, Accipiter striatus,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.751075228
+theme,Birds (IUCN),T_IUCN_BIRD_Actitis_macularius.tif, Actitis macularius,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Birds (IUCN),T_IUCN_BIRD_Aegolius_acadicus.tif, Aegolius acadicus,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.768268693
+theme,Birds (IUCN),T_IUCN_BIRD_Agelaius_phoeniceus.tif, Agelaius phoeniceus,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.663617312
+theme,Birds (IUCN),T_IUCN_BIRD_Aix_sponsa.tif, Aix sponsa,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.907206647
+theme,Birds (IUCN),T_IUCN_BIRD_Ammodramus_savannarum.tif, Ammodramus savannarum,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Birds (IUCN),T_IUCN_BIRD_Ammospiza_leconteii.tif, Ammospiza leconteii,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Birds (IUCN),T_IUCN_BIRD_Anas_acuta.tif, Anas acuta,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Birds (IUCN),T_IUCN_BIRD_Anas_crecca.tif, Anas crecca,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Birds (IUCN),T_IUCN_BIRD_Anas_platyrhynchos.tif, Anas platyrhynchos,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Birds (IUCN),T_IUCN_BIRD_Anas_rubripes.tif, Anas rubripes,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Birds (IUCN),T_IUCN_BIRD_Antrostomus_vociferus.tif, Antrostomus vociferus,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.774564163
+theme,Birds (IUCN),T_IUCN_BIRD_Archilochus_colubris.tif, Archilochus colubris,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.74705464
+theme,Birds (IUCN),T_IUCN_BIRD_Ardea_alba.tif, Ardea alba,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Birds (IUCN),T_IUCN_BIRD_Ardea_herodias.tif, Ardea herodias,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Birds (IUCN),T_IUCN_BIRD_Asio_flammeus.tif, Asio flammeus,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Birds (IUCN),T_IUCN_BIRD_Asio_otus.tif, Asio otus,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.751181451
+theme,Birds (IUCN),T_IUCN_BIRD_Aythya_americana.tif, Aythya americana,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Birds (IUCN),T_IUCN_BIRD_Aythya_collaris.tif, Aythya collaris,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Birds (IUCN),T_IUCN_BIRD_Aythya_marila.tif, Aythya marila,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Birds (IUCN),T_IUCN_BIRD_Aythya_valisineria.tif, Aythya valisineria,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Birds (IUCN),T_IUCN_BIRD_Bartramia_longicauda.tif, Bartramia longicauda,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Birds (IUCN),T_IUCN_BIRD_Bombycilla_cedrorum.tif, Bombycilla cedrorum,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.746778602
+theme,Birds (IUCN),T_IUCN_BIRD_Bombycilla_garrulus.tif, Bombycilla garrulus,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.588396681
+theme,Birds (IUCN),T_IUCN_BIRD_Bonasa_umbellus.tif, Bonasa umbellus,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.772532727
+theme,Birds (IUCN),T_IUCN_BIRD_Botaurus_lentiginosus.tif, Botaurus lentiginosus,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Birds (IUCN),T_IUCN_BIRD_Branta_canadensis.tif, Branta canadensis,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.658663628
+theme,Birds (IUCN),T_IUCN_BIRD_Bubo_scandiacus.tif, Bubo scandiacus,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Birds (IUCN),T_IUCN_BIRD_Bubo_virginianus.tif, Bubo virginianus,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.594633699
+theme,Birds (IUCN),T_IUCN_BIRD_Bubulcus_ibis.tif, Bubulcus ibis,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.601429536
+theme,Birds (IUCN),T_IUCN_BIRD_Bucephala_clangula.tif, Bucephala clangula,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.766702876
+theme,Birds (IUCN),T_IUCN_BIRD_Buteo_jamaicensis.tif, Buteo jamaicensis,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.590471307
+theme,Birds (IUCN),T_IUCN_BIRD_Buteo_lagopus.tif, Buteo lagopus,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.596748579
+theme,Birds (IUCN),T_IUCN_BIRD_Buteo_lineatus.tif, Buteo lineatus,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.591133372
+theme,Birds (IUCN),T_IUCN_BIRD_Buteo_platypterus.tif, Buteo platypterus,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.7726135
+theme,Birds (IUCN),T_IUCN_BIRD_Butorides_striata.tif, Butorides striata,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Birds (IUCN),T_IUCN_BIRD_Calcarius_lapponicus.tif, Calcarius lapponicus,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.660643332
+theme,Birds (IUCN),T_IUCN_BIRD_Cardellina_canadensis.tif, Cardellina canadensis,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.773870631
+theme,Birds (IUCN),T_IUCN_BIRD_Cardinalis_cardinalis.tif, Cardinalis cardinalis,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.869346581
+theme,Birds (IUCN),T_IUCN_BIRD_Cathartes_aura.tif, Cathartes aura,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.87883127
+theme,Birds (IUCN),T_IUCN_BIRD_Catharus_fuscescens.tif, Catharus fuscescens,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.772775167
+theme,Birds (IUCN),T_IUCN_BIRD_Catharus_guttatus.tif, Catharus guttatus,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.772532727
+theme,Birds (IUCN),T_IUCN_BIRD_Catharus_swainsoni.tif, Catharus swainsoni,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.857978886
+theme,Birds (IUCN),T_IUCN_BIRD_Certhia_americana.tif, Certhia americana,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.772532727
+theme,Birds (IUCN),T_IUCN_BIRD_Chaetura_pelagica.tif, Chaetura pelagica,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.768190044
+theme,Birds (IUCN),T_IUCN_BIRD_Charadrius_vociferus.tif, Charadrius vociferus,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Birds (IUCN),T_IUCN_BIRD_Chlidonias_niger.tif, Chlidonias niger,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Birds (IUCN),T_IUCN_BIRD_Chordeiles_minor.tif, Chordeiles minor,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.594769318
+theme,Birds (IUCN),T_IUCN_BIRD_Circus_hudsonius.tif, Circus hudsonius,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.770446551
+theme,Birds (IUCN),T_IUCN_BIRD_Cistothorus_palustris.tif, Cistothorus palustris,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Birds (IUCN),T_IUCN_BIRD_Cistothorus_stellaris.tif, Cistothorus stellaris,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Birds (IUCN),T_IUCN_BIRD_Clangula_hyemalis.tif, Clangula hyemalis,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Birds (IUCN),T_IUCN_BIRD_Coccyzus_americanus.tif, Coccyzus americanus,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.760510794
+theme,Birds (IUCN),T_IUCN_BIRD_Coccyzus_erythropthalmus.tif, Coccyzus erythropthalmus,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.775754102
+theme,Birds (IUCN),T_IUCN_BIRD_Colaptes_auratus.tif, Colaptes auratus,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.594796455
+theme,Birds (IUCN),T_IUCN_BIRD_Contopus_cooperi.tif, Contopus cooperi,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.91037361
+theme,Birds (IUCN),T_IUCN_BIRD_Contopus_virens.tif, Contopus virens,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.772492355
+theme,Birds (IUCN),T_IUCN_BIRD_Corvus_brachyrhynchos.tif, Corvus brachyrhynchos,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.921666507
+theme,Birds (IUCN),T_IUCN_BIRD_Coturnicops_noveboracensis.tif, Coturnicops noveboracensis,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Birds (IUCN),T_IUCN_BIRD_Cyanocitta_cristata.tif, Cyanocitta cristata,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.747089178
+theme,Birds (IUCN),T_IUCN_BIRD_Cygnus_buccinator.tif, Cygnus buccinator,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Birds (IUCN),T_IUCN_BIRD_Dolichonyx_oryzivorus.tif, Dolichonyx oryzivorus,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.663534539
+theme,Birds (IUCN),T_IUCN_BIRD_Dryobates_pubescens.tif, Dryobates pubescens,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.768544264
+theme,Birds (IUCN),T_IUCN_BIRD_Dumetella_carolinensis.tif, Dumetella carolinensis,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.750545145
+theme,Birds (IUCN),T_IUCN_BIRD_Empidonax_alnorum.tif, Empidonax alnorum,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.79440802
+theme,Birds (IUCN),T_IUCN_BIRD_Empidonax_flaviventris.tif, Empidonax flaviventris,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.766702876
+theme,Birds (IUCN),T_IUCN_BIRD_Empidonax_minimus.tif, Empidonax minimus,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.75469005
+theme,Birds (IUCN),T_IUCN_BIRD_Empidonax_traillii.tif, Empidonax traillii,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.792480086
+theme,Birds (IUCN),T_IUCN_BIRD_Eremophila_alpestris.tif, Eremophila alpestris,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.663451808
+theme,Birds (IUCN),T_IUCN_BIRD_Euphagus_cyanocephalus.tif, Euphagus cyanocephalus,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.660968844
+theme,Birds (IUCN),T_IUCN_BIRD_Falcipennis_canadensis.tif, Falcipennis canadensis,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.907946298
+theme,Birds (IUCN),T_IUCN_BIRD_Falco_columbarius.tif, Falco columbarius,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.766236049
+theme,Birds (IUCN),T_IUCN_BIRD_Falco_peregrinus.tif, Falco peregrinus,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.766197207
+theme,Birds (IUCN),T_IUCN_BIRD_Falco_rusticolus.tif, Falco rusticolus,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.596063357
+theme,Birds (IUCN),T_IUCN_BIRD_Falco_sparverius.tif, Falco sparverius,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.769334188
+theme,Birds (IUCN),T_IUCN_BIRD_Fulica_americana.tif, Fulica americana,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Birds (IUCN),T_IUCN_BIRD_Gallinago_delicata.tif, Gallinago delicata,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.766741838
+theme,Birds (IUCN),T_IUCN_BIRD_Gallinula_galeata.tif, Gallinula galeata,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Birds (IUCN),T_IUCN_BIRD_Gavia_immer.tif, Gavia immer,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Birds (IUCN),T_IUCN_BIRD_Geothlypis_philadelphia.tif, Geothlypis philadelphia,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.772492355
+theme,Birds (IUCN),T_IUCN_BIRD_Geothlypis_trichas.tif, Geothlypis trichas,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Birds (IUCN),T_IUCN_BIRD_Haemorhous_mexicanus.tif, Haemorhous mexicanus,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.650231539
+theme,Birds (IUCN),T_IUCN_BIRD_Haemorhous_purpureus.tif, Haemorhous purpureus,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.587200725
+theme,Birds (IUCN),T_IUCN_BIRD_Haliaeetus_leucocephalus.tif, Haliaeetus leucocephalus,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Birds (IUCN),T_IUCN_BIRD_Hesperiphona_vespertina.tif, Hesperiphona vespertina,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.747089178
+theme,Birds (IUCN),T_IUCN_BIRD_Hirundo_rustica.tif, Hirundo rustica,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.647433831
+theme,Birds (IUCN),T_IUCN_BIRD_Hydrocoloeus_minutus.tif, Hydrocoloeus minutus,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Birds (IUCN),T_IUCN_BIRD_Hylatomus_pileatus.tif, Hylatomus pileatus,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.742390848
+theme,Birds (IUCN),T_IUCN_BIRD_Hylocichla_mustelina.tif, Hylocichla mustelina,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.772532727
+theme,Birds (IUCN),T_IUCN_BIRD_Icterus_galbula.tif, Icterus galbula,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.747365742
+theme,Birds (IUCN),T_IUCN_BIRD_Icterus_spurius.tif, Icterus spurius,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Birds (IUCN),T_IUCN_BIRD_Ixobrychus_exilis.tif, Ixobrychus exilis,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Birds (IUCN),T_IUCN_BIRD_Junco_hyemalis.tif, Junco hyemalis,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.750898342
+theme,Birds (IUCN),T_IUCN_BIRD_Lanius_borealis.tif, Lanius borealis,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.765074797
+theme,Birds (IUCN),T_IUCN_BIRD_Lanius_ludovicianus.tif, Lanius ludovicianus,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.773707874
+theme,Birds (IUCN),T_IUCN_BIRD_Larus_atricilla.tif, Larus atricilla,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Birds (IUCN),T_IUCN_BIRD_Larus_delawarensis.tif, Larus delawarensis,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Birds (IUCN),T_IUCN_BIRD_Larus_hyperboreus.tif, Larus hyperboreus,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Birds (IUCN),T_IUCN_BIRD_Larus_marinus.tif, Larus marinus,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Birds (IUCN),T_IUCN_BIRD_Larus_philadelphia.tif, Larus philadelphia,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Birds (IUCN),T_IUCN_BIRD_Larus_smithsonianus.tif, Larus smithsonianus,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.659610078
+theme,Birds (IUCN),T_IUCN_BIRD_Leiothlypis_ruficapilla.tif, Leiothlypis ruficapilla,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.772532727
+theme,Birds (IUCN),T_IUCN_BIRD_Leuconotopicus_villosus.tif, Leuconotopicus villosus,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Birds (IUCN),T_IUCN_BIRD_Lophodytes_cucullatus.tif, Lophodytes cucullatus,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.78179495
+theme,Birds (IUCN),T_IUCN_BIRD_Loxia_leucoptera.tif, Loxia leucoptera,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.772532727
+theme,Birds (IUCN),T_IUCN_BIRD_Mareca_americana.tif, Mareca americana,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Birds (IUCN),T_IUCN_BIRD_Mareca_strepera.tif, Mareca strepera,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Birds (IUCN),T_IUCN_BIRD_Megaceryle_alcyon.tif, Megaceryle alcyon,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Birds (IUCN),T_IUCN_BIRD_Megascops_asio.tif, Megascops asio,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.74705464
+theme,Birds (IUCN),T_IUCN_BIRD_Melanerpes_erythrocephalus.tif, Melanerpes erythrocephalus,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.587174823
+theme,Birds (IUCN),T_IUCN_BIRD_Meleagris_gallopavo.tif, Meleagris gallopavo,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.65122603
+theme,Birds (IUCN),T_IUCN_BIRD_Melospiza_georgiana.tif, Melospiza georgiana,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Birds (IUCN),T_IUCN_BIRD_Melospiza_lincolnii.tif, Melospiza lincolnii,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Birds (IUCN),T_IUCN_BIRD_Melospiza_melodia.tif, Melospiza melodia,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.75022792
+theme,Birds (IUCN),T_IUCN_BIRD_Mergus_merganser.tif, Mergus merganser,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.767092922
+theme,Birds (IUCN),T_IUCN_BIRD_Mergus_serrator.tif, Mergus serrator,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Birds (IUCN),T_IUCN_BIRD_Mimus_polyglottos.tif, Mimus polyglottos,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.750545145
+theme,Birds (IUCN),T_IUCN_BIRD_Mniotilta_varia.tif, Mniotilta varia,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.772492355
+theme,Birds (IUCN),T_IUCN_BIRD_Molothrus_ater.tif, Molothrus ater,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.596282315
+theme,Birds (IUCN),T_IUCN_BIRD_Myiarchus_crinitus.tif, Myiarchus crinitus,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.766547118
+theme,Birds (IUCN),T_IUCN_BIRD_Nannopterum_auritus.tif, Nannopterum auritus,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Birds (IUCN),T_IUCN_BIRD_Nycticorax_nycticorax.tif, Nycticorax nycticorax,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.780390683
+theme,Birds (IUCN),T_IUCN_BIRD_Oxyura_jamaicensis.tif, Oxyura jamaicensis,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Birds (IUCN),T_IUCN_BIRD_Pandion_haliaetus.tif, Pandion haliaetus,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Birds (IUCN),T_IUCN_BIRD_Parkesia_motacilla.tif, Parkesia motacilla,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.947736684
+theme,Birds (IUCN),T_IUCN_BIRD_Parkesia_noveboracensis.tif, Parkesia noveboracensis,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.766624978
+theme,Birds (IUCN),T_IUCN_BIRD_Passer_domesticus.tif, Passer domesticus,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.585295019
+theme,Birds (IUCN),T_IUCN_BIRD_Passerculus_sandwichensis.tif, Passerculus sandwichensis,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.663451808
+theme,Birds (IUCN),T_IUCN_BIRD_Passerella_arborea.tif, Passerella arborea,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Birds (IUCN),T_IUCN_BIRD_Passerina_cyanea.tif, Passerina cyanea,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.772492355
+theme,Birds (IUCN),T_IUCN_BIRD_Perdix_perdix.tif, Perdix perdix,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Birds (IUCN),T_IUCN_BIRD_Petrochelidon_pyrrhonota.tif, Petrochelidon pyrrhonota,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.59304186
+theme,Birds (IUCN),T_IUCN_BIRD_Phasianus_colchicus.tif, Phasianus colchicus,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.662750287
+theme,Birds (IUCN),T_IUCN_BIRD_Pheucticus_ludovicianus.tif, Pheucticus ludovicianus,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.75058043
+theme,Birds (IUCN),T_IUCN_BIRD_Pinicola_enucleator.tif, Pinicola enucleator,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.596268621
+theme,Birds (IUCN),T_IUCN_BIRD_Pipilo_erythrophthalmus.tif, Pipilo erythrophthalmus,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.756217167
+theme,Birds (IUCN),T_IUCN_BIRD_Plectrophenax_nivalis.tif, Plectrophenax nivalis,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Birds (IUCN),T_IUCN_BIRD_Podiceps_grisegena.tif, Podiceps grisegena,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Birds (IUCN),T_IUCN_BIRD_Podilymbus_podiceps.tif, Podilymbus podiceps,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Birds (IUCN),T_IUCN_BIRD_Poecile_atricapillus.tif, Poecile atricapillus,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.747089178
+theme,Birds (IUCN),T_IUCN_BIRD_Polioptila_caerulea.tif, Polioptila caerulea,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.75432855
+theme,Birds (IUCN),T_IUCN_BIRD_Pooecetes_gramineus.tif, Pooecetes gramineus,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.663782984
+theme,Birds (IUCN),T_IUCN_BIRD_Porzana_carolina.tif, Porzana carolina,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Birds (IUCN),T_IUCN_BIRD_Progne_subis.tif, Progne subis,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.592921084
+theme,Birds (IUCN),T_IUCN_BIRD_Quiscalus_quiscula.tif, Quiscalus quiscula,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.587071257
+theme,Birds (IUCN),T_IUCN_BIRD_Rallus_limicola.tif, Rallus limicola,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Birds (IUCN),T_IUCN_BIRD_Regulus_calendula.tif, Regulus calendula,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.842505307
+theme,Birds (IUCN),T_IUCN_BIRD_Regulus_satrapa.tif, Regulus satrapa,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.789854642
+theme,Birds (IUCN),T_IUCN_BIRD_Riparia_riparia.tif, Riparia riparia,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.658743964
+theme,Birds (IUCN),T_IUCN_BIRD_Sayornis_phoebe.tif, Sayornis phoebe,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.772492355
+theme,Birds (IUCN),T_IUCN_BIRD_Scolopax_minor.tif, Scolopax minor,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.772492355
+theme,Birds (IUCN),T_IUCN_BIRD_Seiurus_aurocapilla.tif, Seiurus aurocapilla,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.774564163
+theme,Birds (IUCN),T_IUCN_BIRD_Setophaga_americana.tif, Setophaga americana,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.777534639
+theme,Birds (IUCN),T_IUCN_BIRD_Setophaga_caerulescens.tif, Setophaga caerulescens,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.748337431
+theme,Birds (IUCN),T_IUCN_BIRD_Setophaga_cerulea.tif, Setophaga cerulea,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Birds (IUCN),T_IUCN_BIRD_Setophaga_coronata.tif, Setophaga coronata,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.814115421
+theme,Birds (IUCN),T_IUCN_BIRD_Setophaga_fusca.tif, Setophaga fusca,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.772532727
+theme,Birds (IUCN),T_IUCN_BIRD_Setophaga_magnolia.tif, Setophaga magnolia,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.59684474
+theme,Birds (IUCN),T_IUCN_BIRD_Setophaga_pensylvanica.tif, Setophaga pensylvanica,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.59684474
+theme,Birds (IUCN),T_IUCN_BIRD_Setophaga_petechia.tif, Setophaga petechia,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.750545145
+theme,Birds (IUCN),T_IUCN_BIRD_Setophaga_pinus.tif, Setophaga pinus,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.796873892
+theme,Birds (IUCN),T_IUCN_BIRD_Setophaga_ruticilla.tif, Setophaga ruticilla,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.74674413
+theme,Birds (IUCN),T_IUCN_BIRD_Sialia_sialis.tif, Sialia sialis,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.774196631
+theme,Birds (IUCN),T_IUCN_BIRD_Sitta_canadensis.tif, Sitta canadensis,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.750545145
+theme,Birds (IUCN),T_IUCN_BIRD_Sitta_carolinensis.tif, Sitta carolinensis,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.75058043
+theme,Birds (IUCN),T_IUCN_BIRD_Spatula_discors.tif, Spatula discors,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Birds (IUCN),T_IUCN_BIRD_Sphyrapicus_varius.tif, Sphyrapicus varius,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.745644861
+theme,Birds (IUCN),T_IUCN_BIRD_Spinus_pinus.tif, Spinus pinus,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.750545145
+theme,Birds (IUCN),T_IUCN_BIRD_Spinus_tristis.tif, Spinus tristis,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.588488038
+theme,Birds (IUCN),T_IUCN_BIRD_Spizella_pallida.tif, Spizella pallida,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.765036231
+theme,Birds (IUCN),T_IUCN_BIRD_Spizella_passerina.tif, Spizella passerina,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.749070018
+theme,Birds (IUCN),T_IUCN_BIRD_Spizella_pusilla.tif, Spizella pusilla,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.770805715
+theme,Birds (IUCN),T_IUCN_BIRD_Steganopus_tricolor.tif, Steganopus tricolor,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.840471244
+theme,Birds (IUCN),T_IUCN_BIRD_Stelgidopteryx_serripennis.tif, Stelgidopteryx serripennis,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.661642274
+theme,Birds (IUCN),T_IUCN_BIRD_Sterna_hirundo.tif, Sterna hirundo,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Birds (IUCN),T_IUCN_BIRD_Strix_nebulosa.tif, Strix nebulosa,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Birds (IUCN),T_IUCN_BIRD_Strix_varia.tif, Strix varia,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.749174943
+theme,Birds (IUCN),T_IUCN_BIRD_Sturnella_magna.tif, Sturnella magna,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.652149438
+theme,Birds (IUCN),T_IUCN_BIRD_Sturnella_neglecta.tif, Sturnella neglecta,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.663782984
+theme,Birds (IUCN),T_IUCN_BIRD_Sturnus_vulgaris.tif, Sturnus vulgaris,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.589128974
+theme,Birds (IUCN),T_IUCN_BIRD_Surnia_ulula.tif, Surnia ulula,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Birds (IUCN),T_IUCN_BIRD_Tachycineta_bicolor.tif, Tachycineta bicolor,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.661642274
+theme,Birds (IUCN),T_IUCN_BIRD_Toxostoma_rufum.tif, Toxostoma rufum,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.772492355
+theme,Birds (IUCN),T_IUCN_BIRD_Troglodytes_aedon.tif, Troglodytes aedon,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.587174823
+theme,Birds (IUCN),T_IUCN_BIRD_Troglodytes_hiemalis.tif, Troglodytes hiemalis,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.747434957
+theme,Birds (IUCN),T_IUCN_BIRD_Turdus_migratorius.tif, Turdus migratorius,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.587732622
+theme,Birds (IUCN),T_IUCN_BIRD_Tyrannus_tyrannus.tif, Tyrannus tyrannus,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.585410273
+theme,Birds (IUCN),T_IUCN_BIRD_Vermivora_chrysoptera.tif, Vermivora chrysoptera,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.770446551
+theme,Birds (IUCN),T_IUCN_BIRD_Vireo_flavifrons.tif, Vireo flavifrons,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.779714157
+theme,Birds (IUCN),T_IUCN_BIRD_Vireo_gilvus.tif, Vireo gilvus,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.767053875
+theme,Birds (IUCN),T_IUCN_BIRD_Vireo_olivaceus.tif, Vireo olivaceus,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.756253702
+theme,Birds (IUCN),T_IUCN_BIRD_Vireo_solitarius.tif, Vireo solitarius,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.793716851
+theme,Birds (IUCN),T_IUCN_BIRD_Zenaida_macroura.tif, Zenaida macroura,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.587732622
+theme,Birds (IUCN),T_IUCN_BIRD_Zonotrichia_albicollis.tif, Zonotrichia albicollis,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.74705464
+theme,Mammals (IUCN),T_IUCN_MAMM_Alces_alces.tif, Alces alces,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Mammals (IUCN),T_IUCN_MAMM_Blarina_brevicauda.tif, Blarina brevicauda,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.774196631
+theme,Mammals (IUCN),T_IUCN_MAMM_Canis_latrans.tif, Canis latrans,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.603792726
+theme,Mammals (IUCN),T_IUCN_MAMM_Castor_canadensis.tif, Castor canadensis,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.794269551
+theme,Mammals (IUCN),T_IUCN_MAMM_Condylura_cristata.tif, Condylura cristata,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.769175896
+theme,Mammals (IUCN),T_IUCN_MAMM_Eptesicus_fuscus.tif, Eptesicus fuscus,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.748825457
+theme,Mammals (IUCN),T_IUCN_MAMM_Erethizon_dorsatum.tif, Erethizon dorsatum,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.797014591
+theme,Mammals (IUCN),T_IUCN_MAMM_Glaucomys_sabrinus.tif, Glaucomys sabrinus,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.774564163
+theme,Mammals (IUCN),T_IUCN_MAMM_Glaucomys_volans.tif, Glaucomys volans,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.774564163
+theme,Mammals (IUCN),T_IUCN_MAMM_Lasionycteris_noctivagans.tif, Lasionycteris noctivagans,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.770526297
+theme,Mammals (IUCN),T_IUCN_MAMM_Lasiurus_borealis.tif, Lasiurus borealis,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Mammals (IUCN),T_IUCN_MAMM_Lasiurus_cinereus.tif, Lasiurus cinereus,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.770526297
+theme,Mammals (IUCN),T_IUCN_MAMM_Lepus_americanus.tif, Lepus americanus,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.752318833
+theme,Mammals (IUCN),T_IUCN_MAMM_Lepus_europaeus.tif, Lepus europaeus,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.715191957
+theme,Mammals (IUCN),T_IUCN_MAMM_Lontra_canadensis.tif, Lontra canadensis,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Mammals (IUCN),T_IUCN_MAMM_Lynx_canadensis.tif, Lynx canadensis,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Mammals (IUCN),T_IUCN_MAMM_Lynx_rufus.tif, Lynx rufus,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.772532727
+theme,Mammals (IUCN),T_IUCN_MAMM_Marmota_monax.tif, Marmota monax,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.589155189
+theme,Mammals (IUCN),T_IUCN_MAMM_Martes_pennanti.tif, Martes pennanti,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.789093061
+theme,Mammals (IUCN),T_IUCN_MAMM_Mephitis_mephitis.tif, Mephitis mephitis,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.587836609
+theme,Mammals (IUCN),T_IUCN_MAMM_Microtus_pennsylvanicus.tif, Microtus pennsylvanicus,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.596830999
+theme,Mammals (IUCN),T_IUCN_MAMM_Mus_musculus.tif, Mus musculus,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.647340147
+theme,Mammals (IUCN),T_IUCN_MAMM_Mustela_erminea.tif, Mustela erminea,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.767249202
+theme,Mammals (IUCN),T_IUCN_MAMM_Mustela_frenata.tif, Mustela frenata,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Mammals (IUCN),T_IUCN_MAMM_Mustela_nivalis.tif, Mustela nivalis,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.588945592
+theme,Mammals (IUCN),T_IUCN_MAMM_Myodes_gapperi.tif, Myodes gapperi,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.774564163
+theme,Mammals (IUCN),T_IUCN_MAMM_Myotis_leibii.tif, Myotis leibii,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.774564163
+theme,Mammals (IUCN),T_IUCN_MAMM_Myotis_lucifugus.tif, Myotis lucifugus,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.770526297
+theme,Mammals (IUCN),T_IUCN_MAMM_Myotis_septentrionalis.tif, Myotis septentrionalis,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.774564163
+theme,Mammals (IUCN),T_IUCN_MAMM_Napaeozapus_insignis.tif, Napaeozapus insignis,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.798286382
+theme,Mammals (IUCN),T_IUCN_MAMM_Neovison_vison.tif, Neovison vison,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.769215455
+theme,Mammals (IUCN),T_IUCN_MAMM_Odocoileus_virginianus.tif, Odocoileus virginianus,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.585987765
+theme,Mammals (IUCN),T_IUCN_MAMM_Ondatra_zibethicus.tif, Ondatra zibethicus,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Mammals (IUCN),T_IUCN_MAMM_Parascalops_breweri.tif, Parascalops breweri,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.756509675
+theme,Mammals (IUCN),T_IUCN_MAMM_Peromyscus_leucopus.tif, Peromyscus leucopus,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.596858482
+theme,Mammals (IUCN),T_IUCN_MAMM_Peromyscus_maniculatus.tif, Peromyscus maniculatus,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.588945592
+theme,Mammals (IUCN),T_IUCN_MAMM_Pipistrellus_subflavus.tif, Pipistrellus subflavus,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.775301723
+theme,Mammals (IUCN),T_IUCN_MAMM_Procyon_lotor.tif, Procyon lotor,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.747089178
+theme,Mammals (IUCN),T_IUCN_MAMM_Sciurus_carolinensis.tif, Sciurus carolinensis,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.754292444
+theme,Mammals (IUCN),T_IUCN_MAMM_Sorex_cinereus.tif, Sorex cinereus,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.772492355
+theme,Mammals (IUCN),T_IUCN_MAMM_Sorex_fumeus.tif, Sorex fumeus,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.774523286
+theme,Mammals (IUCN),T_IUCN_MAMM_Sorex_hoyi.tif, Sorex hoyi,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.772492355
+theme,Mammals (IUCN),T_IUCN_MAMM_Sylvilagus_floridanus.tif, Sylvilagus floridanus,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.594986543
+theme,Mammals (IUCN),T_IUCN_MAMM_Synaptomys_cooperi.tif, Synaptomys cooperi,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.772492355
+theme,Mammals (IUCN),T_IUCN_MAMM_Tamias_striatus.tif, Tamias striatus,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.769136348
+theme,Mammals (IUCN),T_IUCN_MAMM_Tamiasciurus_hudsonicus.tif, Tamiasciurus hudsonicus,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.798617732
+theme,Mammals (IUCN),T_IUCN_MAMM_Taxidea_taxus.tif, Taxidea taxus,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Mammals (IUCN),T_IUCN_MAMM_Urocyon_cinereoargenteus.tif, Urocyon cinereoargenteus,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Mammals (IUCN),T_IUCN_MAMM_Ursus_americanus.tif, Ursus americanus,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.596748579
+theme,Mammals (IUCN),T_IUCN_MAMM_Vulpes_vulpes.tif, Vulpes vulpes,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.595721823
+theme,Mammals (IUCN),T_IUCN_MAMM_Zapus_hudsonius.tif, Zapus hudsonius,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Reptiles (IUCN),T_IUCN_REPT_Caretta_caretta.tif, Caretta caretta,manual,"0, 1","#00000000, #b2df8a","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Reptiles (IUCN),T_IUCN_REPT_Diadophis_punctatus.tif, Diadophis punctatus,manual,"0, 1","#00000000, #b2df8a","absence, presence",km2,national,,FALSE,TRUE,0.2,0.75040408
+theme,Reptiles (IUCN),T_IUCN_REPT_Eretmochelys_imbricata.tif, Eretmochelys imbricata,manual,"0, 1","#00000000, #b2df8a","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Reptiles (IUCN),T_IUCN_REPT_Heterodon_platirhinos.tif, Heterodon platirhinos,manual,"0, 1","#00000000, #b2df8a","absence, presence",km2,national,,FALSE,TRUE,0.2,0.772815609
+theme,Reptiles (IUCN),T_IUCN_REPT_Nerodia_sipedon.tif, Nerodia sipedon,manual,"0, 1","#00000000, #b2df8a","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Reptiles (IUCN),T_IUCN_REPT_Opheodrys_vernalis.tif, Opheodrys vernalis,manual,"0, 1","#00000000, #b2df8a","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Reptiles (IUCN),T_IUCN_REPT_Pantherophis_gloydi.tif, Pantherophis gloydi,manual,"0, 1","#00000000, #b2df8a","absence, presence",km2,national,,FALSE,TRUE,0.2,0.793487111
+theme,Reptiles (IUCN),T_IUCN_REPT_Plestiodon_fasciatus.tif, Plestiodon fasciatus,manual,"0, 1","#00000000, #b2df8a","absence, presence",km2,national,,FALSE,TRUE,0.2,0.812044232
+theme,Reptiles (IUCN),T_IUCN_REPT_Sistrurus_catenatus.tif, Sistrurus catenatus,manual,"0, 1","#00000000, #b2df8a","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Reptiles (IUCN),T_IUCN_REPT_Storeria_occipitomaculata.tif, Storeria occipitomaculata,manual,"0, 1","#00000000, #b2df8a","absence, presence",km2,national,,FALSE,TRUE,0.2,0.774196631
+theme,Reptiles (IUCN),T_IUCN_REPT_Thamnophis_butleri.tif, Thamnophis butleri,manual,"0, 1","#00000000, #b2df8a","absence, presence",km2,national,,FALSE,TRUE,0.2,1
+theme,Reptiles (IUCN),T_IUCN_REPT_Thamnophis_sauritus.tif, Thamnophis sauritus,manual,"0, 1","#00000000, #b2df8a","absence, presence",km2,national,,FALSE,TRUE,0.2,0.767562213
+theme,Reptiles (IUCN),T_IUCN_REPT_Thamnophis_sirtalis.tif, Thamnophis sirtalis,manual,"0, 1","#00000000, #b2df8a","absence, presence",km2,national,,FALSE,TRUE,0.2,0.746090546
+theme,Land Cover,T_LC_Lakes.tif,Lakes,continuous,,viridis,,ha,national,,FALSE,TRUE,0.2,
+theme,Length,T_LC_River_length.tif,River ,continuous,,viridis,,km,national,,FALSE,TRUE,0.2,
+theme,Length,T_LC_Shoreline_length.tif,Shoreline ,continuous,,viridis,,km,national,,FALSE,TRUE,0.2,
+theme,Land Cover,T_LC_Wetlands.tif,Wetlands,continuous,,viridis,,ha,national,,FALSE,TRUE,0.2,
+weight,,W_Carbon_potential.tif,Carbon potential,continuous,,YlOrBr,,tonnes/yr,national,,FALSE,TRUE,0.2,
+weight,,W_Carbon_storage.tif,Carbon storage,continuous,,YlOrBr,,tonnes,national,,FALSE,TRUE,0.2,
+weight,,W_Climate_forward_velocity.tif,Climate forward velocity,continuous,,PuBuGn,,index,national,,FALSE,TRUE,0.2,
+weight,,W_Climate_refugia.tif,Climate refugia,continuous,,PuBuGn,,index,national,,FALSE,TRUE,0.2,
+weight,,W_Freshwater.tif,Freshwater,continuous,,Blues,,ha,national,,FALSE,TRUE,0.2,
+weight,,W_Human_footprint.tif,Human footprint,continuous,,rocket,,index,national,,FALSE,TRUE,0.2,
+weight,,W_Key_biodiversity_areas.tif,Key biodiversity areas,continuous,"0, 1","#00000000, #7fbc41","not KBA, KBA",km2,national,,FALSE,TRUE,0.2,
+weight,,W_Recreation.tif,Recreation,continuous,,Greens,,ha,national,,FALSE,TRUE,0.2,

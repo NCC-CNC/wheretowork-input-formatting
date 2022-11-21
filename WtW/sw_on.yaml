@@ -1,0 +1,6359 @@
+name: South Western Ontario
+author_name: Dan Wismer
+author_email: daniel.wismer@natureconservancy.ca
+mode: advanced
+user_groups: public
+spatial_path: sw_on.tif
+attribute_path: sw_on_attribute.csv.gz
+boundary_path: sw_on_boundary.csv.gz
+themes:
+- name: Species at Risk (ECCC)
+  feature:
+  - name: Agalinis gattingeri
+    variable:
+      index: T_ECCC_SAR_Agalinis_gattingeri
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Ambystoma jeffersonianum
+    variable:
+      index: T_ECCC_SAR_Ambystoma_jeffersonianum
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Ammodramus henslowii
+    variable:
+      index: T_ECCC_SAR_Ammodramus_henslowii
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Ammodramus savannarum pratensis
+    variable:
+      index: T_ECCC_SAR_Ammodramus_savannarum_pratensis
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Antrostomus vociferus
+    variable:
+      index: T_ECCC_SAR_Antrostomus_vociferus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Aristida basiramea
+    variable:
+      index: T_ECCC_SAR_Aristida_basiramea
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Arnoglossum plantagineum
+    variable:
+      index: T_ECCC_SAR_Arnoglossum_plantagineum
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Asio flammeus
+    variable:
+      index: T_ECCC_SAR_Asio_flammeus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Asplenium scolopendrium
+    variable:
+      index: T_ECCC_SAR_Asplenium_scolopendrium
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Bombus affinis
+    variable:
+      index: T_ECCC_SAR_Bombus_affinis
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Bombus bohemicus
+    variable:
+      index: T_ECCC_SAR_Bombus_bohemicus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Brychius hungerfordi
+    variable:
+      index: T_ECCC_SAR_Brychius_hungerfordi
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Cardellina canadensis
+    variable:
+      index: T_ECCC_SAR_Cardellina_canadensis
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Chaetura pelagica
+    variable:
+      index: T_ECCC_SAR_Chaetura_pelagica
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Chelydra serpentina
+    variable:
+      index: T_ECCC_SAR_Chelydra_serpentina
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Chimaphila maculata
+    variable:
+      index: T_ECCC_SAR_Chimaphila_maculata
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Chordeiles minor
+    variable:
+      index: T_ECCC_SAR_Chordeiles_minor
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Cirsium hillii
+    variable:
+      index: T_ECCC_SAR_Cirsium_hillii
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Cirsium pitcheri
+    variable:
+      index: T_ECCC_SAR_Cirsium_pitcheri
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Clemmys guttata
+    variable:
+      index: T_ECCC_SAR_Clemmys_guttata
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Contopus cooperi
+    variable:
+      index: T_ECCC_SAR_Contopus_cooperi
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Contopus virens
+    variable:
+      index: T_ECCC_SAR_Contopus_virens
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Coturnicops noveboracensis
+    variable:
+      index: T_ECCC_SAR_Coturnicops_noveboracensis
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Danaus plexippus
+    variable:
+      index: T_ECCC_SAR_Danaus_plexippus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Dolichonyx oryzivorus
+    variable:
+      index: T_ECCC_SAR_Dolichonyx_oryzivorus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Emydoidea blandingii
+    variable:
+      index: T_ECCC_SAR_Emydoidea_blandingii
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Epeoloides pilosulus
+    variable:
+      index: T_ECCC_SAR_Epeoloides_pilosulus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Erynnis martialis
+    variable:
+      index: T_ECCC_SAR_Erynnis_martialis
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Euphagus carolinus
+    variable:
+      index: T_ECCC_SAR_Euphagus_carolinus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Graptemys geographica
+    variable:
+      index: T_ECCC_SAR_Graptemys_geographica
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Heterodon platirhinos
+    variable:
+      index: T_ECCC_SAR_Heterodon_platirhinos
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Hirundo rustica
+    variable:
+      index: T_ECCC_SAR_Hirundo_rustica
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Hylocichla mustelina
+    variable:
+      index: T_ECCC_SAR_Hylocichla_mustelina
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Icteria virens virens
+    variable:
+      index: T_ECCC_SAR_Icteria_virens_virens
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Iris lacustris
+    variable:
+      index: T_ECCC_SAR_Iris_lacustris
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Ixobrychus exilis
+    variable:
+      index: T_ECCC_SAR_Ixobrychus_exilis
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Juglans cinerea
+    variable:
+      index: T_ECCC_SAR_Juglans_cinerea
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Lampropeltis triangulum
+    variable:
+      index: T_ECCC_SAR_Lampropeltis_triangulum
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Lanius ludovicianus migrans
+    variable:
+      index: T_ECCC_SAR_Lanius_ludovicianus_migrans
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Lanius ludovicianus ssp
+    variable:
+      index: T_ECCC_SAR_Lanius_ludovicianus_ssp
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Lithobates pipiens
+    variable:
+      index: T_ECCC_SAR_Lithobates_pipiens
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Melanerpes erythrocephalus
+    variable:
+      index: T_ECCC_SAR_Melanerpes_erythrocephalus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Panax quinquefolius
+    variable:
+      index: T_ECCC_SAR_Panax_quinquefolius
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Pantherophis gloydi
+    variable:
+      index: T_ECCC_SAR_Pantherophis_gloydi
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Papaipema aweme
+    variable:
+      index: T_ECCC_SAR_Papaipema_aweme
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Parkesia motacilla
+    variable:
+      index: T_ECCC_SAR_Parkesia_motacilla
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Platanthera leucophaea
+    variable:
+      index: T_ECCC_SAR_Platanthera_leucophaea
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Potamogeton hillii
+    variable:
+      index: T_ECCC_SAR_Potamogeton_hillii
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Pseudacris triseriata
+    variable:
+      index: T_ECCC_SAR_Pseudacris_triseriata
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Rallus elegans
+    variable:
+      index: T_ECCC_SAR_Rallus_elegans
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Riparia riparia
+    variable:
+      index: T_ECCC_SAR_Riparia_riparia
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Setophaga cerulea
+    variable:
+      index: T_ECCC_SAR_Setophaga_cerulea
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Setophaga citrina
+    variable:
+      index: T_ECCC_SAR_Setophaga_citrina
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Setophaga kirtlandii
+    variable:
+      index: T_ECCC_SAR_Setophaga_kirtlandii
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Sistrurus catenatus
+    variable:
+      index: T_ECCC_SAR_Sistrurus_catenatus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Solidago houghtonii
+    variable:
+      index: T_ECCC_SAR_Solidago_houghtonii
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Somatochlora hineana
+    variable:
+      index: T_ECCC_SAR_Somatochlora_hineana
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Sternotherus odoratus
+    variable:
+      index: T_ECCC_SAR_Sternotherus_odoratus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Sturnella magna
+    variable:
+      index: T_ECCC_SAR_Sturnella_magna
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Taxidea taxus jacksoni
+    variable:
+      index: T_ECCC_SAR_Taxidea_taxus_jacksoni
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Tetraneuris herbacea
+    variable:
+      index: T_ECCC_SAR_Tetraneuris_herbacea
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Thamnophis butleri
+    variable:
+      index: T_ECCC_SAR_Thamnophis_butleri
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Thamnophis sauritus
+    variable:
+      index: T_ECCC_SAR_Thamnophis_sauritus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Urocyon cinereoargenteus
+    variable:
+      index: T_ECCC_SAR_Urocyon_cinereoargenteus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Vermivora chrysoptera
+    variable:
+      index: T_ECCC_SAR_Vermivora_chrysoptera
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+- name: Amphibians (IUCN)
+  feature:
+  - name: ' Ambystoma jeffersonianum'
+    variable:
+      index: T_IUCN_AMPH_Ambystoma_jeffersonianum
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#a6cee3'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Ambystoma maculatum'
+    variable:
+      index: T_IUCN_AMPH_Ambystoma_maculatum
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#a6cee3'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Anaxyrus americanus'
+    variable:
+      index: T_IUCN_AMPH_Anaxyrus_americanus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#a6cee3'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Dryophytes chrysoscelis'
+    variable:
+      index: T_IUCN_AMPH_Dryophytes_chrysoscelis
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#a6cee3'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Dryophytes versicolor'
+    variable:
+      index: T_IUCN_AMPH_Dryophytes_versicolor
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#a6cee3'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Hemidactylium scutatum'
+    variable:
+      index: T_IUCN_AMPH_Hemidactylium_scutatum
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#a6cee3'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Lithobates catesbeianus'
+    variable:
+      index: T_IUCN_AMPH_Lithobates_catesbeianus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#a6cee3'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Lithobates clamitans'
+    variable:
+      index: T_IUCN_AMPH_Lithobates_clamitans
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#a6cee3'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Lithobates palustris'
+    variable:
+      index: T_IUCN_AMPH_Lithobates_palustris
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#a6cee3'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Lithobates pipiens'
+    variable:
+      index: T_IUCN_AMPH_Lithobates_pipiens
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#a6cee3'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Lithobates septentrionalis'
+    variable:
+      index: T_IUCN_AMPH_Lithobates_septentrionalis
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#a6cee3'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Lithobates sylvaticus'
+    variable:
+      index: T_IUCN_AMPH_Lithobates_sylvaticus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#a6cee3'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Notophthalmus viridescens'
+    variable:
+      index: T_IUCN_AMPH_Notophthalmus_viridescens
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#a6cee3'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Plethodon cinereus'
+    variable:
+      index: T_IUCN_AMPH_Plethodon_cinereus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#a6cee3'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Pseudacris crucifer'
+    variable:
+      index: T_IUCN_AMPH_Pseudacris_crucifer
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#a6cee3'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Pseudacris maculata'
+    variable:
+      index: T_IUCN_AMPH_Pseudacris_maculata
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#a6cee3'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+- name: Birds (IUCN)
+  feature:
+  - name: ' Acanthis flammea'
+    variable:
+      index: T_IUCN_BIRD_Acanthis_flammea
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Accipiter cooperii'
+    variable:
+      index: T_IUCN_BIRD_Accipiter_cooperii
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Accipiter gentilis'
+    variable:
+      index: T_IUCN_BIRD_Accipiter_gentilis
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Accipiter striatus'
+    variable:
+      index: T_IUCN_BIRD_Accipiter_striatus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Actitis macularius'
+    variable:
+      index: T_IUCN_BIRD_Actitis_macularius
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Aegolius acadicus'
+    variable:
+      index: T_IUCN_BIRD_Aegolius_acadicus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Agelaius phoeniceus'
+    variable:
+      index: T_IUCN_BIRD_Agelaius_phoeniceus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Aix sponsa'
+    variable:
+      index: T_IUCN_BIRD_Aix_sponsa
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Ammodramus savannarum'
+    variable:
+      index: T_IUCN_BIRD_Ammodramus_savannarum
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Ammospiza leconteii'
+    variable:
+      index: T_IUCN_BIRD_Ammospiza_leconteii
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Anas acuta'
+    variable:
+      index: T_IUCN_BIRD_Anas_acuta
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Anas crecca'
+    variable:
+      index: T_IUCN_BIRD_Anas_crecca
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Anas platyrhynchos'
+    variable:
+      index: T_IUCN_BIRD_Anas_platyrhynchos
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Anas rubripes'
+    variable:
+      index: T_IUCN_BIRD_Anas_rubripes
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Antrostomus vociferus'
+    variable:
+      index: T_IUCN_BIRD_Antrostomus_vociferus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Archilochus colubris'
+    variable:
+      index: T_IUCN_BIRD_Archilochus_colubris
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Ardea alba'
+    variable:
+      index: T_IUCN_BIRD_Ardea_alba
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Ardea herodias'
+    variable:
+      index: T_IUCN_BIRD_Ardea_herodias
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Asio flammeus'
+    variable:
+      index: T_IUCN_BIRD_Asio_flammeus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Asio otus'
+    variable:
+      index: T_IUCN_BIRD_Asio_otus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Aythya americana'
+    variable:
+      index: T_IUCN_BIRD_Aythya_americana
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Aythya collaris'
+    variable:
+      index: T_IUCN_BIRD_Aythya_collaris
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Aythya marila'
+    variable:
+      index: T_IUCN_BIRD_Aythya_marila
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Aythya valisineria'
+    variable:
+      index: T_IUCN_BIRD_Aythya_valisineria
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Bartramia longicauda'
+    variable:
+      index: T_IUCN_BIRD_Bartramia_longicauda
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Bombycilla cedrorum'
+    variable:
+      index: T_IUCN_BIRD_Bombycilla_cedrorum
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Bombycilla garrulus'
+    variable:
+      index: T_IUCN_BIRD_Bombycilla_garrulus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Bonasa umbellus'
+    variable:
+      index: T_IUCN_BIRD_Bonasa_umbellus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Botaurus lentiginosus'
+    variable:
+      index: T_IUCN_BIRD_Botaurus_lentiginosus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Branta canadensis'
+    variable:
+      index: T_IUCN_BIRD_Branta_canadensis
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Bubo scandiacus'
+    variable:
+      index: T_IUCN_BIRD_Bubo_scandiacus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Bubo virginianus'
+    variable:
+      index: T_IUCN_BIRD_Bubo_virginianus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Bubulcus ibis'
+    variable:
+      index: T_IUCN_BIRD_Bubulcus_ibis
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Bucephala clangula'
+    variable:
+      index: T_IUCN_BIRD_Bucephala_clangula
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Buteo jamaicensis'
+    variable:
+      index: T_IUCN_BIRD_Buteo_jamaicensis
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Buteo lagopus'
+    variable:
+      index: T_IUCN_BIRD_Buteo_lagopus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Buteo lineatus'
+    variable:
+      index: T_IUCN_BIRD_Buteo_lineatus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Buteo platypterus'
+    variable:
+      index: T_IUCN_BIRD_Buteo_platypterus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Butorides striata'
+    variable:
+      index: T_IUCN_BIRD_Butorides_striata
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Calcarius lapponicus'
+    variable:
+      index: T_IUCN_BIRD_Calcarius_lapponicus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Cardellina canadensis'
+    variable:
+      index: T_IUCN_BIRD_Cardellina_canadensis
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Cardinalis cardinalis'
+    variable:
+      index: T_IUCN_BIRD_Cardinalis_cardinalis
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Cathartes aura'
+    variable:
+      index: T_IUCN_BIRD_Cathartes_aura
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Catharus fuscescens'
+    variable:
+      index: T_IUCN_BIRD_Catharus_fuscescens
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Catharus guttatus'
+    variable:
+      index: T_IUCN_BIRD_Catharus_guttatus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Catharus swainsoni'
+    variable:
+      index: T_IUCN_BIRD_Catharus_swainsoni
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Certhia americana'
+    variable:
+      index: T_IUCN_BIRD_Certhia_americana
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Chaetura pelagica'
+    variable:
+      index: T_IUCN_BIRD_Chaetura_pelagica
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Charadrius vociferus'
+    variable:
+      index: T_IUCN_BIRD_Charadrius_vociferus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Chlidonias niger'
+    variable:
+      index: T_IUCN_BIRD_Chlidonias_niger
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Chordeiles minor'
+    variable:
+      index: T_IUCN_BIRD_Chordeiles_minor
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Circus hudsonius'
+    variable:
+      index: T_IUCN_BIRD_Circus_hudsonius
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Cistothorus palustris'
+    variable:
+      index: T_IUCN_BIRD_Cistothorus_palustris
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Cistothorus stellaris'
+    variable:
+      index: T_IUCN_BIRD_Cistothorus_stellaris
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Clangula hyemalis'
+    variable:
+      index: T_IUCN_BIRD_Clangula_hyemalis
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Coccyzus americanus'
+    variable:
+      index: T_IUCN_BIRD_Coccyzus_americanus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Coccyzus erythropthalmus'
+    variable:
+      index: T_IUCN_BIRD_Coccyzus_erythropthalmus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Colaptes auratus'
+    variable:
+      index: T_IUCN_BIRD_Colaptes_auratus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Contopus cooperi'
+    variable:
+      index: T_IUCN_BIRD_Contopus_cooperi
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Contopus virens'
+    variable:
+      index: T_IUCN_BIRD_Contopus_virens
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Corvus brachyrhynchos'
+    variable:
+      index: T_IUCN_BIRD_Corvus_brachyrhynchos
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Coturnicops noveboracensis'
+    variable:
+      index: T_IUCN_BIRD_Coturnicops_noveboracensis
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Cyanocitta cristata'
+    variable:
+      index: T_IUCN_BIRD_Cyanocitta_cristata
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Cygnus buccinator'
+    variable:
+      index: T_IUCN_BIRD_Cygnus_buccinator
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Dolichonyx oryzivorus'
+    variable:
+      index: T_IUCN_BIRD_Dolichonyx_oryzivorus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Dryobates pubescens'
+    variable:
+      index: T_IUCN_BIRD_Dryobates_pubescens
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Dumetella carolinensis'
+    variable:
+      index: T_IUCN_BIRD_Dumetella_carolinensis
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Empidonax alnorum'
+    variable:
+      index: T_IUCN_BIRD_Empidonax_alnorum
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Empidonax flaviventris'
+    variable:
+      index: T_IUCN_BIRD_Empidonax_flaviventris
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Empidonax minimus'
+    variable:
+      index: T_IUCN_BIRD_Empidonax_minimus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Empidonax traillii'
+    variable:
+      index: T_IUCN_BIRD_Empidonax_traillii
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Eremophila alpestris'
+    variable:
+      index: T_IUCN_BIRD_Eremophila_alpestris
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Euphagus cyanocephalus'
+    variable:
+      index: T_IUCN_BIRD_Euphagus_cyanocephalus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Falcipennis canadensis'
+    variable:
+      index: T_IUCN_BIRD_Falcipennis_canadensis
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Falco columbarius'
+    variable:
+      index: T_IUCN_BIRD_Falco_columbarius
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Falco peregrinus'
+    variable:
+      index: T_IUCN_BIRD_Falco_peregrinus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Falco rusticolus'
+    variable:
+      index: T_IUCN_BIRD_Falco_rusticolus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Falco sparverius'
+    variable:
+      index: T_IUCN_BIRD_Falco_sparverius
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Fulica americana'
+    variable:
+      index: T_IUCN_BIRD_Fulica_americana
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Gallinago delicata'
+    variable:
+      index: T_IUCN_BIRD_Gallinago_delicata
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Gallinula galeata'
+    variable:
+      index: T_IUCN_BIRD_Gallinula_galeata
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Gavia immer'
+    variable:
+      index: T_IUCN_BIRD_Gavia_immer
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Geothlypis philadelphia'
+    variable:
+      index: T_IUCN_BIRD_Geothlypis_philadelphia
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Geothlypis trichas'
+    variable:
+      index: T_IUCN_BIRD_Geothlypis_trichas
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Haemorhous mexicanus'
+    variable:
+      index: T_IUCN_BIRD_Haemorhous_mexicanus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Haemorhous purpureus'
+    variable:
+      index: T_IUCN_BIRD_Haemorhous_purpureus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Haliaeetus leucocephalus'
+    variable:
+      index: T_IUCN_BIRD_Haliaeetus_leucocephalus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Hesperiphona vespertina'
+    variable:
+      index: T_IUCN_BIRD_Hesperiphona_vespertina
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Hirundo rustica'
+    variable:
+      index: T_IUCN_BIRD_Hirundo_rustica
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Hydrocoloeus minutus'
+    variable:
+      index: T_IUCN_BIRD_Hydrocoloeus_minutus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Hylatomus pileatus'
+    variable:
+      index: T_IUCN_BIRD_Hylatomus_pileatus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Hylocichla mustelina'
+    variable:
+      index: T_IUCN_BIRD_Hylocichla_mustelina
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Icterus galbula'
+    variable:
+      index: T_IUCN_BIRD_Icterus_galbula
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Icterus spurius'
+    variable:
+      index: T_IUCN_BIRD_Icterus_spurius
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Ixobrychus exilis'
+    variable:
+      index: T_IUCN_BIRD_Ixobrychus_exilis
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Junco hyemalis'
+    variable:
+      index: T_IUCN_BIRD_Junco_hyemalis
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Lanius borealis'
+    variable:
+      index: T_IUCN_BIRD_Lanius_borealis
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Lanius ludovicianus'
+    variable:
+      index: T_IUCN_BIRD_Lanius_ludovicianus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Larus atricilla'
+    variable:
+      index: T_IUCN_BIRD_Larus_atricilla
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Larus delawarensis'
+    variable:
+      index: T_IUCN_BIRD_Larus_delawarensis
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Larus hyperboreus'
+    variable:
+      index: T_IUCN_BIRD_Larus_hyperboreus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Larus marinus'
+    variable:
+      index: T_IUCN_BIRD_Larus_marinus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Larus philadelphia'
+    variable:
+      index: T_IUCN_BIRD_Larus_philadelphia
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Larus smithsonianus'
+    variable:
+      index: T_IUCN_BIRD_Larus_smithsonianus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Leiothlypis ruficapilla'
+    variable:
+      index: T_IUCN_BIRD_Leiothlypis_ruficapilla
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Leuconotopicus villosus'
+    variable:
+      index: T_IUCN_BIRD_Leuconotopicus_villosus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Lophodytes cucullatus'
+    variable:
+      index: T_IUCN_BIRD_Lophodytes_cucullatus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Loxia leucoptera'
+    variable:
+      index: T_IUCN_BIRD_Loxia_leucoptera
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Mareca americana'
+    variable:
+      index: T_IUCN_BIRD_Mareca_americana
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Mareca strepera'
+    variable:
+      index: T_IUCN_BIRD_Mareca_strepera
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Megaceryle alcyon'
+    variable:
+      index: T_IUCN_BIRD_Megaceryle_alcyon
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Megascops asio'
+    variable:
+      index: T_IUCN_BIRD_Megascops_asio
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Melanerpes erythrocephalus'
+    variable:
+      index: T_IUCN_BIRD_Melanerpes_erythrocephalus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Meleagris gallopavo'
+    variable:
+      index: T_IUCN_BIRD_Meleagris_gallopavo
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Melospiza georgiana'
+    variable:
+      index: T_IUCN_BIRD_Melospiza_georgiana
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Melospiza lincolnii'
+    variable:
+      index: T_IUCN_BIRD_Melospiza_lincolnii
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Melospiza melodia'
+    variable:
+      index: T_IUCN_BIRD_Melospiza_melodia
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Mergus merganser'
+    variable:
+      index: T_IUCN_BIRD_Mergus_merganser
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Mergus serrator'
+    variable:
+      index: T_IUCN_BIRD_Mergus_serrator
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Mimus polyglottos'
+    variable:
+      index: T_IUCN_BIRD_Mimus_polyglottos
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Mniotilta varia'
+    variable:
+      index: T_IUCN_BIRD_Mniotilta_varia
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Molothrus ater'
+    variable:
+      index: T_IUCN_BIRD_Molothrus_ater
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Myiarchus crinitus'
+    variable:
+      index: T_IUCN_BIRD_Myiarchus_crinitus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Nannopterum auritus'
+    variable:
+      index: T_IUCN_BIRD_Nannopterum_auritus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Nycticorax nycticorax'
+    variable:
+      index: T_IUCN_BIRD_Nycticorax_nycticorax
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Oxyura jamaicensis'
+    variable:
+      index: T_IUCN_BIRD_Oxyura_jamaicensis
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Pandion haliaetus'
+    variable:
+      index: T_IUCN_BIRD_Pandion_haliaetus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Parkesia motacilla'
+    variable:
+      index: T_IUCN_BIRD_Parkesia_motacilla
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Parkesia noveboracensis'
+    variable:
+      index: T_IUCN_BIRD_Parkesia_noveboracensis
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Passer domesticus'
+    variable:
+      index: T_IUCN_BIRD_Passer_domesticus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Passerculus sandwichensis'
+    variable:
+      index: T_IUCN_BIRD_Passerculus_sandwichensis
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Passerella arborea'
+    variable:
+      index: T_IUCN_BIRD_Passerella_arborea
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Passerina cyanea'
+    variable:
+      index: T_IUCN_BIRD_Passerina_cyanea
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Perdix perdix'
+    variable:
+      index: T_IUCN_BIRD_Perdix_perdix
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Petrochelidon pyrrhonota'
+    variable:
+      index: T_IUCN_BIRD_Petrochelidon_pyrrhonota
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Phasianus colchicus'
+    variable:
+      index: T_IUCN_BIRD_Phasianus_colchicus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Pheucticus ludovicianus'
+    variable:
+      index: T_IUCN_BIRD_Pheucticus_ludovicianus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Pinicola enucleator'
+    variable:
+      index: T_IUCN_BIRD_Pinicola_enucleator
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Pipilo erythrophthalmus'
+    variable:
+      index: T_IUCN_BIRD_Pipilo_erythrophthalmus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Plectrophenax nivalis'
+    variable:
+      index: T_IUCN_BIRD_Plectrophenax_nivalis
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Podiceps grisegena'
+    variable:
+      index: T_IUCN_BIRD_Podiceps_grisegena
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Podilymbus podiceps'
+    variable:
+      index: T_IUCN_BIRD_Podilymbus_podiceps
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Poecile atricapillus'
+    variable:
+      index: T_IUCN_BIRD_Poecile_atricapillus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Polioptila caerulea'
+    variable:
+      index: T_IUCN_BIRD_Polioptila_caerulea
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Pooecetes gramineus'
+    variable:
+      index: T_IUCN_BIRD_Pooecetes_gramineus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Porzana carolina'
+    variable:
+      index: T_IUCN_BIRD_Porzana_carolina
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Progne subis'
+    variable:
+      index: T_IUCN_BIRD_Progne_subis
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Quiscalus quiscula'
+    variable:
+      index: T_IUCN_BIRD_Quiscalus_quiscula
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Rallus limicola'
+    variable:
+      index: T_IUCN_BIRD_Rallus_limicola
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Regulus calendula'
+    variable:
+      index: T_IUCN_BIRD_Regulus_calendula
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Regulus satrapa'
+    variable:
+      index: T_IUCN_BIRD_Regulus_satrapa
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Riparia riparia'
+    variable:
+      index: T_IUCN_BIRD_Riparia_riparia
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Sayornis phoebe'
+    variable:
+      index: T_IUCN_BIRD_Sayornis_phoebe
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Scolopax minor'
+    variable:
+      index: T_IUCN_BIRD_Scolopax_minor
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Seiurus aurocapilla'
+    variable:
+      index: T_IUCN_BIRD_Seiurus_aurocapilla
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Setophaga americana'
+    variable:
+      index: T_IUCN_BIRD_Setophaga_americana
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Setophaga caerulescens'
+    variable:
+      index: T_IUCN_BIRD_Setophaga_caerulescens
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Setophaga cerulea'
+    variable:
+      index: T_IUCN_BIRD_Setophaga_cerulea
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Setophaga coronata'
+    variable:
+      index: T_IUCN_BIRD_Setophaga_coronata
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Setophaga fusca'
+    variable:
+      index: T_IUCN_BIRD_Setophaga_fusca
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Setophaga magnolia'
+    variable:
+      index: T_IUCN_BIRD_Setophaga_magnolia
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Setophaga pensylvanica'
+    variable:
+      index: T_IUCN_BIRD_Setophaga_pensylvanica
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Setophaga petechia'
+    variable:
+      index: T_IUCN_BIRD_Setophaga_petechia
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Setophaga pinus'
+    variable:
+      index: T_IUCN_BIRD_Setophaga_pinus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Setophaga ruticilla'
+    variable:
+      index: T_IUCN_BIRD_Setophaga_ruticilla
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Sialia sialis'
+    variable:
+      index: T_IUCN_BIRD_Sialia_sialis
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Sitta canadensis'
+    variable:
+      index: T_IUCN_BIRD_Sitta_canadensis
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Sitta carolinensis'
+    variable:
+      index: T_IUCN_BIRD_Sitta_carolinensis
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Spatula discors'
+    variable:
+      index: T_IUCN_BIRD_Spatula_discors
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Sphyrapicus varius'
+    variable:
+      index: T_IUCN_BIRD_Sphyrapicus_varius
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Spinus pinus'
+    variable:
+      index: T_IUCN_BIRD_Spinus_pinus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Spinus tristis'
+    variable:
+      index: T_IUCN_BIRD_Spinus_tristis
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Spizella pallida'
+    variable:
+      index: T_IUCN_BIRD_Spizella_pallida
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Spizella passerina'
+    variable:
+      index: T_IUCN_BIRD_Spizella_passerina
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Spizella pusilla'
+    variable:
+      index: T_IUCN_BIRD_Spizella_pusilla
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Steganopus tricolor'
+    variable:
+      index: T_IUCN_BIRD_Steganopus_tricolor
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Stelgidopteryx serripennis'
+    variable:
+      index: T_IUCN_BIRD_Stelgidopteryx_serripennis
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Sterna hirundo'
+    variable:
+      index: T_IUCN_BIRD_Sterna_hirundo
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Strix nebulosa'
+    variable:
+      index: T_IUCN_BIRD_Strix_nebulosa
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Strix varia'
+    variable:
+      index: T_IUCN_BIRD_Strix_varia
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Sturnella magna'
+    variable:
+      index: T_IUCN_BIRD_Sturnella_magna
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Sturnella neglecta'
+    variable:
+      index: T_IUCN_BIRD_Sturnella_neglecta
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Sturnus vulgaris'
+    variable:
+      index: T_IUCN_BIRD_Sturnus_vulgaris
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Surnia ulula'
+    variable:
+      index: T_IUCN_BIRD_Surnia_ulula
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Tachycineta bicolor'
+    variable:
+      index: T_IUCN_BIRD_Tachycineta_bicolor
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Toxostoma rufum'
+    variable:
+      index: T_IUCN_BIRD_Toxostoma_rufum
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Troglodytes aedon'
+    variable:
+      index: T_IUCN_BIRD_Troglodytes_aedon
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Troglodytes hiemalis'
+    variable:
+      index: T_IUCN_BIRD_Troglodytes_hiemalis
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Turdus migratorius'
+    variable:
+      index: T_IUCN_BIRD_Turdus_migratorius
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Tyrannus tyrannus'
+    variable:
+      index: T_IUCN_BIRD_Tyrannus_tyrannus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Vermivora chrysoptera'
+    variable:
+      index: T_IUCN_BIRD_Vermivora_chrysoptera
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Vireo flavifrons'
+    variable:
+      index: T_IUCN_BIRD_Vireo_flavifrons
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Vireo gilvus'
+    variable:
+      index: T_IUCN_BIRD_Vireo_gilvus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Vireo olivaceus'
+    variable:
+      index: T_IUCN_BIRD_Vireo_olivaceus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Vireo solitarius'
+    variable:
+      index: T_IUCN_BIRD_Vireo_solitarius
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Zenaida macroura'
+    variable:
+      index: T_IUCN_BIRD_Zenaida_macroura
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Zonotrichia albicollis'
+    variable:
+      index: T_IUCN_BIRD_Zonotrichia_albicollis
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+- name: Mammals (IUCN)
+  feature:
+  - name: ' Alces alces'
+    variable:
+      index: T_IUCN_MAMM_Alces_alces
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#b15928'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Blarina brevicauda'
+    variable:
+      index: T_IUCN_MAMM_Blarina_brevicauda
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#b15928'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Canis latrans'
+    variable:
+      index: T_IUCN_MAMM_Canis_latrans
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#b15928'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Castor canadensis'
+    variable:
+      index: T_IUCN_MAMM_Castor_canadensis
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#b15928'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Condylura cristata'
+    variable:
+      index: T_IUCN_MAMM_Condylura_cristata
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#b15928'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Eptesicus fuscus'
+    variable:
+      index: T_IUCN_MAMM_Eptesicus_fuscus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#b15928'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Erethizon dorsatum'
+    variable:
+      index: T_IUCN_MAMM_Erethizon_dorsatum
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#b15928'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Glaucomys sabrinus'
+    variable:
+      index: T_IUCN_MAMM_Glaucomys_sabrinus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#b15928'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Glaucomys volans'
+    variable:
+      index: T_IUCN_MAMM_Glaucomys_volans
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#b15928'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Lasionycteris noctivagans'
+    variable:
+      index: T_IUCN_MAMM_Lasionycteris_noctivagans
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#b15928'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Lasiurus borealis'
+    variable:
+      index: T_IUCN_MAMM_Lasiurus_borealis
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#b15928'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Lasiurus cinereus'
+    variable:
+      index: T_IUCN_MAMM_Lasiurus_cinereus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#b15928'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Lepus americanus'
+    variable:
+      index: T_IUCN_MAMM_Lepus_americanus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#b15928'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Lepus europaeus'
+    variable:
+      index: T_IUCN_MAMM_Lepus_europaeus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#b15928'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Lontra canadensis'
+    variable:
+      index: T_IUCN_MAMM_Lontra_canadensis
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#b15928'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Lynx canadensis'
+    variable:
+      index: T_IUCN_MAMM_Lynx_canadensis
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#b15928'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Lynx rufus'
+    variable:
+      index: T_IUCN_MAMM_Lynx_rufus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#b15928'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Marmota monax'
+    variable:
+      index: T_IUCN_MAMM_Marmota_monax
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#b15928'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Martes pennanti'
+    variable:
+      index: T_IUCN_MAMM_Martes_pennanti
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#b15928'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Mephitis mephitis'
+    variable:
+      index: T_IUCN_MAMM_Mephitis_mephitis
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#b15928'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Microtus pennsylvanicus'
+    variable:
+      index: T_IUCN_MAMM_Microtus_pennsylvanicus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#b15928'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Mus musculus'
+    variable:
+      index: T_IUCN_MAMM_Mus_musculus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#b15928'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Mustela erminea'
+    variable:
+      index: T_IUCN_MAMM_Mustela_erminea
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#b15928'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Mustela frenata'
+    variable:
+      index: T_IUCN_MAMM_Mustela_frenata
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#b15928'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Mustela nivalis'
+    variable:
+      index: T_IUCN_MAMM_Mustela_nivalis
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#b15928'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Myodes gapperi'
+    variable:
+      index: T_IUCN_MAMM_Myodes_gapperi
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#b15928'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Myotis leibii'
+    variable:
+      index: T_IUCN_MAMM_Myotis_leibii
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#b15928'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Myotis lucifugus'
+    variable:
+      index: T_IUCN_MAMM_Myotis_lucifugus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#b15928'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Myotis septentrionalis'
+    variable:
+      index: T_IUCN_MAMM_Myotis_septentrionalis
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#b15928'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Napaeozapus insignis'
+    variable:
+      index: T_IUCN_MAMM_Napaeozapus_insignis
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#b15928'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Neovison vison'
+    variable:
+      index: T_IUCN_MAMM_Neovison_vison
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#b15928'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Odocoileus virginianus'
+    variable:
+      index: T_IUCN_MAMM_Odocoileus_virginianus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#b15928'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Ondatra zibethicus'
+    variable:
+      index: T_IUCN_MAMM_Ondatra_zibethicus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#b15928'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Parascalops breweri'
+    variable:
+      index: T_IUCN_MAMM_Parascalops_breweri
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#b15928'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Peromyscus leucopus'
+    variable:
+      index: T_IUCN_MAMM_Peromyscus_leucopus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#b15928'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Peromyscus maniculatus'
+    variable:
+      index: T_IUCN_MAMM_Peromyscus_maniculatus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#b15928'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Pipistrellus subflavus'
+    variable:
+      index: T_IUCN_MAMM_Pipistrellus_subflavus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#b15928'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Procyon lotor'
+    variable:
+      index: T_IUCN_MAMM_Procyon_lotor
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#b15928'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Sciurus carolinensis'
+    variable:
+      index: T_IUCN_MAMM_Sciurus_carolinensis
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#b15928'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Sorex cinereus'
+    variable:
+      index: T_IUCN_MAMM_Sorex_cinereus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#b15928'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Sorex fumeus'
+    variable:
+      index: T_IUCN_MAMM_Sorex_fumeus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#b15928'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Sorex hoyi'
+    variable:
+      index: T_IUCN_MAMM_Sorex_hoyi
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#b15928'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Sylvilagus floridanus'
+    variable:
+      index: T_IUCN_MAMM_Sylvilagus_floridanus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#b15928'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Synaptomys cooperi'
+    variable:
+      index: T_IUCN_MAMM_Synaptomys_cooperi
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#b15928'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Tamias striatus'
+    variable:
+      index: T_IUCN_MAMM_Tamias_striatus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#b15928'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Tamiasciurus hudsonicus'
+    variable:
+      index: T_IUCN_MAMM_Tamiasciurus_hudsonicus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#b15928'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Taxidea taxus'
+    variable:
+      index: T_IUCN_MAMM_Taxidea_taxus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#b15928'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Urocyon cinereoargenteus'
+    variable:
+      index: T_IUCN_MAMM_Urocyon_cinereoargenteus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#b15928'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Ursus americanus'
+    variable:
+      index: T_IUCN_MAMM_Ursus_americanus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#b15928'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Vulpes vulpes'
+    variable:
+      index: T_IUCN_MAMM_Vulpes_vulpes
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#b15928'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Zapus hudsonius'
+    variable:
+      index: T_IUCN_MAMM_Zapus_hudsonius
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#b15928'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+- name: Reptiles (IUCN)
+  feature:
+  - name: ' Caretta caretta'
+    variable:
+      index: T_IUCN_REPT_Caretta_caretta
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#b2df8a'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Diadophis punctatus'
+    variable:
+      index: T_IUCN_REPT_Diadophis_punctatus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#b2df8a'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Eretmochelys imbricata'
+    variable:
+      index: T_IUCN_REPT_Eretmochelys_imbricata
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#b2df8a'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Heterodon platirhinos'
+    variable:
+      index: T_IUCN_REPT_Heterodon_platirhinos
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#b2df8a'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Nerodia sipedon'
+    variable:
+      index: T_IUCN_REPT_Nerodia_sipedon
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#b2df8a'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Opheodrys vernalis'
+    variable:
+      index: T_IUCN_REPT_Opheodrys_vernalis
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#b2df8a'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Pantherophis gloydi'
+    variable:
+      index: T_IUCN_REPT_Pantherophis_gloydi
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#b2df8a'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Plestiodon fasciatus'
+    variable:
+      index: T_IUCN_REPT_Plestiodon_fasciatus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#b2df8a'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Sistrurus catenatus'
+    variable:
+      index: T_IUCN_REPT_Sistrurus_catenatus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#b2df8a'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Storeria occipitomaculata'
+    variable:
+      index: T_IUCN_REPT_Storeria_occipitomaculata
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#b2df8a'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Thamnophis butleri'
+    variable:
+      index: T_IUCN_REPT_Thamnophis_butleri
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#b2df8a'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Thamnophis sauritus'
+    variable:
+      index: T_IUCN_REPT_Thamnophis_sauritus
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#b2df8a'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: ' Thamnophis sirtalis'
+    variable:
+      index: T_IUCN_REPT_Thamnophis_sirtalis
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#b2df8a'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+- name: Land Cover
+  feature:
+  - name: Lakes
+    variable:
+      index: T_LC_Lakes
+      units: ha
+      legend:
+        type: 'null'
+        colors: NA
+        labels: NA
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Wetlands
+    variable:
+      index: T_LC_Wetlands
+      units: ha
+      legend:
+        type: 'null'
+        colors: NA
+        labels: NA
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+- name: Length
+  feature:
+  - name: 'River '
+    variable:
+      index: T_LC_River_length
+      units: km
+      legend:
+        type: 'null'
+        colors: NA
+        labels: NA
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: 'Shoreline '
+    variable:
+      index: T_LC_Shoreline_length
+      units: km
+      legend:
+        type: 'null'
+        colors: NA
+        labels: NA
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+weights:
+- name: Carbon potential
+  variable:
+    index: W_Carbon_potential
+    units: tonnes/yr
+    legend:
+      type: 'null'
+      colors: NA
+      labels: NA
+    provenance: national
+  status: yes
+  visible: no
+  hidden: yes
+  factor: 0.0
+- name: Carbon storage
+  variable:
+    index: W_Carbon_storage
+    units: tonnes
+    legend:
+      type: 'null'
+      colors: NA
+      labels: NA
+    provenance: national
+  status: yes
+  visible: no
+  hidden: yes
+  factor: 0.0
+- name: Climate forward velocity
+  variable:
+    index: W_Climate_forward_velocity
+    units: index
+    legend:
+      type: 'null'
+      colors: NA
+      labels: NA
+    provenance: national
+  status: yes
+  visible: no
+  hidden: yes
+  factor: 0.0
+- name: Climate refugia
+  variable:
+    index: W_Climate_refugia
+    units: index
+    legend:
+      type: 'null'
+      colors: NA
+      labels: NA
+    provenance: national
+  status: yes
+  visible: no
+  hidden: yes
+  factor: 0.0
+- name: Freshwater
+  variable:
+    index: W_Freshwater
+    units: ha
+    legend:
+      type: 'null'
+      colors: NA
+      labels: NA
+    provenance: national
+  status: yes
+  visible: no
+  hidden: yes
+  factor: 0.0
+- name: Human footprint
+  variable:
+    index: W_Human_footprint
+    units: index
+    legend:
+      type: 'null'
+      colors: NA
+      labels: NA
+    provenance: national
+  status: yes
+  visible: no
+  hidden: yes
+  factor: 0.0
+- name: Key biodiversity areas
+  variable:
+    index: W_Key_biodiversity_areas
+    units: km2
+    legend:
+      type: 'null'
+      colors: NA
+      labels: NA
+    provenance: national
+  status: yes
+  visible: no
+  hidden: yes
+  factor: 0.0
+- name: Recreation
+  variable:
+    index: W_Recreation
+    units: ha
+    legend:
+      type: 'null'
+      colors: NA
+      labels: NA
+    provenance: national
+  status: yes
+  visible: no
+  hidden: yes
+  factor: 0.0
+includes:
+- name: Existing Conservation (CPCAD)
+  variable:
+    index: layer
+    units: ' '
+    legend:
+      type: manual
+      colors:
+      - '#00000000'
+      - '#7fbc41'
+      labels:
+      - not included
+      - ' included'
+    provenance: national
+  mandatory: no
+  status: yes
+  visible: yes
+  hidden: no
+excludes: []
