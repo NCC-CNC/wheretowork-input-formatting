@@ -30,15 +30,25 @@ library(tibble)
 library(raster)
 library(dplyr)
 library(stringr)
+library(readr)
 source("R/fct_calculate_targets.R")
+source("R/fct_sci_to_common.R")
 
 # 2.0 Set up -------------------------------------------------------------------
 
 ## File path variables ----
 input_tiff_folder <- "Tiffs" # <--- CHANGE PATH FOR NEW PROJECT
 input_aoi_name <- "AOI.tif" # <--- CHANGE NAME FOR NEW PROJECT (aoi needs to be in Tiffs folder)
-output_metadata_folder <- "WtW/metadata" # <--- CHANGE PATH FOR NEW PROJECT
+output_metadata_folder <- "./WtW/metadata" # <--- CHANGE PATH FOR NEW PROJECT
 output_metadata_name <- "sw-on" # <--- CHANGE NAME FOR NEW PROJECT
+table_path <- "./Variables/_Tables/" # <--- CHANGE PATH FOR NEW PROJECT
+
+# Read-in look up tables ----
+ECCC_SAR_LU <- read_csv(paste0(table_path, "ECCC_SAR_Metadata.csv"))
+IUCN_LU <- read_csv(paste0(table_path, "IUCN_Metadata.csv"))
+NSC_END_LU <- readxl::read_excel(paste0(table_path,  "NSC_END_Metadata.xlsx"))
+NSC_SAR_LU <- readxl::read_excel(paste0(table_path, "NSC_SAR_Metadata.xlsx"))
+NSC_SPP_LU <- readxl::read_excel(paste0(table_path, "NSC_SPP_Metadata.xlsx"))
 
 ## Read-in tiff file paths
 file_list <- list.files(input_tiff_folder, pattern='.tif$', 
@@ -99,44 +109,47 @@ for (file in file_list) {
   
   ## Name ----
   if (startsWith(file_no_ext, "T_ECCC_SAR_")) {
-    name_ <- unlist(str_split(file_no_ext, "T_ECCC_SAR_"))[2] # split string
-    name <- str_replace_all(name_, "_", " ") # replace underscore with space
+    name <- unlist(str_split(file_no_ext, "T_ECCC_SAR_COSEWICID_"))[2] 
+    name <- cosewicid_to_name(ECCC_SAR_LU, name, "common")
     
   } else if (startsWith(file_no_ext, "T_ECCC_CH")) {
-    name_ <- unlist(str_split(file_no_ext, "T_ECCC_CH"))[2] # split string
-    name <- str_replace_all(name_, "_", " ") # replace underscore with space
+    name <- unlist(str_split(file_no_ext, "T_ECCC_CH_"))[2]
+    name <- str_replace_all(name, "_", " ")
     
   } else if (startsWith(file_no_ext, "T_IUCN_AMPH")) {
-    name_ <- unlist(str_split(file_no_ext, "T_IUCN_AMPH"))[2] # split string
-    name <- str_replace_all(name_, "_", " ") # replace underscore with space 
+    name <- unlist(str_split(file, "T_IUCN_AMPH_"))[2]
+    name <- iucn_to_name(IUCN_LU, name)
     
   } else if (startsWith(file_no_ext, "T_IUCN_BIRD")) {
-    name_ <- unlist(str_split(file_no_ext, "T_IUCN_BIRD"))[2] # split string
-    name <- str_replace_all(name_, "_", " ") # replace underscore with space 
+    name <- unlist(str_split(file, "T_IUCN_BIRD_"))[2]
+    name <- iucn_to_name(IUCN_LU, name)
     
   } else if (startsWith(file_no_ext, "T_IUCN_MAMM")) {
-    name_ <- unlist(str_split(file_no_ext, "T_IUCN_MAMM"))[2] # split string
-    name <- str_replace_all(name_, "_", " ") # replace underscore with space
+    name <- unlist(str_split(file, "T_IUCN_MAMM_"))[2]
+    name <- iucn_to_name(IUCN_LU, name)
     
   } else if (startsWith(file_no_ext, "T_IUCN_REPT")) {
-    name_ <- unlist(str_split(file_no_ext, "T_IUCN_REPT"))[2] # split string
-    name <- str_replace_all(name_, "_", " ") # replace underscore with space 
+    name <- unlist(str_split(file, "T_IUCN_REPT_"))[2]
+    name <- iucn_to_name(IUCN_LU, name)
     
   } else if (startsWith(file_no_ext, "T_NSC_END")) {
-    name_ <- unlist(str_split(file_no_ext, "T_NSC_END"))[2] # split string
-    name <- str_replace_all(name_, "_", " ") # replace underscore with space  
+    name <- unlist(str_split(file_no_ext, "T_NSC_END_"))[2] 
+    name <- str_replace_all(name, "_", " ")
+    name <- nsc_end_to_name(NSC_END_LU, name)
     
   } else if (startsWith(file_no_ext, "T_NSC_SAR")) {
-    name_ <- unlist(str_split(file_no_ext, "T_NSC_SAR"))[2] # split string
-    name <- str_replace_all(name_, "_", " ") # replace underscore with space
+    name <- unlist(str_split(file_no_ext, "T_NSC_SAR_"))[2] 
+    name <- str_replace_all(name, "_", " ") 
+    name <- nsc_sar_to_name(NSC_SAR_LU, name)
     
   } else if (startsWith(file_no_ext, "T_NSC_SPP")) {
-    name_ <- unlist(str_split(file_no_ext, "T_NSC_SPP"))[2] # split string
-    name <- str_replace_all(name_, "_", " ") # replace underscore with space       
+    name <- unlist(str_split(file_no_ext, "T_NSC_SPP_"))[2] 
+    name <- str_replace_all(name, "_", " ")
+    name <- nsc_spp_to_name(NSC_SPP_LU, name)
     
   } else if (startsWith(file_no_ext, "T_LC_")) {
-    name_ <- unlist(str_split(file_no_ext, "T_LC_"))[2] # split string
-    name <- str_replace_all(name_, "_", " ") # replace underscore with space
+    name <- unlist(str_split(file_no_ext, "T_LC_"))[2] # split string
+    name <- str_replace_all(name, "_", " ") # replace underscore with space
     
   } else if (startsWith(file_no_ext, "W_")) {
     name_ <- unlist(str_split(file_no_ext, "W_"))[2] # split string
@@ -191,11 +204,11 @@ for (file in file_list) {
   if (any(startsWith(file_no_ext, c("T_ECCC", "T_IUCN", "T_NSC", "I_")))) {
     legend <- "manual"
     
+  } else if (startsWith(file_no_ext, "W_Key"))  {
+    legend <- "manual"      
+    
   } else if (any(startsWith(file_no_ext, c("T_LC", "W_")))) {
     legend <- "continuous"
-    
-  } else if (startsWith(file_no_ext, "W_Key"))  {
-    legend <- "manual"    
     
   } else {
     legend <- ""
@@ -285,10 +298,16 @@ for (file in file_list) {
     }
     
   } else if (startsWith(file_no_ext, "T_LC")) {
-    color <- "viridis"     
+    color <- "viridis"
     
   } else if (startsWith(file_no_ext, "I")) {
     color <- "#00000000, #7fbc41"
+    
+  } else if (startsWith(file_no_ext, "W_River")) {
+    color <- "viridis"
+    
+  } else if (startsWith(file_no_ext, "W_Shoreline")) {
+    color <- "viridis"        
     
   } else if (startsWith(file_no_ext, "W_Carbon")) {
     color <- "YlOrBr"    
@@ -346,8 +365,8 @@ for (file in file_list) {
                                 "T_LC_Grassland")) {
     unit <- "ha"
     
-  } else if (file_no_ext %in% c("T_LC_River_length", 
-                                "T_LC_Shoreline_length")) {
+  } else if (file_no_ext %in% c("W_River_length", 
+                                "W_Shoreline_length")) {
     unit <- "km"       
     
   } else if (startsWith(file_no_ext, "W_Carbon_potential")) {
@@ -416,7 +435,7 @@ for (file in file_list) {
 # Write to CSV ----
 write.csv(df, 
           file.path(output_metadata_folder, 
-                    paste0(output_metadata_name, "-metadata-NEEDS-QC.csv")),
+          paste0(output_metadata_name, "-metadata-NEEDS-QC.csv")),
           row.names = FALSE)
 
 # 4.0 Clear R environment ------------------------------------------------------ 
@@ -424,5 +443,3 @@ write.csv(df,
 ## End timer
 end_time <- Sys.time()
 end_time - start_time
-
-

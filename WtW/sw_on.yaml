@@ -7,107 +7,17 @@ spatial_path: sw_on.tif
 attribute_path: sw_on_attribute.csv.gz
 boundary_path: sw_on_boundary.csv.gz
 themes:
-- name: Species at Risk (ECCC)
+- name: Critical Habitat (ECCC)
   feature:
-  - name: Agalinis gattingeri
-    variable:
-      index: T_ECCC_SAR_Agalinis_gattingeri
-      units: km2
-      legend:
-        type: manual
-        colors:
-        - '#00000000'
-        - '#fb9a99'
-        labels:
-        - absence
-        - presence
-      provenance: national
-    status: yes
-    visible: no
-    hidden: yes
-    goal: 0.2
-    limit_goal: 0.0
-  - name: Ambystoma jeffersonianum
-    variable:
-      index: T_ECCC_SAR_Ambystoma_jeffersonianum
-      units: km2
-      legend:
-        type: manual
-        colors:
-        - '#00000000'
-        - '#fb9a99'
-        labels:
-        - absence
-        - presence
-      provenance: national
-    status: yes
-    visible: no
-    hidden: yes
-    goal: 0.2
-    limit_goal: 0.0
-  - name: Ammodramus henslowii
-    variable:
-      index: T_ECCC_SAR_Ammodramus_henslowii
-      units: km2
-      legend:
-        type: manual
-        colors:
-        - '#00000000'
-        - '#fb9a99'
-        labels:
-        - absence
-        - presence
-      provenance: national
-    status: yes
-    visible: no
-    hidden: yes
-    goal: 0.2
-    limit_goal: 0.0
-  - name: Ammodramus savannarum pratensis
-    variable:
-      index: T_ECCC_SAR_Ammodramus_savannarum_pratensis
-      units: km2
-      legend:
-        type: manual
-        colors:
-        - '#00000000'
-        - '#fb9a99'
-        labels:
-        - absence
-        - presence
-      provenance: national
-    status: yes
-    visible: no
-    hidden: yes
-    goal: 0.2
-    limit_goal: 0.0
-  - name: Antrostomus vociferus
-    variable:
-      index: T_ECCC_SAR_Antrostomus_vociferus
-      units: km2
-      legend:
-        type: manual
-        colors:
-        - '#00000000'
-        - '#fb9a99'
-        labels:
-        - absence
-        - presence
-      provenance: national
-    status: yes
-    visible: no
-    hidden: yes
-    goal: 0.2
-    limit_goal: 0.0
   - name: Aristida basiramea
     variable:
-      index: T_ECCC_SAR_Aristida_basiramea
+      index: T_ECCC_CH_Aristida_basiramea
       units: km2
       legend:
         type: manual
         colors:
         - '#00000000'
-        - '#fb9a99'
+        - '#ffed6f'
         labels:
         - absence
         - presence
@@ -117,231 +27,15 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: Arnoglossum plantagineum
+  - name: Charadrius melodus circumcinctus
     variable:
-      index: T_ECCC_SAR_Arnoglossum_plantagineum
+      index: T_ECCC_CH_Charadrius_melodus_circumcinctus
       units: km2
       legend:
         type: manual
         colors:
         - '#00000000'
-        - '#fb9a99'
-        labels:
-        - absence
-        - presence
-      provenance: national
-    status: yes
-    visible: no
-    hidden: yes
-    goal: 0.2
-    limit_goal: 0.0
-  - name: Asio flammeus
-    variable:
-      index: T_ECCC_SAR_Asio_flammeus
-      units: km2
-      legend:
-        type: manual
-        colors:
-        - '#00000000'
-        - '#fb9a99'
-        labels:
-        - absence
-        - presence
-      provenance: national
-    status: yes
-    visible: no
-    hidden: yes
-    goal: 0.2
-    limit_goal: 0.0
-  - name: Asplenium scolopendrium
-    variable:
-      index: T_ECCC_SAR_Asplenium_scolopendrium
-      units: km2
-      legend:
-        type: manual
-        colors:
-        - '#00000000'
-        - '#fb9a99'
-        labels:
-        - absence
-        - presence
-      provenance: national
-    status: yes
-    visible: no
-    hidden: yes
-    goal: 0.2
-    limit_goal: 0.0
-  - name: Bombus affinis
-    variable:
-      index: T_ECCC_SAR_Bombus_affinis
-      units: km2
-      legend:
-        type: manual
-        colors:
-        - '#00000000'
-        - '#fb9a99'
-        labels:
-        - absence
-        - presence
-      provenance: national
-    status: yes
-    visible: no
-    hidden: yes
-    goal: 0.2
-    limit_goal: 0.0
-  - name: Bombus bohemicus
-    variable:
-      index: T_ECCC_SAR_Bombus_bohemicus
-      units: km2
-      legend:
-        type: manual
-        colors:
-        - '#00000000'
-        - '#fb9a99'
-        labels:
-        - absence
-        - presence
-      provenance: national
-    status: yes
-    visible: no
-    hidden: yes
-    goal: 0.2
-    limit_goal: 0.0
-  - name: Brychius hungerfordi
-    variable:
-      index: T_ECCC_SAR_Brychius_hungerfordi
-      units: km2
-      legend:
-        type: manual
-        colors:
-        - '#00000000'
-        - '#fb9a99'
-        labels:
-        - absence
-        - presence
-      provenance: national
-    status: yes
-    visible: no
-    hidden: yes
-    goal: 0.2
-    limit_goal: 0.0
-  - name: Cardellina canadensis
-    variable:
-      index: T_ECCC_SAR_Cardellina_canadensis
-      units: km2
-      legend:
-        type: manual
-        colors:
-        - '#00000000'
-        - '#fb9a99'
-        labels:
-        - absence
-        - presence
-      provenance: national
-    status: yes
-    visible: no
-    hidden: yes
-    goal: 0.2
-    limit_goal: 0.0
-  - name: Chaetura pelagica
-    variable:
-      index: T_ECCC_SAR_Chaetura_pelagica
-      units: km2
-      legend:
-        type: manual
-        colors:
-        - '#00000000'
-        - '#fb9a99'
-        labels:
-        - absence
-        - presence
-      provenance: national
-    status: yes
-    visible: no
-    hidden: yes
-    goal: 0.2
-    limit_goal: 0.0
-  - name: Chelydra serpentina
-    variable:
-      index: T_ECCC_SAR_Chelydra_serpentina
-      units: km2
-      legend:
-        type: manual
-        colors:
-        - '#00000000'
-        - '#fb9a99'
-        labels:
-        - absence
-        - presence
-      provenance: national
-    status: yes
-    visible: no
-    hidden: yes
-    goal: 0.2
-    limit_goal: 0.0
-  - name: Chimaphila maculata
-    variable:
-      index: T_ECCC_SAR_Chimaphila_maculata
-      units: km2
-      legend:
-        type: manual
-        colors:
-        - '#00000000'
-        - '#fb9a99'
-        labels:
-        - absence
-        - presence
-      provenance: national
-    status: yes
-    visible: no
-    hidden: yes
-    goal: 0.2
-    limit_goal: 0.0
-  - name: Chordeiles minor
-    variable:
-      index: T_ECCC_SAR_Chordeiles_minor
-      units: km2
-      legend:
-        type: manual
-        colors:
-        - '#00000000'
-        - '#fb9a99'
-        labels:
-        - absence
-        - presence
-      provenance: national
-    status: yes
-    visible: no
-    hidden: yes
-    goal: 0.2
-    limit_goal: 0.0
-  - name: Cirsium hillii
-    variable:
-      index: T_ECCC_SAR_Cirsium_hillii
-      units: km2
-      legend:
-        type: manual
-        colors:
-        - '#00000000'
-        - '#fb9a99'
-        labels:
-        - absence
-        - presence
-      provenance: national
-    status: yes
-    visible: no
-    hidden: yes
-    goal: 0.2
-    limit_goal: 0.0
-  - name: Cirsium pitcheri
-    variable:
-      index: T_ECCC_SAR_Cirsium_pitcheri
-      units: km2
-      legend:
-        type: manual
-        colors:
-        - '#00000000'
-        - '#fb9a99'
+        - '#ffed6f'
         labels:
         - absence
         - presence
@@ -353,103 +47,13 @@ themes:
     limit_goal: 0.0
   - name: Clemmys guttata
     variable:
-      index: T_ECCC_SAR_Clemmys_guttata
+      index: T_ECCC_CH_Clemmys_guttata
       units: km2
       legend:
         type: manual
         colors:
         - '#00000000'
-        - '#fb9a99'
-        labels:
-        - absence
-        - presence
-      provenance: national
-    status: yes
-    visible: no
-    hidden: yes
-    goal: 0.2
-    limit_goal: 0.0
-  - name: Contopus cooperi
-    variable:
-      index: T_ECCC_SAR_Contopus_cooperi
-      units: km2
-      legend:
-        type: manual
-        colors:
-        - '#00000000'
-        - '#fb9a99'
-        labels:
-        - absence
-        - presence
-      provenance: national
-    status: yes
-    visible: no
-    hidden: yes
-    goal: 0.2
-    limit_goal: 0.0
-  - name: Contopus virens
-    variable:
-      index: T_ECCC_SAR_Contopus_virens
-      units: km2
-      legend:
-        type: manual
-        colors:
-        - '#00000000'
-        - '#fb9a99'
-        labels:
-        - absence
-        - presence
-      provenance: national
-    status: yes
-    visible: no
-    hidden: yes
-    goal: 0.2
-    limit_goal: 0.0
-  - name: Coturnicops noveboracensis
-    variable:
-      index: T_ECCC_SAR_Coturnicops_noveboracensis
-      units: km2
-      legend:
-        type: manual
-        colors:
-        - '#00000000'
-        - '#fb9a99'
-        labels:
-        - absence
-        - presence
-      provenance: national
-    status: yes
-    visible: no
-    hidden: yes
-    goal: 0.2
-    limit_goal: 0.0
-  - name: Danaus plexippus
-    variable:
-      index: T_ECCC_SAR_Danaus_plexippus
-      units: km2
-      legend:
-        type: manual
-        colors:
-        - '#00000000'
-        - '#fb9a99'
-        labels:
-        - absence
-        - presence
-      provenance: national
-    status: yes
-    visible: no
-    hidden: yes
-    goal: 0.2
-    limit_goal: 0.0
-  - name: Dolichonyx oryzivorus
-    variable:
-      index: T_ECCC_SAR_Dolichonyx_oryzivorus
-      units: km2
-      legend:
-        type: manual
-        colors:
-        - '#00000000'
-        - '#fb9a99'
+        - '#ffed6f'
         labels:
         - absence
         - presence
@@ -461,13 +65,13 @@ themes:
     limit_goal: 0.0
   - name: Emydoidea blandingii
     variable:
-      index: T_ECCC_SAR_Emydoidea_blandingii
+      index: T_ECCC_CH_Emydoidea_blandingii
       units: km2
       legend:
         type: manual
         colors:
         - '#00000000'
-        - '#fb9a99'
+        - '#ffed6f'
         labels:
         - absence
         - presence
@@ -477,159 +81,15 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: Epeoloides pilosulus
+  - name: Glyptemys insculpta
     variable:
-      index: T_ECCC_SAR_Epeoloides_pilosulus
+      index: T_ECCC_CH_Glyptemys_insculpta
       units: km2
       legend:
         type: manual
         colors:
         - '#00000000'
-        - '#fb9a99'
-        labels:
-        - absence
-        - presence
-      provenance: national
-    status: yes
-    visible: no
-    hidden: yes
-    goal: 0.2
-    limit_goal: 0.0
-  - name: Erynnis martialis
-    variable:
-      index: T_ECCC_SAR_Erynnis_martialis
-      units: km2
-      legend:
-        type: manual
-        colors:
-        - '#00000000'
-        - '#fb9a99'
-        labels:
-        - absence
-        - presence
-      provenance: national
-    status: yes
-    visible: no
-    hidden: yes
-    goal: 0.2
-    limit_goal: 0.0
-  - name: Euphagus carolinus
-    variable:
-      index: T_ECCC_SAR_Euphagus_carolinus
-      units: km2
-      legend:
-        type: manual
-        colors:
-        - '#00000000'
-        - '#fb9a99'
-        labels:
-        - absence
-        - presence
-      provenance: national
-    status: yes
-    visible: no
-    hidden: yes
-    goal: 0.2
-    limit_goal: 0.0
-  - name: Graptemys geographica
-    variable:
-      index: T_ECCC_SAR_Graptemys_geographica
-      units: km2
-      legend:
-        type: manual
-        colors:
-        - '#00000000'
-        - '#fb9a99'
-        labels:
-        - absence
-        - presence
-      provenance: national
-    status: yes
-    visible: no
-    hidden: yes
-    goal: 0.2
-    limit_goal: 0.0
-  - name: Heterodon platirhinos
-    variable:
-      index: T_ECCC_SAR_Heterodon_platirhinos
-      units: km2
-      legend:
-        type: manual
-        colors:
-        - '#00000000'
-        - '#fb9a99'
-        labels:
-        - absence
-        - presence
-      provenance: national
-    status: yes
-    visible: no
-    hidden: yes
-    goal: 0.2
-    limit_goal: 0.0
-  - name: Hirundo rustica
-    variable:
-      index: T_ECCC_SAR_Hirundo_rustica
-      units: km2
-      legend:
-        type: manual
-        colors:
-        - '#00000000'
-        - '#fb9a99'
-        labels:
-        - absence
-        - presence
-      provenance: national
-    status: yes
-    visible: no
-    hidden: yes
-    goal: 0.2
-    limit_goal: 0.0
-  - name: Hylocichla mustelina
-    variable:
-      index: T_ECCC_SAR_Hylocichla_mustelina
-      units: km2
-      legend:
-        type: manual
-        colors:
-        - '#00000000'
-        - '#fb9a99'
-        labels:
-        - absence
-        - presence
-      provenance: national
-    status: yes
-    visible: no
-    hidden: yes
-    goal: 0.2
-    limit_goal: 0.0
-  - name: Icteria virens virens
-    variable:
-      index: T_ECCC_SAR_Icteria_virens_virens
-      units: km2
-      legend:
-        type: manual
-        colors:
-        - '#00000000'
-        - '#fb9a99'
-        labels:
-        - absence
-        - presence
-      provenance: national
-    status: yes
-    visible: no
-    hidden: yes
-    goal: 0.2
-    limit_goal: 0.0
-  - name: Iris lacustris
-    variable:
-      index: T_ECCC_SAR_Iris_lacustris
-      units: km2
-      legend:
-        type: manual
-        colors:
-        - '#00000000'
-        - '#fb9a99'
+        - '#ffed6f'
         labels:
         - absence
         - presence
@@ -641,193 +101,13 @@ themes:
     limit_goal: 0.0
   - name: Ixobrychus exilis
     variable:
-      index: T_ECCC_SAR_Ixobrychus_exilis
+      index: T_ECCC_CH_Ixobrychus_exilis
       units: km2
       legend:
         type: manual
         colors:
         - '#00000000'
-        - '#fb9a99'
-        labels:
-        - absence
-        - presence
-      provenance: national
-    status: yes
-    visible: no
-    hidden: yes
-    goal: 0.2
-    limit_goal: 0.0
-  - name: Juglans cinerea
-    variable:
-      index: T_ECCC_SAR_Juglans_cinerea
-      units: km2
-      legend:
-        type: manual
-        colors:
-        - '#00000000'
-        - '#fb9a99'
-        labels:
-        - absence
-        - presence
-      provenance: national
-    status: yes
-    visible: no
-    hidden: yes
-    goal: 0.2
-    limit_goal: 0.0
-  - name: Lampropeltis triangulum
-    variable:
-      index: T_ECCC_SAR_Lampropeltis_triangulum
-      units: km2
-      legend:
-        type: manual
-        colors:
-        - '#00000000'
-        - '#fb9a99'
-        labels:
-        - absence
-        - presence
-      provenance: national
-    status: yes
-    visible: no
-    hidden: yes
-    goal: 0.2
-    limit_goal: 0.0
-  - name: Lanius ludovicianus migrans
-    variable:
-      index: T_ECCC_SAR_Lanius_ludovicianus_migrans
-      units: km2
-      legend:
-        type: manual
-        colors:
-        - '#00000000'
-        - '#fb9a99'
-        labels:
-        - absence
-        - presence
-      provenance: national
-    status: yes
-    visible: no
-    hidden: yes
-    goal: 0.2
-    limit_goal: 0.0
-  - name: Lanius ludovicianus ssp
-    variable:
-      index: T_ECCC_SAR_Lanius_ludovicianus_ssp
-      units: km2
-      legend:
-        type: manual
-        colors:
-        - '#00000000'
-        - '#fb9a99'
-        labels:
-        - absence
-        - presence
-      provenance: national
-    status: yes
-    visible: no
-    hidden: yes
-    goal: 0.2
-    limit_goal: 0.0
-  - name: Lithobates pipiens
-    variable:
-      index: T_ECCC_SAR_Lithobates_pipiens
-      units: km2
-      legend:
-        type: manual
-        colors:
-        - '#00000000'
-        - '#fb9a99'
-        labels:
-        - absence
-        - presence
-      provenance: national
-    status: yes
-    visible: no
-    hidden: yes
-    goal: 0.2
-    limit_goal: 0.0
-  - name: Melanerpes erythrocephalus
-    variable:
-      index: T_ECCC_SAR_Melanerpes_erythrocephalus
-      units: km2
-      legend:
-        type: manual
-        colors:
-        - '#00000000'
-        - '#fb9a99'
-        labels:
-        - absence
-        - presence
-      provenance: national
-    status: yes
-    visible: no
-    hidden: yes
-    goal: 0.2
-    limit_goal: 0.0
-  - name: Panax quinquefolius
-    variable:
-      index: T_ECCC_SAR_Panax_quinquefolius
-      units: km2
-      legend:
-        type: manual
-        colors:
-        - '#00000000'
-        - '#fb9a99'
-        labels:
-        - absence
-        - presence
-      provenance: national
-    status: yes
-    visible: no
-    hidden: yes
-    goal: 0.2
-    limit_goal: 0.0
-  - name: Pantherophis gloydi
-    variable:
-      index: T_ECCC_SAR_Pantherophis_gloydi
-      units: km2
-      legend:
-        type: manual
-        colors:
-        - '#00000000'
-        - '#fb9a99'
-        labels:
-        - absence
-        - presence
-      provenance: national
-    status: yes
-    visible: no
-    hidden: yes
-    goal: 0.2
-    limit_goal: 0.0
-  - name: Papaipema aweme
-    variable:
-      index: T_ECCC_SAR_Papaipema_aweme
-      units: km2
-      legend:
-        type: manual
-        colors:
-        - '#00000000'
-        - '#fb9a99'
-        labels:
-        - absence
-        - presence
-      provenance: national
-    status: yes
-    visible: no
-    hidden: yes
-    goal: 0.2
-    limit_goal: 0.0
-  - name: Parkesia motacilla
-    variable:
-      index: T_ECCC_SAR_Parkesia_motacilla
-      units: km2
-      legend:
-        type: manual
-        colors:
-        - '#00000000'
-        - '#fb9a99'
+        - '#ffed6f'
         labels:
         - absence
         - presence
@@ -839,31 +119,13 @@ themes:
     limit_goal: 0.0
   - name: Platanthera leucophaea
     variable:
-      index: T_ECCC_SAR_Platanthera_leucophaea
+      index: T_ECCC_CH_Platanthera_leucophaea
       units: km2
       legend:
         type: manual
         colors:
         - '#00000000'
-        - '#fb9a99'
-        labels:
-        - absence
-        - presence
-      provenance: national
-    status: yes
-    visible: no
-    hidden: yes
-    goal: 0.2
-    limit_goal: 0.0
-  - name: Potamogeton hillii
-    variable:
-      index: T_ECCC_SAR_Potamogeton_hillii
-      units: km2
-      legend:
-        type: manual
-        colors:
-        - '#00000000'
-        - '#fb9a99'
+        - '#ffed6f'
         labels:
         - absence
         - presence
@@ -875,157 +137,13 @@ themes:
     limit_goal: 0.0
   - name: Pseudacris triseriata
     variable:
-      index: T_ECCC_SAR_Pseudacris_triseriata
+      index: T_ECCC_CH_Pseudacris_triseriata
       units: km2
       legend:
         type: manual
         colors:
         - '#00000000'
-        - '#fb9a99'
-        labels:
-        - absence
-        - presence
-      provenance: national
-    status: yes
-    visible: no
-    hidden: yes
-    goal: 0.2
-    limit_goal: 0.0
-  - name: Rallus elegans
-    variable:
-      index: T_ECCC_SAR_Rallus_elegans
-      units: km2
-      legend:
-        type: manual
-        colors:
-        - '#00000000'
-        - '#fb9a99'
-        labels:
-        - absence
-        - presence
-      provenance: national
-    status: yes
-    visible: no
-    hidden: yes
-    goal: 0.2
-    limit_goal: 0.0
-  - name: Riparia riparia
-    variable:
-      index: T_ECCC_SAR_Riparia_riparia
-      units: km2
-      legend:
-        type: manual
-        colors:
-        - '#00000000'
-        - '#fb9a99'
-        labels:
-        - absence
-        - presence
-      provenance: national
-    status: yes
-    visible: no
-    hidden: yes
-    goal: 0.2
-    limit_goal: 0.0
-  - name: Setophaga cerulea
-    variable:
-      index: T_ECCC_SAR_Setophaga_cerulea
-      units: km2
-      legend:
-        type: manual
-        colors:
-        - '#00000000'
-        - '#fb9a99'
-        labels:
-        - absence
-        - presence
-      provenance: national
-    status: yes
-    visible: no
-    hidden: yes
-    goal: 0.2
-    limit_goal: 0.0
-  - name: Setophaga citrina
-    variable:
-      index: T_ECCC_SAR_Setophaga_citrina
-      units: km2
-      legend:
-        type: manual
-        colors:
-        - '#00000000'
-        - '#fb9a99'
-        labels:
-        - absence
-        - presence
-      provenance: national
-    status: yes
-    visible: no
-    hidden: yes
-    goal: 0.2
-    limit_goal: 0.0
-  - name: Setophaga kirtlandii
-    variable:
-      index: T_ECCC_SAR_Setophaga_kirtlandii
-      units: km2
-      legend:
-        type: manual
-        colors:
-        - '#00000000'
-        - '#fb9a99'
-        labels:
-        - absence
-        - presence
-      provenance: national
-    status: yes
-    visible: no
-    hidden: yes
-    goal: 0.2
-    limit_goal: 0.0
-  - name: Sistrurus catenatus
-    variable:
-      index: T_ECCC_SAR_Sistrurus_catenatus
-      units: km2
-      legend:
-        type: manual
-        colors:
-        - '#00000000'
-        - '#fb9a99'
-        labels:
-        - absence
-        - presence
-      provenance: national
-    status: yes
-    visible: no
-    hidden: yes
-    goal: 0.2
-    limit_goal: 0.0
-  - name: Solidago houghtonii
-    variable:
-      index: T_ECCC_SAR_Solidago_houghtonii
-      units: km2
-      legend:
-        type: manual
-        colors:
-        - '#00000000'
-        - '#fb9a99'
-        labels:
-        - absence
-        - presence
-      provenance: national
-    status: yes
-    visible: no
-    hidden: yes
-    goal: 0.2
-    limit_goal: 0.0
-  - name: Somatochlora hineana
-    variable:
-      index: T_ECCC_SAR_Somatochlora_hineana
-      units: km2
-      legend:
-        type: manual
-        colors:
-        - '#00000000'
-        - '#fb9a99'
+        - '#ffed6f'
         labels:
         - absence
         - presence
@@ -1037,67 +155,13 @@ themes:
     limit_goal: 0.0
   - name: Sternotherus odoratus
     variable:
-      index: T_ECCC_SAR_Sternotherus_odoratus
+      index: T_ECCC_CH_Sternotherus_odoratus
       units: km2
       legend:
         type: manual
         colors:
         - '#00000000'
-        - '#fb9a99'
-        labels:
-        - absence
-        - presence
-      provenance: national
-    status: yes
-    visible: no
-    hidden: yes
-    goal: 0.2
-    limit_goal: 0.0
-  - name: Sturnella magna
-    variable:
-      index: T_ECCC_SAR_Sturnella_magna
-      units: km2
-      legend:
-        type: manual
-        colors:
-        - '#00000000'
-        - '#fb9a99'
-        labels:
-        - absence
-        - presence
-      provenance: national
-    status: yes
-    visible: no
-    hidden: yes
-    goal: 0.2
-    limit_goal: 0.0
-  - name: Taxidea taxus jacksoni
-    variable:
-      index: T_ECCC_SAR_Taxidea_taxus_jacksoni
-      units: km2
-      legend:
-        type: manual
-        colors:
-        - '#00000000'
-        - '#fb9a99'
-        labels:
-        - absence
-        - presence
-      provenance: national
-    status: yes
-    visible: no
-    hidden: yes
-    goal: 0.2
-    limit_goal: 0.0
-  - name: Tetraneuris herbacea
-    variable:
-      index: T_ECCC_SAR_Tetraneuris_herbacea
-      units: km2
-      legend:
-        type: manual
-        colors:
-        - '#00000000'
-        - '#fb9a99'
+        - '#ffed6f'
         labels:
         - absence
         - presence
@@ -1109,7 +173,45 @@ themes:
     limit_goal: 0.0
   - name: Thamnophis butleri
     variable:
-      index: T_ECCC_SAR_Thamnophis_butleri
+      index: T_ECCC_CH_Thamnophis_butleri
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ffed6f'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Wilsonia citrina
+    variable:
+      index: T_ECCC_CH_Wilsonia_citrina
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ffed6f'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+- name: Species at Risk (ECCC)
+  feature:
+  - name: Canada Warbler
+    variable:
+      index: T_ECCC_SAR_COSEWICID_1008
       units: km2
       legend:
         type: manual
@@ -1125,9 +227,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: Thamnophis sauritus
+  - name: Western Chorus Frog (Great Lakes / St. Lawrence - Canadian Shield population)
     variable:
-      index: T_ECCC_SAR_Thamnophis_sauritus
+      index: T_ECCC_SAR_COSEWICID_1019
       units: km2
       legend:
         type: manual
@@ -1143,9 +245,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: Urocyon cinereoargenteus
+  - name: Eastern Foxsnake (Great Lakes / St. Lawrence population)
     variable:
-      index: T_ECCC_SAR_Urocyon_cinereoargenteus
+      index: T_ECCC_SAR_COSEWICID_1022
       units: km2
       legend:
         type: manual
@@ -1161,9 +263,1125 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: Vermivora chrysoptera
+  - name: Snapping Turtle
     variable:
-      index: T_ECCC_SAR_Vermivora_chrysoptera
+      index: T_ECCC_SAR_COSEWICID_1033
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Eastern Whippoorwill
+    variable:
+      index: T_ECCC_SAR_COSEWICID_1047
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Rustypatched Bumble Bee
+    variable:
+      index: T_ECCC_SAR_COSEWICID_1081
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Bobolink
+    variable:
+      index: T_ECCC_SAR_COSEWICID_1087
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Macropis Cuckoo Bee
+    variable:
+      index: T_ECCC_SAR_COSEWICID_1142
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Eastern Meadowlark
+    variable:
+      index: T_ECCC_SAR_COSEWICID_1144
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Hine's Emerald
+    variable:
+      index: T_ECCC_SAR_COSEWICID_1145
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Hungerford's Crawling Water Beetle
+    variable:
+      index: T_ECCC_SAR_COSEWICID_1146
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Barn Swallow
+    variable:
+      index: T_ECCC_SAR_COSEWICID_1147
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Wood Thrush
+    variable:
+      index: T_ECCC_SAR_COSEWICID_1197
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Eastern Woodpewee
+    variable:
+      index: T_ECCC_SAR_COSEWICID_1198
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Mottled Duskywing (Great Lakes Plains population)
+    variable:
+      index: T_ECCC_SAR_COSEWICID_1212
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Massasauga (Great Lakes population)
+    variable:
+      index: T_ECCC_SAR_COSEWICID_1220
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Gypsy Cuckoo Bumble Bee
+    variable:
+      index: T_ECCC_SAR_COSEWICID_1232
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Bank Swallow
+    variable:
+      index: T_ECCC_SAR_COSEWICID_1233
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Grasshopper Sparrow, pratensis subspecies
+    variable:
+      index: T_ECCC_SAR_COSEWICID_1241
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Loggerhead Shrike Eastern subspecies
+    variable:
+      index: T_ECCC_SAR_COSEWICID_1265
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Gray Fox
+    variable:
+      index: T_ECCC_SAR_COSEWICID_157
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Gattinger's Agalinis
+    variable:
+      index: T_ECCC_SAR_COSEWICID_180
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Spotted Wintergreen
+    variable:
+      index: T_ECCC_SAR_COSEWICID_196
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: American Ginseng
+    variable:
+      index: T_ECCC_SAR_COSEWICID_217
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Pitcher's Thistle
+    variable:
+      index: T_ECCC_SAR_COSEWICID_225
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Henslow's Sparrow
+    variable:
+      index: T_ECCC_SAR_COSEWICID_23
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: King Rail
+    variable:
+      index: T_ECCC_SAR_COSEWICID_24
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Eastern Prairie Fringedorchid
+    variable:
+      index: T_ECCC_SAR_COSEWICID_248
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Kirtland's Warbler
+    variable:
+      index: T_ECCC_SAR_COSEWICID_25
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Hill's Pondweed
+    variable:
+      index: T_ECCC_SAR_COSEWICID_254
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Tuberous Indianplantain
+    variable:
+      index: T_ECCC_SAR_COSEWICID_256
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Loggerhead Shrike migrans subspecies
+    variable:
+      index: T_ECCC_SAR_COSEWICID_26
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Massasauga
+    variable:
+      index: T_ECCC_SAR_COSEWICID_277
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Spotted Turtle
+    variable:
+      index: T_ECCC_SAR_COSEWICID_285
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Monarch
+    variable:
+      index: T_ECCC_SAR_COSEWICID_294
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Eastern Hognosed Snake
+    variable:
+      index: T_ECCC_SAR_COSEWICID_301
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Hooded Warbler
+    variable:
+      index: T_ECCC_SAR_COSEWICID_37
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Cerulean Warbler
+    variable:
+      index: T_ECCC_SAR_COSEWICID_46
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Least Bittern
+    variable:
+      index: T_ECCC_SAR_COSEWICID_51
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Louisiana Waterthrush
+    variable:
+      index: T_ECCC_SAR_COSEWICID_53
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Northern Leopard Frog (Western Boreal/Prairie populations)
+    variable:
+      index: T_ECCC_SAR_COSEWICID_552
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Redheaded Woodpecker
+    variable:
+      index: T_ECCC_SAR_COSEWICID_57
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Yellow Rail
+    variable:
+      index: T_ECCC_SAR_COSEWICID_574
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Butler's Gartersnake
+    variable:
+      index: T_ECCC_SAR_COSEWICID_588
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Shorteared Owl
+    variable:
+      index: T_ECCC_SAR_COSEWICID_60
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Yellow-breasted Chat virens subspecies
+    variable:
+      index: T_ECCC_SAR_COSEWICID_61
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: American Badger jacksoni subspecies
+    variable:
+      index: T_ECCC_SAR_COSEWICID_621
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Jefferson Salamander
+    variable:
+      index: T_ECCC_SAR_COSEWICID_642
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Hart'stongue Fern
+    variable:
+      index: T_ECCC_SAR_COSEWICID_647
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Lakeside Daisy
+    variable:
+      index: T_ECCC_SAR_COSEWICID_705
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Eastern Musk Turtle
+    variable:
+      index: T_ECCC_SAR_COSEWICID_706
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Eastern Ribbonsnake (Great Lakes population)
+    variable:
+      index: T_ECCC_SAR_COSEWICID_709
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Northern Map Turtle
+    variable:
+      index: T_ECCC_SAR_COSEWICID_712
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Eastern Milksnake
+    variable:
+      index: T_ECCC_SAR_COSEWICID_714
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Forked Threeawned Grass
+    variable:
+      index: T_ECCC_SAR_COSEWICID_744
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Butternut
+    variable:
+      index: T_ECCC_SAR_COSEWICID_793
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Hill's Thistle
+    variable:
+      index: T_ECCC_SAR_COSEWICID_807
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Dwarf Lake Iris
+    variable:
+      index: T_ECCC_SAR_COSEWICID_826
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Blanding's Turtle (Great Lakes / St. Lawrence population)
+    variable:
+      index: T_ECCC_SAR_COSEWICID_846
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Houghton's Goldenrod
+    variable:
+      index: T_ECCC_SAR_COSEWICID_868
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Rusty Blackbird
+    variable:
+      index: T_ECCC_SAR_COSEWICID_907
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Aweme Borer
+    variable:
+      index: T_ECCC_SAR_COSEWICID_919
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Goldenwinged Warbler
+    variable:
+      index: T_ECCC_SAR_COSEWICID_942
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Chimney Swift
+    variable:
+      index: T_ECCC_SAR_COSEWICID_951
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Common Nighthawk
+    variable:
+      index: T_ECCC_SAR_COSEWICID_986
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#fb9a99'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Olivesided Flycatcher
+    variable:
+      index: T_ECCC_SAR_COSEWICID_999
       units: km2
       legend:
         type: manual
@@ -1181,9 +1399,9 @@ themes:
     limit_goal: 0.0
 - name: Amphibians (IUCN)
   feature:
-  - name: ' Ambystoma jeffersonianum'
+  - name: Jefferson Salamander
     variable:
-      index: T_IUCN_AMPH_Ambystoma_jeffersonianum
+      index: T_IUCN_AMPH_Ambystoma_jeffersonianum_aoh
       units: km2
       legend:
         type: manual
@@ -1199,9 +1417,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Ambystoma maculatum'
+  - name: Spotted Salamander
     variable:
-      index: T_IUCN_AMPH_Ambystoma_maculatum
+      index: T_IUCN_AMPH_Ambystoma_maculatum_aoh
       units: km2
       legend:
         type: manual
@@ -1217,9 +1435,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Anaxyrus americanus'
+  - name: American Toad
     variable:
-      index: T_IUCN_AMPH_Anaxyrus_americanus
+      index: T_IUCN_AMPH_Anaxyrus_americanus_aoh
       units: km2
       legend:
         type: manual
@@ -1235,9 +1453,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Dryophytes chrysoscelis'
+  - name: Southern Gray Treefrog
     variable:
-      index: T_IUCN_AMPH_Dryophytes_chrysoscelis
+      index: T_IUCN_AMPH_Dryophytes_chrysoscelis_aoh
       units: km2
       legend:
         type: manual
@@ -1253,9 +1471,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Dryophytes versicolor'
+  - name: Chameleon Treefrog
     variable:
-      index: T_IUCN_AMPH_Dryophytes_versicolor
+      index: T_IUCN_AMPH_Dryophytes_versicolor_aoh
       units: km2
       legend:
         type: manual
@@ -1271,9 +1489,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Hemidactylium scutatum'
+  - name: Four-Toed Salamander
     variable:
-      index: T_IUCN_AMPH_Hemidactylium_scutatum
+      index: T_IUCN_AMPH_Hemidactylium_scutatum_aoh
       units: km2
       legend:
         type: manual
@@ -1289,9 +1507,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Lithobates catesbeianus'
+  - name: American Bullfrog
     variable:
-      index: T_IUCN_AMPH_Lithobates_catesbeianus
+      index: T_IUCN_AMPH_Lithobates_catesbeianus_aoh
       units: km2
       legend:
         type: manual
@@ -1307,9 +1525,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Lithobates clamitans'
+  - name: Bronze Frog
     variable:
-      index: T_IUCN_AMPH_Lithobates_clamitans
+      index: T_IUCN_AMPH_Lithobates_clamitans_aoh
       units: km2
       legend:
         type: manual
@@ -1325,9 +1543,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Lithobates palustris'
+  - name: Pickerel Frog
     variable:
-      index: T_IUCN_AMPH_Lithobates_palustris
+      index: T_IUCN_AMPH_Lithobates_palustris_aoh
       units: km2
       legend:
         type: manual
@@ -1343,9 +1561,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Lithobates pipiens'
+  - name: Northern Leopard Frog
     variable:
-      index: T_IUCN_AMPH_Lithobates_pipiens
+      index: T_IUCN_AMPH_Lithobates_pipiens_aoh
       units: km2
       legend:
         type: manual
@@ -1361,9 +1579,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Lithobates septentrionalis'
+  - name: Mink Frog
     variable:
-      index: T_IUCN_AMPH_Lithobates_septentrionalis
+      index: T_IUCN_AMPH_Lithobates_septentrionalis_aoh
       units: km2
       legend:
         type: manual
@@ -1379,9 +1597,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Lithobates sylvaticus'
+  - name: Wood Frog
     variable:
-      index: T_IUCN_AMPH_Lithobates_sylvaticus
+      index: T_IUCN_AMPH_Lithobates_sylvaticus_aoh
       units: km2
       legend:
         type: manual
@@ -1397,9 +1615,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Notophthalmus viridescens'
+  - name: Eastern Newt
     variable:
-      index: T_IUCN_AMPH_Notophthalmus_viridescens
+      index: T_IUCN_AMPH_Notophthalmus_viridescens_aoh
       units: km2
       legend:
         type: manual
@@ -1415,9 +1633,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Plethodon cinereus'
+  - name: Red-Backed Salamander
     variable:
-      index: T_IUCN_AMPH_Plethodon_cinereus
+      index: T_IUCN_AMPH_Plethodon_cinereus_aoh
       units: km2
       legend:
         type: manual
@@ -1433,9 +1651,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Pseudacris crucifer'
+  - name: Spring Peeper
     variable:
-      index: T_IUCN_AMPH_Pseudacris_crucifer
+      index: T_IUCN_AMPH_Pseudacris_crucifer_aoh
       units: km2
       legend:
         type: manual
@@ -1451,9 +1669,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Pseudacris maculata'
+  - name: Boreal Chorus Frog
     variable:
-      index: T_IUCN_AMPH_Pseudacris_maculata
+      index: T_IUCN_AMPH_Pseudacris_maculata_aoh
       units: km2
       legend:
         type: manual
@@ -1471,9 +1689,9 @@ themes:
     limit_goal: 0.0
 - name: Birds (IUCN)
   feature:
-  - name: ' Acanthis flammea'
+  - name: Common Redpoll 3
     variable:
-      index: T_IUCN_BIRD_Acanthis_flammea
+      index: T_IUCN_BIRD_Acanthis_flammea_3_aoh
       units: km2
       legend:
         type: manual
@@ -1489,9 +1707,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Accipiter cooperii'
+  - name: Cooper's Hawk 2
     variable:
-      index: T_IUCN_BIRD_Accipiter_cooperii
+      index: T_IUCN_BIRD_Accipiter_cooperii_2_aoh
       units: km2
       legend:
         type: manual
@@ -1507,9 +1725,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Accipiter gentilis'
+  - name: Northern Goshawk 1
     variable:
-      index: T_IUCN_BIRD_Accipiter_gentilis
+      index: T_IUCN_BIRD_Accipiter_gentilis_1_aoh
       units: km2
       legend:
         type: manual
@@ -1525,9 +1743,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Accipiter striatus'
+  - name: Sharp-Shinned Hawk 2
     variable:
-      index: T_IUCN_BIRD_Accipiter_striatus
+      index: T_IUCN_BIRD_Accipiter_striatus_2_aoh
       units: km2
       legend:
         type: manual
@@ -1543,9 +1761,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Actitis macularius'
+  - name: Actitis macularius 2
     variable:
-      index: T_IUCN_BIRD_Actitis_macularius
+      index: T_IUCN_BIRD_Actitis_macularius_2_aoh
       units: km2
       legend:
         type: manual
@@ -1561,9 +1779,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Aegolius acadicus'
+  - name: Northern Saw-Whet Owl 1
     variable:
-      index: T_IUCN_BIRD_Aegolius_acadicus
+      index: T_IUCN_BIRD_Aegolius_acadicus_1_aoh
       units: km2
       legend:
         type: manual
@@ -1579,9 +1797,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Agelaius phoeniceus'
+  - name: Red-Winged Blackbird 2
     variable:
-      index: T_IUCN_BIRD_Agelaius_phoeniceus
+      index: T_IUCN_BIRD_Agelaius_phoeniceus_2_aoh
       units: km2
       legend:
         type: manual
@@ -1597,9 +1815,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Aix sponsa'
+  - name: Wood Duck 1
     variable:
-      index: T_IUCN_BIRD_Aix_sponsa
+      index: T_IUCN_BIRD_Aix_sponsa_1_aoh
       units: km2
       legend:
         type: manual
@@ -1615,9 +1833,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Ammodramus savannarum'
+  - name: Wood Duck 2
     variable:
-      index: T_IUCN_BIRD_Ammodramus_savannarum
+      index: T_IUCN_BIRD_Aix_sponsa_2_aoh
       units: km2
       legend:
         type: manual
@@ -1633,9 +1851,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Ammospiza leconteii'
+  - name: Grasshopper Sparrow 2
     variable:
-      index: T_IUCN_BIRD_Ammospiza_leconteii
+      index: T_IUCN_BIRD_Ammodramus_savannarum_2_aoh
       units: km2
       legend:
         type: manual
@@ -1651,9 +1869,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Anas acuta'
+  - name: Leconte's Sparrow 2
     variable:
-      index: T_IUCN_BIRD_Anas_acuta
+      index: T_IUCN_BIRD_Ammospiza_leconteii_2_aoh
       units: km2
       legend:
         type: manual
@@ -1669,9 +1887,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Anas crecca'
+  - name: Northern Pintail 2
     variable:
-      index: T_IUCN_BIRD_Anas_crecca
+      index: T_IUCN_BIRD_Anas_acuta_2_aoh
       units: km2
       legend:
         type: manual
@@ -1687,9 +1905,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Anas platyrhynchos'
+  - name: Common Teal 2
     variable:
-      index: T_IUCN_BIRD_Anas_platyrhynchos
+      index: T_IUCN_BIRD_Anas_crecca_2_aoh
       units: km2
       legend:
         type: manual
@@ -1705,9 +1923,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Anas rubripes'
+  - name: Mallard 2
     variable:
-      index: T_IUCN_BIRD_Anas_rubripes
+      index: T_IUCN_BIRD_Anas_platyrhynchos_2_aoh
       units: km2
       legend:
         type: manual
@@ -1723,9 +1941,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Antrostomus vociferus'
+  - name: American Black Duck 2
     variable:
-      index: T_IUCN_BIRD_Antrostomus_vociferus
+      index: T_IUCN_BIRD_Anas_rubripes_2_aoh
       units: km2
       legend:
         type: manual
@@ -1741,9 +1959,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Archilochus colubris'
+  - name: Antrostomus vociferus 2
     variable:
-      index: T_IUCN_BIRD_Archilochus_colubris
+      index: T_IUCN_BIRD_Antrostomus_vociferus_2_aoh
       units: km2
       legend:
         type: manual
@@ -1759,9 +1977,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Ardea alba'
+  - name: Archilochus colubris 2
     variable:
-      index: T_IUCN_BIRD_Ardea_alba
+      index: T_IUCN_BIRD_Archilochus_colubris_2_aoh
       units: km2
       legend:
         type: manual
@@ -1777,9 +1995,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Ardea herodias'
+  - name: Great Egret 2
     variable:
-      index: T_IUCN_BIRD_Ardea_herodias
+      index: T_IUCN_BIRD_Ardea_alba_2_aoh
       units: km2
       legend:
         type: manual
@@ -1795,9 +2013,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Asio flammeus'
+  - name: Great Blue Heron 2
     variable:
-      index: T_IUCN_BIRD_Asio_flammeus
+      index: T_IUCN_BIRD_Ardea_herodias_2_aoh
       units: km2
       legend:
         type: manual
@@ -1813,9 +2031,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Asio otus'
+  - name: Short-Eared Owl 1
     variable:
-      index: T_IUCN_BIRD_Asio_otus
+      index: T_IUCN_BIRD_Asio_flammeus_1_aoh
       units: km2
       legend:
         type: manual
@@ -1831,9 +2049,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Aythya americana'
+  - name: Short-Eared Owl 2
     variable:
-      index: T_IUCN_BIRD_Aythya_americana
+      index: T_IUCN_BIRD_Asio_flammeus_2_aoh
       units: km2
       legend:
         type: manual
@@ -1849,9 +2067,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Aythya collaris'
+  - name: Long-Eared Owl 1
     variable:
-      index: T_IUCN_BIRD_Aythya_collaris
+      index: T_IUCN_BIRD_Asio_otus_1_aoh
       units: km2
       legend:
         type: manual
@@ -1867,9 +2085,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Aythya marila'
+  - name: Redhead 2
     variable:
-      index: T_IUCN_BIRD_Aythya_marila
+      index: T_IUCN_BIRD_Aythya_americana_2_aoh
       units: km2
       legend:
         type: manual
@@ -1885,9 +2103,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Aythya valisineria'
+  - name: Ring-Necked Duck 2
     variable:
-      index: T_IUCN_BIRD_Aythya_valisineria
+      index: T_IUCN_BIRD_Aythya_collaris_2_aoh
       units: km2
       legend:
         type: manual
@@ -1903,9 +2121,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Bartramia longicauda'
+  - name: Greater Scaup 3
     variable:
-      index: T_IUCN_BIRD_Bartramia_longicauda
+      index: T_IUCN_BIRD_Aythya_marila_3_aoh
       units: km2
       legend:
         type: manual
@@ -1921,9 +2139,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Bombycilla cedrorum'
+  - name: Canvasback 2
     variable:
-      index: T_IUCN_BIRD_Bombycilla_cedrorum
+      index: T_IUCN_BIRD_Aythya_valisineria_2_aoh
       units: km2
       legend:
         type: manual
@@ -1939,9 +2157,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Bombycilla garrulus'
+  - name: Upland Sandpiper 2
     variable:
-      index: T_IUCN_BIRD_Bombycilla_garrulus
+      index: T_IUCN_BIRD_Bartramia_longicauda_2_aoh
       units: km2
       legend:
         type: manual
@@ -1957,9 +2175,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Bonasa umbellus'
+  - name: Cedar Waxwing 1
     variable:
-      index: T_IUCN_BIRD_Bonasa_umbellus
+      index: T_IUCN_BIRD_Bombycilla_cedrorum_1_aoh
       units: km2
       legend:
         type: manual
@@ -1975,9 +2193,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Botaurus lentiginosus'
+  - name: Bombycilla garrulus 3
     variable:
-      index: T_IUCN_BIRD_Botaurus_lentiginosus
+      index: T_IUCN_BIRD_Bombycilla_garrulus_3_aoh
       units: km2
       legend:
         type: manual
@@ -1993,9 +2211,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Branta canadensis'
+  - name: Ruffed Grouse 1
     variable:
-      index: T_IUCN_BIRD_Branta_canadensis
+      index: T_IUCN_BIRD_Bonasa_umbellus_1_aoh
       units: km2
       legend:
         type: manual
@@ -2011,9 +2229,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Bubo scandiacus'
+  - name: American Bittern 2
     variable:
-      index: T_IUCN_BIRD_Bubo_scandiacus
+      index: T_IUCN_BIRD_Botaurus_lentiginosus_2_aoh
       units: km2
       legend:
         type: manual
@@ -2029,9 +2247,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Bubo virginianus'
+  - name: Canada Goose 1
     variable:
-      index: T_IUCN_BIRD_Bubo_virginianus
+      index: T_IUCN_BIRD_Branta_canadensis_1_aoh
       units: km2
       legend:
         type: manual
@@ -2047,9 +2265,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Bubulcus ibis'
+  - name: Snowy Owl 3
     variable:
-      index: T_IUCN_BIRD_Bubulcus_ibis
+      index: T_IUCN_BIRD_Bubo_scandiacus_3_aoh
       units: km2
       legend:
         type: manual
@@ -2065,9 +2283,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Bucephala clangula'
+  - name: Great Horned Owl 1
     variable:
-      index: T_IUCN_BIRD_Bucephala_clangula
+      index: T_IUCN_BIRD_Bubo_virginianus_1_aoh
       units: km2
       legend:
         type: manual
@@ -2083,9 +2301,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Buteo jamaicensis'
+  - name: Cattle Egret 2
     variable:
-      index: T_IUCN_BIRD_Buteo_jamaicensis
+      index: T_IUCN_BIRD_Bubulcus_ibis_2_aoh
       units: km2
       legend:
         type: manual
@@ -2101,9 +2319,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Buteo lagopus'
+  - name: Common Goldeneye 3
     variable:
-      index: T_IUCN_BIRD_Buteo_lagopus
+      index: T_IUCN_BIRD_Bucephala_clangula_3_aoh
       units: km2
       legend:
         type: manual
@@ -2119,9 +2337,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Buteo lineatus'
+  - name: Red-Tailed Hawk 2
     variable:
-      index: T_IUCN_BIRD_Buteo_lineatus
+      index: T_IUCN_BIRD_Buteo_jamaicensis_2_aoh
       units: km2
       legend:
         type: manual
@@ -2137,9 +2355,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Buteo platypterus'
+  - name: Rough-Legged Hawk 3
     variable:
-      index: T_IUCN_BIRD_Buteo_platypterus
+      index: T_IUCN_BIRD_Buteo_lagopus_3_aoh
       units: km2
       legend:
         type: manual
@@ -2155,9 +2373,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Butorides striata'
+  - name: Red-Shouldered Hawk 2
     variable:
-      index: T_IUCN_BIRD_Butorides_striata
+      index: T_IUCN_BIRD_Buteo_lineatus_2_aoh
       units: km2
       legend:
         type: manual
@@ -2173,9 +2391,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Calcarius lapponicus'
+  - name: Broad-Winged Hawk 2
     variable:
-      index: T_IUCN_BIRD_Calcarius_lapponicus
+      index: T_IUCN_BIRD_Buteo_platypterus_2_aoh
       units: km2
       legend:
         type: manual
@@ -2191,9 +2409,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Cardellina canadensis'
+  - name: Green-Backed Heron 2
     variable:
-      index: T_IUCN_BIRD_Cardellina_canadensis
+      index: T_IUCN_BIRD_Butorides_striata_2_aoh
       units: km2
       legend:
         type: manual
@@ -2209,9 +2427,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Cardinalis cardinalis'
+  - name: Lapland Longspur 3
     variable:
-      index: T_IUCN_BIRD_Cardinalis_cardinalis
+      index: T_IUCN_BIRD_Calcarius_lapponicus_3_aoh
       units: km2
       legend:
         type: manual
@@ -2227,9 +2445,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Cathartes aura'
+  - name: Canada Warbler 2
     variable:
-      index: T_IUCN_BIRD_Cathartes_aura
+      index: T_IUCN_BIRD_Cardellina_canadensis_2_aoh
       units: km2
       legend:
         type: manual
@@ -2245,9 +2463,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Catharus fuscescens'
+  - name: Northern Cardinal 1
     variable:
-      index: T_IUCN_BIRD_Catharus_fuscescens
+      index: T_IUCN_BIRD_Cardinalis_cardinalis_1_aoh
       units: km2
       legend:
         type: manual
@@ -2263,9 +2481,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Catharus guttatus'
+  - name: Turkey Vulture 2
     variable:
-      index: T_IUCN_BIRD_Catharus_guttatus
+      index: T_IUCN_BIRD_Cathartes_aura_2_aoh
       units: km2
       legend:
         type: manual
@@ -2281,9 +2499,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Catharus swainsoni'
+  - name: Veery 2
     variable:
-      index: T_IUCN_BIRD_Catharus_swainsoni
+      index: T_IUCN_BIRD_Catharus_fuscescens_2_aoh
       units: km2
       legend:
         type: manual
@@ -2299,9 +2517,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Certhia americana'
+  - name: Hermit Thrush 2
     variable:
-      index: T_IUCN_BIRD_Certhia_americana
+      index: T_IUCN_BIRD_Catharus_guttatus_2_aoh
       units: km2
       legend:
         type: manual
@@ -2317,9 +2535,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Chaetura pelagica'
+  - name: Catharus swainsoni 2
     variable:
-      index: T_IUCN_BIRD_Chaetura_pelagica
+      index: T_IUCN_BIRD_Catharus_swainsoni_2_aoh
       units: km2
       legend:
         type: manual
@@ -2335,9 +2553,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Charadrius vociferus'
+  - name: Certhia americana 1
     variable:
-      index: T_IUCN_BIRD_Charadrius_vociferus
+      index: T_IUCN_BIRD_Certhia_americana_1_aoh
       units: km2
       legend:
         type: manual
@@ -2353,9 +2571,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Chlidonias niger'
+  - name: Chimney Swift 2
     variable:
-      index: T_IUCN_BIRD_Chlidonias_niger
+      index: T_IUCN_BIRD_Chaetura_pelagica_2_aoh
       units: km2
       legend:
         type: manual
@@ -2371,9 +2589,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Chordeiles minor'
+  - name: Killdeer 2
     variable:
-      index: T_IUCN_BIRD_Chordeiles_minor
+      index: T_IUCN_BIRD_Charadrius_vociferus_2_aoh
       units: km2
       legend:
         type: manual
@@ -2389,9 +2607,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Circus hudsonius'
+  - name: Black Tern 2
     variable:
-      index: T_IUCN_BIRD_Circus_hudsonius
+      index: T_IUCN_BIRD_Chlidonias_niger_2_aoh
       units: km2
       legend:
         type: manual
@@ -2407,9 +2625,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Cistothorus palustris'
+  - name: Common Nighthawk 2
     variable:
-      index: T_IUCN_BIRD_Cistothorus_palustris
+      index: T_IUCN_BIRD_Chordeiles_minor_2_aoh
       units: km2
       legend:
         type: manual
@@ -2425,9 +2643,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Cistothorus stellaris'
+  - name: American Harrier 2
     variable:
-      index: T_IUCN_BIRD_Cistothorus_stellaris
+      index: T_IUCN_BIRD_Circus_hudsonius_2_aoh
       units: km2
       legend:
         type: manual
@@ -2443,9 +2661,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Clangula hyemalis'
+  - name: Cistothorus palustris 2
     variable:
-      index: T_IUCN_BIRD_Clangula_hyemalis
+      index: T_IUCN_BIRD_Cistothorus_palustris_2_aoh
       units: km2
       legend:
         type: manual
@@ -2461,9 +2679,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Coccyzus americanus'
+  - name: Cistothorus stellaris 2
     variable:
-      index: T_IUCN_BIRD_Coccyzus_americanus
+      index: T_IUCN_BIRD_Cistothorus_stellaris_2_aoh
       units: km2
       legend:
         type: manual
@@ -2479,9 +2697,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Coccyzus erythropthalmus'
+  - name: Long-Tailed Duck 2
     variable:
-      index: T_IUCN_BIRD_Coccyzus_erythropthalmus
+      index: T_IUCN_BIRD_Clangula_hyemalis_2_aoh
       units: km2
       legend:
         type: manual
@@ -2497,9 +2715,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Colaptes auratus'
+  - name: Long-Tailed Duck 3
     variable:
-      index: T_IUCN_BIRD_Colaptes_auratus
+      index: T_IUCN_BIRD_Clangula_hyemalis_3_aoh
       units: km2
       legend:
         type: manual
@@ -2515,9 +2733,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Contopus cooperi'
+  - name: Coccyzus americanus 2
     variable:
-      index: T_IUCN_BIRD_Contopus_cooperi
+      index: T_IUCN_BIRD_Coccyzus_americanus_2_aoh
       units: km2
       legend:
         type: manual
@@ -2533,9 +2751,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Contopus virens'
+  - name: Black-Billec Cuckoo 2
     variable:
-      index: T_IUCN_BIRD_Contopus_virens
+      index: T_IUCN_BIRD_Coccyzus_erythropthalmus_2_aoh
       units: km2
       legend:
         type: manual
@@ -2551,9 +2769,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Corvus brachyrhynchos'
+  - name: Colaptes auratus 2
     variable:
-      index: T_IUCN_BIRD_Corvus_brachyrhynchos
+      index: T_IUCN_BIRD_Colaptes_auratus_2_aoh
       units: km2
       legend:
         type: manual
@@ -2569,9 +2787,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Coturnicops noveboracensis'
+  - name: Contopus cooperi 2
     variable:
-      index: T_IUCN_BIRD_Coturnicops_noveboracensis
+      index: T_IUCN_BIRD_Contopus_cooperi_2_aoh
       units: km2
       legend:
         type: manual
@@ -2587,9 +2805,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Cyanocitta cristata'
+  - name: Contopus virens 2
     variable:
-      index: T_IUCN_BIRD_Cyanocitta_cristata
+      index: T_IUCN_BIRD_Contopus_virens_2_aoh
       units: km2
       legend:
         type: manual
@@ -2605,9 +2823,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Cygnus buccinator'
+  - name: American Crow 1
     variable:
-      index: T_IUCN_BIRD_Cygnus_buccinator
+      index: T_IUCN_BIRD_Corvus_brachyrhynchos_1_aoh
       units: km2
       legend:
         type: manual
@@ -2623,9 +2841,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Dolichonyx oryzivorus'
+  - name: American Crow 2
     variable:
-      index: T_IUCN_BIRD_Dolichonyx_oryzivorus
+      index: T_IUCN_BIRD_Corvus_brachyrhynchos_2_aoh
       units: km2
       legend:
         type: manual
@@ -2641,9 +2859,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Dryobates pubescens'
+  - name: Yellow Rail 2
     variable:
-      index: T_IUCN_BIRD_Dryobates_pubescens
+      index: T_IUCN_BIRD_Coturnicops_noveboracensis_2_aoh
       units: km2
       legend:
         type: manual
@@ -2659,9 +2877,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Dumetella carolinensis'
+  - name: Blue Jay 1
     variable:
-      index: T_IUCN_BIRD_Dumetella_carolinensis
+      index: T_IUCN_BIRD_Cyanocitta_cristata_1_aoh
       units: km2
       legend:
         type: manual
@@ -2677,9 +2895,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Empidonax alnorum'
+  - name: Trumperter Swan 1
     variable:
-      index: T_IUCN_BIRD_Empidonax_alnorum
+      index: T_IUCN_BIRD_Cygnus_buccinator_1_aoh
       units: km2
       legend:
         type: manual
@@ -2695,9 +2913,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Empidonax flaviventris'
+  - name: Bobolink 2
     variable:
-      index: T_IUCN_BIRD_Empidonax_flaviventris
+      index: T_IUCN_BIRD_Dolichonyx_oryzivorus_2_aoh
       units: km2
       legend:
         type: manual
@@ -2713,9 +2931,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Empidonax minimus'
+  - name: Downy Woodpecker 1
     variable:
-      index: T_IUCN_BIRD_Empidonax_minimus
+      index: T_IUCN_BIRD_Dryobates_pubescens_1_aoh
       units: km2
       legend:
         type: manual
@@ -2731,9 +2949,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Empidonax traillii'
+  - name: Grey Catbird 2
     variable:
-      index: T_IUCN_BIRD_Empidonax_traillii
+      index: T_IUCN_BIRD_Dumetella_carolinensis_2_aoh
       units: km2
       legend:
         type: manual
@@ -2749,9 +2967,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Eremophila alpestris'
+  - name: Alder Flycatcher 2
     variable:
-      index: T_IUCN_BIRD_Eremophila_alpestris
+      index: T_IUCN_BIRD_Empidonax_alnorum_2_aoh
       units: km2
       legend:
         type: manual
@@ -2767,9 +2985,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Euphagus cyanocephalus'
+  - name: Empidonax flaviventris 2
     variable:
-      index: T_IUCN_BIRD_Euphagus_cyanocephalus
+      index: T_IUCN_BIRD_Empidonax_flaviventris_2_aoh
       units: km2
       legend:
         type: manual
@@ -2785,9 +3003,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Falcipennis canadensis'
+  - name: Empidonax minimus 2
     variable:
-      index: T_IUCN_BIRD_Falcipennis_canadensis
+      index: T_IUCN_BIRD_Empidonax_minimus_2_aoh
       units: km2
       legend:
         type: manual
@@ -2803,9 +3021,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Falco columbarius'
+  - name: Willow Flycatcher 2
     variable:
-      index: T_IUCN_BIRD_Falco_columbarius
+      index: T_IUCN_BIRD_Empidonax_traillii_2_aoh
       units: km2
       legend:
         type: manual
@@ -2821,9 +3039,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Falco peregrinus'
+  - name: Horned Lark 2
     variable:
-      index: T_IUCN_BIRD_Falco_peregrinus
+      index: T_IUCN_BIRD_Eremophila_alpestris_2_aoh
       units: km2
       legend:
         type: manual
@@ -2839,9 +3057,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Falco rusticolus'
+  - name: Brewer's Blackbird 2
     variable:
-      index: T_IUCN_BIRD_Falco_rusticolus
+      index: T_IUCN_BIRD_Euphagus_cyanocephalus_2_aoh
       units: km2
       legend:
         type: manual
@@ -2857,9 +3075,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Falco sparverius'
+  - name: Siberian Grouse 1
     variable:
-      index: T_IUCN_BIRD_Falco_sparverius
+      index: T_IUCN_BIRD_Falcipennis_canadensis_1_aoh
       units: km2
       legend:
         type: manual
@@ -2875,9 +3093,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Fulica americana'
+  - name: Falco columbarius 2
     variable:
-      index: T_IUCN_BIRD_Fulica_americana
+      index: T_IUCN_BIRD_Falco_columbarius_2_aoh
       units: km2
       legend:
         type: manual
@@ -2893,9 +3111,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Gallinago delicata'
+  - name: Peregrine Falcon 2
     variable:
-      index: T_IUCN_BIRD_Gallinago_delicata
+      index: T_IUCN_BIRD_Falco_peregrinus_2_aoh
       units: km2
       legend:
         type: manual
@@ -2911,9 +3129,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Gallinula galeata'
+  - name: Gyrfalcon 3
     variable:
-      index: T_IUCN_BIRD_Gallinula_galeata
+      index: T_IUCN_BIRD_Falco_rusticolus_3_aoh
       units: km2
       legend:
         type: manual
@@ -2929,9 +3147,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Gavia immer'
+  - name: Falco sparverius 2
     variable:
-      index: T_IUCN_BIRD_Gavia_immer
+      index: T_IUCN_BIRD_Falco_sparverius_2_aoh
       units: km2
       legend:
         type: manual
@@ -2947,9 +3165,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Geothlypis philadelphia'
+  - name: American Coot 2
     variable:
-      index: T_IUCN_BIRD_Geothlypis_philadelphia
+      index: T_IUCN_BIRD_Fulica_americana_2_aoh
       units: km2
       legend:
         type: manual
@@ -2965,9 +3183,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Geothlypis trichas'
+  - name: Gallinago delicata 2
     variable:
-      index: T_IUCN_BIRD_Geothlypis_trichas
+      index: T_IUCN_BIRD_Gallinago_delicata_2_aoh
       units: km2
       legend:
         type: manual
@@ -2983,9 +3201,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Haemorhous mexicanus'
+  - name: Gallinula galeata 2
     variable:
-      index: T_IUCN_BIRD_Haemorhous_mexicanus
+      index: T_IUCN_BIRD_Gallinula_galeata_2_aoh
       units: km2
       legend:
         type: manual
@@ -3001,9 +3219,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Haemorhous purpureus'
+  - name: Great Northern Loon 2
     variable:
-      index: T_IUCN_BIRD_Haemorhous_purpureus
+      index: T_IUCN_BIRD_Gavia_immer_2_aoh
       units: km2
       legend:
         type: manual
@@ -3019,9 +3237,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Haliaeetus leucocephalus'
+  - name: Mourning Warbler 2
     variable:
-      index: T_IUCN_BIRD_Haliaeetus_leucocephalus
+      index: T_IUCN_BIRD_Geothlypis_philadelphia_2_aoh
       units: km2
       legend:
         type: manual
@@ -3037,9 +3255,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Hesperiphona vespertina'
+  - name: Common Yellowthroat 2
     variable:
-      index: T_IUCN_BIRD_Hesperiphona_vespertina
+      index: T_IUCN_BIRD_Geothlypis_trichas_2_aoh
       units: km2
       legend:
         type: manual
@@ -3055,9 +3273,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Hirundo rustica'
+  - name: House Finch 1
     variable:
-      index: T_IUCN_BIRD_Hirundo_rustica
+      index: T_IUCN_BIRD_Haemorhous_mexicanus_1_aoh
       units: km2
       legend:
         type: manual
@@ -3073,9 +3291,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Hydrocoloeus minutus'
+  - name: Purple Finch 1
     variable:
-      index: T_IUCN_BIRD_Hydrocoloeus_minutus
+      index: T_IUCN_BIRD_Haemorhous_purpureus_1_aoh
       units: km2
       legend:
         type: manual
@@ -3091,9 +3309,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Hylatomus pileatus'
+  - name: Bald Eagle 1
     variable:
-      index: T_IUCN_BIRD_Hylatomus_pileatus
+      index: T_IUCN_BIRD_Haliaeetus_leucocephalus_1_aoh
       units: km2
       legend:
         type: manual
@@ -3109,9 +3327,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Hylocichla mustelina'
+  - name: Bald Eagle 3
     variable:
-      index: T_IUCN_BIRD_Hylocichla_mustelina
+      index: T_IUCN_BIRD_Haliaeetus_leucocephalus_3_aoh
       units: km2
       legend:
         type: manual
@@ -3127,9 +3345,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Icterus galbula'
+  - name: Hesperiphona vespertina 3
     variable:
-      index: T_IUCN_BIRD_Icterus_galbula
+      index: T_IUCN_BIRD_Hesperiphona_vespertina_3_aoh
       units: km2
       legend:
         type: manual
@@ -3145,9 +3363,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Icterus spurius'
+  - name: Barn Swallow 2
     variable:
-      index: T_IUCN_BIRD_Icterus_spurius
+      index: T_IUCN_BIRD_Hirundo_rustica_2_aoh
       units: km2
       legend:
         type: manual
@@ -3163,9 +3381,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Ixobrychus exilis'
+  - name: Hydrocoloeus minutus 2
     variable:
-      index: T_IUCN_BIRD_Ixobrychus_exilis
+      index: T_IUCN_BIRD_Hydrocoloeus_minutus_2_aoh
       units: km2
       legend:
         type: manual
@@ -3181,9 +3399,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Junco hyemalis'
+  - name: Hylatomus pileatus 1
     variable:
-      index: T_IUCN_BIRD_Junco_hyemalis
+      index: T_IUCN_BIRD_Hylatomus_pileatus_1_aoh
       units: km2
       legend:
         type: manual
@@ -3199,9 +3417,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Lanius borealis'
+  - name: Hylocichla mustelina 2
     variable:
-      index: T_IUCN_BIRD_Lanius_borealis
+      index: T_IUCN_BIRD_Hylocichla_mustelina_2_aoh
       units: km2
       legend:
         type: manual
@@ -3217,9 +3435,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Lanius ludovicianus'
+  - name: Baltimore Oriole 2
     variable:
-      index: T_IUCN_BIRD_Lanius_ludovicianus
+      index: T_IUCN_BIRD_Icterus_galbula_2_aoh
       units: km2
       legend:
         type: manual
@@ -3235,9 +3453,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Larus atricilla'
+  - name: Icterus spurius 2
     variable:
-      index: T_IUCN_BIRD_Larus_atricilla
+      index: T_IUCN_BIRD_Icterus_spurius_2_aoh
       units: km2
       legend:
         type: manual
@@ -3253,9 +3471,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Larus delawarensis'
+  - name: Least Bittern 2
     variable:
-      index: T_IUCN_BIRD_Larus_delawarensis
+      index: T_IUCN_BIRD_Ixobrychus_exilis_2_aoh
       units: km2
       legend:
         type: manual
@@ -3271,9 +3489,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Larus hyperboreus'
+  - name: Dark-Eyed Junco 1
     variable:
-      index: T_IUCN_BIRD_Larus_hyperboreus
+      index: T_IUCN_BIRD_Junco_hyemalis_1_aoh
       units: km2
       legend:
         type: manual
@@ -3289,9 +3507,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Larus marinus'
+  - name: Dark-Eyed Junco 2
     variable:
-      index: T_IUCN_BIRD_Larus_marinus
+      index: T_IUCN_BIRD_Junco_hyemalis_2_aoh
       units: km2
       legend:
         type: manual
@@ -3307,9 +3525,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Larus philadelphia'
+  - name: Lanius borealis 3
     variable:
-      index: T_IUCN_BIRD_Larus_philadelphia
+      index: T_IUCN_BIRD_Lanius_borealis_3_aoh
       units: km2
       legend:
         type: manual
@@ -3325,9 +3543,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Larus smithsonianus'
+  - name: Lanius ludovicianus 2
     variable:
-      index: T_IUCN_BIRD_Larus_smithsonianus
+      index: T_IUCN_BIRD_Lanius_ludovicianus_2_aoh
       units: km2
       legend:
         type: manual
@@ -3343,9 +3561,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Leiothlypis ruficapilla'
+  - name: Laughing Gull 2
     variable:
-      index: T_IUCN_BIRD_Leiothlypis_ruficapilla
+      index: T_IUCN_BIRD_Larus_atricilla_2_aoh
       units: km2
       legend:
         type: manual
@@ -3361,9 +3579,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Leuconotopicus villosus'
+  - name: Larus delawarensis 2
     variable:
-      index: T_IUCN_BIRD_Leuconotopicus_villosus
+      index: T_IUCN_BIRD_Larus_delawarensis_2_aoh
       units: km2
       legend:
         type: manual
@@ -3379,9 +3597,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Lophodytes cucullatus'
+  - name: Larus hyperboreus 3
     variable:
-      index: T_IUCN_BIRD_Lophodytes_cucullatus
+      index: T_IUCN_BIRD_Larus_hyperboreus_3_aoh
       units: km2
       legend:
         type: manual
@@ -3397,9 +3615,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Loxia leucoptera'
+  - name: Larus marinus 3
     variable:
-      index: T_IUCN_BIRD_Loxia_leucoptera
+      index: T_IUCN_BIRD_Larus_marinus_3_aoh
       units: km2
       legend:
         type: manual
@@ -3415,9 +3633,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Mareca americana'
+  - name: Larus philadelphia 3
     variable:
-      index: T_IUCN_BIRD_Mareca_americana
+      index: T_IUCN_BIRD_Larus_philadelphia_3_aoh
       units: km2
       legend:
         type: manual
@@ -3433,9 +3651,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Mareca strepera'
+  - name: American Herring Gull 1
     variable:
-      index: T_IUCN_BIRD_Mareca_strepera
+      index: T_IUCN_BIRD_Larus_smithsonianus_1_aoh
       units: km2
       legend:
         type: manual
@@ -3451,9 +3669,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Megaceryle alcyon'
+  - name: Leiothlypis ruficapilla 2
     variable:
-      index: T_IUCN_BIRD_Megaceryle_alcyon
+      index: T_IUCN_BIRD_Leiothlypis_ruficapilla_2_aoh
       units: km2
       legend:
         type: manual
@@ -3469,9 +3687,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Megascops asio'
+  - name: Leuconotopicus villosus 1
     variable:
-      index: T_IUCN_BIRD_Megascops_asio
+      index: T_IUCN_BIRD_Leuconotopicus_villosus_1_aoh
       units: km2
       legend:
         type: manual
@@ -3487,9 +3705,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Melanerpes erythrocephalus'
+  - name: Lophodytes cucullatus 1
     variable:
-      index: T_IUCN_BIRD_Melanerpes_erythrocephalus
+      index: T_IUCN_BIRD_Lophodytes_cucullatus_1_aoh
       units: km2
       legend:
         type: manual
@@ -3505,9 +3723,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Meleagris gallopavo'
+  - name: Lophodytes cucullatus 2
     variable:
-      index: T_IUCN_BIRD_Meleagris_gallopavo
+      index: T_IUCN_BIRD_Lophodytes_cucullatus_2_aoh
       units: km2
       legend:
         type: manual
@@ -3523,9 +3741,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Melospiza georgiana'
+  - name: Loxia leucoptera 1
     variable:
-      index: T_IUCN_BIRD_Melospiza_georgiana
+      index: T_IUCN_BIRD_Loxia_leucoptera_1_aoh
       units: km2
       legend:
         type: manual
@@ -3541,9 +3759,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Melospiza lincolnii'
+  - name: American Wigeon 2
     variable:
-      index: T_IUCN_BIRD_Melospiza_lincolnii
+      index: T_IUCN_BIRD_Mareca_americana_2_aoh
       units: km2
       legend:
         type: manual
@@ -3559,9 +3777,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Melospiza melodia'
+  - name: Gadwall 2
     variable:
-      index: T_IUCN_BIRD_Melospiza_melodia
+      index: T_IUCN_BIRD_Mareca_strepera_2_aoh
       units: km2
       legend:
         type: manual
@@ -3577,9 +3795,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Mergus merganser'
+  - name: Belted Kingfisher 2
     variable:
-      index: T_IUCN_BIRD_Mergus_merganser
+      index: T_IUCN_BIRD_Megaceryle_alcyon_2_aoh
       units: km2
       legend:
         type: manual
@@ -3595,9 +3813,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Mergus serrator'
+  - name: Eastern Screech-Owl 1
     variable:
-      index: T_IUCN_BIRD_Mergus_serrator
+      index: T_IUCN_BIRD_Megascops_asio_1_aoh
       units: km2
       legend:
         type: manual
@@ -3613,9 +3831,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Mimus polyglottos'
+  - name: Red-Headed Woodpecker 2
     variable:
-      index: T_IUCN_BIRD_Mimus_polyglottos
+      index: T_IUCN_BIRD_Melanerpes_erythrocephalus_2_aoh
       units: km2
       legend:
         type: manual
@@ -3631,9 +3849,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Mniotilta varia'
+  - name: Turkey 1
     variable:
-      index: T_IUCN_BIRD_Mniotilta_varia
+      index: T_IUCN_BIRD_Meleagris_gallopavo_1_aoh
       units: km2
       legend:
         type: manual
@@ -3649,9 +3867,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Molothrus ater'
+  - name: Melospiza georgiana 2
     variable:
-      index: T_IUCN_BIRD_Molothrus_ater
+      index: T_IUCN_BIRD_Melospiza_georgiana_2_aoh
       units: km2
       legend:
         type: manual
@@ -3667,9 +3885,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Myiarchus crinitus'
+  - name: Melospiza lincolnii 2
     variable:
-      index: T_IUCN_BIRD_Myiarchus_crinitus
+      index: T_IUCN_BIRD_Melospiza_lincolnii_2_aoh
       units: km2
       legend:
         type: manual
@@ -3685,9 +3903,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Nannopterum auritus'
+  - name: Song Sparrow 1
     variable:
-      index: T_IUCN_BIRD_Nannopterum_auritus
+      index: T_IUCN_BIRD_Melospiza_melodia_1_aoh
       units: km2
       legend:
         type: manual
@@ -3703,9 +3921,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Nycticorax nycticorax'
+  - name: Song Sparrow 2
     variable:
-      index: T_IUCN_BIRD_Nycticorax_nycticorax
+      index: T_IUCN_BIRD_Melospiza_melodia_2_aoh
       units: km2
       legend:
         type: manual
@@ -3721,9 +3939,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Oxyura jamaicensis'
+  - name: Common Merganser 1
     variable:
-      index: T_IUCN_BIRD_Oxyura_jamaicensis
+      index: T_IUCN_BIRD_Mergus_merganser_1_aoh
       units: km2
       legend:
         type: manual
@@ -3739,9 +3957,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Pandion haliaetus'
+  - name: Mergus serrator 2
     variable:
-      index: T_IUCN_BIRD_Pandion_haliaetus
+      index: T_IUCN_BIRD_Mergus_serrator_2_aoh
       units: km2
       legend:
         type: manual
@@ -3757,9 +3975,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Parkesia motacilla'
+  - name: Mergus serrator 3
     variable:
-      index: T_IUCN_BIRD_Parkesia_motacilla
+      index: T_IUCN_BIRD_Mergus_serrator_3_aoh
       units: km2
       legend:
         type: manual
@@ -3775,9 +3993,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Parkesia noveboracensis'
+  - name: Northern Mockingbird 1
     variable:
-      index: T_IUCN_BIRD_Parkesia_noveboracensis
+      index: T_IUCN_BIRD_Mimus_polyglottos_1_aoh
       units: km2
       legend:
         type: manual
@@ -3793,9 +4011,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Passer domesticus'
+  - name: Black-And-White Warbler 2
     variable:
-      index: T_IUCN_BIRD_Passer_domesticus
+      index: T_IUCN_BIRD_Mniotilta_varia_2_aoh
       units: km2
       legend:
         type: manual
@@ -3811,9 +4029,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Passerculus sandwichensis'
+  - name: Molothrus ater 2
     variable:
-      index: T_IUCN_BIRD_Passerculus_sandwichensis
+      index: T_IUCN_BIRD_Molothrus_ater_2_aoh
       units: km2
       legend:
         type: manual
@@ -3829,9 +4047,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Passerella arborea'
+  - name: Great Crested Flycatcher 2
     variable:
-      index: T_IUCN_BIRD_Passerella_arborea
+      index: T_IUCN_BIRD_Myiarchus_crinitus_2_aoh
       units: km2
       legend:
         type: manual
@@ -3847,9 +4065,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Passerina cyanea'
+  - name: Nannopterum auritus 2
     variable:
-      index: T_IUCN_BIRD_Passerina_cyanea
+      index: T_IUCN_BIRD_Nannopterum_auritus_2_aoh
       units: km2
       legend:
         type: manual
@@ -3865,9 +4083,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Perdix perdix'
+  - name: Black-Crowned Night-Heron 2
     variable:
-      index: T_IUCN_BIRD_Perdix_perdix
+      index: T_IUCN_BIRD_Nycticorax_nycticorax_2_aoh
       units: km2
       legend:
         type: manual
@@ -3883,9 +4101,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Petrochelidon pyrrhonota'
+  - name: Ruddy Duck 2
     variable:
-      index: T_IUCN_BIRD_Petrochelidon_pyrrhonota
+      index: T_IUCN_BIRD_Oxyura_jamaicensis_2_aoh
       units: km2
       legend:
         type: manual
@@ -3901,9 +4119,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Phasianus colchicus'
+  - name: Pandion haliaetus 2
     variable:
-      index: T_IUCN_BIRD_Phasianus_colchicus
+      index: T_IUCN_BIRD_Pandion_haliaetus_2_aoh
       units: km2
       legend:
         type: manual
@@ -3919,9 +4137,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Pheucticus ludovicianus'
+  - name: Lousiana Waterthrush 2
     variable:
-      index: T_IUCN_BIRD_Pheucticus_ludovicianus
+      index: T_IUCN_BIRD_Parkesia_motacilla_2_aoh
       units: km2
       legend:
         type: manual
@@ -3937,9 +4155,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Pinicola enucleator'
+  - name: Northern Waterthrush 2
     variable:
-      index: T_IUCN_BIRD_Pinicola_enucleator
+      index: T_IUCN_BIRD_Parkesia_noveboracensis_2_aoh
       units: km2
       legend:
         type: manual
@@ -3955,9 +4173,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Pipilo erythrophthalmus'
+  - name: House Sparrow 1
     variable:
-      index: T_IUCN_BIRD_Pipilo_erythrophthalmus
+      index: T_IUCN_BIRD_Passer_domesticus_1_aoh
       units: km2
       legend:
         type: manual
@@ -3973,9 +4191,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Plectrophenax nivalis'
+  - name: Savannah Sparrow 2
     variable:
-      index: T_IUCN_BIRD_Plectrophenax_nivalis
+      index: T_IUCN_BIRD_Passerculus_sandwichensis_2_aoh
       units: km2
       legend:
         type: manual
@@ -3991,9 +4209,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Podiceps grisegena'
+  - name: Passerella arborea 3
     variable:
-      index: T_IUCN_BIRD_Podiceps_grisegena
+      index: T_IUCN_BIRD_Passerella_arborea_3_aoh
       units: km2
       legend:
         type: manual
@@ -4009,9 +4227,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Podilymbus podiceps'
+  - name: Indigo Bunting 2
     variable:
-      index: T_IUCN_BIRD_Podilymbus_podiceps
+      index: T_IUCN_BIRD_Passerina_cyanea_2_aoh
       units: km2
       legend:
         type: manual
@@ -4027,9 +4245,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Poecile atricapillus'
+  - name: Grey Partridge 1
     variable:
-      index: T_IUCN_BIRD_Poecile_atricapillus
+      index: T_IUCN_BIRD_Perdix_perdix_1_aoh
       units: km2
       legend:
         type: manual
@@ -4045,9 +4263,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Polioptila caerulea'
+  - name: Cliff Swallow 2
     variable:
-      index: T_IUCN_BIRD_Polioptila_caerulea
+      index: T_IUCN_BIRD_Petrochelidon_pyrrhonota_2_aoh
       units: km2
       legend:
         type: manual
@@ -4063,9 +4281,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Pooecetes gramineus'
+  - name: Ring-Necked Pheasant 1
     variable:
-      index: T_IUCN_BIRD_Pooecetes_gramineus
+      index: T_IUCN_BIRD_Phasianus_colchicus_1_aoh
       units: km2
       legend:
         type: manual
@@ -4081,9 +4299,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Porzana carolina'
+  - name: Rose-Breasted Grosbeak 2
     variable:
-      index: T_IUCN_BIRD_Porzana_carolina
+      index: T_IUCN_BIRD_Pheucticus_ludovicianus_2_aoh
       units: km2
       legend:
         type: manual
@@ -4099,9 +4317,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Progne subis'
+  - name: Pine Grosbeak 3
     variable:
-      index: T_IUCN_BIRD_Progne_subis
+      index: T_IUCN_BIRD_Pinicola_enucleator_3_aoh
       units: km2
       legend:
         type: manual
@@ -4117,9 +4335,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Quiscalus quiscula'
+  - name: Pipilo erythrophthalmus 2
     variable:
-      index: T_IUCN_BIRD_Quiscalus_quiscula
+      index: T_IUCN_BIRD_Pipilo_erythrophthalmus_2_aoh
       units: km2
       legend:
         type: manual
@@ -4135,9 +4353,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Rallus limicola'
+  - name: Plectrophenax nivalis 3
     variable:
-      index: T_IUCN_BIRD_Rallus_limicola
+      index: T_IUCN_BIRD_Plectrophenax_nivalis_3_aoh
       units: km2
       legend:
         type: manual
@@ -4153,9 +4371,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Regulus calendula'
+  - name: Podiceps grisegena 3
     variable:
-      index: T_IUCN_BIRD_Regulus_calendula
+      index: T_IUCN_BIRD_Podiceps_grisegena_3_aoh
       units: km2
       legend:
         type: manual
@@ -4171,9 +4389,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Regulus satrapa'
+  - name: Podilymbus podiceps 2
     variable:
-      index: T_IUCN_BIRD_Regulus_satrapa
+      index: T_IUCN_BIRD_Podilymbus_podiceps_2_aoh
       units: km2
       legend:
         type: manual
@@ -4189,9 +4407,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Riparia riparia'
+  - name: Black-Capped Chickadee 1
     variable:
-      index: T_IUCN_BIRD_Riparia_riparia
+      index: T_IUCN_BIRD_Poecile_atricapillus_1_aoh
       units: km2
       legend:
         type: manual
@@ -4207,9 +4425,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Sayornis phoebe'
+  - name: Polioptila caerulea 2
     variable:
-      index: T_IUCN_BIRD_Sayornis_phoebe
+      index: T_IUCN_BIRD_Polioptila_caerulea_2_aoh
       units: km2
       legend:
         type: manual
@@ -4225,9 +4443,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Scolopax minor'
+  - name: Pooecetes gramineus 2
     variable:
-      index: T_IUCN_BIRD_Scolopax_minor
+      index: T_IUCN_BIRD_Pooecetes_gramineus_2_aoh
       units: km2
       legend:
         type: manual
@@ -4243,9 +4461,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Seiurus aurocapilla'
+  - name: Sora 2
     variable:
-      index: T_IUCN_BIRD_Seiurus_aurocapilla
+      index: T_IUCN_BIRD_Porzana_carolina_2_aoh
       units: km2
       legend:
         type: manual
@@ -4261,9 +4479,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Setophaga americana'
+  - name: Progne subis 2
     variable:
-      index: T_IUCN_BIRD_Setophaga_americana
+      index: T_IUCN_BIRD_Progne_subis_2_aoh
       units: km2
       legend:
         type: manual
@@ -4279,9 +4497,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Setophaga caerulescens'
+  - name: Common Grackle 2
     variable:
-      index: T_IUCN_BIRD_Setophaga_caerulescens
+      index: T_IUCN_BIRD_Quiscalus_quiscula_2_aoh
       units: km2
       legend:
         type: manual
@@ -4297,9 +4515,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Setophaga cerulea'
+  - name: Rallus limicola 2
     variable:
-      index: T_IUCN_BIRD_Setophaga_cerulea
+      index: T_IUCN_BIRD_Rallus_limicola_2_aoh
       units: km2
       legend:
         type: manual
@@ -4315,9 +4533,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Setophaga coronata'
+  - name: Regulus calendula 2
     variable:
-      index: T_IUCN_BIRD_Setophaga_coronata
+      index: T_IUCN_BIRD_Regulus_calendula_2_aoh
       units: km2
       legend:
         type: manual
@@ -4333,9 +4551,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Setophaga fusca'
+  - name: Golden-Crowned Kinglet 1
     variable:
-      index: T_IUCN_BIRD_Setophaga_fusca
+      index: T_IUCN_BIRD_Regulus_satrapa_1_aoh
       units: km2
       legend:
         type: manual
@@ -4351,9 +4569,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Setophaga magnolia'
+  - name: Golden-Crowned Kinglet 3
     variable:
-      index: T_IUCN_BIRD_Setophaga_magnolia
+      index: T_IUCN_BIRD_Regulus_satrapa_3_aoh
       units: km2
       legend:
         type: manual
@@ -4369,9 +4587,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Setophaga pensylvanica'
+  - name: Riparia riparia 2
     variable:
-      index: T_IUCN_BIRD_Setophaga_pensylvanica
+      index: T_IUCN_BIRD_Riparia_riparia_2_aoh
       units: km2
       legend:
         type: manual
@@ -4387,9 +4605,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Setophaga petechia'
+  - name: Eastern Phoebe 2
     variable:
-      index: T_IUCN_BIRD_Setophaga_petechia
+      index: T_IUCN_BIRD_Sayornis_phoebe_2_aoh
       units: km2
       legend:
         type: manual
@@ -4405,9 +4623,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Setophaga pinus'
+  - name: Scolopax minor 2
     variable:
-      index: T_IUCN_BIRD_Setophaga_pinus
+      index: T_IUCN_BIRD_Scolopax_minor_2_aoh
       units: km2
       legend:
         type: manual
@@ -4423,9 +4641,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Setophaga ruticilla'
+  - name: Ovenbird 2
     variable:
-      index: T_IUCN_BIRD_Setophaga_ruticilla
+      index: T_IUCN_BIRD_Seiurus_aurocapilla_2_aoh
       units: km2
       legend:
         type: manual
@@ -4441,9 +4659,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Sialia sialis'
+  - name: Setophaga americana 2
     variable:
-      index: T_IUCN_BIRD_Sialia_sialis
+      index: T_IUCN_BIRD_Setophaga_americana_2_aoh
       units: km2
       legend:
         type: manual
@@ -4459,9 +4677,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Sitta canadensis'
+  - name: Black-Throated Blue Warbler 2
     variable:
-      index: T_IUCN_BIRD_Sitta_canadensis
+      index: T_IUCN_BIRD_Setophaga_caerulescens_2_aoh
       units: km2
       legend:
         type: manual
@@ -4477,9 +4695,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Sitta carolinensis'
+  - name: Cerulean Warbler 2
     variable:
-      index: T_IUCN_BIRD_Sitta_carolinensis
+      index: T_IUCN_BIRD_Setophaga_cerulea_2_aoh
       units: km2
       legend:
         type: manual
@@ -4495,9 +4713,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Spatula discors'
+  - name: Yellow-Rumped Warbler 2
     variable:
-      index: T_IUCN_BIRD_Spatula_discors
+      index: T_IUCN_BIRD_Setophaga_coronata_2_aoh
       units: km2
       legend:
         type: manual
@@ -4513,9 +4731,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Sphyrapicus varius'
+  - name: Blackburnian Warbler 2
     variable:
-      index: T_IUCN_BIRD_Sphyrapicus_varius
+      index: T_IUCN_BIRD_Setophaga_fusca_2_aoh
       units: km2
       legend:
         type: manual
@@ -4531,9 +4749,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Spinus pinus'
+  - name: Magnolia Warbler 2
     variable:
-      index: T_IUCN_BIRD_Spinus_pinus
+      index: T_IUCN_BIRD_Setophaga_magnolia_2_aoh
       units: km2
       legend:
         type: manual
@@ -4549,9 +4767,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Spinus tristis'
+  - name: Chestnut-Sided Warbler 2
     variable:
-      index: T_IUCN_BIRD_Spinus_tristis
+      index: T_IUCN_BIRD_Setophaga_pensylvanica_2_aoh
       units: km2
       legend:
         type: manual
@@ -4567,9 +4785,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Spizella pallida'
+  - name: Yellow Warbler 2
     variable:
-      index: T_IUCN_BIRD_Spizella_pallida
+      index: T_IUCN_BIRD_Setophaga_petechia_2_aoh
       units: km2
       legend:
         type: manual
@@ -4585,9 +4803,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Spizella passerina'
+  - name: Pine Warbler 2
     variable:
-      index: T_IUCN_BIRD_Spizella_passerina
+      index: T_IUCN_BIRD_Setophaga_pinus_2_aoh
       units: km2
       legend:
         type: manual
@@ -4603,9 +4821,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Spizella pusilla'
+  - name: Setophaga ruticilla 2
     variable:
-      index: T_IUCN_BIRD_Spizella_pusilla
+      index: T_IUCN_BIRD_Setophaga_ruticilla_2_aoh
       units: km2
       legend:
         type: manual
@@ -4621,9 +4839,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Steganopus tricolor'
+  - name: Eastern Bluebird 2
     variable:
-      index: T_IUCN_BIRD_Steganopus_tricolor
+      index: T_IUCN_BIRD_Sialia_sialis_2_aoh
       units: km2
       legend:
         type: manual
@@ -4639,9 +4857,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Stelgidopteryx serripennis'
+  - name: Red-Breasted Nuthatch 1
     variable:
-      index: T_IUCN_BIRD_Stelgidopteryx_serripennis
+      index: T_IUCN_BIRD_Sitta_canadensis_1_aoh
       units: km2
       legend:
         type: manual
@@ -4657,9 +4875,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Sterna hirundo'
+  - name: Sitta carolinensis 1
     variable:
-      index: T_IUCN_BIRD_Sterna_hirundo
+      index: T_IUCN_BIRD_Sitta_carolinensis_1_aoh
       units: km2
       legend:
         type: manual
@@ -4675,9 +4893,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Strix nebulosa'
+  - name: Blue-Winged Teal 2
     variable:
-      index: T_IUCN_BIRD_Strix_nebulosa
+      index: T_IUCN_BIRD_Spatula_discors_2_aoh
       units: km2
       legend:
         type: manual
@@ -4693,9 +4911,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Strix varia'
+  - name: Yellow-Bellied Sapsucker 2
     variable:
-      index: T_IUCN_BIRD_Strix_varia
+      index: T_IUCN_BIRD_Sphyrapicus_varius_2_aoh
       units: km2
       legend:
         type: manual
@@ -4711,9 +4929,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Sturnella magna'
+  - name: Pine Siskin 1
     variable:
-      index: T_IUCN_BIRD_Sturnella_magna
+      index: T_IUCN_BIRD_Spinus_pinus_1_aoh
       units: km2
       legend:
         type: manual
@@ -4729,9 +4947,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Sturnella neglecta'
+  - name: American Goldfinch 1
     variable:
-      index: T_IUCN_BIRD_Sturnella_neglecta
+      index: T_IUCN_BIRD_Spinus_tristis_1_aoh
       units: km2
       legend:
         type: manual
@@ -4747,9 +4965,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Sturnus vulgaris'
+  - name: Clay-Colored Sparrow 2
     variable:
-      index: T_IUCN_BIRD_Sturnus_vulgaris
+      index: T_IUCN_BIRD_Spizella_pallida_2_aoh
       units: km2
       legend:
         type: manual
@@ -4765,9 +4983,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Surnia ulula'
+  - name: Chipping Sparrow 2
     variable:
-      index: T_IUCN_BIRD_Surnia_ulula
+      index: T_IUCN_BIRD_Spizella_passerina_2_aoh
       units: km2
       legend:
         type: manual
@@ -4783,9 +5001,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Tachycineta bicolor'
+  - name: Field Sparrow 2
     variable:
-      index: T_IUCN_BIRD_Tachycineta_bicolor
+      index: T_IUCN_BIRD_Spizella_pusilla_2_aoh
       units: km2
       legend:
         type: manual
@@ -4801,9 +5019,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Toxostoma rufum'
+  - name: Wilson's Phalarope 2
     variable:
-      index: T_IUCN_BIRD_Toxostoma_rufum
+      index: T_IUCN_BIRD_Steganopus_tricolor_2_aoh
       units: km2
       legend:
         type: manual
@@ -4819,9 +5037,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Troglodytes aedon'
+  - name: Northern Rough-Winged Swallow 2
     variable:
-      index: T_IUCN_BIRD_Troglodytes_aedon
+      index: T_IUCN_BIRD_Stelgidopteryx_serripennis_2_aoh
       units: km2
       legend:
         type: manual
@@ -4837,9 +5055,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Troglodytes hiemalis'
+  - name: Common Tern 2
     variable:
-      index: T_IUCN_BIRD_Troglodytes_hiemalis
+      index: T_IUCN_BIRD_Sterna_hirundo_2_aoh
       units: km2
       legend:
         type: manual
@@ -4855,9 +5073,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Turdus migratorius'
+  - name: Great Grey Owl 1
     variable:
-      index: T_IUCN_BIRD_Turdus_migratorius
+      index: T_IUCN_BIRD_Strix_nebulosa_1_aoh
       units: km2
       legend:
         type: manual
@@ -4873,9 +5091,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Tyrannus tyrannus'
+  - name: Northern Barred Owl 1
     variable:
-      index: T_IUCN_BIRD_Tyrannus_tyrannus
+      index: T_IUCN_BIRD_Strix_varia_1_aoh
       units: km2
       legend:
         type: manual
@@ -4891,9 +5109,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Vermivora chrysoptera'
+  - name: Sturnella magna 2
     variable:
-      index: T_IUCN_BIRD_Vermivora_chrysoptera
+      index: T_IUCN_BIRD_Sturnella_magna_2_aoh
       units: km2
       legend:
         type: manual
@@ -4909,9 +5127,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Vireo flavifrons'
+  - name: Western Meadowlark 2
     variable:
-      index: T_IUCN_BIRD_Vireo_flavifrons
+      index: T_IUCN_BIRD_Sturnella_neglecta_2_aoh
       units: km2
       legend:
         type: manual
@@ -4927,9 +5145,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Vireo gilvus'
+  - name: Common Starling 1
     variable:
-      index: T_IUCN_BIRD_Vireo_gilvus
+      index: T_IUCN_BIRD_Sturnus_vulgaris_1_aoh
       units: km2
       legend:
         type: manual
@@ -4945,9 +5163,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Vireo olivaceus'
+  - name: Northern Hawk-Owl 1
     variable:
-      index: T_IUCN_BIRD_Vireo_olivaceus
+      index: T_IUCN_BIRD_Surnia_ulula_1_aoh
       units: km2
       legend:
         type: manual
@@ -4963,9 +5181,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Vireo solitarius'
+  - name: Tree Swallow 2
     variable:
-      index: T_IUCN_BIRD_Vireo_solitarius
+      index: T_IUCN_BIRD_Tachycineta_bicolor_2_aoh
       units: km2
       legend:
         type: manual
@@ -4981,9 +5199,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Zenaida macroura'
+  - name: Toxostoma rufum 2
     variable:
-      index: T_IUCN_BIRD_Zenaida_macroura
+      index: T_IUCN_BIRD_Toxostoma_rufum_2_aoh
       units: km2
       legend:
         type: manual
@@ -4999,9 +5217,189 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Zonotrichia albicollis'
+  - name: House Wren 2
     variable:
-      index: T_IUCN_BIRD_Zonotrichia_albicollis
+      index: T_IUCN_BIRD_Troglodytes_aedon_2_aoh
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Eastern Winter Wren 2
+    variable:
+      index: T_IUCN_BIRD_Troglodytes_hiemalis_2_aoh
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: American Robin 1
+    variable:
+      index: T_IUCN_BIRD_Turdus_migratorius_1_aoh
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Eastern Kingbird 2
+    variable:
+      index: T_IUCN_BIRD_Tyrannus_tyrannus_2_aoh
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Golden-Winged Warbler 2
+    variable:
+      index: T_IUCN_BIRD_Vermivora_chrysoptera_2_aoh
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Vireo flavifrons 2
+    variable:
+      index: T_IUCN_BIRD_Vireo_flavifrons_2_aoh
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Warbling Vireo 2
+    variable:
+      index: T_IUCN_BIRD_Vireo_gilvus_2_aoh
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Red-Eyed Vireo 2
+    variable:
+      index: T_IUCN_BIRD_Vireo_olivaceus_2_aoh
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Solitary Vireo 2
+    variable:
+      index: T_IUCN_BIRD_Vireo_solitarius_2_aoh
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Mourning Dove 1
+    variable:
+      index: T_IUCN_BIRD_Zenaida_macroura_1_aoh
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ff7f00'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: yes
+    goal: 0.2
+    limit_goal: 0.0
+  - name: White-Throated Sparrow 2
+    variable:
+      index: T_IUCN_BIRD_Zonotrichia_albicollis_2_aoh
       units: km2
       legend:
         type: manual
@@ -5019,9 +5417,9 @@ themes:
     limit_goal: 0.0
 - name: Mammals (IUCN)
   feature:
-  - name: ' Alces alces'
+  - name: Eurasian Elk
     variable:
-      index: T_IUCN_MAMM_Alces_alces
+      index: T_IUCN_MAMM_Alces_alces_aoh
       units: km2
       legend:
         type: manual
@@ -5037,9 +5435,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Blarina brevicauda'
+  - name: Short-Tailed Shrew
     variable:
-      index: T_IUCN_MAMM_Blarina_brevicauda
+      index: T_IUCN_MAMM_Blarina_brevicauda_aoh
       units: km2
       legend:
         type: manual
@@ -5055,9 +5453,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Canis latrans'
+  - name: Coyote
     variable:
-      index: T_IUCN_MAMM_Canis_latrans
+      index: T_IUCN_MAMM_Canis_latrans_aoh
       units: km2
       legend:
         type: manual
@@ -5073,9 +5471,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Castor canadensis'
+  - name: American Beaver
     variable:
-      index: T_IUCN_MAMM_Castor_canadensis
+      index: T_IUCN_MAMM_Castor_canadensis_aoh
       units: km2
       legend:
         type: manual
@@ -5091,9 +5489,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Condylura cristata'
+  - name: Star-Nosed Mole
     variable:
-      index: T_IUCN_MAMM_Condylura_cristata
+      index: T_IUCN_MAMM_Condylura_cristata_aoh
       units: km2
       legend:
         type: manual
@@ -5109,9 +5507,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Eptesicus fuscus'
+  - name: Big Brown Bat
     variable:
-      index: T_IUCN_MAMM_Eptesicus_fuscus
+      index: T_IUCN_MAMM_Eptesicus_fuscus_aoh
       units: km2
       legend:
         type: manual
@@ -5127,9 +5525,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Erethizon dorsatum'
+  - name: North American Porcupine
     variable:
-      index: T_IUCN_MAMM_Erethizon_dorsatum
+      index: T_IUCN_MAMM_Erethizon_dorsatum_aoh
       units: km2
       legend:
         type: manual
@@ -5145,9 +5543,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Glaucomys sabrinus'
+  - name: Northern Flying Squirrel
     variable:
-      index: T_IUCN_MAMM_Glaucomys_sabrinus
+      index: T_IUCN_MAMM_Glaucomys_sabrinus_aoh
       units: km2
       legend:
         type: manual
@@ -5163,9 +5561,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Glaucomys volans'
+  - name: Southern Flying Squirrel
     variable:
-      index: T_IUCN_MAMM_Glaucomys_volans
+      index: T_IUCN_MAMM_Glaucomys_volans_aoh
       units: km2
       legend:
         type: manual
@@ -5181,9 +5579,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Lasionycteris noctivagans'
+  - name: Silver-Haired Bat
     variable:
-      index: T_IUCN_MAMM_Lasionycteris_noctivagans
+      index: T_IUCN_MAMM_Lasionycteris_noctivagans_aoh
       units: km2
       legend:
         type: manual
@@ -5199,9 +5597,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Lasiurus borealis'
+  - name: Red Bat
     variable:
-      index: T_IUCN_MAMM_Lasiurus_borealis
+      index: T_IUCN_MAMM_Lasiurus_borealis_aoh
       units: km2
       legend:
         type: manual
@@ -5217,9 +5615,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Lasiurus cinereus'
+  - name: Hoary Bat
     variable:
-      index: T_IUCN_MAMM_Lasiurus_cinereus
+      index: T_IUCN_MAMM_Lasiurus_cinereus_aoh
       units: km2
       legend:
         type: manual
@@ -5235,9 +5633,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Lepus americanus'
+  - name: Snowshoe Hare
     variable:
-      index: T_IUCN_MAMM_Lepus_americanus
+      index: T_IUCN_MAMM_Lepus_americanus_aoh
       units: km2
       legend:
         type: manual
@@ -5253,9 +5651,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Lepus europaeus'
+  - name: European Hare
     variable:
-      index: T_IUCN_MAMM_Lepus_europaeus
+      index: T_IUCN_MAMM_Lepus_europaeus_aoh
       units: km2
       legend:
         type: manual
@@ -5271,9 +5669,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Lontra canadensis'
+  - name: Northern American River Otter
     variable:
-      index: T_IUCN_MAMM_Lontra_canadensis
+      index: T_IUCN_MAMM_Lontra_canadensis_aoh
       units: km2
       legend:
         type: manual
@@ -5289,9 +5687,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Lynx canadensis'
+  - name: Canada Lynx
     variable:
-      index: T_IUCN_MAMM_Lynx_canadensis
+      index: T_IUCN_MAMM_Lynx_canadensis_aoh
       units: km2
       legend:
         type: manual
@@ -5307,9 +5705,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Lynx rufus'
+  - name: Bobcat
     variable:
-      index: T_IUCN_MAMM_Lynx_rufus
+      index: T_IUCN_MAMM_Lynx_rufus_aoh
       units: km2
       legend:
         type: manual
@@ -5325,9 +5723,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Marmota monax'
+  - name: Woodchuck
     variable:
-      index: T_IUCN_MAMM_Marmota_monax
+      index: T_IUCN_MAMM_Marmota_monax_aoh
       units: km2
       legend:
         type: manual
@@ -5343,9 +5741,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Martes pennanti'
+  - name: Fisher
     variable:
-      index: T_IUCN_MAMM_Martes_pennanti
+      index: T_IUCN_MAMM_Martes_pennanti_aoh
       units: km2
       legend:
         type: manual
@@ -5361,9 +5759,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Mephitis mephitis'
+  - name: Striped Skunk
     variable:
-      index: T_IUCN_MAMM_Mephitis_mephitis
+      index: T_IUCN_MAMM_Mephitis_mephitis_aoh
       units: km2
       legend:
         type: manual
@@ -5379,9 +5777,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Microtus pennsylvanicus'
+  - name: Meadow Vole
     variable:
-      index: T_IUCN_MAMM_Microtus_pennsylvanicus
+      index: T_IUCN_MAMM_Microtus_pennsylvanicus_aoh
       units: km2
       legend:
         type: manual
@@ -5397,9 +5795,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Mus musculus'
+  - name: House Mouse
     variable:
-      index: T_IUCN_MAMM_Mus_musculus
+      index: T_IUCN_MAMM_Mus_musculus_aoh
       units: km2
       legend:
         type: manual
@@ -5415,9 +5813,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Mustela erminea'
+  - name: Ermine
     variable:
-      index: T_IUCN_MAMM_Mustela_erminea
+      index: T_IUCN_MAMM_Mustela_erminea_aoh
       units: km2
       legend:
         type: manual
@@ -5433,9 +5831,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Mustela frenata'
+  - name: Long-Tailed Weasel
     variable:
-      index: T_IUCN_MAMM_Mustela_frenata
+      index: T_IUCN_MAMM_Mustela_frenata_aoh
       units: km2
       legend:
         type: manual
@@ -5451,9 +5849,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Mustela nivalis'
+  - name: Least Weasel
     variable:
-      index: T_IUCN_MAMM_Mustela_nivalis
+      index: T_IUCN_MAMM_Mustela_nivalis_aoh
       units: km2
       legend:
         type: manual
@@ -5469,9 +5867,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Myodes gapperi'
+  - name: Southern Red-Backed Vole
     variable:
-      index: T_IUCN_MAMM_Myodes_gapperi
+      index: T_IUCN_MAMM_Myodes_gapperi_aoh
       units: km2
       legend:
         type: manual
@@ -5487,9 +5885,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Myotis leibii'
+  - name: Eastern Small-Footed Myotis
     variable:
-      index: T_IUCN_MAMM_Myotis_leibii
+      index: T_IUCN_MAMM_Myotis_leibii_aoh
       units: km2
       legend:
         type: manual
@@ -5505,9 +5903,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Myotis lucifugus'
+  - name: Little Brown Bat
     variable:
-      index: T_IUCN_MAMM_Myotis_lucifugus
+      index: T_IUCN_MAMM_Myotis_lucifugus_aoh
       units: km2
       legend:
         type: manual
@@ -5523,9 +5921,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Myotis septentrionalis'
+  - name: Northern Long-Eared Myotis
     variable:
-      index: T_IUCN_MAMM_Myotis_septentrionalis
+      index: T_IUCN_MAMM_Myotis_septentrionalis_aoh
       units: km2
       legend:
         type: manual
@@ -5541,9 +5939,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Napaeozapus insignis'
+  - name: Woodland Jumping Mouse
     variable:
-      index: T_IUCN_MAMM_Napaeozapus_insignis
+      index: T_IUCN_MAMM_Napaeozapus_insignis_aoh
       units: km2
       legend:
         type: manual
@@ -5559,9 +5957,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Neovison vison'
+  - name: American Mink
     variable:
-      index: T_IUCN_MAMM_Neovison_vison
+      index: T_IUCN_MAMM_Neovison_vison_aoh
       units: km2
       legend:
         type: manual
@@ -5577,9 +5975,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Odocoileus virginianus'
+  - name: White-Tailed Deer
     variable:
-      index: T_IUCN_MAMM_Odocoileus_virginianus
+      index: T_IUCN_MAMM_Odocoileus_virginianus_aoh
       units: km2
       legend:
         type: manual
@@ -5595,9 +5993,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Ondatra zibethicus'
+  - name: Muskrat
     variable:
-      index: T_IUCN_MAMM_Ondatra_zibethicus
+      index: T_IUCN_MAMM_Ondatra_zibethicus_aoh
       units: km2
       legend:
         type: manual
@@ -5613,9 +6011,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Parascalops breweri'
+  - name: Hairy-Tailed Mole
     variable:
-      index: T_IUCN_MAMM_Parascalops_breweri
+      index: T_IUCN_MAMM_Parascalops_breweri_aoh
       units: km2
       legend:
         type: manual
@@ -5631,9 +6029,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Peromyscus leucopus'
+  - name: White-Footed Mouse
     variable:
-      index: T_IUCN_MAMM_Peromyscus_leucopus
+      index: T_IUCN_MAMM_Peromyscus_leucopus_aoh
       units: km2
       legend:
         type: manual
@@ -5649,9 +6047,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Peromyscus maniculatus'
+  - name: North American Deer Mouse
     variable:
-      index: T_IUCN_MAMM_Peromyscus_maniculatus
+      index: T_IUCN_MAMM_Peromyscus_maniculatus_aoh
       units: km2
       legend:
         type: manual
@@ -5667,9 +6065,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Pipistrellus subflavus'
+  - name: Eastern Pipistrelle
     variable:
-      index: T_IUCN_MAMM_Pipistrellus_subflavus
+      index: T_IUCN_MAMM_Pipistrellus_subflavus_aoh
       units: km2
       legend:
         type: manual
@@ -5685,9 +6083,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Procyon lotor'
+  - name: Raccoon
     variable:
-      index: T_IUCN_MAMM_Procyon_lotor
+      index: T_IUCN_MAMM_Procyon_lotor_aoh
       units: km2
       legend:
         type: manual
@@ -5703,9 +6101,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Sciurus carolinensis'
+  - name: Gray Squirrel
     variable:
-      index: T_IUCN_MAMM_Sciurus_carolinensis
+      index: T_IUCN_MAMM_Sciurus_carolinensis_aoh
       units: km2
       legend:
         type: manual
@@ -5721,9 +6119,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Sorex cinereus'
+  - name: Cinereus Shrew
     variable:
-      index: T_IUCN_MAMM_Sorex_cinereus
+      index: T_IUCN_MAMM_Sorex_cinereus_aoh
       units: km2
       legend:
         type: manual
@@ -5739,9 +6137,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Sorex fumeus'
+  - name: Smoky Shrew
     variable:
-      index: T_IUCN_MAMM_Sorex_fumeus
+      index: T_IUCN_MAMM_Sorex_fumeus_aoh
       units: km2
       legend:
         type: manual
@@ -5757,9 +6155,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Sorex hoyi'
+  - name: Pygmy Shrew
     variable:
-      index: T_IUCN_MAMM_Sorex_hoyi
+      index: T_IUCN_MAMM_Sorex_hoyi_aoh
       units: km2
       legend:
         type: manual
@@ -5775,9 +6173,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Sylvilagus floridanus'
+  - name: Eastern Cottontail
     variable:
-      index: T_IUCN_MAMM_Sylvilagus_floridanus
+      index: T_IUCN_MAMM_Sylvilagus_floridanus_aoh
       units: km2
       legend:
         type: manual
@@ -5793,9 +6191,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Synaptomys cooperi'
+  - name: Southern Bog Lemming
     variable:
-      index: T_IUCN_MAMM_Synaptomys_cooperi
+      index: T_IUCN_MAMM_Synaptomys_cooperi_aoh
       units: km2
       legend:
         type: manual
@@ -5811,9 +6209,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Tamias striatus'
+  - name: Eastern Chipmunk
     variable:
-      index: T_IUCN_MAMM_Tamias_striatus
+      index: T_IUCN_MAMM_Tamias_striatus_aoh
       units: km2
       legend:
         type: manual
@@ -5829,9 +6227,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Tamiasciurus hudsonicus'
+  - name: American Red Squirrel
     variable:
-      index: T_IUCN_MAMM_Tamiasciurus_hudsonicus
+      index: T_IUCN_MAMM_Tamiasciurus_hudsonicus_aoh
       units: km2
       legend:
         type: manual
@@ -5847,9 +6245,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Taxidea taxus'
+  - name: American Badger
     variable:
-      index: T_IUCN_MAMM_Taxidea_taxus
+      index: T_IUCN_MAMM_Taxidea_taxus_aoh
       units: km2
       legend:
         type: manual
@@ -5865,9 +6263,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Urocyon cinereoargenteus'
+  - name: Gray Fox
     variable:
-      index: T_IUCN_MAMM_Urocyon_cinereoargenteus
+      index: T_IUCN_MAMM_Urocyon_cinereoargenteus_aoh
       units: km2
       legend:
         type: manual
@@ -5883,9 +6281,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Ursus americanus'
+  - name: American Black Bear
     variable:
-      index: T_IUCN_MAMM_Ursus_americanus
+      index: T_IUCN_MAMM_Ursus_americanus_aoh
       units: km2
       legend:
         type: manual
@@ -5901,9 +6299,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Vulpes vulpes'
+  - name: Red Fox
     variable:
-      index: T_IUCN_MAMM_Vulpes_vulpes
+      index: T_IUCN_MAMM_Vulpes_vulpes_aoh
       units: km2
       legend:
         type: manual
@@ -5919,9 +6317,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Zapus hudsonius'
+  - name: Meadow Jumping Mouse
     variable:
-      index: T_IUCN_MAMM_Zapus_hudsonius
+      index: T_IUCN_MAMM_Zapus_hudsonius_aoh
       units: km2
       legend:
         type: manual
@@ -5939,9 +6337,9 @@ themes:
     limit_goal: 0.0
 - name: Reptiles (IUCN)
   feature:
-  - name: ' Caretta caretta'
+  - name: Loggerhead Turtle
     variable:
-      index: T_IUCN_REPT_Caretta_caretta
+      index: T_IUCN_REPT_Caretta_caretta_aoh
       units: km2
       legend:
         type: manual
@@ -5957,9 +6355,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Diadophis punctatus'
+  - name: Ringneck Snake
     variable:
-      index: T_IUCN_REPT_Diadophis_punctatus
+      index: T_IUCN_REPT_Diadophis_punctatus_aoh
       units: km2
       legend:
         type: manual
@@ -5975,9 +6373,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Eretmochelys imbricata'
+  - name: Hawksbill Sea Turtle
     variable:
-      index: T_IUCN_REPT_Eretmochelys_imbricata
+      index: T_IUCN_REPT_Eretmochelys_imbricata_aoh
       units: km2
       legend:
         type: manual
@@ -5993,9 +6391,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Heterodon platirhinos'
+  - name: Heterodon platirhinos
     variable:
-      index: T_IUCN_REPT_Heterodon_platirhinos
+      index: T_IUCN_REPT_Heterodon_platirhinos_aoh
       units: km2
       legend:
         type: manual
@@ -6011,9 +6409,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Nerodia sipedon'
+  - name: Nerodia sipedon
     variable:
-      index: T_IUCN_REPT_Nerodia_sipedon
+      index: T_IUCN_REPT_Nerodia_sipedon_aoh
       units: km2
       legend:
         type: manual
@@ -6029,9 +6427,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Opheodrys vernalis'
+  - name: Opheodrys vernalis
     variable:
-      index: T_IUCN_REPT_Opheodrys_vernalis
+      index: T_IUCN_REPT_Opheodrys_vernalis_aoh
       units: km2
       legend:
         type: manual
@@ -6047,9 +6445,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Pantherophis gloydi'
+  - name: Pantherophis gloydi
     variable:
-      index: T_IUCN_REPT_Pantherophis_gloydi
+      index: T_IUCN_REPT_Pantherophis_gloydi_aoh
       units: km2
       legend:
         type: manual
@@ -6065,9 +6463,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Plestiodon fasciatus'
+  - name: Plestiodon fasciatus
     variable:
-      index: T_IUCN_REPT_Plestiodon_fasciatus
+      index: T_IUCN_REPT_Plestiodon_fasciatus_aoh
       units: km2
       legend:
         type: manual
@@ -6083,9 +6481,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Sistrurus catenatus'
+  - name: Massasauga
     variable:
-      index: T_IUCN_REPT_Sistrurus_catenatus
+      index: T_IUCN_REPT_Sistrurus_catenatus_aoh
       units: km2
       legend:
         type: manual
@@ -6101,9 +6499,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Storeria occipitomaculata'
+  - name: Storeria occipitomaculata
     variable:
-      index: T_IUCN_REPT_Storeria_occipitomaculata
+      index: T_IUCN_REPT_Storeria_occipitomaculata_aoh
       units: km2
       legend:
         type: manual
@@ -6119,9 +6517,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Thamnophis butleri'
+  - name: Thamnophis butleri
     variable:
-      index: T_IUCN_REPT_Thamnophis_butleri
+      index: T_IUCN_REPT_Thamnophis_butleri_aoh
       units: km2
       legend:
         type: manual
@@ -6137,9 +6535,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Thamnophis sauritus'
+  - name: Eastern Ribbonsnake
     variable:
-      index: T_IUCN_REPT_Thamnophis_sauritus
+      index: T_IUCN_REPT_Thamnophis_sauritus_aoh
       units: km2
       legend:
         type: manual
@@ -6155,9 +6553,9 @@ themes:
     hidden: yes
     goal: 0.2
     limit_goal: 0.0
-  - name: ' Thamnophis sirtalis'
+  - name: Thamnophis sirtalis
     variable:
-      index: T_IUCN_REPT_Thamnophis_sirtalis
+      index: T_IUCN_REPT_Thamnophis_sirtalis_aoh
       units: km2
       legend:
         type: manual
@@ -6193,36 +6591,6 @@ themes:
     variable:
       index: T_LC_Wetlands
       units: ha
-      legend:
-        type: 'null'
-        colors: NA
-        labels: NA
-      provenance: national
-    status: yes
-    visible: no
-    hidden: yes
-    goal: 0.2
-    limit_goal: 0.0
-- name: Length
-  feature:
-  - name: 'River '
-    variable:
-      index: T_LC_River_length
-      units: km
-      legend:
-        type: 'null'
-        colors: NA
-        labels: NA
-      provenance: national
-    status: yes
-    visible: no
-    hidden: yes
-    goal: 0.2
-    limit_goal: 0.0
-  - name: 'Shoreline '
-    variable:
-      index: T_LC_Shoreline_length
-      units: km
       legend:
         type: 'null'
         colors: NA
@@ -6317,9 +6685,13 @@ weights:
     index: W_Key_biodiversity_areas
     units: km2
     legend:
-      type: 'null'
-      colors: NA
-      labels: NA
+      type: manual
+      colors:
+      - '#00000000'
+      - '#7fbc41'
+      labels:
+      - not KBA
+      - KBA
     provenance: national
   status: yes
   visible: no
@@ -6329,6 +6701,32 @@ weights:
   variable:
     index: W_Recreation
     units: ha
+    legend:
+      type: 'null'
+      colors: NA
+      labels: NA
+    provenance: national
+  status: yes
+  visible: no
+  hidden: yes
+  factor: 0.0
+- name: River length
+  variable:
+    index: W_River_length
+    units: km
+    legend:
+      type: 'null'
+      colors: NA
+      labels: NA
+    provenance: national
+  status: yes
+  visible: no
+  hidden: yes
+  factor: 0.0
+- name: Shoreline length
+  variable:
+    index: W_Shoreline_length
+    units: km
     legend:
       type: 'null'
       colors: NA

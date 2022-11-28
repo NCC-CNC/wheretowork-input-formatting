@@ -51,13 +51,13 @@ metadata_path <- "WtW/metadata/sw-on-metadata.csv" # <--- CHANGE PATH HERE FOR N
 tiffs_path <- "Tiffs" # <--- CHANGE PATH HERE FOR NEW PROJECT
 
 ## Name of study area (planning unit) raster
-study_area_file <- "AOI.tif" # <--- CHANGE PATH HERE FOR NEW PROJECT
+aoi_path <- "AOI/AOI.tif" # <--- CHANGE PATH HERE FOR NEW PROJECT
 
 ## Import formatted csv (metadata) as tibble 
 metadata <- tibble::as_tibble(
   utils::read.table(
     metadata_path, stringsAsFactors = FALSE, sep = ",", header = TRUE,
-    comment.char = ""
+    comment.char = "", quote="\""
   )
 )
 
@@ -71,7 +71,7 @@ assertthat::assert_that(
 )
 
 ## Import study area (planning units) raster
-study_area_data <- raster::raster(file.path(tiffs_path, study_area_file))
+study_area_data <- raster::raster(aoi_path)
 
 # 3.0 Import rasters -----------------------------------------------------------
 
