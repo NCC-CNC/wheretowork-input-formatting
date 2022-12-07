@@ -1,913 +1,913 @@
-"Source","Group","File_Name","Sci_Name","Season","Common_Name"
-"IUCN","AMPH","Acris_crepitans_aoh.tif","Acris crepitans",NA,"Northern Cricket Frog"
-"IUCN","AMPH","Ambystoma_gracile_aoh.tif","Ambystoma gracile",NA,"Northwestern Salamander"
-"IUCN","AMPH","Ambystoma_jeffersonianum_aoh.tif","Ambystoma jeffersonianum",NA,"Jefferson Salamander"
-"IUCN","AMPH","Ambystoma_laterale_aoh.tif","Ambystoma laterale",NA,"Blue-Spotted Salamander"
-"IUCN","AMPH","Ambystoma_macrodactylum_aoh.tif","Ambystoma macrodactylum",NA,"Long-Toed Salamander"
-"IUCN","AMPH","Ambystoma_maculatum_aoh.tif","Ambystoma maculatum",NA,"Spotted Salamander"
-"IUCN","AMPH","Ambystoma_mavortium_aoh.tif","Ambystoma mavortium",NA,"Western Tiger Salamander"
-"IUCN","AMPH","Ambystoma_texanum_aoh.tif","Ambystoma texanum",NA,"Smallmouth Salamander"
-"IUCN","AMPH","Ambystoma_tigrinum_aoh.tif","Ambystoma tigrinum",NA,"Tiger Salamander"
-"IUCN","AMPH","Anaxyrus_americanus_aoh.tif","Anaxyrus americanus",NA,"American Toad"
-"IUCN","AMPH","Anaxyrus_boreas_aoh.tif","Anaxyrus boreas",NA,"Boreal Toad"
-"IUCN","AMPH","Anaxyrus_cognatus_aoh.tif","Anaxyrus cognatus",NA,"Great Plains Toad"
-"IUCN","AMPH","Anaxyrus_fowleri_aoh.tif","Anaxyrus fowleri",NA,"Fowler's Toad"
-"IUCN","AMPH","Anaxyrus_hemiophrys_aoh.tif","Anaxyrus hemiophrys",NA,"Canadian Toad"
-"IUCN","AMPH","Aneides_ferreus_aoh.tif","Aneides ferreus",NA,NA
-"IUCN","AMPH","Aneides_vagrans_aoh.tif","Aneides vagrans",NA,"Wandering Salamander"
-"IUCN","AMPH","Ascaphus_montanus_aoh.tif","Ascaphus montanus",NA,"Rocky Mountain Tailed Frog"
-"IUCN","AMPH","Ascaphus_truei_aoh.tif","Ascaphus truei",NA,"Tailed Frog"
-"IUCN","AMPH","Desmognathus_fuscus_aoh.tif","Desmognathus fuscus",NA,"Dusky Salamander"
-"IUCN","AMPH","Desmognathus_ochrophaeus_aoh.tif","Desmognathus ochrophaeus",NA,"Allegheny Mountain Salamander"
-"IUCN","AMPH","Dicamptodon_tenebrosus_aoh.tif","Dicamptodon tenebrosus",NA,NA
-"IUCN","AMPH","Dryophytes_chrysoscelis_aoh.tif","Dryophytes chrysoscelis",NA,"Southern Gray Treefrog"
-"IUCN","AMPH","Dryophytes_versicolor_aoh.tif","Dryophytes versicolor",NA,"Chameleon Treefrog"
-"IUCN","AMPH","Ensatina_eschscholtzii_aoh.tif","Ensatina eschscholtzii",NA,"Common Ensatina"
-"IUCN","AMPH","Eurycea_bislineata_aoh.tif","Eurycea bislineata",NA,"Two-Lined Salamander"
-"IUCN","AMPH","Gyrinophilus_porphyriticus_aoh.tif","Gyrinophilus porphyriticus",NA,"Spring Salamander"
-"IUCN","AMPH","Hemidactylium_scutatum_aoh.tif","Hemidactylium scutatum",NA,"Four-Toed Salamander"
-"IUCN","AMPH","Lithobates_catesbeianus_aoh.tif","Lithobates catesbeianus",NA,"American Bullfrog"
-"IUCN","AMPH","Lithobates_clamitans_aoh.tif","Lithobates clamitans",NA,"Bronze Frog"
-"IUCN","AMPH","Lithobates_palustris_aoh.tif","Lithobates palustris",NA,"Pickerel Frog"
-"IUCN","AMPH","Lithobates_pipiens_aoh.tif","Lithobates pipiens",NA,"Northern Leopard Frog"
-"IUCN","AMPH","Lithobates_septentrionalis_aoh.tif","Lithobates septentrionalis",NA,"Mink Frog"
-"IUCN","AMPH","Lithobates_sylvaticus_aoh.tif","Lithobates sylvaticus",NA,"Wood Frog"
-"IUCN","AMPH","Notophthalmus_viridescens_aoh.tif","Notophthalmus viridescens",NA,"Eastern Newt"
-"IUCN","AMPH","Plethodon_cinereus_aoh.tif","Plethodon cinereus",NA,"Red-Backed Salamander"
-"IUCN","AMPH","Plethodon_idahoensis_aoh.tif","Plethodon idahoensis",NA,"Coeur D'alene Salamander"
-"IUCN","AMPH","Plethodon_vehiculum_aoh.tif","Plethodon vehiculum",NA,"Western Red-Backed Salamander"
-"IUCN","AMPH","Pseudacris_crucifer_aoh.tif","Pseudacris crucifer",NA,"Spring Peeper"
-"IUCN","AMPH","Pseudacris_maculata_aoh.tif","Pseudacris maculata",NA,"Boreal Chorus Frog"
-"IUCN","AMPH","Pseudacris_regilla_aoh.tif","Pseudacris regilla",NA,"Pacific Treefrog"
-"IUCN","AMPH","Pseudacris_triseriata_aoh.tif","Pseudacris triseriata",NA,"Western Chorus Frog"
-"IUCN","AMPH","Rana_aurora_aoh.tif","Rana aurora",NA,"Red-Legged Frog"
-"IUCN","AMPH","Rana_luteiventris_aoh.tif","Rana luteiventris",NA,"Great Basin Spotted Frog"
-"IUCN","AMPH","Rana_pretiosa_aoh.tif","Rana pretiosa",NA,NA
-"IUCN","AMPH","Spea_bombifrons_aoh.tif","Spea bombifrons",NA,"Plains Spadefoot Toad"
-"IUCN","AMPH","Spea_intermontana_aoh.tif","Spea intermontana",NA,"Great Basin Spadefoot Toad"
-"IUCN","AMPH","Taricha_granulosa_aoh.tif","Taricha granulosa",NA,"Rough-Skinned Newt"
-"IUCN","BIRD","Acanthis_flammea_1_aoh.tif","Acanthis flammea",1,"Common Redpoll"
-"IUCN","BIRD","Acanthis_flammea_2_aoh.tif","Acanthis flammea",2,"Common Redpoll"
-"IUCN","BIRD","Acanthis_flammea_3_aoh.tif","Acanthis flammea",3,"Common Redpoll"
-"IUCN","BIRD","Accipiter_cooperii_1_aoh.tif","Accipiter cooperii",1,"Cooper's Hawk"
-"IUCN","BIRD","Accipiter_cooperii_2_aoh.tif","Accipiter cooperii",2,"Cooper's Hawk"
-"IUCN","BIRD","Accipiter_gentilis_1_aoh.tif","Accipiter gentilis",1,"Northern Goshawk"
-"IUCN","BIRD","Accipiter_gentilis_3_aoh.tif","Accipiter gentilis",3,"Northern Goshawk"
-"IUCN","BIRD","Accipiter_striatus_1_aoh.tif","Accipiter striatus",1,"Sharp-Shinned Hawk"
-"IUCN","BIRD","Accipiter_striatus_2_aoh.tif","Accipiter striatus",2,"Sharp-Shinned Hawk"
-"IUCN","BIRD","Accipiter_striatus_3_aoh.tif","Accipiter striatus",3,"Sharp-Shinned Hawk"
-"IUCN","BIRD","Actitis_macularius_1_aoh.tif","Actitis macularius",1,NA
-"IUCN","BIRD","Actitis_macularius_2_aoh.tif","Actitis macularius",2,NA
-"IUCN","BIRD","Aechmophorus_clarkii_2_aoh.tif","Aechmophorus clarkii",2,NA
-"IUCN","BIRD","Aechmophorus_occidentalis_2_aoh.tif","Aechmophorus occidentalis",2,"Western Grebe"
-"IUCN","BIRD","Aechmophorus_occidentalis_3_aoh.tif","Aechmophorus occidentalis",3,"Western Grebe"
-"IUCN","BIRD","Aegolius_acadicus_1_aoh.tif","Aegolius acadicus",1,"Northern Saw-Whet Owl"
-"IUCN","BIRD","Aegolius_acadicus_3_aoh.tif","Aegolius acadicus",3,"Northern Saw-Whet Owl"
-"IUCN","BIRD","Aegolius_funereus_1_aoh.tif","Aegolius funereus",1,"Boreal Owl"
-"IUCN","BIRD","Aeronautes_saxatalis_2_aoh.tif","Aeronautes saxatalis",2,NA
-"IUCN","BIRD","Agelaius_phoeniceus_1_aoh.tif","Agelaius phoeniceus",1,"Red-Winged Blackbird"
-"IUCN","BIRD","Agelaius_phoeniceus_2_aoh.tif","Agelaius phoeniceus",2,"Red-Winged Blackbird"
-"IUCN","BIRD","Aix_sponsa_1_aoh.tif","Aix sponsa",1,"Wood Duck"
-"IUCN","BIRD","Aix_sponsa_2_aoh.tif","Aix sponsa",2,"Wood Duck"
-"IUCN","BIRD","Alauda_arvensis_1_aoh.tif","Alauda arvensis",1,"Eurasian Skylark"
-"IUCN","BIRD","Alca_torda_2_aoh.tif","Alca torda",2,"Razorbill"
-"IUCN","BIRD","Alca_torda_3_aoh.tif","Alca torda",3,"Razorbill"
-"IUCN","BIRD","Alectoris_chukar_1_aoh.tif","Alectoris chukar",1,"Chukar Partridge"
-"IUCN","BIRD","Alle_alle_2_aoh.tif","Alle alle",2,NA
-"IUCN","BIRD","Alle_alle_3_aoh.tif","Alle alle",3,NA
-"IUCN","BIRD","Ammodramus_savannarum_2_aoh.tif","Ammodramus savannarum",2,"Grasshopper Sparrow"
-"IUCN","BIRD","Ammospiza_leconteii_2_aoh.tif","Ammospiza leconteii",2,"Leconte's Sparrow"
-"IUCN","BIRD","Ammospiza_nelsoni_2_aoh.tif","Ammospiza nelsoni",2,NA
-"IUCN","BIRD","Anas_acuta_2_aoh.tif","Anas acuta",2,"Northern Pintail"
-"IUCN","BIRD","Anas_acuta_3_aoh.tif","Anas acuta",3,"Northern Pintail"
-"IUCN","BIRD","Anas_crecca_1_aoh.tif","Anas crecca",1,"Common Teal"
-"IUCN","BIRD","Anas_crecca_2_aoh.tif","Anas crecca",2,"Common Teal"
-"IUCN","BIRD","Anas_crecca_3_aoh.tif","Anas crecca",3,"Common Teal"
-"IUCN","BIRD","Anas_platyrhynchos_1_aoh.tif","Anas platyrhynchos",1,"Mallard"
-"IUCN","BIRD","Anas_platyrhynchos_2_aoh.tif","Anas platyrhynchos",2,"Mallard"
-"IUCN","BIRD","Anas_rubripes_1_aoh.tif","Anas rubripes",1,"American Black Duck"
-"IUCN","BIRD","Anas_rubripes_2_aoh.tif","Anas rubripes",2,"American Black Duck"
-"IUCN","BIRD","Anser_albifrons_2_aoh.tif","Anser albifrons",2,"White-Fronted Goose"
-"IUCN","BIRD","Anser_albifrons_3_aoh.tif","Anser albifrons",3,"White-Fronted Goose"
-"IUCN","BIRD","Anser_caerulescens_2_aoh.tif","Anser caerulescens",2,"Snow Goose"
-"IUCN","BIRD","Anser_caerulescens_3_aoh.tif","Anser caerulescens",3,"Snow Goose"
-"IUCN","BIRD","Anser_rossii_2_aoh.tif","Anser rossii",2,"Ross' Goose"
-"IUCN","BIRD","Anthus_rubescens_2_aoh.tif","Anthus rubescens",2,"American Pipit"
-"IUCN","BIRD","Anthus_rubescens_3_aoh.tif","Anthus rubescens",3,"American Pipit"
-"IUCN","BIRD","Anthus_spragueii_2_aoh.tif","Anthus spragueii",2,NA
-"IUCN","BIRD","Antigone_canadensis_2_aoh.tif","Antigone canadensis",2,"Sandhill Crane"
-"IUCN","BIRD","Antrostomus_carolinensis_2_aoh.tif","Antrostomus carolinensis",2,"Chuck-Will's-Widow"
-"IUCN","BIRD","Antrostomus_vociferus_2_aoh.tif","Antrostomus vociferus",2,NA
-"IUCN","BIRD","Aquila_chrysaetos_1_aoh.tif","Aquila chrysaetos",1,"Golden Eagle"
-"IUCN","BIRD","Aquila_chrysaetos_2_aoh.tif","Aquila chrysaetos",2,"Golden Eagle"
-"IUCN","BIRD","Aquila_chrysaetos_3_aoh.tif","Aquila chrysaetos",3,"Golden Eagle"
-"IUCN","BIRD","Archilochus_alexandri_2_aoh.tif","Archilochus alexandri",2,"Black-Chinned Hummingbird"
-"IUCN","BIRD","Archilochus_colubris_2_aoh.tif","Archilochus colubris",2,NA
-"IUCN","BIRD","Ardea_alba_2_aoh.tif","Ardea alba",2,"Great Egret"
-"IUCN","BIRD","Ardea_herodias_1_aoh.tif","Ardea herodias",1,"Great Blue Heron"
-"IUCN","BIRD","Ardea_herodias_2_aoh.tif","Ardea herodias",2,"Great Blue Heron"
-"IUCN","BIRD","Ardenna_bulleri_1_aoh.tif","Ardenna bulleri",1,"Buller's Shearwater"
-"IUCN","BIRD","Ardenna_carneipes_1_aoh.tif","Ardenna carneipes",1,"Flesh-Footed Shearwater"
-"IUCN","BIRD","Ardenna_creatopus_1_aoh.tif","Ardenna creatopus",1,"Pink-Footed Shearwater"
-"IUCN","BIRD","Ardenna_gravis_1_aoh.tif","Ardenna gravis",1,"Great Shearwater"
-"IUCN","BIRD","Ardenna_grisea_1_aoh.tif","Ardenna grisea",1,"Sooty Shearwater"
-"IUCN","BIRD","Ardenna_tenuirostris_1_aoh.tif","Ardenna tenuirostris",1,"Short-Tailed Shearwater"
-"IUCN","BIRD","Arenaria_interpres_2_aoh.tif","Arenaria interpres",2,"Ruddy Turnstone"
-"IUCN","BIRD","Arenaria_interpres_3_aoh.tif","Arenaria interpres",3,"Ruddy Turnstone"
-"IUCN","BIRD","Arenaria_melanocephala_3_aoh.tif","Arenaria melanocephala",3,"Black Turnstone"
-"IUCN","BIRD","Asio_flammeus_1_aoh.tif","Asio flammeus",1,"Short-Eared Owl"
-"IUCN","BIRD","Asio_flammeus_2_aoh.tif","Asio flammeus",2,"Short-Eared Owl"
-"IUCN","BIRD","Asio_otus_1_aoh.tif","Asio otus",1,"Long-Eared Owl"
-"IUCN","BIRD","Asio_otus_2_aoh.tif","Asio otus",2,"Long-Eared Owl"
-"IUCN","BIRD","Asio_otus_3_aoh.tif","Asio otus",3,"Long-Eared Owl"
-"IUCN","BIRD","Athene_cunicularia_2_aoh.tif","Athene cunicularia",2,"Burrowing Owl"
-"IUCN","BIRD","Aythya_affinis_2_aoh.tif","Aythya affinis",2,"Lesser Scaup"
-"IUCN","BIRD","Aythya_affinis_3_aoh.tif","Aythya affinis",3,"Lesser Scaup"
-"IUCN","BIRD","Aythya_americana_1_aoh.tif","Aythya americana",1,"Redhead"
-"IUCN","BIRD","Aythya_americana_2_aoh.tif","Aythya americana",2,"Redhead"
-"IUCN","BIRD","Aythya_collaris_1_aoh.tif","Aythya collaris",1,"Ring-Necked Duck"
-"IUCN","BIRD","Aythya_collaris_2_aoh.tif","Aythya collaris",2,"Ring-Necked Duck"
-"IUCN","BIRD","Aythya_collaris_3_aoh.tif","Aythya collaris",3,"Ring-Necked Duck"
-"IUCN","BIRD","Aythya_marila_2_aoh.tif","Aythya marila",2,"Greater Scaup"
-"IUCN","BIRD","Aythya_marila_3_aoh.tif","Aythya marila",3,"Greater Scaup"
-"IUCN","BIRD","Aythya_valisineria_1_aoh.tif","Aythya valisineria",1,"Canvasback"
-"IUCN","BIRD","Aythya_valisineria_2_aoh.tif","Aythya valisineria",2,"Canvasback"
-"IUCN","BIRD","Aythya_valisineria_3_aoh.tif","Aythya valisineria",3,"Canvasback"
-"IUCN","BIRD","Baeolophus_bicolor_1_aoh.tif","Baeolophus bicolor",1,"Tufted Titmouse"
-"IUCN","BIRD","Bartramia_longicauda_2_aoh.tif","Bartramia longicauda",2,"Upland Sandpiper"
-"IUCN","BIRD","Bombycilla_cedrorum_1_aoh.tif","Bombycilla cedrorum",1,"Cedar Waxwing"
-"IUCN","BIRD","Bombycilla_cedrorum_2_aoh.tif","Bombycilla cedrorum",2,"Cedar Waxwing"
-"IUCN","BIRD","Bombycilla_garrulus_1_aoh.tif","Bombycilla garrulus",1,NA
-"IUCN","BIRD","Bombycilla_garrulus_2_aoh.tif","Bombycilla garrulus",2,NA
-"IUCN","BIRD","Bombycilla_garrulus_3_aoh.tif","Bombycilla garrulus",3,NA
-"IUCN","BIRD","Bonasa_umbellus_1_aoh.tif","Bonasa umbellus",1,"Ruffed Grouse"
-"IUCN","BIRD","Botaurus_lentiginosus_2_aoh.tif","Botaurus lentiginosus",2,"American Bittern"
-"IUCN","BIRD","Brachyramphus_brevirostris_2_aoh.tif","Brachyramphus brevirostris",2,NA
-"IUCN","BIRD","Brachyramphus_brevirostris_3_aoh.tif","Brachyramphus brevirostris",3,NA
-"IUCN","BIRD","Brachyramphus_marmoratus_1_aoh.tif","Brachyramphus marmoratus",1,NA
-"IUCN","BIRD","Brachyramphus_marmoratus_2_aoh.tif","Brachyramphus marmoratus",2,NA
-"IUCN","BIRD","Branta_bernicla_2_aoh.tif","Branta bernicla",2,NA
-"IUCN","BIRD","Branta_bernicla_3_aoh.tif","Branta bernicla",3,NA
-"IUCN","BIRD","Branta_canadensis_1_aoh.tif","Branta canadensis",1,"Canada Goose"
-"IUCN","BIRD","Branta_canadensis_2_aoh.tif","Branta canadensis",2,"Canada Goose"
-"IUCN","BIRD","Branta_hutchinsii_2_aoh.tif","Branta hutchinsii",2,"Cackling Goose"
-"IUCN","BIRD","Bubo_scandiacus_2_aoh.tif","Bubo scandiacus",2,"Snowy Owl"
-"IUCN","BIRD","Bubo_scandiacus_3_aoh.tif","Bubo scandiacus",3,"Snowy Owl"
-"IUCN","BIRD","Bubo_virginianus_1_aoh.tif","Bubo virginianus",1,"Great Horned Owl"
-"IUCN","BIRD","Bubulcus_ibis_2_aoh.tif","Bubulcus ibis",2,"Cattle Egret"
-"IUCN","BIRD","Bucephala_albeola_2_aoh.tif","Bucephala albeola",2,"Bufflehead"
-"IUCN","BIRD","Bucephala_albeola_3_aoh.tif","Bucephala albeola",3,"Bufflehead"
-"IUCN","BIRD","Bucephala_clangula_2_aoh.tif","Bucephala clangula",2,"Common Goldeneye"
-"IUCN","BIRD","Bucephala_clangula_3_aoh.tif","Bucephala clangula",3,"Common Goldeneye"
-"IUCN","BIRD","Bucephala_islandica_1_aoh.tif","Bucephala islandica",1,"Barrow's Goldeneye"
-"IUCN","BIRD","Bucephala_islandica_2_aoh.tif","Bucephala islandica",2,"Barrow's Goldeneye"
-"IUCN","BIRD","Bucephala_islandica_3_aoh.tif","Bucephala islandica",3,"Barrow's Goldeneye"
-"IUCN","BIRD","Buteo_jamaicensis_1_aoh.tif","Buteo jamaicensis",1,"Red-Tailed Hawk"
-"IUCN","BIRD","Buteo_jamaicensis_2_aoh.tif","Buteo jamaicensis",2,"Red-Tailed Hawk"
-"IUCN","BIRD","Buteo_lagopus_2_aoh.tif","Buteo lagopus",2,"Rough-Legged Hawk"
-"IUCN","BIRD","Buteo_lagopus_3_aoh.tif","Buteo lagopus",3,"Rough-Legged Hawk"
-"IUCN","BIRD","Buteo_lineatus_2_aoh.tif","Buteo lineatus",2,"Red-Shouldered Hawk"
-"IUCN","BIRD","Buteo_platypterus_2_aoh.tif","Buteo platypterus",2,"Broad-Winged Hawk"
-"IUCN","BIRD","Buteo_regalis_2_aoh.tif","Buteo regalis",2,"Ferruginous Hawk"
-"IUCN","BIRD","Buteo_swainsoni_2_aoh.tif","Buteo swainsoni",2,"Swainson's Hawk"
-"IUCN","BIRD","Butorides_striata_2_aoh.tif","Butorides striata",2,"Green-Backed Heron"
-"IUCN","BIRD","Cairina_moschata_1_aoh.tif","Cairina moschata",1,"Muscovy Duck"
-"IUCN","BIRD","Calamospiza_melanocorys_2_aoh.tif","Calamospiza melanocorys",2,NA
-"IUCN","BIRD","Calcarius_lapponicus_2_aoh.tif","Calcarius lapponicus",2,"Lapland Longspur"
-"IUCN","BIRD","Calcarius_lapponicus_3_aoh.tif","Calcarius lapponicus",3,"Lapland Longspur"
-"IUCN","BIRD","Calcarius_ornatus_2_aoh.tif","Calcarius ornatus",2,NA
-"IUCN","BIRD","Calcarius_pictus_2_aoh.tif","Calcarius pictus",2,NA
-"IUCN","BIRD","Calidris_alba_2_aoh.tif","Calidris alba",2,NA
-"IUCN","BIRD","Calidris_alba_3_aoh.tif","Calidris alba",3,NA
-"IUCN","BIRD","Calidris_alpina_2_aoh.tif","Calidris alpina",2,"Dunlin"
-"IUCN","BIRD","Calidris_alpina_3_aoh.tif","Calidris alpina",3,"Dunlin"
-"IUCN","BIRD","Calidris_canutus_2_aoh.tif","Calidris canutus",2,"Red Knot"
-"IUCN","BIRD","Calidris_fuscicollis_2_aoh.tif","Calidris fuscicollis",2,"White-Rumped Sandpiper"
-"IUCN","BIRD","Calidris_himantopus_2_aoh.tif","Calidris himantopus",2,"Stilt Sandpiper"
-"IUCN","BIRD","Calidris_maritima_2_aoh.tif","Calidris maritima",2,NA
-"IUCN","BIRD","Calidris_maritima_3_aoh.tif","Calidris maritima",3,NA
-"IUCN","BIRD","Calidris_mauri_3_aoh.tif","Calidris mauri",3,"Western Sandpiper"
-"IUCN","BIRD","Calidris_melanotos_2_aoh.tif","Calidris melanotos",2,"Pectoral Sandpiper"
-"IUCN","BIRD","Calidris_minutilla_2_aoh.tif","Calidris minutilla",2,"Least Sandpiper"
-"IUCN","BIRD","Calidris_ptilocnemis_3_aoh.tif","Calidris ptilocnemis",3,"Rock Sandpiper"
-"IUCN","BIRD","Calidris_pusilla_2_aoh.tif","Calidris pusilla",2,"Semipalmated Sandpiper"
-"IUCN","BIRD","Calidris_subruficollis_2_aoh.tif","Calidris subruficollis",2,"Buff-Breasted Sandpiper"
-"IUCN","BIRD","Calidris_virgata_2_aoh.tif","Calidris virgata",2,NA
-"IUCN","BIRD","Calidris_virgata_3_aoh.tif","Calidris virgata",3,NA
-"IUCN","BIRD","Callipepla_californica_1_aoh.tif","Callipepla californica",1,"California Quail"
-"IUCN","BIRD","Calonectris_borealis_1_aoh.tif","Calonectris borealis",1,"Cory's Shearwater"
-"IUCN","BIRD","Calypte_anna_1_aoh.tif","Calypte anna",1,"Anna's Hummingbird"
-"IUCN","BIRD","Calypte_anna_3_aoh.tif","Calypte anna",3,"Anna's Hummingbird"
-"IUCN","BIRD","Cardellina_canadensis_2_aoh.tif","Cardellina canadensis",2,"Canada Warbler"
-"IUCN","BIRD","Cardellina_pusilla_2_aoh.tif","Cardellina pusilla",2,"Wilson's Warbler"
-"IUCN","BIRD","Cardinalis_cardinalis_1_aoh.tif","Cardinalis cardinalis",1,"Northern Cardinal"
-"IUCN","BIRD","Catharacta_maccormicki_3_aoh.tif","Catharacta maccormicki",3,"South Polar Skua"
-"IUCN","BIRD","Catharacta_skua_3_aoh.tif","Catharacta skua",3,"Great Skua"
-"IUCN","BIRD","Cathartes_aura_2_aoh.tif","Cathartes aura",2,"Turkey Vulture"
-"IUCN","BIRD","Catharus_bicknelli_2_aoh.tif","Catharus bicknelli",2,NA
-"IUCN","BIRD","Catharus_fuscescens_2_aoh.tif","Catharus fuscescens",2,"Veery"
-"IUCN","BIRD","Catharus_guttatus_1_aoh.tif","Catharus guttatus",1,"Hermit Thrush"
-"IUCN","BIRD","Catharus_guttatus_2_aoh.tif","Catharus guttatus",2,"Hermit Thrush"
-"IUCN","BIRD","Catharus_guttatus_3_aoh.tif","Catharus guttatus",3,"Hermit Thrush"
-"IUCN","BIRD","Catharus_minimus_2_aoh.tif","Catharus minimus",2,NA
-"IUCN","BIRD","Catharus_swainsoni_2_aoh.tif","Catharus swainsoni",2,NA
-"IUCN","BIRD","Catharus_ustulatus_2_aoh.tif","Catharus ustulatus",2,"Swainson's Thrush"
-"IUCN","BIRD","Catherpes_mexicanus_1_aoh.tif","Catherpes mexicanus",1,"Canyon Wren"
-"IUCN","BIRD","Centrocercus_urophasianus_1_aoh.tif","Centrocercus urophasianus",1,"Greater Sage-Grouse"
-"IUCN","BIRD","Cepphus_columba_1_aoh.tif","Cepphus columba",1,NA
-"IUCN","BIRD","Cepphus_columba_2_aoh.tif","Cepphus columba",2,NA
-"IUCN","BIRD","Cepphus_columba_3_aoh.tif","Cepphus columba",3,NA
-"IUCN","BIRD","Cepphus_grylle_1_aoh.tif","Cepphus grylle",1,NA
-"IUCN","BIRD","Cepphus_grylle_2_aoh.tif","Cepphus grylle",2,NA
-"IUCN","BIRD","Cepphus_grylle_3_aoh.tif","Cepphus grylle",3,NA
-"IUCN","BIRD","Cerorhinca_monocerata_1_aoh.tif","Cerorhinca monocerata",1,"Rhinoceros Auklet"
-"IUCN","BIRD","Cerorhinca_monocerata_3_aoh.tif","Cerorhinca monocerata",3,"Rhinoceros Auklet"
-"IUCN","BIRD","Certhia_americana_1_aoh.tif","Certhia americana",1,NA
-"IUCN","BIRD","Certhia_americana_3_aoh.tif","Certhia americana",3,NA
-"IUCN","BIRD","Chaetura_pelagica_2_aoh.tif","Chaetura pelagica",2,"Chimney Swift"
-"IUCN","BIRD","Chaetura_vauxi_2_aoh.tif","Chaetura vauxi",2,"Vaux's Swift"
-"IUCN","BIRD","Charadrius_melodus_2_aoh.tif","Charadrius melodus",2,"Piping Plover"
-"IUCN","BIRD","Charadrius_montanus_2_aoh.tif","Charadrius montanus",2,NA
-"IUCN","BIRD","Charadrius_semipalmatus_2_aoh.tif","Charadrius semipalmatus",2,NA
-"IUCN","BIRD","Charadrius_vociferus_1_aoh.tif","Charadrius vociferus",1,"Killdeer"
-"IUCN","BIRD","Charadrius_vociferus_2_aoh.tif","Charadrius vociferus",2,"Killdeer"
-"IUCN","BIRD","Chlidonias_niger_2_aoh.tif","Chlidonias niger",2,"Black Tern"
-"IUCN","BIRD","Chondestes_grammacus_2_aoh.tif","Chondestes grammacus",2,NA
-"IUCN","BIRD","Chordeiles_minor_2_aoh.tif","Chordeiles minor",2,"Common Nighthawk"
-"IUCN","BIRD","Cinclus_mexicanus_1_aoh.tif","Cinclus mexicanus",1,NA
-"IUCN","BIRD","Circus_hudsonius_1_aoh.tif","Circus hudsonius",1,"American Harrier"
-"IUCN","BIRD","Circus_hudsonius_2_aoh.tif","Circus hudsonius",2,"American Harrier"
-"IUCN","BIRD","Circus_hudsonius_3_aoh.tif","Circus hudsonius",3,"American Harrier"
-"IUCN","BIRD","Cistothorus_palustris_1_aoh.tif","Cistothorus palustris",1,NA
-"IUCN","BIRD","Cistothorus_palustris_2_aoh.tif","Cistothorus palustris",2,NA
-"IUCN","BIRD","Cistothorus_stellaris_2_aoh.tif","Cistothorus stellaris",2,NA
-"IUCN","BIRD","Clangula_hyemalis_2_aoh.tif","Clangula hyemalis",2,"Long-Tailed Duck"
-"IUCN","BIRD","Clangula_hyemalis_3_aoh.tif","Clangula hyemalis",3,"Long-Tailed Duck"
-"IUCN","BIRD","Coccyzus_americanus_2_aoh.tif","Coccyzus americanus",2,NA
-"IUCN","BIRD","Coccyzus_erythropthalmus_2_aoh.tif","Coccyzus erythropthalmus",2,"Black-Billec Cuckoo"
-"IUCN","BIRD","Colaptes_auratus_1_aoh.tif","Colaptes auratus",1,NA
-"IUCN","BIRD","Colaptes_auratus_2_aoh.tif","Colaptes auratus",2,NA
-"IUCN","BIRD","Colaptes_cafer_1_aoh.tif","Colaptes cafer",1,NA
-"IUCN","BIRD","Colaptes_cafer_2_aoh.tif","Colaptes cafer",2,NA
-"IUCN","BIRD","Colinus_virginianus_1_aoh.tif","Colinus virginianus",1,"Northern Bobwhite"
-"IUCN","BIRD","Contopus_cooperi_2_aoh.tif","Contopus cooperi",2,NA
-"IUCN","BIRD","Contopus_sordidulus_2_aoh.tif","Contopus sordidulus",2,"Western Wood-Pewee"
-"IUCN","BIRD","Contopus_virens_2_aoh.tif","Contopus virens",2,NA
-"IUCN","BIRD","Corvus_brachyrhynchos_1_aoh.tif","Corvus brachyrhynchos",1,"American Crow"
-"IUCN","BIRD","Corvus_brachyrhynchos_2_aoh.tif","Corvus brachyrhynchos",2,"American Crow"
-"IUCN","BIRD","Corvus_caurinus_1_aoh.tif","Corvus caurinus",1,"Northwestern Crow"
-"IUCN","BIRD","Corvus_corax_1_aoh.tif","Corvus corax",1,"Common Raven"
-"IUCN","BIRD","Coturnicops_noveboracensis_2_aoh.tif","Coturnicops noveboracensis",2,"Yellow Rail"
-"IUCN","BIRD","Cyanecula_svecica_2_aoh.tif","Cyanecula svecica",2,NA
-"IUCN","BIRD","Cyanocitta_cristata_1_aoh.tif","Cyanocitta cristata",1,"Blue Jay"
-"IUCN","BIRD","Cyanocitta_cristata_2_aoh.tif","Cyanocitta cristata",2,"Blue Jay"
-"IUCN","BIRD","Cyanocitta_stelleri_1_aoh.tif","Cyanocitta stelleri",1,"Steller's Jay"
-"IUCN","BIRD","Cygnus_buccinator_1_aoh.tif","Cygnus buccinator",1,"Trumperter Swan"
-"IUCN","BIRD","Cygnus_buccinator_2_aoh.tif","Cygnus buccinator",2,"Trumperter Swan"
-"IUCN","BIRD","Cygnus_buccinator_3_aoh.tif","Cygnus buccinator",3,"Trumperter Swan"
-"IUCN","BIRD","Cygnus_columbianus_2_aoh.tif","Cygnus columbianus",2,"Tundra Swan"
-"IUCN","BIRD","Cygnus_columbianus_3_aoh.tif","Cygnus columbianus",3,"Tundra Swan"
-"IUCN","BIRD","Cygnus_olor_1_aoh.tif","Cygnus olor",1,"Mute Swan"
-"IUCN","BIRD","Cypseloides_niger_2_aoh.tif","Cypseloides niger",2,"Black Swift"
-"IUCN","BIRD","Dendragapus_fuliginosus_1_aoh.tif","Dendragapus fuliginosus",1,"Sooty Grouse"
-"IUCN","BIRD","Dendragapus_obscurus_1_aoh.tif","Dendragapus obscurus",1,"Blue Grouse"
-"IUCN","BIRD","Dolichonyx_oryzivorus_2_aoh.tif","Dolichonyx oryzivorus",2,"Bobolink"
-"IUCN","BIRD","Dryobates_pubescens_1_aoh.tif","Dryobates pubescens",1,"Downy Woodpecker"
-"IUCN","BIRD","Dumetella_carolinensis_2_aoh.tif","Dumetella carolinensis",2,"Grey Catbird"
-"IUCN","BIRD","Egretta_thula_2_aoh.tif","Egretta thula",2,"Snowy Egret"
-"IUCN","BIRD","Elanoides_forficatus_2_aoh.tif","Elanoides forficatus",2,NA
-"IUCN","BIRD","Empidonax_alnorum_2_aoh.tif","Empidonax alnorum",2,"Alder Flycatcher"
-"IUCN","BIRD","Empidonax_difficilis_2_aoh.tif","Empidonax difficilis",2,"Pacific-Slope Flycatcher"
-"IUCN","BIRD","Empidonax_flaviventris_2_aoh.tif","Empidonax flaviventris",2,NA
-"IUCN","BIRD","Empidonax_hammondii_2_aoh.tif","Empidonax hammondii",2,NA
-"IUCN","BIRD","Empidonax_minimus_2_aoh.tif","Empidonax minimus",2,NA
-"IUCN","BIRD","Empidonax_oberholseri_2_aoh.tif","Empidonax oberholseri",2,NA
-"IUCN","BIRD","Empidonax_occidentalis_2_aoh.tif","Empidonax occidentalis",2,NA
-"IUCN","BIRD","Empidonax_traillii_2_aoh.tif","Empidonax traillii",2,"Willow Flycatcher"
-"IUCN","BIRD","Empidonax_virescens_2_aoh.tif","Empidonax virescens",2,NA
-"IUCN","BIRD","Empidonax_wrightii_2_aoh.tif","Empidonax wrightii",2,NA
-"IUCN","BIRD","Eremophila_alpestris_2_aoh.tif","Eremophila alpestris",2,"Horned Lark"
-"IUCN","BIRD","Eremophila_alpestris_3_aoh.tif","Eremophila alpestris",3,"Horned Lark"
-"IUCN","BIRD","Euphagus_carolinus_2_aoh.tif","Euphagus carolinus",2,"Rusty Blackbird"
-"IUCN","BIRD","Euphagus_carolinus_3_aoh.tif","Euphagus carolinus",3,"Rusty Blackbird"
-"IUCN","BIRD","Euphagus_cyanocephalus_1_aoh.tif","Euphagus cyanocephalus",1,"Brewer's Blackbird"
-"IUCN","BIRD","Euphagus_cyanocephalus_2_aoh.tif","Euphagus cyanocephalus",2,"Brewer's Blackbird"
-"IUCN","BIRD","Falcipennis_canadensis_1_aoh.tif","Falcipennis canadensis",1,"Siberian Grouse"
-"IUCN","BIRD","Falcipennis_franklinii_1_aoh.tif","Falcipennis franklinii",1,NA
-"IUCN","BIRD","Falco_columbarius_1_aoh.tif","Falco columbarius",1,NA
-"IUCN","BIRD","Falco_columbarius_2_aoh.tif","Falco columbarius",2,NA
-"IUCN","BIRD","Falco_columbarius_3_aoh.tif","Falco columbarius",3,NA
-"IUCN","BIRD","Falco_mexicanus_1_aoh.tif","Falco mexicanus",1,"Prairie Falcon"
-"IUCN","BIRD","Falco_mexicanus_2_aoh.tif","Falco mexicanus",2,"Prairie Falcon"
-"IUCN","BIRD","Falco_mexicanus_3_aoh.tif","Falco mexicanus",3,"Prairie Falcon"
-"IUCN","BIRD","Falco_peregrinus_1_aoh.tif","Falco peregrinus",1,"Peregrine Falcon"
-"IUCN","BIRD","Falco_peregrinus_2_aoh.tif","Falco peregrinus",2,"Peregrine Falcon"
-"IUCN","BIRD","Falco_peregrinus_3_aoh.tif","Falco peregrinus",3,"Peregrine Falcon"
-"IUCN","BIRD","Falco_rusticolus_1_aoh.tif","Falco rusticolus",1,"Gyrfalcon"
-"IUCN","BIRD","Falco_rusticolus_2_aoh.tif","Falco rusticolus",2,"Gyrfalcon"
-"IUCN","BIRD","Falco_rusticolus_3_aoh.tif","Falco rusticolus",3,"Gyrfalcon"
-"IUCN","BIRD","Falco_sparverius_1_aoh.tif","Falco sparverius",1,NA
-"IUCN","BIRD","Falco_sparverius_2_aoh.tif","Falco sparverius",2,NA
-"IUCN","BIRD","Fratercula_arctica_2_aoh.tif","Fratercula arctica",2,"Atlantic Puffin"
-"IUCN","BIRD","Fratercula_arctica_3_aoh.tif","Fratercula arctica",3,"Atlantic Puffin"
-"IUCN","BIRD","Fratercula_cirrhata_1_aoh.tif","Fratercula cirrhata",1,NA
-"IUCN","BIRD","Fratercula_cirrhata_2_aoh.tif","Fratercula cirrhata",2,NA
-"IUCN","BIRD","Fratercula_cirrhata_3_aoh.tif","Fratercula cirrhata",3,NA
-"IUCN","BIRD","Fratercula_corniculata_1_aoh.tif","Fratercula corniculata",1,NA
-"IUCN","BIRD","Fratercula_corniculata_2_aoh.tif","Fratercula corniculata",2,NA
-"IUCN","BIRD","Fratercula_corniculata_3_aoh.tif","Fratercula corniculata",3,NA
-"IUCN","BIRD","Fulica_americana_1_aoh.tif","Fulica americana",1,"American Coot"
-"IUCN","BIRD","Fulica_americana_2_aoh.tif","Fulica americana",2,"American Coot"
-"IUCN","BIRD","Fulica_americana_3_aoh.tif","Fulica americana",3,"American Coot"
-"IUCN","BIRD","Fulmarus_glacialis_1_aoh.tif","Fulmarus glacialis",1,"Northern Fulmar"
-"IUCN","BIRD","Gallinago_delicata_1_aoh.tif","Gallinago delicata",1,NA
-"IUCN","BIRD","Gallinago_delicata_2_aoh.tif","Gallinago delicata",2,NA
-"IUCN","BIRD","Gallinago_delicata_3_aoh.tif","Gallinago delicata",3,NA
-"IUCN","BIRD","Gallinula_galeata_1_aoh.tif","Gallinula galeata",1,NA
-"IUCN","BIRD","Gallinula_galeata_2_aoh.tif","Gallinula galeata",2,NA
-"IUCN","BIRD","Gavia_adamsii_2_aoh.tif","Gavia adamsii",2,NA
-"IUCN","BIRD","Gavia_adamsii_3_aoh.tif","Gavia adamsii",3,NA
-"IUCN","BIRD","Gavia_immer_2_aoh.tif","Gavia immer",2,"Great Northern Loon"
-"IUCN","BIRD","Gavia_immer_3_aoh.tif","Gavia immer",3,"Great Northern Loon"
-"IUCN","BIRD","Gavia_pacifica_2_aoh.tif","Gavia pacifica",2,"Pacific Loon"
-"IUCN","BIRD","Gavia_pacifica_3_aoh.tif","Gavia pacifica",3,"Pacific Loon"
-"IUCN","BIRD","Gavia_stellata_2_aoh.tif","Gavia stellata",2,"Red-Throated Loon"
-"IUCN","BIRD","Gavia_stellata_3_aoh.tif","Gavia stellata",3,"Red-Throated Loon"
-"IUCN","BIRD","Geothlypis_philadelphia_2_aoh.tif","Geothlypis philadelphia",2,"Mourning Warbler"
-"IUCN","BIRD","Geothlypis_tolmiei_2_aoh.tif","Geothlypis tolmiei",2,"Macgillivray's Warbler"
-"IUCN","BIRD","Geothlypis_trichas_2_aoh.tif","Geothlypis trichas",2,"Common Yellowthroat"
-"IUCN","BIRD","Glaucidium_californicum_1_aoh.tif","Glaucidium californicum",1,NA
-"IUCN","BIRD","Grus_americana_2_aoh.tif","Grus americana",2,"Whooping Crane"
-"IUCN","BIRD","Haematopus_ater_1_aoh.tif","Haematopus ater",1,NA
-"IUCN","BIRD","Haemorhous_cassinii_1_aoh.tif","Haemorhous cassinii",1,"Cassin's Finch"
-"IUCN","BIRD","Haemorhous_cassinii_2_aoh.tif","Haemorhous cassinii",2,"Cassin's Finch"
-"IUCN","BIRD","Haemorhous_mexicanus_1_aoh.tif","Haemorhous mexicanus",1,"House Finch"
-"IUCN","BIRD","Haemorhous_purpureus_1_aoh.tif","Haemorhous purpureus",1,"Purple Finch"
-"IUCN","BIRD","Haemorhous_purpureus_2_aoh.tif","Haemorhous purpureus",2,"Purple Finch"
-"IUCN","BIRD","Haemorhous_purpureus_3_aoh.tif","Haemorhous purpureus",3,"Purple Finch"
-"IUCN","BIRD","Haliaeetus_leucocephalus_1_aoh.tif","Haliaeetus leucocephalus",1,"Bald Eagle"
-"IUCN","BIRD","Haliaeetus_leucocephalus_2_aoh.tif","Haliaeetus leucocephalus",2,"Bald Eagle"
-"IUCN","BIRD","Haliaeetus_leucocephalus_3_aoh.tif","Haliaeetus leucocephalus",3,"Bald Eagle"
-"IUCN","BIRD","Hesperiphona_vespertina_3_aoh.tif","Hesperiphona vespertina",3,NA
-"IUCN","BIRD","Hirundo_rustica_2_aoh.tif","Hirundo rustica",2,"Barn Swallow"
-"IUCN","BIRD","Histrionicus_histrionicus_2_aoh.tif","Histrionicus histrionicus",2,"Harlequin Duck"
-"IUCN","BIRD","Histrionicus_histrionicus_3_aoh.tif","Histrionicus histrionicus",3,"Harlequin Duck"
-"IUCN","BIRD","Hydrobates_furcatus_1_aoh.tif","Hydrobates furcatus",1,NA
-"IUCN","BIRD","Hydrobates_furcatus_2_aoh.tif","Hydrobates furcatus",2,NA
-"IUCN","BIRD","Hydrocoloeus_minutus_2_aoh.tif","Hydrocoloeus minutus",2,NA
-"IUCN","BIRD","Hydrocoloeus_minutus_3_aoh.tif","Hydrocoloeus minutus",3,NA
-"IUCN","BIRD","Hydroprogne_caspia_2_aoh.tif","Hydroprogne caspia",2,NA
-"IUCN","BIRD","Hylatomus_pileatus_1_aoh.tif","Hylatomus pileatus",1,NA
-"IUCN","BIRD","Hylocichla_mustelina_2_aoh.tif","Hylocichla mustelina",2,NA
-"IUCN","BIRD","Icteria_virens_2_aoh.tif","Icteria virens",2,"Yellow-Breasted Chat"
-"IUCN","BIRD","Icterus_bullockiorum_2_aoh.tif","Icterus bullockiorum",2,NA
-"IUCN","BIRD","Icterus_galbula_2_aoh.tif","Icterus galbula",2,"Baltimore Oriole"
-"IUCN","BIRD","Icterus_spurius_2_aoh.tif","Icterus spurius",2,NA
-"IUCN","BIRD","Ixobrychus_exilis_2_aoh.tif","Ixobrychus exilis",2,"Least Bittern"
-"IUCN","BIRD","Ixoreus_naevius_1_aoh.tif","Ixoreus naevius",1,"Varied Thrush"
-"IUCN","BIRD","Ixoreus_naevius_2_aoh.tif","Ixoreus naevius",2,"Varied Thrush"
-"IUCN","BIRD","Junco_hyemalis_1_aoh.tif","Junco hyemalis",1,"Dark-Eyed Junco"
-"IUCN","BIRD","Junco_hyemalis_2_aoh.tif","Junco hyemalis",2,"Dark-Eyed Junco"
-"IUCN","BIRD","Junco_hyemalis_3_aoh.tif","Junco hyemalis",3,"Dark-Eyed Junco"
-"IUCN","BIRD","Lagopus_lagopus_1_aoh.tif","Lagopus lagopus",1,"Willow Ptarmigan"
-"IUCN","BIRD","Lagopus_lagopus_2_aoh.tif","Lagopus lagopus",2,"Willow Ptarmigan"
-"IUCN","BIRD","Lagopus_lagopus_3_aoh.tif","Lagopus lagopus",3,"Willow Ptarmigan"
-"IUCN","BIRD","Lagopus_leucura_1_aoh.tif","Lagopus leucura",1,"White-Tailed Ptarmigan"
-"IUCN","BIRD","Lagopus_muta_1_aoh.tif","Lagopus muta",1,"Rock Ptarmigan"
-"IUCN","BIRD","Lagopus_muta_3_aoh.tif","Lagopus muta",3,"Rock Ptarmigan"
-"IUCN","BIRD","Lanius_borealis_1_aoh.tif","Lanius borealis",1,NA
-"IUCN","BIRD","Lanius_borealis_2_aoh.tif","Lanius borealis",2,NA
-"IUCN","BIRD","Lanius_borealis_3_aoh.tif","Lanius borealis",3,NA
-"IUCN","BIRD","Lanius_ludovicianus_2_aoh.tif","Lanius ludovicianus",2,NA
-"IUCN","BIRD","Larus_atricilla_2_aoh.tif","Larus atricilla",2,"Laughing Gull"
-"IUCN","BIRD","Larus_californicus_2_aoh.tif","Larus californicus",2,NA
-"IUCN","BIRD","Larus_californicus_3_aoh.tif","Larus californicus",3,NA
-"IUCN","BIRD","Larus_canus_1_aoh.tif","Larus canus",1,NA
-"IUCN","BIRD","Larus_canus_2_aoh.tif","Larus canus",2,NA
-"IUCN","BIRD","Larus_canus_3_aoh.tif","Larus canus",3,NA
-"IUCN","BIRD","Larus_delawarensis_1_aoh.tif","Larus delawarensis",1,NA
-"IUCN","BIRD","Larus_delawarensis_2_aoh.tif","Larus delawarensis",2,NA
-"IUCN","BIRD","Larus_delawarensis_3_aoh.tif","Larus delawarensis",3,NA
-"IUCN","BIRD","Larus_fuscus_3_aoh.tif","Larus fuscus",3,NA
-"IUCN","BIRD","Larus_glaucescens_1_aoh.tif","Larus glaucescens",1,"Glaucous-Winged Gull"
-"IUCN","BIRD","Larus_glaucescens_3_aoh.tif","Larus glaucescens",3,"Glaucous-Winged Gull"
-"IUCN","BIRD","Larus_heermanni_3_aoh.tif","Larus heermanni",3,NA
-"IUCN","BIRD","Larus_hyperboreus_1_aoh.tif","Larus hyperboreus",1,NA
-"IUCN","BIRD","Larus_hyperboreus_2_aoh.tif","Larus hyperboreus",2,NA
-"IUCN","BIRD","Larus_hyperboreus_3_aoh.tif","Larus hyperboreus",3,NA
-"IUCN","BIRD","Larus_marinus_1_aoh.tif","Larus marinus",1,NA
-"IUCN","BIRD","Larus_marinus_2_aoh.tif","Larus marinus",2,NA
-"IUCN","BIRD","Larus_marinus_3_aoh.tif","Larus marinus",3,NA
-"IUCN","BIRD","Larus_occidentalis_3_aoh.tif","Larus occidentalis",3,NA
-"IUCN","BIRD","Larus_philadelphia_2_aoh.tif","Larus philadelphia",2,NA
-"IUCN","BIRD","Larus_philadelphia_3_aoh.tif","Larus philadelphia",3,NA
-"IUCN","BIRD","Larus_pipixcan_2_aoh.tif","Larus pipixcan",2,"Franklin's Gull"
-"IUCN","BIRD","Larus_ridibundus_1_aoh.tif","Larus ridibundus",1,"Black-Headed Gull"
-"IUCN","BIRD","Larus_ridibundus_3_aoh.tif","Larus ridibundus",3,"Black-Headed Gull"
-"IUCN","BIRD","Larus_smithsonianus_1_aoh.tif","Larus smithsonianus",1,"American Herring Gull"
-"IUCN","BIRD","Larus_smithsonianus_2_aoh.tif","Larus smithsonianus",2,"American Herring Gull"
-"IUCN","BIRD","Larus_smithsonianus_3_aoh.tif","Larus smithsonianus",3,"American Herring Gull"
-"IUCN","BIRD","Leiothlypis_celata_1_aoh.tif","Leiothlypis celata",1,"Orange-Crowned Warbler"
-"IUCN","BIRD","Leiothlypis_celata_2_aoh.tif","Leiothlypis celata",2,"Orange-Crowned Warbler"
-"IUCN","BIRD","Leiothlypis_peregrina_2_aoh.tif","Leiothlypis peregrina",2,NA
-"IUCN","BIRD","Leiothlypis_ruficapilla_2_aoh.tif","Leiothlypis ruficapilla",2,NA
-"IUCN","BIRD","Leuconotopicus_albolarvatus_1_aoh.tif","Leuconotopicus albolarvatus",1,"White-Headed Woodpecker"
-"IUCN","BIRD","Leuconotopicus_villosus_1_aoh.tif","Leuconotopicus villosus",1,NA
-"IUCN","BIRD","Leucosticte_tephrocotis_1_aoh.tif","Leucosticte tephrocotis",1,"Grey-Crowned Rosy-Finch"
-"IUCN","BIRD","Leucosticte_tephrocotis_2_aoh.tif","Leucosticte tephrocotis",2,"Grey-Crowned Rosy-Finch"
-"IUCN","BIRD","Leucosticte_tephrocotis_3_aoh.tif","Leucosticte tephrocotis",3,"Grey-Crowned Rosy-Finch"
-"IUCN","BIRD","Limnodromus_griseus_2_aoh.tif","Limnodromus griseus",2,"Shortbilled Dowitcher"
-"IUCN","BIRD","Limnodromus_scolopaceus_2_aoh.tif","Limnodromus scolopaceus",2,NA
-"IUCN","BIRD","Limosa_fedoa_2_aoh.tif","Limosa fedoa",2,NA
-"IUCN","BIRD","Limosa_haemastica_2_aoh.tif","Limosa haemastica",2,NA
-"IUCN","BIRD","Lophodytes_cucullatus_1_aoh.tif","Lophodytes cucullatus",1,NA
-"IUCN","BIRD","Lophodytes_cucullatus_2_aoh.tif","Lophodytes cucullatus",2,NA
-"IUCN","BIRD","Lophodytes_cucullatus_3_aoh.tif","Lophodytes cucullatus",3,NA
-"IUCN","BIRD","Loxia_curvirostra_1_aoh.tif","Loxia curvirostra",1,NA
-"IUCN","BIRD","Loxia_curvirostra_3_aoh.tif","Loxia curvirostra",3,NA
-"IUCN","BIRD","Loxia_leucoptera_1_aoh.tif","Loxia leucoptera",1,NA
-"IUCN","BIRD","Loxia_leucoptera_3_aoh.tif","Loxia leucoptera",3,NA
-"IUCN","BIRD","Mareca_americana_1_aoh.tif","Mareca americana",1,"American Wigeon"
-"IUCN","BIRD","Mareca_americana_2_aoh.tif","Mareca americana",2,"American Wigeon"
-"IUCN","BIRD","Mareca_americana_3_aoh.tif","Mareca americana",3,"American Wigeon"
-"IUCN","BIRD","Mareca_penelope_3_aoh.tif","Mareca penelope",3,"Eurasian Wigeon"
-"IUCN","BIRD","Mareca_strepera_1_aoh.tif","Mareca strepera",1,"Gadwall"
-"IUCN","BIRD","Mareca_strepera_2_aoh.tif","Mareca strepera",2,"Gadwall"
-"IUCN","BIRD","Mareca_strepera_3_aoh.tif","Mareca strepera",3,"Gadwall"
-"IUCN","BIRD","Megaceryle_alcyon_1_aoh.tif","Megaceryle alcyon",1,"Belted Kingfisher"
-"IUCN","BIRD","Megaceryle_alcyon_2_aoh.tif","Megaceryle alcyon",2,"Belted Kingfisher"
-"IUCN","BIRD","Megascops_asio_1_aoh.tif","Megascops asio",1,"Eastern Screech-Owl"
-"IUCN","BIRD","Megascops_kennicottii_1_aoh.tif","Megascops kennicottii",1,"Western Screech-Owl"
-"IUCN","BIRD","Melanerpes_carolinus_1_aoh.tif","Melanerpes carolinus",1,NA
-"IUCN","BIRD","Melanerpes_erythrocephalus_1_aoh.tif","Melanerpes erythrocephalus",1,"Red-Headed Woodpecker"
-"IUCN","BIRD","Melanerpes_erythrocephalus_2_aoh.tif","Melanerpes erythrocephalus",2,"Red-Headed Woodpecker"
-"IUCN","BIRD","Melanerpes_lewis_2_aoh.tif","Melanerpes lewis",2,NA
-"IUCN","BIRD","Melanitta_americana_2_aoh.tif","Melanitta americana",2,"American Black Scoter"
-"IUCN","BIRD","Melanitta_americana_3_aoh.tif","Melanitta americana",3,"American Black Scoter"
-"IUCN","BIRD","Melanitta_deglandi_2_aoh.tif","Melanitta deglandi",2,NA
-"IUCN","BIRD","Melanitta_deglandi_3_aoh.tif","Melanitta deglandi",3,NA
-"IUCN","BIRD","Melanitta_perspicillata_2_aoh.tif","Melanitta perspicillata",2,"Surf Scoter"
-"IUCN","BIRD","Melanitta_perspicillata_3_aoh.tif","Melanitta perspicillata",3,"Surf Scoter"
-"IUCN","BIRD","Meleagris_gallopavo_1_aoh.tif","Meleagris gallopavo",1,"Turkey"
-"IUCN","BIRD","Melospiza_georgiana_1_aoh.tif","Melospiza georgiana",1,NA
-"IUCN","BIRD","Melospiza_georgiana_2_aoh.tif","Melospiza georgiana",2,NA
-"IUCN","BIRD","Melospiza_georgiana_3_aoh.tif","Melospiza georgiana",3,NA
-"IUCN","BIRD","Melospiza_lincolnii_2_aoh.tif","Melospiza lincolnii",2,NA
-"IUCN","BIRD","Melospiza_lincolnii_3_aoh.tif","Melospiza lincolnii",3,NA
-"IUCN","BIRD","Melospiza_melodia_1_aoh.tif","Melospiza melodia",1,"Song Sparrow"
-"IUCN","BIRD","Melospiza_melodia_2_aoh.tif","Melospiza melodia",2,"Song Sparrow"
-"IUCN","BIRD","Mergus_merganser_1_aoh.tif","Mergus merganser",1,"Common Merganser"
-"IUCN","BIRD","Mergus_merganser_2_aoh.tif","Mergus merganser",2,"Common Merganser"
-"IUCN","BIRD","Mergus_merganser_3_aoh.tif","Mergus merganser",3,"Common Merganser"
-"IUCN","BIRD","Mergus_serrator_2_aoh.tif","Mergus serrator",2,NA
-"IUCN","BIRD","Mergus_serrator_3_aoh.tif","Mergus serrator",3,NA
-"IUCN","BIRD","Mimus_polyglottos_1_aoh.tif","Mimus polyglottos",1,"Northern Mockingbird"
-"IUCN","BIRD","Mniotilta_varia_2_aoh.tif","Mniotilta varia",2,"Black-And-White Warbler"
-"IUCN","BIRD","Molothrus_ater_1_aoh.tif","Molothrus ater",1,NA
-"IUCN","BIRD","Molothrus_ater_2_aoh.tif","Molothrus ater",2,NA
-"IUCN","BIRD","Morus_bassanus_1_aoh.tif","Morus bassanus",1,"Northern Gannet"
-"IUCN","BIRD","Morus_bassanus_2_aoh.tif","Morus bassanus",2,"Northern Gannet"
-"IUCN","BIRD","Motacilla_tschutschensis_2_aoh.tif","Motacilla tschutschensis",2,"Eastern Yellow Wagtail"
-"IUCN","BIRD","Myadestes_townsendi_1_aoh.tif","Myadestes townsendi",1,NA
-"IUCN","BIRD","Myadestes_townsendi_2_aoh.tif","Myadestes townsendi",2,NA
-"IUCN","BIRD","Myadestes_townsendi_3_aoh.tif","Myadestes townsendi",3,NA
-"IUCN","BIRD","Myiarchus_crinitus_2_aoh.tif","Myiarchus crinitus",2,"Great Crested Flycatcher"
-"IUCN","BIRD","Nannopterum_auritus_1_aoh.tif","Nannopterum auritus",1,NA
-"IUCN","BIRD","Nannopterum_auritus_2_aoh.tif","Nannopterum auritus",2,NA
-"IUCN","BIRD","Nannopterum_auritus_3_aoh.tif","Nannopterum auritus",3,NA
-"IUCN","BIRD","Nucifraga_columbiana_1_aoh.tif","Nucifraga columbiana",1,NA
-"IUCN","BIRD","Numenius_americanus_2_aoh.tif","Numenius americanus",2,"Long-Billed Curlew"
-"IUCN","BIRD","Numenius_phaeopus_2_aoh.tif","Numenius phaeopus",2,NA
-"IUCN","BIRD","Nycticorax_nycticorax_1_aoh.tif","Nycticorax nycticorax",1,"Black-Crowned Night-Heron"
-"IUCN","BIRD","Nycticorax_nycticorax_2_aoh.tif","Nycticorax nycticorax",2,"Black-Crowned Night-Heron"
-"IUCN","BIRD","Oceanites_oceanicus_3_aoh.tif","Oceanites oceanicus",3,"Wilson's Storm-Petrel"
-"IUCN","BIRD","Oenanthe_oenanthe_2_aoh.tif","Oenanthe oenanthe",2,"Northern Wheatear"
-"IUCN","BIRD","Oporornis_agilis_2_aoh.tif","Oporornis agilis",2,"Connecticut Warbler"
-"IUCN","BIRD","Oreortyx_pictus_1_aoh.tif","Oreortyx pictus",1,"Mountain Quail"
-"IUCN","BIRD","Oreoscoptes_montanus_2_aoh.tif","Oreoscoptes montanus",2,NA
-"IUCN","BIRD","Oxyura_jamaicensis_1_aoh.tif","Oxyura jamaicensis",1,"Ruddy Duck"
-"IUCN","BIRD","Oxyura_jamaicensis_2_aoh.tif","Oxyura jamaicensis",2,"Ruddy Duck"
-"IUCN","BIRD","Oxyura_jamaicensis_3_aoh.tif","Oxyura jamaicensis",3,"Ruddy Duck"
-"IUCN","BIRD","Pagophila_eburnea_1_aoh.tif","Pagophila eburnea",1,NA
-"IUCN","BIRD","Pagophila_eburnea_2_aoh.tif","Pagophila eburnea",2,NA
-"IUCN","BIRD","Pandion_haliaetus_2_aoh.tif","Pandion haliaetus",2,NA
-"IUCN","BIRD","Parkesia_motacilla_2_aoh.tif","Parkesia motacilla",2,"Lousiana Waterthrush"
-"IUCN","BIRD","Parkesia_noveboracensis_2_aoh.tif","Parkesia noveboracensis",2,"Northern Waterthrush"
-"IUCN","BIRD","Passer_domesticus_1_aoh.tif","Passer domesticus",1,"House Sparrow"
-"IUCN","BIRD","Passerculus_bairdii_2_aoh.tif","Passerculus bairdii",2,NA
-"IUCN","BIRD","Passerculus_sandwichensis_1_aoh.tif","Passerculus sandwichensis",1,"Savannah Sparrow"
-"IUCN","BIRD","Passerculus_sandwichensis_2_aoh.tif","Passerculus sandwichensis",2,"Savannah Sparrow"
-"IUCN","BIRD","Passerella_arborea_3_aoh.tif","Passerella arborea",3,NA
-"IUCN","BIRD","Passerella_iliaca_2_aoh.tif","Passerella iliaca",2,"Fox Sparrow"
-"IUCN","BIRD","Passerella_iliaca_3_aoh.tif","Passerella iliaca",3,"Fox Sparrow"
-"IUCN","BIRD","Passerella_schistacea_2_aoh.tif","Passerella schistacea",2,NA
-"IUCN","BIRD","Passerella_unalaschcensis_1_aoh.tif","Passerella unalaschcensis",1,NA
-"IUCN","BIRD","Passerella_unalaschcensis_2_aoh.tif","Passerella unalaschcensis",2,NA
-"IUCN","BIRD","Passerella_unalaschcensis_3_aoh.tif","Passerella unalaschcensis",3,NA
-"IUCN","BIRD","Passerina_amoena_2_aoh.tif","Passerina amoena",2,NA
-"IUCN","BIRD","Passerina_cyanea_2_aoh.tif","Passerina cyanea",2,"Indigo Bunting"
-"IUCN","BIRD","Patagioenas_fasciata_2_aoh.tif","Patagioenas fasciata",2,"Band-Tailed Pigeon"
-"IUCN","BIRD","Pelecanus_erythrorhynchos_2_aoh.tif","Pelecanus erythrorhynchos",2,"American White Pelican"
-"IUCN","BIRD","Perdix_perdix_1_aoh.tif","Perdix perdix",1,"Grey Partridge"
-"IUCN","BIRD","Perisoreus_canadensis_1_aoh.tif","Perisoreus canadensis",1,NA
-"IUCN","BIRD","Petrochelidon_pyrrhonota_2_aoh.tif","Petrochelidon pyrrhonota",2,"Cliff Swallow"
-"IUCN","BIRD","Phalacrocorax_carbo_2_aoh.tif","Phalacrocorax carbo",2,"Great Cormorant"
-"IUCN","BIRD","Phalacrocorax_carbo_3_aoh.tif","Phalacrocorax carbo",3,"Great Cormorant"
-"IUCN","BIRD","Phalaenoptilus_nuttallii_2_aoh.tif","Phalaenoptilus nuttallii",2,NA
-"IUCN","BIRD","Phalaropus_fulicarius_2_aoh.tif","Phalaropus fulicarius",2,"Red Phalarope"
-"IUCN","BIRD","Phalaropus_lobatus_2_aoh.tif","Phalaropus lobatus",2,"Red-Necked Phalarope"
-"IUCN","BIRD","Phasianus_colchicus_1_aoh.tif","Phasianus colchicus",1,"Ring-Necked Pheasant"
-"IUCN","BIRD","Pheucticus_ludovicianus_2_aoh.tif","Pheucticus ludovicianus",2,"Rose-Breasted Grosbeak"
-"IUCN","BIRD","Pheucticus_melanocephalus_2_aoh.tif","Pheucticus melanocephalus",2,NA
-"IUCN","BIRD","Phoebastria_albatrus_1_aoh.tif","Phoebastria albatrus",1,NA
-"IUCN","BIRD","Phoebastria_immutabilis_1_aoh.tif","Phoebastria immutabilis",1,NA
-"IUCN","BIRD","Phoebastria_nigripes_1_aoh.tif","Phoebastria nigripes",1,"Hawaiian Black-Footed Albatross"
-"IUCN","BIRD","Pica_hudsonia_1_aoh.tif","Pica hudsonia",1,"Black-Billed Magpie"
-"IUCN","BIRD","Picoides_arcticus_1_aoh.tif","Picoides arcticus",1,NA
-"IUCN","BIRD","Picoides_tridactylus_1_aoh.tif","Picoides tridactylus",1,NA
-"IUCN","BIRD","Pinicola_enucleator_1_aoh.tif","Pinicola enucleator",1,"Pine Grosbeak"
-"IUCN","BIRD","Pinicola_enucleator_3_aoh.tif","Pinicola enucleator",3,"Pine Grosbeak"
-"IUCN","BIRD","Pipilo_erythrophthalmus_1_aoh.tif","Pipilo erythrophthalmus",1,NA
-"IUCN","BIRD","Pipilo_erythrophthalmus_2_aoh.tif","Pipilo erythrophthalmus",2,NA
-"IUCN","BIRD","Pipilo_maculatus_1_aoh.tif","Pipilo maculatus",1,NA
-"IUCN","BIRD","Pipilo_maculatus_2_aoh.tif","Pipilo maculatus",2,NA
-"IUCN","BIRD","Piranga_ludoviciana_2_aoh.tif","Piranga ludoviciana",2,"Western Tanager"
-"IUCN","BIRD","Piranga_olivacea_2_aoh.tif","Piranga olivacea",2,"Scarlet Tanager"
-"IUCN","BIRD","Plectrophenax_nivalis_1_aoh.tif","Plectrophenax nivalis",1,NA
-"IUCN","BIRD","Plectrophenax_nivalis_2_aoh.tif","Plectrophenax nivalis",2,NA
-"IUCN","BIRD","Plectrophenax_nivalis_3_aoh.tif","Plectrophenax nivalis",3,NA
-"IUCN","BIRD","Plegadis_chihi_2_aoh.tif","Plegadis chihi",2,"White-Faced Ibis"
-"IUCN","BIRD","Pluvialis_dominica_2_aoh.tif","Pluvialis dominica",2,"American Golden-Plover"
-"IUCN","BIRD","Pluvialis_squatarola_2_aoh.tif","Pluvialis squatarola",2,NA
-"IUCN","BIRD","Pluvialis_squatarola_3_aoh.tif","Pluvialis squatarola",3,NA
-"IUCN","BIRD","Podiceps_auritus_2_aoh.tif","Podiceps auritus",2,NA
-"IUCN","BIRD","Podiceps_auritus_3_aoh.tif","Podiceps auritus",3,NA
-"IUCN","BIRD","Podiceps_grisegena_2_aoh.tif","Podiceps grisegena",2,NA
-"IUCN","BIRD","Podiceps_grisegena_3_aoh.tif","Podiceps grisegena",3,NA
-"IUCN","BIRD","Podiceps_nigricollis_2_aoh.tif","Podiceps nigricollis",2,"Black-Necked Grebe"
-"IUCN","BIRD","Podiceps_nigricollis_3_aoh.tif","Podiceps nigricollis",3,"Black-Necked Grebe"
-"IUCN","BIRD","Podilymbus_podiceps_1_aoh.tif","Podilymbus podiceps",1,NA
-"IUCN","BIRD","Podilymbus_podiceps_2_aoh.tif","Podilymbus podiceps",2,NA
-"IUCN","BIRD","Poecile_atricapillus_1_aoh.tif","Poecile atricapillus",1,"Black-Capped Chickadee"
-"IUCN","BIRD","Poecile_cinctus_1_aoh.tif","Poecile cinctus",1,"Siberian Tit"
-"IUCN","BIRD","Poecile_gambeli_1_aoh.tif","Poecile gambeli",1,NA
-"IUCN","BIRD","Poecile_hudsonicus_1_aoh.tif","Poecile hudsonicus",1,NA
-"IUCN","BIRD","Poecile_rufescens_1_aoh.tif","Poecile rufescens",1,NA
-"IUCN","BIRD","Polioptila_caerulea_2_aoh.tif","Polioptila caerulea",2,NA
-"IUCN","BIRD","Pooecetes_gramineus_2_aoh.tif","Pooecetes gramineus",2,NA
-"IUCN","BIRD","Porzana_carolina_2_aoh.tif","Porzana carolina",2,"Sora"
-"IUCN","BIRD","Progne_subis_2_aoh.tif","Progne subis",2,NA
-"IUCN","BIRD","Protonotaria_citrea_2_aoh.tif","Protonotaria citrea",2,"Prothonotary Warbler"
-"IUCN","BIRD","Psaltriparus_minimus_1_aoh.tif","Psaltriparus minimus",1,"Bushtit"
-"IUCN","BIRD","Psiloscops_flammeolus_2_aoh.tif","Psiloscops flammeolus",2,"Flammulated Owl"
-"IUCN","BIRD","Pterodroma_cahow_1_aoh.tif","Pterodroma cahow",1,NA
-"IUCN","BIRD","Ptychoramphus_aleuticus_1_aoh.tif","Ptychoramphus aleuticus",1,NA
-"IUCN","BIRD","Ptychoramphus_aleuticus_2_aoh.tif","Ptychoramphus aleuticus",2,NA
-"IUCN","BIRD","Ptychoramphus_aleuticus_3_aoh.tif","Ptychoramphus aleuticus",3,NA
-"IUCN","BIRD","Puffinus_lherminieri_1_aoh.tif","Puffinus lherminieri",1,"Audubon's Shearwater"
-"IUCN","BIRD","Puffinus_puffinus_1_aoh.tif","Puffinus puffinus",1,NA
-"IUCN","BIRD","Quiscalus_quiscula_1_aoh.tif","Quiscalus quiscula",1,"Common Grackle"
-"IUCN","BIRD","Quiscalus_quiscula_2_aoh.tif","Quiscalus quiscula",2,"Common Grackle"
-"IUCN","BIRD","Rallus_elegans_2_aoh.tif","Rallus elegans",2,"King Rail"
-"IUCN","BIRD","Rallus_limicola_1_aoh.tif","Rallus limicola",1,NA
-"IUCN","BIRD","Rallus_limicola_2_aoh.tif","Rallus limicola",2,NA
-"IUCN","BIRD","Recurvirostra_americana_2_aoh.tif","Recurvirostra americana",2,"American Avocet"
-"IUCN","BIRD","Regulus_calendula_1_aoh.tif","Regulus calendula",1,NA
-"IUCN","BIRD","Regulus_calendula_2_aoh.tif","Regulus calendula",2,NA
-"IUCN","BIRD","Regulus_satrapa_1_aoh.tif","Regulus satrapa",1,"Golden-Crowned Kinglet"
-"IUCN","BIRD","Regulus_satrapa_2_aoh.tif","Regulus satrapa",2,"Golden-Crowned Kinglet"
-"IUCN","BIRD","Regulus_satrapa_3_aoh.tif","Regulus satrapa",3,"Golden-Crowned Kinglet"
-"IUCN","BIRD","Rhodostethia_rosea_2_aoh.tif","Rhodostethia rosea",2,NA
-"IUCN","BIRD","Rhynchophanes_mccownii_2_aoh.tif","Rhynchophanes mccownii",2,NA
-"IUCN","BIRD","Riparia_riparia_2_aoh.tif","Riparia riparia",2,NA
-"IUCN","BIRD","Rissa_brevirostris_3_aoh.tif","Rissa brevirostris",3,NA
-"IUCN","BIRD","Rissa_tridactyla_1_aoh.tif","Rissa tridactyla",1,"Black-Legged Kittiwake"
-"IUCN","BIRD","Rissa_tridactyla_2_aoh.tif","Rissa tridactyla",2,"Black-Legged Kittiwake"
-"IUCN","BIRD","Rissa_tridactyla_3_aoh.tif","Rissa tridactyla",3,"Black-Legged Kittiwake"
-"IUCN","BIRD","Salpinctes_obsoletus_2_aoh.tif","Salpinctes obsoletus",2,"Rock Wren"
-"IUCN","BIRD","Sayornis_phoebe_2_aoh.tif","Sayornis phoebe",2,"Eastern Phoebe"
-"IUCN","BIRD","Sayornis_saya_2_aoh.tif","Sayornis saya",2,NA
-"IUCN","BIRD","Scolopax_minor_2_aoh.tif","Scolopax minor",2,NA
-"IUCN","BIRD","Seiurus_aurocapilla_2_aoh.tif","Seiurus aurocapilla",2,"Ovenbird"
-"IUCN","BIRD","Selasphorus_calliope_2_aoh.tif","Selasphorus calliope",2,"Calliope Hummingbird"
-"IUCN","BIRD","Selasphorus_rufus_2_aoh.tif","Selasphorus rufus",2,"Rufous Hummingbird"
-"IUCN","BIRD","Setophaga_americana_2_aoh.tif","Setophaga americana",2,NA
-"IUCN","BIRD","Setophaga_auduboni_1_aoh.tif","Setophaga auduboni",1,"Audubon's Warbler"
-"IUCN","BIRD","Setophaga_auduboni_2_aoh.tif","Setophaga auduboni",2,"Audubon's Warbler"
-"IUCN","BIRD","Setophaga_caerulescens_2_aoh.tif","Setophaga caerulescens",2,"Black-Throated Blue Warbler"
-"IUCN","BIRD","Setophaga_castanea_2_aoh.tif","Setophaga castanea",2,"Bay-Breasted Warbler"
-"IUCN","BIRD","Setophaga_cerulea_2_aoh.tif","Setophaga cerulea",2,"Cerulean Warbler"
-"IUCN","BIRD","Setophaga_citrina_2_aoh.tif","Setophaga citrina",2,"Hooded Warbler"
-"IUCN","BIRD","Setophaga_coronata_2_aoh.tif","Setophaga coronata",2,"Yellow-Rumped Warbler"
-"IUCN","BIRD","Setophaga_coronata_3_aoh.tif","Setophaga coronata",3,"Yellow-Rumped Warbler"
-"IUCN","BIRD","Setophaga_discolor_2_aoh.tif","Setophaga discolor",2,"Prairie Warbler"
-"IUCN","BIRD","Setophaga_fusca_2_aoh.tif","Setophaga fusca",2,"Blackburnian Warbler"
-"IUCN","BIRD","Setophaga_magnolia_2_aoh.tif","Setophaga magnolia",2,"Magnolia Warbler"
-"IUCN","BIRD","Setophaga_nigrescens_2_aoh.tif","Setophaga nigrescens",2,"Black-Throated Grey Warbler"
-"IUCN","BIRD","Setophaga_palmarum_2_aoh.tif","Setophaga palmarum",2,"Palm Warbler"
-"IUCN","BIRD","Setophaga_pensylvanica_2_aoh.tif","Setophaga pensylvanica",2,"Chestnut-Sided Warbler"
-"IUCN","BIRD","Setophaga_petechia_2_aoh.tif","Setophaga petechia",2,"Yellow Warbler"
-"IUCN","BIRD","Setophaga_pinus_2_aoh.tif","Setophaga pinus",2,"Pine Warbler"
-"IUCN","BIRD","Setophaga_ruticilla_2_aoh.tif","Setophaga ruticilla",2,NA
-"IUCN","BIRD","Setophaga_striata_2_aoh.tif","Setophaga striata",2,"Blackpoll Warbler"
-"IUCN","BIRD","Setophaga_tigrina_2_aoh.tif","Setophaga tigrina",2,NA
-"IUCN","BIRD","Setophaga_townsendi_1_aoh.tif","Setophaga townsendi",1,"Townsend's Warbler"
-"IUCN","BIRD","Setophaga_townsendi_2_aoh.tif","Setophaga townsendi",2,"Townsend's Warbler"
-"IUCN","BIRD","Sialia_currucoides_2_aoh.tif","Sialia currucoides",2,"Mountain Bluebird"
-"IUCN","BIRD","Sialia_mexicana_1_aoh.tif","Sialia mexicana",1,NA
-"IUCN","BIRD","Sialia_mexicana_2_aoh.tif","Sialia mexicana",2,NA
-"IUCN","BIRD","Sialia_sialis_2_aoh.tif","Sialia sialis",2,"Eastern Bluebird"
-"IUCN","BIRD","Sitta_canadensis_1_aoh.tif","Sitta canadensis",1,"Red-Breasted Nuthatch"
-"IUCN","BIRD","Sitta_canadensis_3_aoh.tif","Sitta canadensis",3,"Red-Breasted Nuthatch"
-"IUCN","BIRD","Sitta_carolinensis_1_aoh.tif","Sitta carolinensis",1,NA
-"IUCN","BIRD","Sitta_pygmaea_1_aoh.tif","Sitta pygmaea",1,NA
-"IUCN","BIRD","Somateria_mollissima_2_aoh.tif","Somateria mollissima",2,"Common Eider"
-"IUCN","BIRD","Somateria_mollissima_3_aoh.tif","Somateria mollissima",3,"Common Eider"
-"IUCN","BIRD","Somateria_spectabilis_2_aoh.tif","Somateria spectabilis",2,"King Eider"
-"IUCN","BIRD","Somateria_spectabilis_3_aoh.tif","Somateria spectabilis",3,"King Eider"
-"IUCN","BIRD","Spatula_clypeata_1_aoh.tif","Spatula clypeata",1,"Northern Shoveler"
-"IUCN","BIRD","Spatula_clypeata_2_aoh.tif","Spatula clypeata",2,"Northern Shoveler"
-"IUCN","BIRD","Spatula_cyanoptera_2_aoh.tif","Spatula cyanoptera",2,NA
-"IUCN","BIRD","Spatula_discors_2_aoh.tif","Spatula discors",2,"Blue-Winged Teal"
-"IUCN","BIRD","Sphyrapicus_nuchalis_2_aoh.tif","Sphyrapicus nuchalis",2,NA
-"IUCN","BIRD","Sphyrapicus_ruber_1_aoh.tif","Sphyrapicus ruber",1,NA
-"IUCN","BIRD","Sphyrapicus_ruber_2_aoh.tif","Sphyrapicus ruber",2,NA
-"IUCN","BIRD","Sphyrapicus_thyroideus_2_aoh.tif","Sphyrapicus thyroideus",2,NA
-"IUCN","BIRD","Sphyrapicus_varius_2_aoh.tif","Sphyrapicus varius",2,"Yellow-Bellied Sapsucker"
-"IUCN","BIRD","Spinus_pinus_1_aoh.tif","Spinus pinus",1,"Pine Siskin"
-"IUCN","BIRD","Spinus_pinus_2_aoh.tif","Spinus pinus",2,"Pine Siskin"
-"IUCN","BIRD","Spinus_pinus_3_aoh.tif","Spinus pinus",3,"Pine Siskin"
-"IUCN","BIRD","Spinus_tristis_1_aoh.tif","Spinus tristis",1,"American Goldfinch"
-"IUCN","BIRD","Spinus_tristis_2_aoh.tif","Spinus tristis",2,"American Goldfinch"
-"IUCN","BIRD","Spiza_americana_2_aoh.tif","Spiza americana",2,"Dickcissel"
-"IUCN","BIRD","Spizella_breweri_2_aoh.tif","Spizella breweri",2,"Brewer's Sparrow"
-"IUCN","BIRD","Spizella_pallida_2_aoh.tif","Spizella pallida",2,"Clay-Colored Sparrow"
-"IUCN","BIRD","Spizella_passerina_2_aoh.tif","Spizella passerina",2,"Chipping Sparrow"
-"IUCN","BIRD","Spizella_pusilla_1_aoh.tif","Spizella pusilla",1,"Field Sparrow"
-"IUCN","BIRD","Spizella_pusilla_2_aoh.tif","Spizella pusilla",2,"Field Sparrow"
-"IUCN","BIRD","Steganopus_tricolor_2_aoh.tif","Steganopus tricolor",2,"Wilson's Phalarope"
-"IUCN","BIRD","Stelgidopteryx_serripennis_2_aoh.tif","Stelgidopteryx serripennis",2,"Northern Rough-Winged Swallow"
-"IUCN","BIRD","Stercorarius_longicaudus_2_aoh.tif","Stercorarius longicaudus",2,"Long-Tailed Jaeger"
-"IUCN","BIRD","Stercorarius_parasiticus_2_aoh.tif","Stercorarius parasiticus",2,NA
-"IUCN","BIRD","Stercorarius_pomarinus_2_aoh.tif","Stercorarius pomarinus",2,NA
-"IUCN","BIRD","Sterna_dougallii_2_aoh.tif","Sterna dougallii",2,NA
-"IUCN","BIRD","Sterna_forsteri_2_aoh.tif","Sterna forsteri",2,"Forster's Tern"
-"IUCN","BIRD","Sterna_hirundo_2_aoh.tif","Sterna hirundo",2,"Common Tern"
-"IUCN","BIRD","Sterna_paradisaea_2_aoh.tif","Sterna paradisaea",2,"Arctic Tern"
-"IUCN","BIRD","Strix_nebulosa_1_aoh.tif","Strix nebulosa",1,"Great Grey Owl"
-"IUCN","BIRD","Strix_occidentalis_1_aoh.tif","Strix occidentalis",1,"Spotted Owl"
-"IUCN","BIRD","Strix_varia_1_aoh.tif","Strix varia",1,"Northern Barred Owl"
-"IUCN","BIRD","Sturnella_magna_2_aoh.tif","Sturnella magna",2,NA
-"IUCN","BIRD","Sturnella_neglecta_1_aoh.tif","Sturnella neglecta",1,"Western Meadowlark"
-"IUCN","BIRD","Sturnella_neglecta_2_aoh.tif","Sturnella neglecta",2,"Western Meadowlark"
-"IUCN","BIRD","Sturnus_vulgaris_1_aoh.tif","Sturnus vulgaris",1,"Common Starling"
-"IUCN","BIRD","Sturnus_vulgaris_2_aoh.tif","Sturnus vulgaris",2,"Common Starling"
-"IUCN","BIRD","Surnia_ulula_1_aoh.tif","Surnia ulula",1,"Northern Hawk-Owl"
-"IUCN","BIRD","Synthliboramphus_antiquus_1_aoh.tif","Synthliboramphus antiquus",1,"Ancient Murrelet"
-"IUCN","BIRD","Synthliboramphus_antiquus_3_aoh.tif","Synthliboramphus antiquus",3,"Ancient Murrelet"
-"IUCN","BIRD","Synthliboramphus_hypoleucus_3_aoh.tif","Synthliboramphus hypoleucus",3,"Xantus's Murrelet"
-"IUCN","BIRD","Synthliboramphus_scrippsi_3_aoh.tif","Synthliboramphus scrippsi",3,NA
-"IUCN","BIRD","Tachycineta_bicolor_2_aoh.tif","Tachycineta bicolor",2,"Tree Swallow"
-"IUCN","BIRD","Tachycineta_thalassina_2_aoh.tif","Tachycineta thalassina",2,NA
-"IUCN","BIRD","Thryomanes_bewickii_1_aoh.tif","Thryomanes bewickii",1,"Bewick's Wren"
-"IUCN","BIRD","Thryothorus_ludovicianus_1_aoh.tif","Thryothorus ludovicianus",1,"Carolina Wren"
-"IUCN","BIRD","Toxostoma_rufum_2_aoh.tif","Toxostoma rufum",2,NA
-"IUCN","BIRD","Tringa_flavipes_2_aoh.tif","Tringa flavipes",2,"Lesser Yellowlegs"
-"IUCN","BIRD","Tringa_incana_2_aoh.tif","Tringa incana",2,"Wandering Tattler"
-"IUCN","BIRD","Tringa_melanoleuca_2_aoh.tif","Tringa melanoleuca",2,NA
-"IUCN","BIRD","Tringa_semipalmata_2_aoh.tif","Tringa semipalmata",2,"Willet"
-"IUCN","BIRD","Tringa_solitaria_2_aoh.tif","Tringa solitaria",2,"Solitary Sandpiper"
-"IUCN","BIRD","Troglodytes_aedon_2_aoh.tif","Troglodytes aedon",2,"House Wren"
-"IUCN","BIRD","Troglodytes_hiemalis_2_aoh.tif","Troglodytes hiemalis",2,"Eastern Winter Wren"
-"IUCN","BIRD","Troglodytes_hiemalis_3_aoh.tif","Troglodytes hiemalis",3,"Eastern Winter Wren"
-"IUCN","BIRD","Troglodytes_pacificus_1_aoh.tif","Troglodytes pacificus",1,"Pacific Wren"
-"IUCN","BIRD","Troglodytes_pacificus_2_aoh.tif","Troglodytes pacificus",2,"Pacific Wren"
-"IUCN","BIRD","Turdus_migratorius_1_aoh.tif","Turdus migratorius",1,"American Robin"
-"IUCN","BIRD","Turdus_migratorius_2_aoh.tif","Turdus migratorius",2,"American Robin"
-"IUCN","BIRD","Tympanuchus_phasianellus_1_aoh.tif","Tympanuchus phasianellus",1,"Sharp-Tailed Grouse"
-"IUCN","BIRD","Tyrannus_tyrannus_2_aoh.tif","Tyrannus tyrannus",2,"Eastern Kingbird"
-"IUCN","BIRD","Tyrannus_verticalis_2_aoh.tif","Tyrannus verticalis",2,NA
-"IUCN","BIRD","Tyto_alba_1_aoh.tif","Tyto alba",1,"Barn Owl"
-"IUCN","BIRD","Uria_aalge_1_aoh.tif","Uria aalge",1,"Common Murre"
-"IUCN","BIRD","Uria_aalge_2_aoh.tif","Uria aalge",2,"Common Murre"
-"IUCN","BIRD","Uria_aalge_3_aoh.tif","Uria aalge",3,"Common Murre"
-"IUCN","BIRD","Uria_lomvia_1_aoh.tif","Uria lomvia",1,"Thick-Billed Guillemot"
-"IUCN","BIRD","Uria_lomvia_2_aoh.tif","Uria lomvia",2,"Thick-Billed Guillemot"
-"IUCN","BIRD","Uria_lomvia_3_aoh.tif","Uria lomvia",3,"Thick-Billed Guillemot"
-"IUCN","BIRD","Urile_pelagicus_1_aoh.tif","Urile pelagicus",1,NA
-"IUCN","BIRD","Urile_pelagicus_3_aoh.tif","Urile pelagicus",3,NA
-"IUCN","BIRD","Urile_penicillatus_1_aoh.tif","Urile penicillatus",1,NA
-"IUCN","BIRD","Urile_penicillatus_3_aoh.tif","Urile penicillatus",3,NA
-"IUCN","BIRD","Vermivora_chrysoptera_2_aoh.tif","Vermivora chrysoptera",2,"Golden-Winged Warbler"
-"IUCN","BIRD","Vermivora_cyanoptera_2_aoh.tif","Vermivora cyanoptera",2,"Blue-Winged Warbler"
-"IUCN","BIRD","Vireo_cassinii_2_aoh.tif","Vireo cassinii",2,"Cassin's Vireo"
-"IUCN","BIRD","Vireo_flavifrons_2_aoh.tif","Vireo flavifrons",2,NA
-"IUCN","BIRD","Vireo_gilvus_2_aoh.tif","Vireo gilvus",2,"Warbling Vireo"
-"IUCN","BIRD","Vireo_griseus_2_aoh.tif","Vireo griseus",2,"White-Eyed Vireo"
-"IUCN","BIRD","Vireo_huttoni_1_aoh.tif","Vireo huttoni",1,NA
-"IUCN","BIRD","Vireo_olivaceus_2_aoh.tif","Vireo olivaceus",2,"Red-Eyed Vireo"
-"IUCN","BIRD","Vireo_philadelphicus_2_aoh.tif","Vireo philadelphicus",2,"Philadelphia Vireo"
-"IUCN","BIRD","Vireo_solitarius_2_aoh.tif","Vireo solitarius",2,"Solitary Vireo"
-"IUCN","BIRD","Xanthocephalus_xanthocephalus_2_aoh.tif","Xanthocephalus xanthocephalus",2,NA
-"IUCN","BIRD","Zenaida_macroura_1_aoh.tif","Zenaida macroura",1,"Mourning Dove"
-"IUCN","BIRD","Zenaida_macroura_2_aoh.tif","Zenaida macroura",2,"Mourning Dove"
-"IUCN","BIRD","Zonotrichia_albicollis_1_aoh.tif","Zonotrichia albicollis",1,"White-Throated Sparrow"
-"IUCN","BIRD","Zonotrichia_albicollis_2_aoh.tif","Zonotrichia albicollis",2,"White-Throated Sparrow"
-"IUCN","BIRD","Zonotrichia_albicollis_3_aoh.tif","Zonotrichia albicollis",3,"White-Throated Sparrow"
-"IUCN","BIRD","Zonotrichia_atricapilla_2_aoh.tif","Zonotrichia atricapilla",2,NA
-"IUCN","BIRD","Zonotrichia_atricapilla_3_aoh.tif","Zonotrichia atricapilla",3,NA
-"IUCN","BIRD","Zonotrichia_leucophrys_1_aoh.tif","Zonotrichia leucophrys",1,NA
-"IUCN","BIRD","Zonotrichia_leucophrys_2_aoh.tif","Zonotrichia leucophrys",2,NA
-"IUCN","BIRD","Zonotrichia_leucophrys_3_aoh.tif","Zonotrichia leucophrys",3,NA
-"IUCN","BIRD","Zonotrichia_querula_2_aoh.tif","Zonotrichia querula",2,NA
-"IUCN","MAMM","Alces_alces_aoh.tif","Alces alces",NA,"Eurasian Elk"
-"IUCN","MAMM","Antilocapra_americana_aoh.tif","Antilocapra americana",NA,"Pronghorn"
-"IUCN","MAMM","Antrozous_pallidus_aoh.tif","Antrozous pallidus",NA,"Pallid Bat"
-"IUCN","MAMM","Aplodontia_rufa_aoh.tif","Aplodontia rufa",NA,"Mountain Beaver"
-"IUCN","MAMM","Bison_bison_aoh.tif","Bison bison",NA,"American Bison"
-"IUCN","MAMM","Blarina_brevicauda_aoh.tif","Blarina brevicauda",NA,"Short-Tailed Shrew"
-"IUCN","MAMM","Callospermophilus_lateralis_aoh.tif","Callospermophilus lateralis",NA,"Golden-Mantled Ground Squirrel"
-"IUCN","MAMM","Callospermophilus_saturatus_aoh.tif","Callospermophilus saturatus",NA,"Cascade Golden-Mantled Ground Squirrel"
-"IUCN","MAMM","Canis_latrans_aoh.tif","Canis latrans",NA,"Coyote"
-"IUCN","MAMM","Canis_lupus_aoh.tif","Canis lupus",NA,"Gray Wolf"
-"IUCN","MAMM","Castor_canadensis_aoh.tif","Castor canadensis",NA,"American Beaver"
-"IUCN","MAMM","Cervus_canadensis_aoh.tif","Cervus canadensis",NA,NA
-"IUCN","MAMM","Condylura_cristata_aoh.tif","Condylura cristata",NA,"Star-Nosed Mole"
-"IUCN","MAMM","Corynorhinus_townsendii_aoh.tif","Corynorhinus townsendii",NA,"Townsend's Big-Eared Bat"
-"IUCN","MAMM","Cryptotis_parva_aoh.tif","Cryptotis parva",NA,"Least Shrew"
-"IUCN","MAMM","Cynomys_ludovicianus_aoh.tif","Cynomys ludovicianus",NA,"Black-Tailed Prairie Dog"
-"IUCN","MAMM","Dicrostonyx_groenlandicus_aoh.tif","Dicrostonyx groenlandicus",NA,"Northern Collared Lemming"
-"IUCN","MAMM","Dicrostonyx_hudsonius_aoh.tif","Dicrostonyx hudsonius",NA,"Ungava Collared Lemming"
-"IUCN","MAMM","Dicrostonyx_nunatakensis_aoh.tif","Dicrostonyx nunatakensis",NA,NA
-"IUCN","MAMM","Dicrostonyx_richardsoni_aoh.tif","Dicrostonyx richardsoni",NA,"Richardson's Collared Lemming"
-"IUCN","MAMM","Didelphis_virginiana_aoh.tif","Didelphis virginiana",NA,"North American Opossum"
-"IUCN","MAMM","Dipodomys_ordii_aoh.tif","Dipodomys ordii",NA,"Ord's Kangaroo Rat"
-"IUCN","MAMM","Enhydra_lutris_aoh.tif","Enhydra lutris",NA,"Sea Otter"
-"IUCN","MAMM","Eptesicus_fuscus_aoh.tif","Eptesicus fuscus",NA,"Big Brown Bat"
-"IUCN","MAMM","Erethizon_dorsatum_aoh.tif","Erethizon dorsatum",NA,"North American Porcupine"
-"IUCN","MAMM","Euderma_maculatum_aoh.tif","Euderma maculatum",NA,NA
-"IUCN","MAMM","Geomys_bursarius_aoh.tif","Geomys bursarius",NA,"Plains Pocket Gopher"
-"IUCN","MAMM","Glaucomys_sabrinus_aoh.tif","Glaucomys sabrinus",NA,"Northern Flying Squirrel"
-"IUCN","MAMM","Glaucomys_volans_aoh.tif","Glaucomys volans",NA,"Southern Flying Squirrel"
-"IUCN","MAMM","Gulo_gulo_aoh.tif","Gulo gulo",NA,"Wolverine"
-"IUCN","MAMM","Ictidomys_tridecemlineatus_aoh.tif","Ictidomys tridecemlineatus",NA,"Thirteen-Lined Ground Squirrel"
-"IUCN","MAMM","Lasionycteris_noctivagans_aoh.tif","Lasionycteris noctivagans",NA,"Silver-Haired Bat"
-"IUCN","MAMM","Lasiurus_blossevillii_aoh.tif","Lasiurus blossevillii",NA,"Western Red Bat"
-"IUCN","MAMM","Lasiurus_borealis_aoh.tif","Lasiurus borealis",NA,"Red Bat"
-"IUCN","MAMM","Lasiurus_cinereus_aoh.tif","Lasiurus cinereus",NA,"Hoary Bat"
-"IUCN","MAMM","Lemmiscus_curtatus_aoh.tif","Lemmiscus curtatus",NA,"Sagebrush Vole"
-"IUCN","MAMM","Lemmus_trimucronatus_aoh.tif","Lemmus trimucronatus",NA,NA
-"IUCN","MAMM","Lepus_americanus_aoh.tif","Lepus americanus",NA,"Snowshoe Hare"
-"IUCN","MAMM","Lepus_arcticus_aoh.tif","Lepus arcticus",NA,"Arctic Hare"
-"IUCN","MAMM","Lepus_europaeus_aoh.tif","Lepus europaeus",NA,"European Hare"
-"IUCN","MAMM","Lepus_townsendii_aoh.tif","Lepus townsendii",NA,"White-Tailed Jackrabbit"
-"IUCN","MAMM","Lontra_canadensis_aoh.tif","Lontra canadensis",NA,"Northern American River Otter"
-"IUCN","MAMM","Lynx_canadensis_aoh.tif","Lynx canadensis",NA,"Canada Lynx"
-"IUCN","MAMM","Lynx_rufus_aoh.tif","Lynx rufus",NA,"Bobcat"
-"IUCN","MAMM","Marmota_broweri_aoh.tif","Marmota broweri",NA,"Alaska Marmot"
-"IUCN","MAMM","Marmota_caligata_aoh.tif","Marmota caligata",NA,"Hoary Marmot"
-"IUCN","MAMM","Marmota_flaviventris_aoh.tif","Marmota flaviventris",NA,"Yellow-Bellied Marmot"
-"IUCN","MAMM","Marmota_monax_aoh.tif","Marmota monax",NA,"Woodchuck"
-"IUCN","MAMM","Marmota_vancouverensis_aoh.tif","Marmota vancouverensis",NA,"Vancouver Island Marmot"
-"IUCN","MAMM","Martes_americana_aoh.tif","Martes americana",NA,"American Marten"
-"IUCN","MAMM","Martes_pennanti_aoh.tif","Martes pennanti",NA,"Fisher"
-"IUCN","MAMM","Mephitis_mephitis_aoh.tif","Mephitis mephitis",NA,"Striped Skunk"
-"IUCN","MAMM","Microtus_chrotorrhinus_aoh.tif","Microtus chrotorrhinus",NA,"Rock Vole"
-"IUCN","MAMM","Microtus_longicaudus_aoh.tif","Microtus longicaudus",NA,"Long-Tailed Vole"
-"IUCN","MAMM","Microtus_miurus_aoh.tif","Microtus miurus",NA,"Singing Vole"
-"IUCN","MAMM","Microtus_montanus_aoh.tif","Microtus montanus",NA,"Montane Vole"
-"IUCN","MAMM","Microtus_ochrogaster_aoh.tif","Microtus ochrogaster",NA,"Prairie Vole"
-"IUCN","MAMM","Microtus_oeconomus_aoh.tif","Microtus oeconomus",NA,"Root Vole"
-"IUCN","MAMM","Microtus_oregoni_aoh.tif","Microtus oregoni",NA,"Creeping Vole"
-"IUCN","MAMM","Microtus_pennsylvanicus_aoh.tif","Microtus pennsylvanicus",NA,"Meadow Vole"
-"IUCN","MAMM","Microtus_pinetorum_aoh.tif","Microtus pinetorum",NA,"Woodland Vole"
-"IUCN","MAMM","Microtus_richardsoni_aoh.tif","Microtus richardsoni",NA,"Water Vole"
-"IUCN","MAMM","Microtus_townsendii_aoh.tif","Microtus townsendii",NA,"Townsend's Vole"
-"IUCN","MAMM","Microtus_xanthognathus_aoh.tif","Microtus xanthognathus",NA,"Yellow-Cheeked Vole"
-"IUCN","MAMM","Mus_musculus_aoh.tif","Mus musculus",NA,"House Mouse"
-"IUCN","MAMM","Mustela_erminea_aoh.tif","Mustela erminea",NA,"Ermine"
-"IUCN","MAMM","Mustela_frenata_aoh.tif","Mustela frenata",NA,"Long-Tailed Weasel"
-"IUCN","MAMM","Mustela_nivalis_aoh.tif","Mustela nivalis",NA,"Least Weasel"
-"IUCN","MAMM","Myodes_gapperi_aoh.tif","Myodes gapperi",NA,"Southern Red-Backed Vole"
-"IUCN","MAMM","Myodes_rutilus_aoh.tif","Myodes rutilus",NA,"Northern Red-Backed Vole"
-"IUCN","MAMM","Myotis_californicus_aoh.tif","Myotis californicus",NA,"California Myotis"
-"IUCN","MAMM","Myotis_ciliolabrum_aoh.tif","Myotis ciliolabrum",NA,"Western Small-Footed Bat"
-"IUCN","MAMM","Myotis_evotis_aoh.tif","Myotis evotis",NA,"Long-Eared Myotis"
-"IUCN","MAMM","Myotis_keenii_aoh.tif","Myotis keenii",NA,"Keen's Myotis"
-"IUCN","MAMM","Myotis_leibii_aoh.tif","Myotis leibii",NA,"Eastern Small-Footed Myotis"
-"IUCN","MAMM","Myotis_lucifugus_aoh.tif","Myotis lucifugus",NA,"Little Brown Bat"
-"IUCN","MAMM","Myotis_melanorhinus_aoh.tif","Myotis melanorhinus",NA,"Dark-Nosed Small-Footed Bat"
-"IUCN","MAMM","Myotis_septentrionalis_aoh.tif","Myotis septentrionalis",NA,"Northern Long-Eared Myotis"
-"IUCN","MAMM","Myotis_sodalis_aoh.tif","Myotis sodalis",NA,"Indiana Bat"
-"IUCN","MAMM","Myotis_thysanodes_aoh.tif","Myotis thysanodes",NA,NA
-"IUCN","MAMM","Myotis_volans_aoh.tif","Myotis volans",NA,NA
-"IUCN","MAMM","Myotis_yumanensis_aoh.tif","Myotis yumanensis",NA,NA
-"IUCN","MAMM","Napaeozapus_insignis_aoh.tif","Napaeozapus insignis",NA,"Woodland Jumping Mouse"
-"IUCN","MAMM","Neotamias_amoenus_aoh.tif","Neotamias amoenus",NA,"Yellow-Pine Chipmunk"
-"IUCN","MAMM","Neotamias_minimus_aoh.tif","Neotamias minimus",NA,"Least Chipmunk"
-"IUCN","MAMM","Neotamias_ruficaudus_aoh.tif","Neotamias ruficaudus",NA,NA
-"IUCN","MAMM","Neotamias_townsendii_aoh.tif","Neotamias townsendii",NA,"Townsend's Chipmunk"
-"IUCN","MAMM","Neotoma_cinerea_aoh.tif","Neotoma cinerea",NA,"Bushy-Tailed Woodrat"
-"IUCN","MAMM","Neovison_vison_aoh.tif","Neovison vison",NA,"American Mink"
-"IUCN","MAMM","Neurotrichus_gibbsii_aoh.tif","Neurotrichus gibbsii",NA,NA
-"IUCN","MAMM","Ochotona_collaris_aoh.tif","Ochotona collaris",NA,NA
-"IUCN","MAMM","Ochotona_princeps_aoh.tif","Ochotona princeps",NA,"American Pika"
-"IUCN","MAMM","Odocoileus_hemionus_aoh.tif","Odocoileus hemionus",NA,"Mule Deer"
-"IUCN","MAMM","Odocoileus_virginianus_aoh.tif","Odocoileus virginianus",NA,"White-Tailed Deer"
-"IUCN","MAMM","Ondatra_zibethicus_aoh.tif","Ondatra zibethicus",NA,"Muskrat"
-"IUCN","MAMM","Onychomys_leucogaster_aoh.tif","Onychomys leucogaster",NA,"Northern Grasshopper Mouse"
-"IUCN","MAMM","Oreamnos_americanus_aoh.tif","Oreamnos americanus",NA,"Mountain Goat"
-"IUCN","MAMM","Ovibos_moschatus_aoh.tif","Ovibos moschatus",NA,"Muskox"
-"IUCN","MAMM","Ovis_canadensis_aoh.tif","Ovis canadensis",NA,"Bighorn Sheep"
-"IUCN","MAMM","Ovis_dalli_aoh.tif","Ovis dalli",NA,"Dall Sheep"
-"IUCN","MAMM","Parascalops_breweri_aoh.tif","Parascalops breweri",NA,"Hairy-Tailed Mole"
-"IUCN","MAMM","Perognathus_fasciatus_aoh.tif","Perognathus fasciatus",NA,"Olive-Backed Pocket Mouse"
-"IUCN","MAMM","Perognathus_parvus_aoh.tif","Perognathus parvus",NA,"Great Basin Pocket Mouse"
-"IUCN","MAMM","Peromyscus_keeni_aoh.tif","Peromyscus keeni",NA,NA
-"IUCN","MAMM","Peromyscus_leucopus_aoh.tif","Peromyscus leucopus",NA,"White-Footed Mouse"
-"IUCN","MAMM","Peromyscus_maniculatus_aoh.tif","Peromyscus maniculatus",NA,"North American Deer Mouse"
-"IUCN","MAMM","Phenacomys_intermedius_aoh.tif","Phenacomys intermedius",NA,"Western Heather Vole"
-"IUCN","MAMM","Phenacomys_ungava_aoh.tif","Phenacomys ungava",NA,"Eastern Heather Mole"
-"IUCN","MAMM","Pipistrellus_subflavus_aoh.tif","Pipistrellus subflavus",NA,"Eastern Pipistrelle"
-"IUCN","MAMM","Poliocitellus_franklinii_aoh.tif","Poliocitellus franklinii",NA,"Franklin's Ground Squirrel"
-"IUCN","MAMM","Procyon_lotor_aoh.tif","Procyon lotor",NA,"Raccoon"
-"IUCN","MAMM","Puma_concolor_aoh.tif","Puma concolor",NA,"Puma"
-"IUCN","MAMM","Rangifer_tarandus_aoh.tif","Rangifer tarandus",NA,"Reindeer"
-"IUCN","MAMM","Reithrodontomys_megalotis_aoh.tif","Reithrodontomys megalotis",NA,"Western Harvest Mouse"
-"IUCN","MAMM","Scalopus_aquaticus_aoh.tif","Scalopus aquaticus",NA,"Eastern Mole"
-"IUCN","MAMM","Scapanus_orarius_aoh.tif","Scapanus orarius",NA,NA
-"IUCN","MAMM","Scapanus_townsendii_aoh.tif","Scapanus townsendii",NA,NA
-"IUCN","MAMM","Sciurus_carolinensis_aoh.tif","Sciurus carolinensis",NA,"Gray Squirrel"
-"IUCN","MAMM","Sciurus_niger_aoh.tif","Sciurus niger",NA,"Fox Squirrel"
-"IUCN","MAMM","Sorex_arcticus_aoh.tif","Sorex arcticus",NA,"Arctic Shrew"
-"IUCN","MAMM","Sorex_bendirii_aoh.tif","Sorex bendirii",NA,"Marsh Shrew"
-"IUCN","MAMM","Sorex_cinereus_aoh.tif","Sorex cinereus",NA,"Cinereus Shrew"
-"IUCN","MAMM","Sorex_dispar_aoh.tif","Sorex dispar",NA,"Long-Tailed Shrew"
-"IUCN","MAMM","Sorex_fumeus_aoh.tif","Sorex fumeus",NA,"Smoky Shrew"
-"IUCN","MAMM","Sorex_haydeni_aoh.tif","Sorex haydeni",NA,"Prairie Shrew"
-"IUCN","MAMM","Sorex_hoyi_aoh.tif","Sorex hoyi",NA,"Pygmy Shrew"
-"IUCN","MAMM","Sorex_maritimensis_aoh.tif","Sorex maritimensis",NA,"Maritime Shrew"
-"IUCN","MAMM","Sorex_merriami_aoh.tif","Sorex merriami",NA,NA
-"IUCN","MAMM","Sorex_monticolus_aoh.tif","Sorex monticolus",NA,"Montane Shrew"
-"IUCN","MAMM","Sorex_palustris_aoh.tif","Sorex palustris",NA,"American Water Shrew"
-"IUCN","MAMM","Sorex_preblei_aoh.tif","Sorex preblei",NA,NA
-"IUCN","MAMM","Sorex_rohweri_aoh.tif","Sorex rohweri",NA,NA
-"IUCN","MAMM","Sorex_trowbridgii_aoh.tif","Sorex trowbridgii",NA,"Trowbridge's Shrew"
-"IUCN","MAMM","Sorex_tundrensis_aoh.tif","Sorex tundrensis",NA,"Tundra Shrew"
-"IUCN","MAMM","Sorex_ugyunak_aoh.tif","Sorex ugyunak",NA,NA
-"IUCN","MAMM","Sorex_vagrans_aoh.tif","Sorex vagrans",NA,"Vagrant Shrew"
-"IUCN","MAMM","Spilogale_gracilis_aoh.tif","Spilogale gracilis",NA,"Western Spotted Skunk"
-"IUCN","MAMM","Spilogale_putorius_aoh.tif","Spilogale putorius",NA,"Eastern Spotted Skunk"
-"IUCN","MAMM","Sylvilagus_floridanus_aoh.tif","Sylvilagus floridanus",NA,"Eastern Cottontail"
-"IUCN","MAMM","Sylvilagus_nuttallii_aoh.tif","Sylvilagus nuttallii",NA,"Mountain Cottontail"
-"IUCN","MAMM","Synaptomys_borealis_aoh.tif","Synaptomys borealis",NA,"Northern Bog Lemming"
-"IUCN","MAMM","Synaptomys_cooperi_aoh.tif","Synaptomys cooperi",NA,"Southern Bog Lemming"
-"IUCN","MAMM","Tamias_striatus_aoh.tif","Tamias striatus",NA,"Eastern Chipmunk"
-"IUCN","MAMM","Tamiasciurus_douglasii_aoh.tif","Tamiasciurus douglasii",NA,"Douglas Squirrel"
-"IUCN","MAMM","Tamiasciurus_hudsonicus_aoh.tif","Tamiasciurus hudsonicus",NA,"American Red Squirrel"
-"IUCN","MAMM","Taxidea_taxus_aoh.tif","Taxidea taxus",NA,"American Badger"
-"IUCN","MAMM","Thomomys_talpoides_aoh.tif","Thomomys talpoides",NA,"Northern Pocket Gopher"
-"IUCN","MAMM","Urocitellus_columbianus_aoh.tif","Urocitellus columbianus",NA,"Columbian Ground Squirrel"
-"IUCN","MAMM","Urocitellus_parryii_aoh.tif","Urocitellus parryii",NA,"Arctic Ground Squirrel"
-"IUCN","MAMM","Urocitellus_richardsonii_aoh.tif","Urocitellus richardsonii",NA,"Richardson's Ground Squirrel"
-"IUCN","MAMM","Urocyon_cinereoargenteus_aoh.tif","Urocyon cinereoargenteus",NA,"Gray Fox"
-"IUCN","MAMM","Ursus_americanus_aoh.tif","Ursus americanus",NA,"American Black Bear"
-"IUCN","MAMM","Ursus_arctos_aoh.tif","Ursus arctos",NA,"Brown Bear"
-"IUCN","MAMM","Ursus_maritimus_aoh.tif","Ursus maritimus",NA,"Polar Bear"
-"IUCN","MAMM","Vulpes_lagopus_aoh.tif","Vulpes lagopus",NA,"Arctic Fox"
-"IUCN","MAMM","Vulpes_velox_aoh.tif","Vulpes velox",NA,"Swift Fox"
-"IUCN","MAMM","Vulpes_vulpes_aoh.tif","Vulpes vulpes",NA,"Red Fox"
-"IUCN","MAMM","Zapus_hudsonius_aoh.tif","Zapus hudsonius",NA,"Meadow Jumping Mouse"
-"IUCN","MAMM","Zapus_princeps_aoh.tif","Zapus princeps",NA,NA
-"IUCN","MAMM","Zapus_trinotatus_aoh.tif","Zapus trinotatus",NA,"Pacific Jumping Mouse"
-"IUCN","REPT","Caretta_caretta_aoh.tif","Caretta caretta",NA,"Loggerhead Turtle"
-"IUCN","REPT","Charina_bottae_aoh.tif","Charina bottae",NA,NA
-"IUCN","REPT","Chelonia_mydas_aoh.tif","Chelonia mydas",NA,"Green Sea Turtle"
-"IUCN","REPT","Contia_tenuis_aoh.tif","Contia tenuis",NA,NA
-"IUCN","REPT","Crotalus_oreganus_aoh.tif","Crotalus oreganus",NA,NA
-"IUCN","REPT","Crotalus_viridis_aoh.tif","Crotalus viridis",NA,"Western Rattlesnake"
-"IUCN","REPT","Dermochelys_coriacea_aoh.tif","Dermochelys coriacea",NA,"Leatherback Sea Turtle"
-"IUCN","REPT","Diadophis_punctatus_aoh.tif","Diadophis punctatus",NA,"Ringneck Snake"
-"IUCN","REPT","Elgaria_coerulea_aoh.tif","Elgaria coerulea",NA,NA
-"IUCN","REPT","Eretmochelys_imbricata_aoh.tif","Eretmochelys imbricata",NA,"Hawksbill Sea Turtle"
-"IUCN","REPT","Heterodon_nasicus_aoh.tif","Heterodon nasicus",NA,NA
-"IUCN","REPT","Heterodon_platirhinos_aoh.tif","Heterodon platirhinos",NA,NA
-"IUCN","REPT","Hypsiglena_torquata_aoh.tif","Hypsiglena torquata",NA,"Night Snake"
-"IUCN","REPT","Lepidochelys_olivacea_aoh.tif","Lepidochelys olivacea",NA,"Pacific Ridley"
-"IUCN","REPT","Nerodia_sipedon_aoh.tif","Nerodia sipedon",NA,NA
-"IUCN","REPT","Opheodrys_vernalis_aoh.tif","Opheodrys vernalis",NA,NA
-"IUCN","REPT","Pantherophis_gloydi_aoh.tif","Pantherophis gloydi",NA,NA
-"IUCN","REPT","Pantherophis_obsoletus_aoh.tif","Pantherophis obsoletus",NA,"Western Rat Snake"
-"IUCN","REPT","Phrynosoma_hernandesi_aoh.tif","Phrynosoma hernandesi",NA,NA
-"IUCN","REPT","Pituophis_catenifer_aoh.tif","Pituophis catenifer",NA,"Gopher Snake"
-"IUCN","REPT","Plestiodon_fasciatus_aoh.tif","Plestiodon fasciatus",NA,NA
-"IUCN","REPT","Plestiodon_septentrionalis_aoh.tif","Plestiodon septentrionalis",NA,NA
-"IUCN","REPT","Plestiodon_skiltonianus_aoh.tif","Plestiodon skiltonianus",NA,"Western Skink"
-"IUCN","REPT","Sistrurus_catenatus_aoh.tif","Sistrurus catenatus",NA,"Massasauga"
-"IUCN","REPT","Storeria_occipitomaculata_aoh.tif","Storeria occipitomaculata",NA,NA
-"IUCN","REPT","Thamnophis_butleri_aoh.tif","Thamnophis butleri",NA,NA
-"IUCN","REPT","Thamnophis_elegans_aoh.tif","Thamnophis elegans",NA,"Western Terrestrial Garter Snake"
-"IUCN","REPT","Thamnophis_ordinoides_aoh.tif","Thamnophis ordinoides",NA,NA
-"IUCN","REPT","Thamnophis_radix_aoh.tif","Thamnophis radix",NA,NA
-"IUCN","REPT","Thamnophis_sauritus_aoh.tif","Thamnophis sauritus",NA,"Eastern Ribbonsnake"
-"IUCN","REPT","Thamnophis_sirtalis_aoh.tif","Thamnophis sirtalis",NA,NA
+Source,Group,File_Name,Sci_Name,Season,Common_Name
+IUCN,AMPH,Acris_crepitans_aoh.tif,Acris crepitans,NA,Northern Cricket Frog
+IUCN,AMPH,Ambystoma_gracile_aoh.tif,Ambystoma gracile,NA,Northwestern Salamander
+IUCN,AMPH,Ambystoma_jeffersonianum_aoh.tif,Ambystoma jeffersonianum,NA,Jefferson Salamander
+IUCN,AMPH,Ambystoma_laterale_aoh.tif,Ambystoma laterale,NA,Blue-spotted Salamander
+IUCN,AMPH,Ambystoma_macrodactylum_aoh.tif,Ambystoma macrodactylum,NA,Long-toed Salamander
+IUCN,AMPH,Ambystoma_maculatum_aoh.tif,Ambystoma maculatum,NA,Spotted Salamander
+IUCN,AMPH,Ambystoma_mavortium_aoh.tif,Ambystoma mavortium,NA,Western Tiger Salamander
+IUCN,AMPH,Ambystoma_texanum_aoh.tif,Ambystoma texanum,NA,Smallmouth Salamander
+IUCN,AMPH,Ambystoma_tigrinum_aoh.tif,Ambystoma tigrinum,NA,Salamandra
+IUCN,AMPH,Anaxyrus_americanus_aoh.tif,Anaxyrus americanus,NA,American Toad
+IUCN,AMPH,Anaxyrus_boreas_aoh.tif,Anaxyrus boreas,NA,Boreal Toad
+IUCN,AMPH,Anaxyrus_cognatus_aoh.tif,Anaxyrus cognatus,NA,Great Plains Toad
+IUCN,AMPH,Anaxyrus_fowleri_aoh.tif,Anaxyrus fowleri,NA,Fowler's Toad
+IUCN,AMPH,Anaxyrus_hemiophrys_aoh.tif,Anaxyrus hemiophrys,NA,Canadian Toad
+IUCN,AMPH,Aneides_ferreus_aoh.tif,Aneides ferreus,NA,Clouded Salamander
+IUCN,AMPH,Aneides_vagrans_aoh.tif,Aneides vagrans,NA,Wandering Salamander
+IUCN,AMPH,Ascaphus_montanus_aoh.tif,Ascaphus montanus,NA,Inland Tailed Frog
+IUCN,AMPH,Ascaphus_truei_aoh.tif,Ascaphus truei,NA,American Bell Toad
+IUCN,AMPH,Desmognathus_fuscus_aoh.tif,Desmognathus fuscus,NA,Dusky Salamander
+IUCN,AMPH,Desmognathus_ochrophaeus_aoh.tif,Desmognathus ochrophaeus,NA,Allegheny Mountain Dusky Salamander
+IUCN,AMPH,Dicamptodon_tenebrosus_aoh.tif,Dicamptodon tenebrosus,NA,Pacific Giant Salamander
+IUCN,AMPH,Dryophytes_chrysoscelis_aoh.tif,Dryophytes chrysoscelis,NA,Cope's Gray Treefrog
+IUCN,AMPH,Dryophytes_versicolor_aoh.tif,Dryophytes versicolor,NA,Gray Treefrog
+IUCN,AMPH,Ensatina_eschscholtzii_aoh.tif,Ensatina eschscholtzii,NA,Eschscholtz Salamander
+IUCN,AMPH,Eurycea_bislineata_aoh.tif,Eurycea bislineata,NA,Northern Two-lined Salamander
+IUCN,AMPH,Gyrinophilus_porphyriticus_aoh.tif,Gyrinophilus porphyriticus,NA,Spring Salamander
+IUCN,AMPH,Hemidactylium_scutatum_aoh.tif,Hemidactylium scutatum,NA,Four-toed Salamander
+IUCN,AMPH,Lithobates_catesbeianus_aoh.tif,Lithobates catesbeianus,NA,Common Bullfrog
+IUCN,AMPH,Lithobates_clamitans_aoh.tif,Lithobates clamitans,NA,Green Frog
+IUCN,AMPH,Lithobates_palustris_aoh.tif,Lithobates palustris,NA,Pickerel Frog
+IUCN,AMPH,Lithobates_pipiens_aoh.tif,Lithobates pipiens,NA,Northern Leopard Frog
+IUCN,AMPH,Lithobates_septentrionalis_aoh.tif,Lithobates septentrionalis,NA,Mink Frog
+IUCN,AMPH,Lithobates_sylvaticus_aoh.tif,Lithobates sylvaticus,NA,Wood Frog
+IUCN,AMPH,Notophthalmus_viridescens_aoh.tif,Notophthalmus viridescens,NA,Eastern Newt
+IUCN,AMPH,Plethodon_cinereus_aoh.tif,Plethodon cinereus,NA,Redback Salamander
+IUCN,AMPH,Plethodon_idahoensis_aoh.tif,Plethodon idahoensis,NA,Coeur d'Alene Salamander
+IUCN,AMPH,Plethodon_vehiculum_aoh.tif,Plethodon vehiculum,NA,Western Redback Salamander
+IUCN,AMPH,Pseudacris_crucifer_aoh.tif,Pseudacris crucifer,NA,Spring Peeper
+IUCN,AMPH,Pseudacris_maculata_aoh.tif,Pseudacris maculata,NA,Boreal Chorus Frog
+IUCN,AMPH,Pseudacris_regilla_aoh.tif,Pseudacris regilla,NA,Pacific Chorus Frog
+IUCN,AMPH,Pseudacris_triseriata_aoh.tif,Pseudacris triseriata,NA,Western Chorus Frog
+IUCN,AMPH,Rana_aurora_aoh.tif,Rana aurora,NA,Northern Red-legged Frog
+IUCN,AMPH,Rana_luteiventris_aoh.tif,Rana luteiventris,NA,Columbia Spotted Frog
+IUCN,AMPH,Rana_pretiosa_aoh.tif,Rana pretiosa,NA,Oregon Spotted Frog
+IUCN,AMPH,Spea_bombifrons_aoh.tif,Spea bombifrons,NA,Plains Spadefoot
+IUCN,AMPH,Spea_intermontana_aoh.tif,Spea intermontana,NA,Great Basin Spadefoot
+IUCN,AMPH,Taricha_granulosa_aoh.tif,Taricha granulosa,NA,Roughskin Newt
+IUCN,BIRD,Acanthis_flammea_1_aoh.tif,Acanthis flammea,1,Redpoll
+IUCN,BIRD,Acanthis_flammea_2_aoh.tif,Acanthis flammea,2,Redpoll
+IUCN,BIRD,Acanthis_flammea_3_aoh.tif,Acanthis flammea,3,Redpoll
+IUCN,BIRD,Accipiter_cooperii_1_aoh.tif,Accipiter cooperii,1,Cooper's Hawk
+IUCN,BIRD,Accipiter_cooperii_2_aoh.tif,Accipiter cooperii,2,Cooper's Hawk
+IUCN,BIRD,Accipiter_gentilis_1_aoh.tif,Accipiter gentilis,1,Northern Goshawk
+IUCN,BIRD,Accipiter_gentilis_3_aoh.tif,Accipiter gentilis,3,Northern Goshawk
+IUCN,BIRD,Accipiter_striatus_1_aoh.tif,Accipiter striatus,1,Sharp-shinned Hawk
+IUCN,BIRD,Accipiter_striatus_2_aoh.tif,Accipiter striatus,2,Sharp-shinned Hawk
+IUCN,BIRD,Accipiter_striatus_3_aoh.tif,Accipiter striatus,3,Sharp-shinned Hawk
+IUCN,BIRD,Actitis_macularius_1_aoh.tif,Actitis macularius,1,Spotted Sandpiper
+IUCN,BIRD,Actitis_macularius_2_aoh.tif,Actitis macularius,2,Spotted Sandpiper
+IUCN,BIRD,Aechmophorus_clarkii_2_aoh.tif,Aechmophorus clarkii,2,Clark's Grebe
+IUCN,BIRD,Aechmophorus_occidentalis_2_aoh.tif,Aechmophorus occidentalis,2,Western Grebe
+IUCN,BIRD,Aechmophorus_occidentalis_3_aoh.tif,Aechmophorus occidentalis,3,Western Grebe
+IUCN,BIRD,Aegolius_acadicus_1_aoh.tif,Aegolius acadicus,1,Northern Saw-whet Owl
+IUCN,BIRD,Aegolius_acadicus_3_aoh.tif,Aegolius acadicus,3,Northern Saw-whet Owl
+IUCN,BIRD,Aegolius_funereus_1_aoh.tif,Aegolius funereus,1,Boreal Owl
+IUCN,BIRD,Aeronautes_saxatalis_2_aoh.tif,Aeronautes saxatalis,2,White-throated Swift
+IUCN,BIRD,Agelaius_phoeniceus_1_aoh.tif,Agelaius phoeniceus,1,Red-winged Blackbird
+IUCN,BIRD,Agelaius_phoeniceus_2_aoh.tif,Agelaius phoeniceus,2,Red-winged Blackbird
+IUCN,BIRD,Aix_sponsa_1_aoh.tif,Aix sponsa,1,Wood Duck
+IUCN,BIRD,Aix_sponsa_2_aoh.tif,Aix sponsa,2,Wood Duck
+IUCN,BIRD,Alauda_arvensis_1_aoh.tif,Alauda arvensis,1,Eurasian Skylark
+IUCN,BIRD,Alca_torda_2_aoh.tif,Alca torda,2,Razorbill
+IUCN,BIRD,Alca_torda_3_aoh.tif,Alca torda,3,Razorbill
+IUCN,BIRD,Alectoris_chukar_1_aoh.tif,Alectoris chukar,1,Chuckar
+IUCN,BIRD,Alle_alle_2_aoh.tif,Alle alle,2,Dovekie
+IUCN,BIRD,Alle_alle_3_aoh.tif,Alle alle,3,Dovekie
+IUCN,BIRD,Ammodramus_savannarum_2_aoh.tif,Ammodramus savannarum,2,Grasshopper Sparrow
+IUCN,BIRD,Ammospiza_leconteii_2_aoh.tif,Ammospiza leconteii,2,Le Conte's Sparrow
+IUCN,BIRD,Ammospiza_nelsoni_2_aoh.tif,Ammospiza nelsoni,2,Nelson's Sharp-tailed Sparrow
+IUCN,BIRD,Anas_acuta_2_aoh.tif,Anas acuta,2,Pintail
+IUCN,BIRD,Anas_acuta_3_aoh.tif,Anas acuta,3,Pintail
+IUCN,BIRD,Anas_crecca_1_aoh.tif,Anas crecca,1,Common Teal
+IUCN,BIRD,Anas_crecca_2_aoh.tif,Anas crecca,2,Common Teal
+IUCN,BIRD,Anas_crecca_3_aoh.tif,Anas crecca,3,Common Teal
+IUCN,BIRD,Anas_platyrhynchos_1_aoh.tif,Anas platyrhynchos,1,Mallard
+IUCN,BIRD,Anas_platyrhynchos_2_aoh.tif,Anas platyrhynchos,2,Mallard
+IUCN,BIRD,Anas_rubripes_1_aoh.tif,Anas rubripes,1,American Black Duck
+IUCN,BIRD,Anas_rubripes_2_aoh.tif,Anas rubripes,2,American Black Duck
+IUCN,BIRD,Anser_albifrons_2_aoh.tif,Anser albifrons,2,Greater White-fronted Goose
+IUCN,BIRD,Anser_albifrons_3_aoh.tif,Anser albifrons,3,Greater White-fronted Goose
+IUCN,BIRD,Anser_caerulescens_2_aoh.tif,Anser caerulescens,2,Snow Goose
+IUCN,BIRD,Anser_caerulescens_3_aoh.tif,Anser caerulescens,3,Snow Goose
+IUCN,BIRD,Anser_rossii_2_aoh.tif,Anser rossii,2,Ross's Goose
+IUCN,BIRD,Anthus_rubescens_2_aoh.tif,Anthus rubescens,2,Buff-bellied Pipit
+IUCN,BIRD,Anthus_rubescens_3_aoh.tif,Anthus rubescens,3,Buff-bellied Pipit
+IUCN,BIRD,Anthus_spragueii_2_aoh.tif,Anthus spragueii,2,Sprague's Pipit
+IUCN,BIRD,Antigone_canadensis_2_aoh.tif,Antigone canadensis,2,Sandhill Crane
+IUCN,BIRD,Antrostomus_carolinensis_2_aoh.tif,Antrostomus carolinensis,2,Chuck-will's-widow
+IUCN,BIRD,Antrostomus_vociferus_2_aoh.tif,Antrostomus vociferus,2,Eastern Whip-poor-will
+IUCN,BIRD,Aquila_chrysaetos_1_aoh.tif,Aquila chrysaetos,1,Golden Eagle
+IUCN,BIRD,Aquila_chrysaetos_2_aoh.tif,Aquila chrysaetos,2,Golden Eagle
+IUCN,BIRD,Aquila_chrysaetos_3_aoh.tif,Aquila chrysaetos,3,Golden Eagle
+IUCN,BIRD,Archilochus_alexandri_2_aoh.tif,Archilochus alexandri,2,Black-chinned Hummingbird
+IUCN,BIRD,Archilochus_colubris_2_aoh.tif,Archilochus colubris,2,Ruby-throated Hummingbird
+IUCN,BIRD,Ardea_alba_2_aoh.tif,Ardea alba,2,Great White Egret
+IUCN,BIRD,Ardea_herodias_1_aoh.tif,Ardea herodias,1,Great Blue Heron
+IUCN,BIRD,Ardea_herodias_2_aoh.tif,Ardea herodias,2,Great Blue Heron
+IUCN,BIRD,Ardenna_bulleri_1_aoh.tif,Ardenna bulleri,1,Buller's Shearwater
+IUCN,BIRD,Ardenna_carneipes_1_aoh.tif,Ardenna carneipes,1,Flesh-footed Shearwater
+IUCN,BIRD,Ardenna_creatopus_1_aoh.tif,Ardenna creatopus,1,Pink-footed Shearwater
+IUCN,BIRD,Ardenna_gravis_1_aoh.tif,Ardenna gravis,1,Greater Shearwater
+IUCN,BIRD,Ardenna_grisea_1_aoh.tif,Ardenna grisea,1,Sooty Shearwater
+IUCN,BIRD,Ardenna_tenuirostris_1_aoh.tif,Ardenna tenuirostris,1,Short-tailed Shearwater
+IUCN,BIRD,Arenaria_interpres_2_aoh.tif,Arenaria interpres,2,Turnstone
+IUCN,BIRD,Arenaria_interpres_3_aoh.tif,Arenaria interpres,3,Turnstone
+IUCN,BIRD,Arenaria_melanocephala_3_aoh.tif,Arenaria melanocephala,3,Black Turnstone
+IUCN,BIRD,Asio_flammeus_1_aoh.tif,Asio flammeus,1,Short-eared Owl
+IUCN,BIRD,Asio_flammeus_2_aoh.tif,Asio flammeus,2,Short-eared Owl
+IUCN,BIRD,Asio_otus_1_aoh.tif,Asio otus,1,Northern Long-eared Owl
+IUCN,BIRD,Asio_otus_2_aoh.tif,Asio otus,2,Northern Long-eared Owl
+IUCN,BIRD,Asio_otus_3_aoh.tif,Asio otus,3,Northern Long-eared Owl
+IUCN,BIRD,Athene_cunicularia_2_aoh.tif,Athene cunicularia,2,Burrowing Owl
+IUCN,BIRD,Aythya_affinis_2_aoh.tif,Aythya affinis,2,Lesser Scaup
+IUCN,BIRD,Aythya_affinis_3_aoh.tif,Aythya affinis,3,Lesser Scaup
+IUCN,BIRD,Aythya_americana_1_aoh.tif,Aythya americana,1,Redhead
+IUCN,BIRD,Aythya_americana_2_aoh.tif,Aythya americana,2,Redhead
+IUCN,BIRD,Aythya_collaris_1_aoh.tif,Aythya collaris,1,Ring-necked Duck
+IUCN,BIRD,Aythya_collaris_2_aoh.tif,Aythya collaris,2,Ring-necked Duck
+IUCN,BIRD,Aythya_collaris_3_aoh.tif,Aythya collaris,3,Ring-necked Duck
+IUCN,BIRD,Aythya_marila_2_aoh.tif,Aythya marila,2,Greater Scaup
+IUCN,BIRD,Aythya_marila_3_aoh.tif,Aythya marila,3,Greater Scaup
+IUCN,BIRD,Aythya_valisineria_1_aoh.tif,Aythya valisineria,1,Canvasback
+IUCN,BIRD,Aythya_valisineria_2_aoh.tif,Aythya valisineria,2,Canvasback
+IUCN,BIRD,Aythya_valisineria_3_aoh.tif,Aythya valisineria,3,Canvasback
+IUCN,BIRD,Baeolophus_bicolor_1_aoh.tif,Baeolophus bicolor,1,Tufted Titmouse
+IUCN,BIRD,Bartramia_longicauda_2_aoh.tif,Bartramia longicauda,2,Upland Sandpiper
+IUCN,BIRD,Bombycilla_cedrorum_1_aoh.tif,Bombycilla cedrorum,1,Cedar Waxwing
+IUCN,BIRD,Bombycilla_cedrorum_2_aoh.tif,Bombycilla cedrorum,2,Cedar Waxwing
+IUCN,BIRD,Bombycilla_garrulus_1_aoh.tif,Bombycilla garrulus,1,Waxwing
+IUCN,BIRD,Bombycilla_garrulus_2_aoh.tif,Bombycilla garrulus,2,Waxwing
+IUCN,BIRD,Bombycilla_garrulus_3_aoh.tif,Bombycilla garrulus,3,Waxwing
+IUCN,BIRD,Bonasa_umbellus_1_aoh.tif,Bonasa umbellus,1,Ruffed Grouse
+IUCN,BIRD,Botaurus_lentiginosus_2_aoh.tif,Botaurus lentiginosus,2,American Bittern
+IUCN,BIRD,Brachyramphus_brevirostris_2_aoh.tif,Brachyramphus brevirostris,2,Kittlitz's Murrelet
+IUCN,BIRD,Brachyramphus_brevirostris_3_aoh.tif,Brachyramphus brevirostris,3,Kittlitz's Murrelet
+IUCN,BIRD,Brachyramphus_marmoratus_1_aoh.tif,Brachyramphus marmoratus,1,Marbled Murrelet
+IUCN,BIRD,Brachyramphus_marmoratus_2_aoh.tif,Brachyramphus marmoratus,2,Marbled Murrelet
+IUCN,BIRD,Branta_bernicla_2_aoh.tif,Branta bernicla,2,Brant
+IUCN,BIRD,Branta_bernicla_3_aoh.tif,Branta bernicla,3,Brant
+IUCN,BIRD,Branta_canadensis_1_aoh.tif,Branta canadensis,1,Canada Goose
+IUCN,BIRD,Branta_canadensis_2_aoh.tif,Branta canadensis,2,Canada Goose
+IUCN,BIRD,Branta_hutchinsii_2_aoh.tif,Branta hutchinsii,2,Cackling Goose
+IUCN,BIRD,Bubo_scandiacus_2_aoh.tif,Bubo scandiacus,2,Snowy Owl
+IUCN,BIRD,Bubo_scandiacus_3_aoh.tif,Bubo scandiacus,3,Snowy Owl
+IUCN,BIRD,Bubo_virginianus_1_aoh.tif,Bubo virginianus,1,Great Horned Owl
+IUCN,BIRD,Bubulcus_ibis_2_aoh.tif,Bubulcus ibis,2,Cattle Egret
+IUCN,BIRD,Bucephala_albeola_2_aoh.tif,Bucephala albeola,2,Bufflehead
+IUCN,BIRD,Bucephala_albeola_3_aoh.tif,Bucephala albeola,3,Bufflehead
+IUCN,BIRD,Bucephala_clangula_2_aoh.tif,Bucephala clangula,2,Common Goldeneye
+IUCN,BIRD,Bucephala_clangula_3_aoh.tif,Bucephala clangula,3,Common Goldeneye
+IUCN,BIRD,Bucephala_islandica_1_aoh.tif,Bucephala islandica,1,Barrow's Goldeneye
+IUCN,BIRD,Bucephala_islandica_2_aoh.tif,Bucephala islandica,2,Barrow's Goldeneye
+IUCN,BIRD,Bucephala_islandica_3_aoh.tif,Bucephala islandica,3,Barrow's Goldeneye
+IUCN,BIRD,Buteo_jamaicensis_1_aoh.tif,Buteo jamaicensis,1,Red-tailed Hawk
+IUCN,BIRD,Buteo_jamaicensis_2_aoh.tif,Buteo jamaicensis,2,Red-tailed Hawk
+IUCN,BIRD,Buteo_lagopus_2_aoh.tif,Buteo lagopus,2,Rough-legged Buzzard
+IUCN,BIRD,Buteo_lagopus_3_aoh.tif,Buteo lagopus,3,Rough-legged Buzzard
+IUCN,BIRD,Buteo_lineatus_2_aoh.tif,Buteo lineatus,2,Red-shouldered Hawk
+IUCN,BIRD,Buteo_platypterus_2_aoh.tif,Buteo platypterus,2,Broad-winged Hawk
+IUCN,BIRD,Buteo_regalis_2_aoh.tif,Buteo regalis,2,Ferruginous Hawk
+IUCN,BIRD,Buteo_swainsoni_2_aoh.tif,Buteo swainsoni,2,Swainson's Hawk
+IUCN,BIRD,Butorides_striata_2_aoh.tif,Butorides striata,2,Green-backed Heron
+IUCN,BIRD,Cairina_moschata_1_aoh.tif,Cairina moschata,1,Muscovy Duck
+IUCN,BIRD,Calamospiza_melanocorys_2_aoh.tif,Calamospiza melanocorys,2,Lark Bunting
+IUCN,BIRD,Calcarius_lapponicus_2_aoh.tif,Calcarius lapponicus,2,Lapland Bunting
+IUCN,BIRD,Calcarius_lapponicus_3_aoh.tif,Calcarius lapponicus,3,Lapland Bunting
+IUCN,BIRD,Calcarius_ornatus_2_aoh.tif,Calcarius ornatus,2,Chestnut-collared Longspur
+IUCN,BIRD,Calcarius_pictus_2_aoh.tif,Calcarius pictus,2,Smith's Longspur
+IUCN,BIRD,Calidris_alba_2_aoh.tif,Calidris alba,2,Sanderling
+IUCN,BIRD,Calidris_alba_3_aoh.tif,Calidris alba,3,Sanderling
+IUCN,BIRD,Calidris_alpina_2_aoh.tif,Calidris alpina,2,Dunlin
+IUCN,BIRD,Calidris_alpina_3_aoh.tif,Calidris alpina,3,Dunlin
+IUCN,BIRD,Calidris_canutus_2_aoh.tif,Calidris canutus,2,Red Knot
+IUCN,BIRD,Calidris_fuscicollis_2_aoh.tif,Calidris fuscicollis,2,White-rumped Sandpiper
+IUCN,BIRD,Calidris_himantopus_2_aoh.tif,Calidris himantopus,2,Stilt Sandpiper
+IUCN,BIRD,Calidris_maritima_2_aoh.tif,Calidris maritima,2,Purple Sandpiper
+IUCN,BIRD,Calidris_maritima_3_aoh.tif,Calidris maritima,3,Purple Sandpiper
+IUCN,BIRD,Calidris_mauri_3_aoh.tif,Calidris mauri,3,Western Sandpiper
+IUCN,BIRD,Calidris_melanotos_2_aoh.tif,Calidris melanotos,2,Pectoral Sandpiper
+IUCN,BIRD,Calidris_minutilla_2_aoh.tif,Calidris minutilla,2,Least Sandpiper
+IUCN,BIRD,Calidris_ptilocnemis_3_aoh.tif,Calidris ptilocnemis,3,Rock Sandpiper
+IUCN,BIRD,Calidris_pusilla_2_aoh.tif,Calidris pusilla,2,Semipalmated Sandpiper
+IUCN,BIRD,Calidris_subruficollis_2_aoh.tif,Calidris subruficollis,2,Buff-breasted Sandpiper
+IUCN,BIRD,Calidris_virgata_2_aoh.tif,Calidris virgata,2,Surfbird
+IUCN,BIRD,Calidris_virgata_3_aoh.tif,Calidris virgata,3,Surfbird
+IUCN,BIRD,Callipepla_californica_1_aoh.tif,Callipepla californica,1,California Quail
+IUCN,BIRD,Calonectris_borealis_1_aoh.tif,Calonectris borealis,1,Cory's Shearwater
+IUCN,BIRD,Calypte_anna_1_aoh.tif,Calypte anna,1,Anna's Hummingbird
+IUCN,BIRD,Calypte_anna_3_aoh.tif,Calypte anna,3,Anna's Hummingbird
+IUCN,BIRD,Cardellina_canadensis_2_aoh.tif,Cardellina canadensis,2,Canada Warbler
+IUCN,BIRD,Cardellina_pusilla_2_aoh.tif,Cardellina pusilla,2,Wilson's Warbler
+IUCN,BIRD,Cardinalis_cardinalis_1_aoh.tif,Cardinalis cardinalis,1,Northern Cardinal
+IUCN,BIRD,Catharacta_maccormicki_3_aoh.tif,Catharacta maccormicki,3,South Polar Skua
+IUCN,BIRD,Catharacta_skua_3_aoh.tif,Catharacta skua,3,Great Skua
+IUCN,BIRD,Cathartes_aura_2_aoh.tif,Cathartes aura,2,Turkey Vulture
+IUCN,BIRD,Catharus_bicknelli_2_aoh.tif,Catharus bicknelli,2,Bicknell's Thrush
+IUCN,BIRD,Catharus_fuscescens_2_aoh.tif,Catharus fuscescens,2,Veery
+IUCN,BIRD,Catharus_guttatus_1_aoh.tif,Catharus guttatus,1,Hermit Thrush
+IUCN,BIRD,Catharus_guttatus_2_aoh.tif,Catharus guttatus,2,Hermit Thrush
+IUCN,BIRD,Catharus_guttatus_3_aoh.tif,Catharus guttatus,3,Hermit Thrush
+IUCN,BIRD,Catharus_minimus_2_aoh.tif,Catharus minimus,2,Grey-cheeked Thrush
+IUCN,BIRD,Catharus_swainsoni_2_aoh.tif,Catharus swainsoni,2,Swainson's Thrush
+IUCN,BIRD,Catharus_ustulatus_2_aoh.tif,Catharus ustulatus,2,Russet-backed Thrush
+IUCN,BIRD,Catherpes_mexicanus_1_aoh.tif,Catherpes mexicanus,1,Canyon Wren
+IUCN,BIRD,Centrocercus_urophasianus_1_aoh.tif,Centrocercus urophasianus,1,Greater Sage Grouse
+IUCN,BIRD,Cepphus_columba_1_aoh.tif,Cepphus columba,1,Pigeon Guillemot
+IUCN,BIRD,Cepphus_columba_2_aoh.tif,Cepphus columba,2,Pigeon Guillemot
+IUCN,BIRD,Cepphus_columba_3_aoh.tif,Cepphus columba,3,Pigeon Guillemot
+IUCN,BIRD,Cepphus_grylle_1_aoh.tif,Cepphus grylle,1,Black Guillemot
+IUCN,BIRD,Cepphus_grylle_2_aoh.tif,Cepphus grylle,2,Black Guillemot
+IUCN,BIRD,Cepphus_grylle_3_aoh.tif,Cepphus grylle,3,Black Guillemot
+IUCN,BIRD,Cerorhinca_monocerata_1_aoh.tif,Cerorhinca monocerata,1,Rhinoceros Auklet
+IUCN,BIRD,Cerorhinca_monocerata_3_aoh.tif,Cerorhinca monocerata,3,Rhinoceros Auklet
+IUCN,BIRD,Certhia_americana_1_aoh.tif,Certhia americana,1,American Treecreeper
+IUCN,BIRD,Certhia_americana_3_aoh.tif,Certhia americana,3,American Treecreeper
+IUCN,BIRD,Chaetura_pelagica_2_aoh.tif,Chaetura pelagica,2,Chimney Swift
+IUCN,BIRD,Chaetura_vauxi_2_aoh.tif,Chaetura vauxi,2,Vaux's Swift
+IUCN,BIRD,Charadrius_melodus_2_aoh.tif,Charadrius melodus,2,Piping Plover
+IUCN,BIRD,Charadrius_montanus_2_aoh.tif,Charadrius montanus,2,Mountain Plover
+IUCN,BIRD,Charadrius_semipalmatus_2_aoh.tif,Charadrius semipalmatus,2,Semipalmated Plover
+IUCN,BIRD,Charadrius_vociferus_1_aoh.tif,Charadrius vociferus,1,Killdeer
+IUCN,BIRD,Charadrius_vociferus_2_aoh.tif,Charadrius vociferus,2,Killdeer
+IUCN,BIRD,Chlidonias_niger_2_aoh.tif,Chlidonias niger,2,Black Tern
+IUCN,BIRD,Chondestes_grammacus_2_aoh.tif,Chondestes grammacus,2,Lark Sparrow
+IUCN,BIRD,Chordeiles_minor_2_aoh.tif,Chordeiles minor,2,Common Nighthawk
+IUCN,BIRD,Cinclus_mexicanus_1_aoh.tif,Cinclus mexicanus,1,American Dipper
+IUCN,BIRD,Circus_hudsonius_1_aoh.tif,Circus hudsonius,1,Northern Harrier
+IUCN,BIRD,Circus_hudsonius_2_aoh.tif,Circus hudsonius,2,Northern Harrier
+IUCN,BIRD,Circus_hudsonius_3_aoh.tif,Circus hudsonius,3,Northern Harrier
+IUCN,BIRD,Cistothorus_palustris_1_aoh.tif,Cistothorus palustris,1,Marsh Wren
+IUCN,BIRD,Cistothorus_palustris_2_aoh.tif,Cistothorus palustris,2,Marsh Wren
+IUCN,BIRD,Cistothorus_stellaris_2_aoh.tif,Cistothorus stellaris,2,Sedge Wren
+IUCN,BIRD,Clangula_hyemalis_2_aoh.tif,Clangula hyemalis,2,Long-tailed Duck
+IUCN,BIRD,Clangula_hyemalis_3_aoh.tif,Clangula hyemalis,3,Long-tailed Duck
+IUCN,BIRD,Coccyzus_americanus_2_aoh.tif,Coccyzus americanus,2,Yellow-billed Cuckoo
+IUCN,BIRD,Coccyzus_erythropthalmus_2_aoh.tif,Coccyzus erythropthalmus,2,Black-billed Cuckoo
+IUCN,BIRD,Colaptes_auratus_1_aoh.tif,Colaptes auratus,1,Northern Flicker
+IUCN,BIRD,Colaptes_auratus_2_aoh.tif,Colaptes auratus,2,Northern Flicker
+IUCN,BIRD,Colaptes_cafer_1_aoh.tif,Colaptes cafer,1,Red-shafted Flicker
+IUCN,BIRD,Colaptes_cafer_2_aoh.tif,Colaptes cafer,2,Red-shafted Flicker
+IUCN,BIRD,Colinus_virginianus_1_aoh.tif,Colinus virginianus,1,Bobwhite
+IUCN,BIRD,Contopus_cooperi_2_aoh.tif,Contopus cooperi,2,Olive-sided Flycatcher
+IUCN,BIRD,Contopus_sordidulus_2_aoh.tif,Contopus sordidulus,2,Western Wood-Pewee
+IUCN,BIRD,Contopus_virens_2_aoh.tif,Contopus virens,2,Eastern Wood-Pewee
+IUCN,BIRD,Corvus_brachyrhynchos_1_aoh.tif,Corvus brachyrhynchos,1,American Crow
+IUCN,BIRD,Corvus_brachyrhynchos_2_aoh.tif,Corvus brachyrhynchos,2,American Crow
+IUCN,BIRD,Corvus_caurinus_1_aoh.tif,Corvus caurinus,1,Northwestern Crow
+IUCN,BIRD,Corvus_corax_1_aoh.tif,Corvus corax,1,Northern Raven
+IUCN,BIRD,Coturnicops_noveboracensis_2_aoh.tif,Coturnicops noveboracensis,2,Yellow Rail
+IUCN,BIRD,Cyanecula_svecica_2_aoh.tif,Cyanecula svecica,2,Bluethroat
+IUCN,BIRD,Cyanocitta_cristata_1_aoh.tif,Cyanocitta cristata,1,Blue Jay
+IUCN,BIRD,Cyanocitta_cristata_2_aoh.tif,Cyanocitta cristata,2,Blue Jay
+IUCN,BIRD,Cyanocitta_stelleri_1_aoh.tif,Cyanocitta stelleri,1,Steller's Jay
+IUCN,BIRD,Cygnus_buccinator_1_aoh.tif,Cygnus buccinator,1,Trumpeter Swan
+IUCN,BIRD,Cygnus_buccinator_2_aoh.tif,Cygnus buccinator,2,Trumpeter Swan
+IUCN,BIRD,Cygnus_buccinator_3_aoh.tif,Cygnus buccinator,3,Trumpeter Swan
+IUCN,BIRD,Cygnus_columbianus_2_aoh.tif,Cygnus columbianus,2,Tundra Swan
+IUCN,BIRD,Cygnus_columbianus_3_aoh.tif,Cygnus columbianus,3,Tundra Swan
+IUCN,BIRD,Cygnus_olor_1_aoh.tif,Cygnus olor,1,Mute Swan
+IUCN,BIRD,Cypseloides_niger_2_aoh.tif,Cypseloides niger,2,Black Swift
+IUCN,BIRD,Dendragapus_fuliginosus_1_aoh.tif,Dendragapus fuliginosus,1,Sooty Grouse
+IUCN,BIRD,Dendragapus_obscurus_1_aoh.tif,Dendragapus obscurus,1,Dusky Grouse
+IUCN,BIRD,Dolichonyx_oryzivorus_2_aoh.tif,Dolichonyx oryzivorus,2,Bobolink
+IUCN,BIRD,Dryobates_pubescens_1_aoh.tif,Dryobates pubescens,1,Downy Woodpecker
+IUCN,BIRD,Dumetella_carolinensis_2_aoh.tif,Dumetella carolinensis,2,Gray Catbird
+IUCN,BIRD,Egretta_thula_2_aoh.tif,Egretta thula,2,Snowy Egret
+IUCN,BIRD,Elanoides_forficatus_2_aoh.tif,Elanoides forficatus,2,Swallow-tailed Kite
+IUCN,BIRD,Empidonax_alnorum_2_aoh.tif,Empidonax alnorum,2,Alder Flycatcher
+IUCN,BIRD,Empidonax_difficilis_2_aoh.tif,Empidonax difficilis,2,Pacific-slope Flycatcher
+IUCN,BIRD,Empidonax_flaviventris_2_aoh.tif,Empidonax flaviventris,2,Yellow-bellied Flycatcher
+IUCN,BIRD,Empidonax_hammondii_2_aoh.tif,Empidonax hammondii,2,Hammond's Flycatcher
+IUCN,BIRD,Empidonax_minimus_2_aoh.tif,Empidonax minimus,2,Least Flycatcher
+IUCN,BIRD,Empidonax_oberholseri_2_aoh.tif,Empidonax oberholseri,2,American Dusky Flycatcher
+IUCN,BIRD,Empidonax_occidentalis_2_aoh.tif,Empidonax occidentalis,2,Cordilleran Flycatcher
+IUCN,BIRD,Empidonax_traillii_2_aoh.tif,Empidonax traillii,2,Willow Flycatcher
+IUCN,BIRD,Empidonax_virescens_2_aoh.tif,Empidonax virescens,2,Acadian Flycatcher
+IUCN,BIRD,Empidonax_wrightii_2_aoh.tif,Empidonax wrightii,2,Gray Flycatcher
+IUCN,BIRD,Eremophila_alpestris_2_aoh.tif,Eremophila alpestris,2,Shore Lark
+IUCN,BIRD,Eremophila_alpestris_3_aoh.tif,Eremophila alpestris,3,Shore Lark
+IUCN,BIRD,Euphagus_carolinus_2_aoh.tif,Euphagus carolinus,2,Rusty Blackbird
+IUCN,BIRD,Euphagus_carolinus_3_aoh.tif,Euphagus carolinus,3,Rusty Blackbird
+IUCN,BIRD,Euphagus_cyanocephalus_1_aoh.tif,Euphagus cyanocephalus,1,Brewer's Blackbird
+IUCN,BIRD,Euphagus_cyanocephalus_2_aoh.tif,Euphagus cyanocephalus,2,Brewer's Blackbird
+IUCN,BIRD,Falcipennis_canadensis_1_aoh.tif,Falcipennis canadensis,1,Spruce Grouse
+IUCN,BIRD,Falcipennis_franklinii_1_aoh.tif,Falcipennis franklinii,1,Franklin's Grouse
+IUCN,BIRD,Falco_columbarius_1_aoh.tif,Falco columbarius,1,Merlin
+IUCN,BIRD,Falco_columbarius_2_aoh.tif,Falco columbarius,2,Merlin
+IUCN,BIRD,Falco_columbarius_3_aoh.tif,Falco columbarius,3,Merlin
+IUCN,BIRD,Falco_mexicanus_1_aoh.tif,Falco mexicanus,1,Prairie Falcon
+IUCN,BIRD,Falco_mexicanus_2_aoh.tif,Falco mexicanus,2,Prairie Falcon
+IUCN,BIRD,Falco_mexicanus_3_aoh.tif,Falco mexicanus,3,Prairie Falcon
+IUCN,BIRD,Falco_peregrinus_1_aoh.tif,Falco peregrinus,1,Peregrine Falcon
+IUCN,BIRD,Falco_peregrinus_2_aoh.tif,Falco peregrinus,2,Peregrine Falcon
+IUCN,BIRD,Falco_peregrinus_3_aoh.tif,Falco peregrinus,3,Peregrine Falcon
+IUCN,BIRD,Falco_rusticolus_1_aoh.tif,Falco rusticolus,1,Gyrfalcon
+IUCN,BIRD,Falco_rusticolus_2_aoh.tif,Falco rusticolus,2,Gyrfalcon
+IUCN,BIRD,Falco_rusticolus_3_aoh.tif,Falco rusticolus,3,Gyrfalcon
+IUCN,BIRD,Falco_sparverius_1_aoh.tif,Falco sparverius,1,American Kestrel
+IUCN,BIRD,Falco_sparverius_2_aoh.tif,Falco sparverius,2,American Kestrel
+IUCN,BIRD,Fratercula_arctica_2_aoh.tif,Fratercula arctica,2,Atlantic Puffin
+IUCN,BIRD,Fratercula_arctica_3_aoh.tif,Fratercula arctica,3,Atlantic Puffin
+IUCN,BIRD,Fratercula_cirrhata_1_aoh.tif,Fratercula cirrhata,1,Tufted Puffin
+IUCN,BIRD,Fratercula_cirrhata_2_aoh.tif,Fratercula cirrhata,2,Tufted Puffin
+IUCN,BIRD,Fratercula_cirrhata_3_aoh.tif,Fratercula cirrhata,3,Tufted Puffin
+IUCN,BIRD,Fratercula_corniculata_1_aoh.tif,Fratercula corniculata,1,Horned Puffin
+IUCN,BIRD,Fratercula_corniculata_2_aoh.tif,Fratercula corniculata,2,Horned Puffin
+IUCN,BIRD,Fratercula_corniculata_3_aoh.tif,Fratercula corniculata,3,Horned Puffin
+IUCN,BIRD,Fulica_americana_1_aoh.tif,Fulica americana,1,American Coot
+IUCN,BIRD,Fulica_americana_2_aoh.tif,Fulica americana,2,American Coot
+IUCN,BIRD,Fulica_americana_3_aoh.tif,Fulica americana,3,American Coot
+IUCN,BIRD,Fulmarus_glacialis_1_aoh.tif,Fulmarus glacialis,1,Fulmar
+IUCN,BIRD,Gallinago_delicata_1_aoh.tif,Gallinago delicata,1,Wilson's Snipe
+IUCN,BIRD,Gallinago_delicata_2_aoh.tif,Gallinago delicata,2,Wilson's Snipe
+IUCN,BIRD,Gallinago_delicata_3_aoh.tif,Gallinago delicata,3,Wilson's Snipe
+IUCN,BIRD,Gallinula_galeata_1_aoh.tif,Gallinula galeata,1,Common Gallinule
+IUCN,BIRD,Gallinula_galeata_2_aoh.tif,Gallinula galeata,2,Common Gallinule
+IUCN,BIRD,Gavia_adamsii_2_aoh.tif,Gavia adamsii,2,White-billed Diver
+IUCN,BIRD,Gavia_adamsii_3_aoh.tif,Gavia adamsii,3,White-billed Diver
+IUCN,BIRD,Gavia_immer_2_aoh.tif,Gavia immer,2,Great Northern Loon
+IUCN,BIRD,Gavia_immer_3_aoh.tif,Gavia immer,3,Great Northern Loon
+IUCN,BIRD,Gavia_pacifica_2_aoh.tif,Gavia pacifica,2,Pacific Loon
+IUCN,BIRD,Gavia_pacifica_3_aoh.tif,Gavia pacifica,3,Pacific Loon
+IUCN,BIRD,Gavia_stellata_2_aoh.tif,Gavia stellata,2,Red-throated Loon
+IUCN,BIRD,Gavia_stellata_3_aoh.tif,Gavia stellata,3,Red-throated Loon
+IUCN,BIRD,Geothlypis_philadelphia_2_aoh.tif,Geothlypis philadelphia,2,Mourning Warbler
+IUCN,BIRD,Geothlypis_tolmiei_2_aoh.tif,Geothlypis tolmiei,2,MacGillivray's Warbler
+IUCN,BIRD,Geothlypis_trichas_2_aoh.tif,Geothlypis trichas,2,Common Yellowthroat
+IUCN,BIRD,Glaucidium_californicum_1_aoh.tif,Glaucidium californicum,1,Northern Pygmy-owl
+IUCN,BIRD,Grus_americana_2_aoh.tif,Grus americana,2,Whooping Crane
+IUCN,BIRD,Haematopus_ater_1_aoh.tif,Haematopus ater,1,Blackish Oystercatcher
+IUCN,BIRD,Haemorhous_cassinii_1_aoh.tif,Haemorhous cassinii,1,Cassin's Finch
+IUCN,BIRD,Haemorhous_cassinii_2_aoh.tif,Haemorhous cassinii,2,Cassin's Finch
+IUCN,BIRD,Haemorhous_mexicanus_1_aoh.tif,Haemorhous mexicanus,1,House Finch
+IUCN,BIRD,Haemorhous_purpureus_1_aoh.tif,Haemorhous purpureus,1,Purple Finch
+IUCN,BIRD,Haemorhous_purpureus_2_aoh.tif,Haemorhous purpureus,2,Purple Finch
+IUCN,BIRD,Haemorhous_purpureus_3_aoh.tif,Haemorhous purpureus,3,Purple Finch
+IUCN,BIRD,Haliaeetus_leucocephalus_1_aoh.tif,Haliaeetus leucocephalus,1,Bald Eagle
+IUCN,BIRD,Haliaeetus_leucocephalus_2_aoh.tif,Haliaeetus leucocephalus,2,Bald Eagle
+IUCN,BIRD,Haliaeetus_leucocephalus_3_aoh.tif,Haliaeetus leucocephalus,3,Bald Eagle
+IUCN,BIRD,Hesperiphona_vespertina_3_aoh.tif,Hesperiphona vespertina,3,Evening Grosbeak
+IUCN,BIRD,Hirundo_rustica_2_aoh.tif,Hirundo rustica,2,European Swallow
+IUCN,BIRD,Histrionicus_histrionicus_2_aoh.tif,Histrionicus histrionicus,2,Harlequin
+IUCN,BIRD,Histrionicus_histrionicus_3_aoh.tif,Histrionicus histrionicus,3,Harlequin
+IUCN,BIRD,Hydrobates_furcatus_1_aoh.tif,Hydrobates furcatus,1,Fork-tailed Storm Petrel
+IUCN,BIRD,Hydrobates_furcatus_2_aoh.tif,Hydrobates furcatus,2,Fork-tailed Storm Petrel
+IUCN,BIRD,Hydrocoloeus_minutus_2_aoh.tif,Hydrocoloeus minutus,2,Little Gull
+IUCN,BIRD,Hydrocoloeus_minutus_3_aoh.tif,Hydrocoloeus minutus,3,Little Gull
+IUCN,BIRD,Hydroprogne_caspia_2_aoh.tif,Hydroprogne caspia,2,Caspian Tern
+IUCN,BIRD,Hylatomus_pileatus_1_aoh.tif,Hylatomus pileatus,1,Pileated Woodpecker
+IUCN,BIRD,Hylocichla_mustelina_2_aoh.tif,Hylocichla mustelina,2,Wood Thrush
+IUCN,BIRD,Icteria_virens_2_aoh.tif,Icteria virens,2,Yellow-breasted Chat
+IUCN,BIRD,Icterus_bullockiorum_2_aoh.tif,Icterus bullockiorum,2,Bullock's Oriole
+IUCN,BIRD,Icterus_galbula_2_aoh.tif,Icterus galbula,2,Baltimore Oriole
+IUCN,BIRD,Icterus_spurius_2_aoh.tif,Icterus spurius,2,Orchard Oriole
+IUCN,BIRD,Ixobrychus_exilis_2_aoh.tif,Ixobrychus exilis,2,Least Bittern
+IUCN,BIRD,Ixoreus_naevius_1_aoh.tif,Ixoreus naevius,1,Varied Thrush
+IUCN,BIRD,Ixoreus_naevius_2_aoh.tif,Ixoreus naevius,2,Varied Thrush
+IUCN,BIRD,Junco_hyemalis_1_aoh.tif,Junco hyemalis,1,Dark-eyed Junco
+IUCN,BIRD,Junco_hyemalis_2_aoh.tif,Junco hyemalis,2,Dark-eyed Junco
+IUCN,BIRD,Junco_hyemalis_3_aoh.tif,Junco hyemalis,3,Dark-eyed Junco
+IUCN,BIRD,Lagopus_lagopus_1_aoh.tif,Lagopus lagopus,1,Willow Grouse
+IUCN,BIRD,Lagopus_lagopus_2_aoh.tif,Lagopus lagopus,2,Willow Grouse
+IUCN,BIRD,Lagopus_lagopus_3_aoh.tif,Lagopus lagopus,3,Willow Grouse
+IUCN,BIRD,Lagopus_leucura_1_aoh.tif,Lagopus leucura,1,White-tailed Ptarmigan
+IUCN,BIRD,Lagopus_muta_1_aoh.tif,Lagopus muta,1,Ptarmigan
+IUCN,BIRD,Lagopus_muta_3_aoh.tif,Lagopus muta,3,Ptarmigan
+IUCN,BIRD,Lanius_borealis_1_aoh.tif,Lanius borealis,1,Northern Grey Shrike
+IUCN,BIRD,Lanius_borealis_2_aoh.tif,Lanius borealis,2,Northern Grey Shrike
+IUCN,BIRD,Lanius_borealis_3_aoh.tif,Lanius borealis,3,Northern Grey Shrike
+IUCN,BIRD,Lanius_ludovicianus_2_aoh.tif,Lanius ludovicianus,2,Loggerhead Shrike
+IUCN,BIRD,Larus_atricilla_2_aoh.tif,Larus atricilla,2,Laughing Gull
+IUCN,BIRD,Larus_californicus_2_aoh.tif,Larus californicus,2,California Gull
+IUCN,BIRD,Larus_californicus_3_aoh.tif,Larus californicus,3,California Gull
+IUCN,BIRD,Larus_canus_1_aoh.tif,Larus canus,1,Mew Gull
+IUCN,BIRD,Larus_canus_2_aoh.tif,Larus canus,2,Mew Gull
+IUCN,BIRD,Larus_canus_3_aoh.tif,Larus canus,3,Mew Gull
+IUCN,BIRD,Larus_delawarensis_1_aoh.tif,Larus delawarensis,1,Ring-billed Gull
+IUCN,BIRD,Larus_delawarensis_2_aoh.tif,Larus delawarensis,2,Ring-billed Gull
+IUCN,BIRD,Larus_delawarensis_3_aoh.tif,Larus delawarensis,3,Ring-billed Gull
+IUCN,BIRD,Larus_fuscus_3_aoh.tif,Larus fuscus,3,Lesser Black-backed Gull
+IUCN,BIRD,Larus_glaucescens_1_aoh.tif,Larus glaucescens,1,Glaucous-winged Gull
+IUCN,BIRD,Larus_glaucescens_3_aoh.tif,Larus glaucescens,3,Glaucous-winged Gull
+IUCN,BIRD,Larus_heermanni_3_aoh.tif,Larus heermanni,3,Heermann's Gull
+IUCN,BIRD,Larus_hyperboreus_1_aoh.tif,Larus hyperboreus,1,Glaucous Gull
+IUCN,BIRD,Larus_hyperboreus_2_aoh.tif,Larus hyperboreus,2,Glaucous Gull
+IUCN,BIRD,Larus_hyperboreus_3_aoh.tif,Larus hyperboreus,3,Glaucous Gull
+IUCN,BIRD,Larus_marinus_1_aoh.tif,Larus marinus,1,Greater Black-backed Gull
+IUCN,BIRD,Larus_marinus_2_aoh.tif,Larus marinus,2,Greater Black-backed Gull
+IUCN,BIRD,Larus_marinus_3_aoh.tif,Larus marinus,3,Greater Black-backed Gull
+IUCN,BIRD,Larus_occidentalis_3_aoh.tif,Larus occidentalis,3,Western Gull
+IUCN,BIRD,Larus_philadelphia_2_aoh.tif,Larus philadelphia,2,Bonaparte's Gull
+IUCN,BIRD,Larus_philadelphia_3_aoh.tif,Larus philadelphia,3,Bonaparte's Gull
+IUCN,BIRD,Larus_pipixcan_2_aoh.tif,Larus pipixcan,2,Franklin's Gull
+IUCN,BIRD,Larus_ridibundus_1_aoh.tif,Larus ridibundus,1,Common Black-headed Gull
+IUCN,BIRD,Larus_ridibundus_3_aoh.tif,Larus ridibundus,3,Common Black-headed Gull
+IUCN,BIRD,Larus_smithsonianus_1_aoh.tif,Larus smithsonianus,1,Arctic Herring Gull
+IUCN,BIRD,Larus_smithsonianus_2_aoh.tif,Larus smithsonianus,2,Arctic Herring Gull
+IUCN,BIRD,Larus_smithsonianus_3_aoh.tif,Larus smithsonianus,3,Arctic Herring Gull
+IUCN,BIRD,Leiothlypis_celata_1_aoh.tif,Leiothlypis celata,1,Orange-crowned Warbler
+IUCN,BIRD,Leiothlypis_celata_2_aoh.tif,Leiothlypis celata,2,Orange-crowned Warbler
+IUCN,BIRD,Leiothlypis_peregrina_2_aoh.tif,Leiothlypis peregrina,2,Tennessee Warbler
+IUCN,BIRD,Leiothlypis_ruficapilla_2_aoh.tif,Leiothlypis ruficapilla,2,Nashville Warbler
+IUCN,BIRD,Leuconotopicus_albolarvatus_1_aoh.tif,Leuconotopicus albolarvatus,1,White-headed Woodpecker
+IUCN,BIRD,Leuconotopicus_villosus_1_aoh.tif,Leuconotopicus villosus,1,Hairy Woodpecker
+IUCN,BIRD,Leucosticte_tephrocotis_1_aoh.tif,Leucosticte tephrocotis,1,Gray-crowned Rosy-Finch
+IUCN,BIRD,Leucosticte_tephrocotis_2_aoh.tif,Leucosticte tephrocotis,2,Gray-crowned Rosy-Finch
+IUCN,BIRD,Leucosticte_tephrocotis_3_aoh.tif,Leucosticte tephrocotis,3,Gray-crowned Rosy-Finch
+IUCN,BIRD,Limnodromus_griseus_2_aoh.tif,Limnodromus griseus,2,Short-billed Dowitcher
+IUCN,BIRD,Limnodromus_scolopaceus_2_aoh.tif,Limnodromus scolopaceus,2,Long-billed Dowitcher
+IUCN,BIRD,Limosa_fedoa_2_aoh.tif,Limosa fedoa,2,Marbled Godwit
+IUCN,BIRD,Limosa_haemastica_2_aoh.tif,Limosa haemastica,2,Hudsonian Godwit
+IUCN,BIRD,Lophodytes_cucullatus_1_aoh.tif,Lophodytes cucullatus,1,Hooded Merganser
+IUCN,BIRD,Lophodytes_cucullatus_2_aoh.tif,Lophodytes cucullatus,2,Hooded Merganser
+IUCN,BIRD,Lophodytes_cucullatus_3_aoh.tif,Lophodytes cucullatus,3,Hooded Merganser
+IUCN,BIRD,Loxia_curvirostra_1_aoh.tif,Loxia curvirostra,1,Common Crossbill
+IUCN,BIRD,Loxia_curvirostra_3_aoh.tif,Loxia curvirostra,3,Common Crossbill
+IUCN,BIRD,Loxia_leucoptera_1_aoh.tif,Loxia leucoptera,1,Two-barred Crossbill
+IUCN,BIRD,Loxia_leucoptera_3_aoh.tif,Loxia leucoptera,3,Two-barred Crossbill
+IUCN,BIRD,Mareca_americana_1_aoh.tif,Mareca americana,1,American Wigeon
+IUCN,BIRD,Mareca_americana_2_aoh.tif,Mareca americana,2,American Wigeon
+IUCN,BIRD,Mareca_americana_3_aoh.tif,Mareca americana,3,American Wigeon
+IUCN,BIRD,Mareca_penelope_3_aoh.tif,Mareca penelope,3,European Wigeon
+IUCN,BIRD,Mareca_strepera_1_aoh.tif,Mareca strepera,1,Gadwall
+IUCN,BIRD,Mareca_strepera_2_aoh.tif,Mareca strepera,2,Gadwall
+IUCN,BIRD,Mareca_strepera_3_aoh.tif,Mareca strepera,3,Gadwall
+IUCN,BIRD,Megaceryle_alcyon_1_aoh.tif,Megaceryle alcyon,1,Belted Kingfisher
+IUCN,BIRD,Megaceryle_alcyon_2_aoh.tif,Megaceryle alcyon,2,Belted Kingfisher
+IUCN,BIRD,Megascops_asio_1_aoh.tif,Megascops asio,1,Eastern Screech-owl
+IUCN,BIRD,Megascops_kennicottii_1_aoh.tif,Megascops kennicottii,1,Western Screech-owl
+IUCN,BIRD,Melanerpes_carolinus_1_aoh.tif,Melanerpes carolinus,1,Red-bellied Woodpecker
+IUCN,BIRD,Melanerpes_erythrocephalus_1_aoh.tif,Melanerpes erythrocephalus,1,Red-headed Woodpecker
+IUCN,BIRD,Melanerpes_erythrocephalus_2_aoh.tif,Melanerpes erythrocephalus,2,Red-headed Woodpecker
+IUCN,BIRD,Melanerpes_lewis_2_aoh.tif,Melanerpes lewis,2,Lewis's Woodpecker
+IUCN,BIRD,Melanitta_americana_2_aoh.tif,Melanitta americana,2,American Scoter
+IUCN,BIRD,Melanitta_americana_3_aoh.tif,Melanitta americana,3,American Scoter
+IUCN,BIRD,Melanitta_deglandi_2_aoh.tif,Melanitta deglandi,2,White-winged Scoter
+IUCN,BIRD,Melanitta_deglandi_3_aoh.tif,Melanitta deglandi,3,White-winged Scoter
+IUCN,BIRD,Melanitta_perspicillata_2_aoh.tif,Melanitta perspicillata,2,Surf Scoter
+IUCN,BIRD,Melanitta_perspicillata_3_aoh.tif,Melanitta perspicillata,3,Surf Scoter
+IUCN,BIRD,Meleagris_gallopavo_1_aoh.tif,Meleagris gallopavo,1,Turkey
+IUCN,BIRD,Melospiza_georgiana_1_aoh.tif,Melospiza georgiana,1,Swamp Sparrow
+IUCN,BIRD,Melospiza_georgiana_2_aoh.tif,Melospiza georgiana,2,Swamp Sparrow
+IUCN,BIRD,Melospiza_georgiana_3_aoh.tif,Melospiza georgiana,3,Swamp Sparrow
+IUCN,BIRD,Melospiza_lincolnii_2_aoh.tif,Melospiza lincolnii,2,Lincoln's Sparrow
+IUCN,BIRD,Melospiza_lincolnii_3_aoh.tif,Melospiza lincolnii,3,Lincoln's Sparrow
+IUCN,BIRD,Melospiza_melodia_1_aoh.tif,Melospiza melodia,1,Song Sparrow
+IUCN,BIRD,Melospiza_melodia_2_aoh.tif,Melospiza melodia,2,Song Sparrow
+IUCN,BIRD,Mergus_merganser_1_aoh.tif,Mergus merganser,1,Goosander
+IUCN,BIRD,Mergus_merganser_2_aoh.tif,Mergus merganser,2,Goosander
+IUCN,BIRD,Mergus_merganser_3_aoh.tif,Mergus merganser,3,Goosander
+IUCN,BIRD,Mergus_serrator_2_aoh.tif,Mergus serrator,2,Red-breasted Merganser
+IUCN,BIRD,Mergus_serrator_3_aoh.tif,Mergus serrator,3,Red-breasted Merganser
+IUCN,BIRD,Mimus_polyglottos_1_aoh.tif,Mimus polyglottos,1,Northern Mockingbird
+IUCN,BIRD,Mniotilta_varia_2_aoh.tif,Mniotilta varia,2,Black-and-white Warbler
+IUCN,BIRD,Molothrus_ater_1_aoh.tif,Molothrus ater,1,Brown-headed Cowbird
+IUCN,BIRD,Molothrus_ater_2_aoh.tif,Molothrus ater,2,Brown-headed Cowbird
+IUCN,BIRD,Morus_bassanus_1_aoh.tif,Morus bassanus,1,Gannet
+IUCN,BIRD,Morus_bassanus_2_aoh.tif,Morus bassanus,2,Gannet
+IUCN,BIRD,Motacilla_tschutschensis_2_aoh.tif,Motacilla tschutschensis,2,Eastern Yellow Wagtail
+IUCN,BIRD,Myadestes_townsendi_1_aoh.tif,Myadestes townsendi,1,Townsend's Solitaire
+IUCN,BIRD,Myadestes_townsendi_2_aoh.tif,Myadestes townsendi,2,Townsend's Solitaire
+IUCN,BIRD,Myadestes_townsendi_3_aoh.tif,Myadestes townsendi,3,Townsend's Solitaire
+IUCN,BIRD,Myiarchus_crinitus_2_aoh.tif,Myiarchus crinitus,2,Great Crested Flycatcher
+IUCN,BIRD,Nannopterum_auritus_1_aoh.tif,Nannopterum auritus,1,Double-crested Cormorant
+IUCN,BIRD,Nannopterum_auritus_2_aoh.tif,Nannopterum auritus,2,Double-crested Cormorant
+IUCN,BIRD,Nannopterum_auritus_3_aoh.tif,Nannopterum auritus,3,Double-crested Cormorant
+IUCN,BIRD,Nucifraga_columbiana_1_aoh.tif,Nucifraga columbiana,1,Clark's Nutcracker
+IUCN,BIRD,Numenius_americanus_2_aoh.tif,Numenius americanus,2,Long-billed Curlew
+IUCN,BIRD,Numenius_phaeopus_2_aoh.tif,Numenius phaeopus,2,Whimbrel
+IUCN,BIRD,Nycticorax_nycticorax_1_aoh.tif,Nycticorax nycticorax,1,Night Heron
+IUCN,BIRD,Nycticorax_nycticorax_2_aoh.tif,Nycticorax nycticorax,2,Night Heron
+IUCN,BIRD,Oceanites_oceanicus_3_aoh.tif,Oceanites oceanicus,3,Wilson's Storm-Petrel
+IUCN,BIRD,Oenanthe_oenanthe_2_aoh.tif,Oenanthe oenanthe,2,Northern Wheatear
+IUCN,BIRD,Oporornis_agilis_2_aoh.tif,Oporornis agilis,2,Connecticut Warbler
+IUCN,BIRD,Oreortyx_pictus_1_aoh.tif,Oreortyx pictus,1,Mountain Quail
+IUCN,BIRD,Oreoscoptes_montanus_2_aoh.tif,Oreoscoptes montanus,2,Sage Thrasher
+IUCN,BIRD,Oxyura_jamaicensis_1_aoh.tif,Oxyura jamaicensis,1,Ruddy Duck
+IUCN,BIRD,Oxyura_jamaicensis_2_aoh.tif,Oxyura jamaicensis,2,Ruddy Duck
+IUCN,BIRD,Oxyura_jamaicensis_3_aoh.tif,Oxyura jamaicensis,3,Ruddy Duck
+IUCN,BIRD,Pagophila_eburnea_1_aoh.tif,Pagophila eburnea,1,Ivory Gull
+IUCN,BIRD,Pagophila_eburnea_2_aoh.tif,Pagophila eburnea,2,Ivory Gull
+IUCN,BIRD,Pandion_haliaetus_2_aoh.tif,Pandion haliaetus,2,Osprey
+IUCN,BIRD,Parkesia_motacilla_2_aoh.tif,Parkesia motacilla,2,Louisiana Waterthrush
+IUCN,BIRD,Parkesia_noveboracensis_2_aoh.tif,Parkesia noveboracensis,2,Northern Waterthrush
+IUCN,BIRD,Passer_domesticus_1_aoh.tif,Passer domesticus,1,House Sparrow
+IUCN,BIRD,Passerculus_bairdii_2_aoh.tif,Passerculus bairdii,2,Baird's Sparrow
+IUCN,BIRD,Passerculus_sandwichensis_1_aoh.tif,Passerculus sandwichensis,1,Savannah Sparrow
+IUCN,BIRD,Passerculus_sandwichensis_2_aoh.tif,Passerculus sandwichensis,2,Savannah Sparrow
+IUCN,BIRD,Passerella_arborea_3_aoh.tif,Passerella arborea,3,American Tree Sparrow
+IUCN,BIRD,Passerella_iliaca_2_aoh.tif,Passerella iliaca,2,Red Fox-sparrow
+IUCN,BIRD,Passerella_iliaca_3_aoh.tif,Passerella iliaca,3,Red Fox-sparrow
+IUCN,BIRD,Passerella_schistacea_2_aoh.tif,Passerella schistacea,2,Slate-colored Fox-sparrow
+IUCN,BIRD,Passerella_unalaschcensis_1_aoh.tif,Passerella unalaschcensis,1,Sooty Fox-sparrow
+IUCN,BIRD,Passerella_unalaschcensis_2_aoh.tif,Passerella unalaschcensis,2,Sooty Fox-sparrow
+IUCN,BIRD,Passerella_unalaschcensis_3_aoh.tif,Passerella unalaschcensis,3,Sooty Fox-sparrow
+IUCN,BIRD,Passerina_amoena_2_aoh.tif,Passerina amoena,2,Lazuli Bunting
+IUCN,BIRD,Passerina_cyanea_2_aoh.tif,Passerina cyanea,2,Indigo Bunting
+IUCN,BIRD,Patagioenas_fasciata_2_aoh.tif,Patagioenas fasciata,2,Band-tailed Pigeon
+IUCN,BIRD,Pelecanus_erythrorhynchos_2_aoh.tif,Pelecanus erythrorhynchos,2,American White Pelican
+IUCN,BIRD,Perdix_perdix_1_aoh.tif,Perdix perdix,1,Grey Partridge
+IUCN,BIRD,Perisoreus_canadensis_1_aoh.tif,Perisoreus canadensis,1,Gray Jay
+IUCN,BIRD,Petrochelidon_pyrrhonota_2_aoh.tif,Petrochelidon pyrrhonota,2,American Cliff Swallow
+IUCN,BIRD,Phalacrocorax_carbo_2_aoh.tif,Phalacrocorax carbo,2,Great Cormorant
+IUCN,BIRD,Phalacrocorax_carbo_3_aoh.tif,Phalacrocorax carbo,3,Great Cormorant
+IUCN,BIRD,Phalaenoptilus_nuttallii_2_aoh.tif,Phalaenoptilus nuttallii,2,Common Poorwill
+IUCN,BIRD,Phalaropus_fulicarius_2_aoh.tif,Phalaropus fulicarius,2,Grey Phalarope
+IUCN,BIRD,Phalaropus_lobatus_2_aoh.tif,Phalaropus lobatus,2,Red-necked Phalarope
+IUCN,BIRD,Phasianus_colchicus_1_aoh.tif,Phasianus colchicus,1,Common Pheasant
+IUCN,BIRD,Pheucticus_ludovicianus_2_aoh.tif,Pheucticus ludovicianus,2,Rose-breasted Grosbeak
+IUCN,BIRD,Pheucticus_melanocephalus_2_aoh.tif,Pheucticus melanocephalus,2,Black-headed Grosbeak
+IUCN,BIRD,Phoebastria_albatrus_1_aoh.tif,Phoebastria albatrus,1,Short-tailed Albatross
+IUCN,BIRD,Phoebastria_immutabilis_1_aoh.tif,Phoebastria immutabilis,1,Laysan Albatross
+IUCN,BIRD,Phoebastria_nigripes_1_aoh.tif,Phoebastria nigripes,1,Black-footed Albatross
+IUCN,BIRD,Pica_hudsonia_1_aoh.tif,Pica hudsonia,1,Black-billed Magpie
+IUCN,BIRD,Picoides_arcticus_1_aoh.tif,Picoides arcticus,1,Black-backed Woodpecker
+IUCN,BIRD,Picoides_tridactylus_1_aoh.tif,Picoides tridactylus,1,Three-toed Woodpecker
+IUCN,BIRD,Pinicola_enucleator_1_aoh.tif,Pinicola enucleator,1,Pine Grosbeak
+IUCN,BIRD,Pinicola_enucleator_3_aoh.tif,Pinicola enucleator,3,Pine Grosbeak
+IUCN,BIRD,Pipilo_erythrophthalmus_1_aoh.tif,Pipilo erythrophthalmus,1,Eastern Towhee
+IUCN,BIRD,Pipilo_erythrophthalmus_2_aoh.tif,Pipilo erythrophthalmus,2,Eastern Towhee
+IUCN,BIRD,Pipilo_maculatus_1_aoh.tif,Pipilo maculatus,1,Spotted Towhee
+IUCN,BIRD,Pipilo_maculatus_2_aoh.tif,Pipilo maculatus,2,Spotted Towhee
+IUCN,BIRD,Piranga_ludoviciana_2_aoh.tif,Piranga ludoviciana,2,Western Tanager
+IUCN,BIRD,Piranga_olivacea_2_aoh.tif,Piranga olivacea,2,Scarlet Tanager
+IUCN,BIRD,Plectrophenax_nivalis_1_aoh.tif,Plectrophenax nivalis,1,Snow Bunting
+IUCN,BIRD,Plectrophenax_nivalis_2_aoh.tif,Plectrophenax nivalis,2,Snow Bunting
+IUCN,BIRD,Plectrophenax_nivalis_3_aoh.tif,Plectrophenax nivalis,3,Snow Bunting
+IUCN,BIRD,Plegadis_chihi_2_aoh.tif,Plegadis chihi,2,White-faced Ibis
+IUCN,BIRD,Pluvialis_dominica_2_aoh.tif,Pluvialis dominica,2,American Golden Plover
+IUCN,BIRD,Pluvialis_squatarola_2_aoh.tif,Pluvialis squatarola,2,Black-bellied Plover
+IUCN,BIRD,Pluvialis_squatarola_3_aoh.tif,Pluvialis squatarola,3,Black-bellied Plover
+IUCN,BIRD,Podiceps_auritus_2_aoh.tif,Podiceps auritus,2,Horned Grebe
+IUCN,BIRD,Podiceps_auritus_3_aoh.tif,Podiceps auritus,3,Horned Grebe
+IUCN,BIRD,Podiceps_grisegena_2_aoh.tif,Podiceps grisegena,2,Red-necked Grebe
+IUCN,BIRD,Podiceps_grisegena_3_aoh.tif,Podiceps grisegena,3,Red-necked Grebe
+IUCN,BIRD,Podiceps_nigricollis_2_aoh.tif,Podiceps nigricollis,2,Eared Grebe
+IUCN,BIRD,Podiceps_nigricollis_3_aoh.tif,Podiceps nigricollis,3,Eared Grebe
+IUCN,BIRD,Podilymbus_podiceps_1_aoh.tif,Podilymbus podiceps,1,Pied-billed Grebe
+IUCN,BIRD,Podilymbus_podiceps_2_aoh.tif,Podilymbus podiceps,2,Pied-billed Grebe
+IUCN,BIRD,Poecile_atricapillus_1_aoh.tif,Poecile atricapillus,1,Black-capped Chickadee
+IUCN,BIRD,Poecile_cinctus_1_aoh.tif,Poecile cinctus,1,Siberian Tit
+IUCN,BIRD,Poecile_gambeli_1_aoh.tif,Poecile gambeli,1,Mountain Chickadee
+IUCN,BIRD,Poecile_hudsonicus_1_aoh.tif,Poecile hudsonicus,1,Boreal Chickadee
+IUCN,BIRD,Poecile_rufescens_1_aoh.tif,Poecile rufescens,1,Chestnut-backed Chickadee
+IUCN,BIRD,Polioptila_caerulea_2_aoh.tif,Polioptila caerulea,2,Blue-grey Gnatcatcher
+IUCN,BIRD,Pooecetes_gramineus_2_aoh.tif,Pooecetes gramineus,2,Vesper Sparrow
+IUCN,BIRD,Porzana_carolina_2_aoh.tif,Porzana carolina,2,Sora
+IUCN,BIRD,Progne_subis_2_aoh.tif,Progne subis,2,Purple Martin
+IUCN,BIRD,Protonotaria_citrea_2_aoh.tif,Protonotaria citrea,2,Prothonotary Warbler
+IUCN,BIRD,Psaltriparus_minimus_1_aoh.tif,Psaltriparus minimus,1,American Bushtit
+IUCN,BIRD,Psiloscops_flammeolus_2_aoh.tif,Psiloscops flammeolus,2,Flammulated Owl
+IUCN,BIRD,Pterodroma_cahow_1_aoh.tif,Pterodroma cahow,1,Bermuda Petrel
+IUCN,BIRD,Ptychoramphus_aleuticus_1_aoh.tif,Ptychoramphus aleuticus,1,Cassin's Auklet
+IUCN,BIRD,Ptychoramphus_aleuticus_2_aoh.tif,Ptychoramphus aleuticus,2,Cassin's Auklet
+IUCN,BIRD,Ptychoramphus_aleuticus_3_aoh.tif,Ptychoramphus aleuticus,3,Cassin's Auklet
+IUCN,BIRD,Puffinus_lherminieri_1_aoh.tif,Puffinus lherminieri,1,Audubon's Shearwater
+IUCN,BIRD,Puffinus_puffinus_1_aoh.tif,Puffinus puffinus,1,Manx Shearwater
+IUCN,BIRD,Quiscalus_quiscula_1_aoh.tif,Quiscalus quiscula,1,Common Grackle
+IUCN,BIRD,Quiscalus_quiscula_2_aoh.tif,Quiscalus quiscula,2,Common Grackle
+IUCN,BIRD,Rallus_elegans_2_aoh.tif,Rallus elegans,2,King Rail
+IUCN,BIRD,Rallus_limicola_1_aoh.tif,Rallus limicola,1,Virginia Rail
+IUCN,BIRD,Rallus_limicola_2_aoh.tif,Rallus limicola,2,Virginia Rail
+IUCN,BIRD,Recurvirostra_americana_2_aoh.tif,Recurvirostra americana,2,American Avocet
+IUCN,BIRD,Regulus_calendula_1_aoh.tif,Regulus calendula,1,Ruby-crowned Kinglet
+IUCN,BIRD,Regulus_calendula_2_aoh.tif,Regulus calendula,2,Ruby-crowned Kinglet
+IUCN,BIRD,Regulus_satrapa_1_aoh.tif,Regulus satrapa,1,Golden-crowned Kinglet
+IUCN,BIRD,Regulus_satrapa_2_aoh.tif,Regulus satrapa,2,Golden-crowned Kinglet
+IUCN,BIRD,Regulus_satrapa_3_aoh.tif,Regulus satrapa,3,Golden-crowned Kinglet
+IUCN,BIRD,Rhodostethia_rosea_2_aoh.tif,Rhodostethia rosea,2,Ross's Gull
+IUCN,BIRD,Rhynchophanes_mccownii_2_aoh.tif,Rhynchophanes mccownii,2,Thick-billed Longspur
+IUCN,BIRD,Riparia_riparia_2_aoh.tif,Riparia riparia,2,Collared Sand Martin
+IUCN,BIRD,Rissa_brevirostris_3_aoh.tif,Rissa brevirostris,3,Red-legged Kittiwake
+IUCN,BIRD,Rissa_tridactyla_1_aoh.tif,Rissa tridactyla,1,Black-legged Kittiwake
+IUCN,BIRD,Rissa_tridactyla_2_aoh.tif,Rissa tridactyla,2,Black-legged Kittiwake
+IUCN,BIRD,Rissa_tridactyla_3_aoh.tif,Rissa tridactyla,3,Black-legged Kittiwake
+IUCN,BIRD,Salpinctes_obsoletus_2_aoh.tif,Salpinctes obsoletus,2,Rock Wren
+IUCN,BIRD,Sayornis_phoebe_2_aoh.tif,Sayornis phoebe,2,Eastern Phoebe
+IUCN,BIRD,Sayornis_saya_2_aoh.tif,Sayornis saya,2,Say's Phoebe
+IUCN,BIRD,Scolopax_minor_2_aoh.tif,Scolopax minor,2,American Woodcock
+IUCN,BIRD,Seiurus_aurocapilla_2_aoh.tif,Seiurus aurocapilla,2,Ovenbird
+IUCN,BIRD,Selasphorus_calliope_2_aoh.tif,Selasphorus calliope,2,Calliope Hummingbird
+IUCN,BIRD,Selasphorus_rufus_2_aoh.tif,Selasphorus rufus,2,Rufous Hummingbird
+IUCN,BIRD,Setophaga_americana_2_aoh.tif,Setophaga americana,2,Northern Parula
+IUCN,BIRD,Setophaga_auduboni_1_aoh.tif,Setophaga auduboni,1,Audubon's Warbler
+IUCN,BIRD,Setophaga_auduboni_2_aoh.tif,Setophaga auduboni,2,Audubon's Warbler
+IUCN,BIRD,Setophaga_caerulescens_2_aoh.tif,Setophaga caerulescens,2,Black-throated Blue Warbler
+IUCN,BIRD,Setophaga_castanea_2_aoh.tif,Setophaga castanea,2,Bay-breasted Warbler
+IUCN,BIRD,Setophaga_cerulea_2_aoh.tif,Setophaga cerulea,2,Cerulean Warbler
+IUCN,BIRD,Setophaga_citrina_2_aoh.tif,Setophaga citrina,2,Hooded Warbler
+IUCN,BIRD,Setophaga_coronata_2_aoh.tif,Setophaga coronata,2,Myrtle Warbler
+IUCN,BIRD,Setophaga_coronata_3_aoh.tif,Setophaga coronata,3,Myrtle Warbler
+IUCN,BIRD,Setophaga_discolor_2_aoh.tif,Setophaga discolor,2,Prairie Warbler
+IUCN,BIRD,Setophaga_fusca_2_aoh.tif,Setophaga fusca,2,Blackburnian Warbler
+IUCN,BIRD,Setophaga_magnolia_2_aoh.tif,Setophaga magnolia,2,Magnolia Warbler
+IUCN,BIRD,Setophaga_nigrescens_2_aoh.tif,Setophaga nigrescens,2,Black-throated Gray Warbler
+IUCN,BIRD,Setophaga_palmarum_2_aoh.tif,Setophaga palmarum,2,Palm Warbler
+IUCN,BIRD,Setophaga_pensylvanica_2_aoh.tif,Setophaga pensylvanica,2,Chestnut-sided Warbler
+IUCN,BIRD,Setophaga_petechia_2_aoh.tif,Setophaga petechia,2,Golden Warbler
+IUCN,BIRD,Setophaga_pinus_2_aoh.tif,Setophaga pinus,2,Pine Warbler
+IUCN,BIRD,Setophaga_ruticilla_2_aoh.tif,Setophaga ruticilla,2,American Redstart
+IUCN,BIRD,Setophaga_striata_2_aoh.tif,Setophaga striata,2,Blackpoll Warbler
+IUCN,BIRD,Setophaga_tigrina_2_aoh.tif,Setophaga tigrina,2,Cape May Warbler
+IUCN,BIRD,Setophaga_townsendi_1_aoh.tif,Setophaga townsendi,1,Townsend's Warbler
+IUCN,BIRD,Setophaga_townsendi_2_aoh.tif,Setophaga townsendi,2,Townsend's Warbler
+IUCN,BIRD,Sialia_currucoides_2_aoh.tif,Sialia currucoides,2,Mountain Bluebird
+IUCN,BIRD,Sialia_mexicana_1_aoh.tif,Sialia mexicana,1,Western Bluebird
+IUCN,BIRD,Sialia_mexicana_2_aoh.tif,Sialia mexicana,2,Western Bluebird
+IUCN,BIRD,Sialia_sialis_2_aoh.tif,Sialia sialis,2,Eastern Bluebird
+IUCN,BIRD,Sitta_canadensis_1_aoh.tif,Sitta canadensis,1,Red-breasted Nuthatch
+IUCN,BIRD,Sitta_canadensis_3_aoh.tif,Sitta canadensis,3,Red-breasted Nuthatch
+IUCN,BIRD,Sitta_carolinensis_1_aoh.tif,Sitta carolinensis,1,White-breasted Nuthatch
+IUCN,BIRD,Sitta_pygmaea_1_aoh.tif,Sitta pygmaea,1,Pygmy Nuthatch
+IUCN,BIRD,Somateria_mollissima_2_aoh.tif,Somateria mollissima,2,Common Eider
+IUCN,BIRD,Somateria_mollissima_3_aoh.tif,Somateria mollissima,3,Common Eider
+IUCN,BIRD,Somateria_spectabilis_2_aoh.tif,Somateria spectabilis,2,King Eider
+IUCN,BIRD,Somateria_spectabilis_3_aoh.tif,Somateria spectabilis,3,King Eider
+IUCN,BIRD,Spatula_clypeata_1_aoh.tif,Spatula clypeata,1,Northern Shoveler
+IUCN,BIRD,Spatula_clypeata_2_aoh.tif,Spatula clypeata,2,Northern Shoveler
+IUCN,BIRD,Spatula_cyanoptera_2_aoh.tif,Spatula cyanoptera,2,Cinnamon Teal
+IUCN,BIRD,Spatula_discors_2_aoh.tif,Spatula discors,2,Blue-winged Teal
+IUCN,BIRD,Sphyrapicus_nuchalis_2_aoh.tif,Sphyrapicus nuchalis,2,Red-naped Sapsucker
+IUCN,BIRD,Sphyrapicus_ruber_1_aoh.tif,Sphyrapicus ruber,1,Red-breasted Sapsucker
+IUCN,BIRD,Sphyrapicus_ruber_2_aoh.tif,Sphyrapicus ruber,2,Red-breasted Sapsucker
+IUCN,BIRD,Sphyrapicus_thyroideus_2_aoh.tif,Sphyrapicus thyroideus,2,Williamson's Sapsucker
+IUCN,BIRD,Sphyrapicus_varius_2_aoh.tif,Sphyrapicus varius,2,Yellow-bellied Sapsucker
+IUCN,BIRD,Spinus_pinus_1_aoh.tif,Spinus pinus,1,Pine Siskin
+IUCN,BIRD,Spinus_pinus_2_aoh.tif,Spinus pinus,2,Pine Siskin
+IUCN,BIRD,Spinus_pinus_3_aoh.tif,Spinus pinus,3,Pine Siskin
+IUCN,BIRD,Spinus_tristis_1_aoh.tif,Spinus tristis,1,American Goldfinch
+IUCN,BIRD,Spinus_tristis_2_aoh.tif,Spinus tristis,2,American Goldfinch
+IUCN,BIRD,Spiza_americana_2_aoh.tif,Spiza americana,2,Dickcissel
+IUCN,BIRD,Spizella_breweri_2_aoh.tif,Spizella breweri,2,Brewer's Sparrow
+IUCN,BIRD,Spizella_pallida_2_aoh.tif,Spizella pallida,2,Clay-colored Sparrow
+IUCN,BIRD,Spizella_passerina_2_aoh.tif,Spizella passerina,2,Chipping Sparrow
+IUCN,BIRD,Spizella_pusilla_1_aoh.tif,Spizella pusilla,1,Field Sparrow
+IUCN,BIRD,Spizella_pusilla_2_aoh.tif,Spizella pusilla,2,Field Sparrow
+IUCN,BIRD,Steganopus_tricolor_2_aoh.tif,Steganopus tricolor,2,Wilson's Phalarope
+IUCN,BIRD,Stelgidopteryx_serripennis_2_aoh.tif,Stelgidopteryx serripennis,2,Northern Rough-winged Swallow
+IUCN,BIRD,Stercorarius_longicaudus_2_aoh.tif,Stercorarius longicaudus,2,Long-tailed Jaeger
+IUCN,BIRD,Stercorarius_parasiticus_2_aoh.tif,Stercorarius parasiticus,2,Arctic Skua
+IUCN,BIRD,Stercorarius_pomarinus_2_aoh.tif,Stercorarius pomarinus,2,Pomarine Skua
+IUCN,BIRD,Sterna_dougallii_2_aoh.tif,Sterna dougallii,2,Roseate Tern
+IUCN,BIRD,Sterna_forsteri_2_aoh.tif,Sterna forsteri,2,Forster's Tern
+IUCN,BIRD,Sterna_hirundo_2_aoh.tif,Sterna hirundo,2,Common Tern
+IUCN,BIRD,Sterna_paradisaea_2_aoh.tif,Sterna paradisaea,2,Arctic Tern
+IUCN,BIRD,Strix_nebulosa_1_aoh.tif,Strix nebulosa,1,Great Gray Owl
+IUCN,BIRD,Strix_occidentalis_1_aoh.tif,Strix occidentalis,1,Spotted Owl
+IUCN,BIRD,Strix_varia_1_aoh.tif,Strix varia,1,Barred Owl
+IUCN,BIRD,Sturnella_magna_2_aoh.tif,Sturnella magna,2,Eastern Meadowlark
+IUCN,BIRD,Sturnella_neglecta_1_aoh.tif,Sturnella neglecta,1,Western Meadowlark
+IUCN,BIRD,Sturnella_neglecta_2_aoh.tif,Sturnella neglecta,2,Western Meadowlark
+IUCN,BIRD,Sturnus_vulgaris_1_aoh.tif,Sturnus vulgaris,1,Starling
+IUCN,BIRD,Sturnus_vulgaris_2_aoh.tif,Sturnus vulgaris,2,Starling
+IUCN,BIRD,Surnia_ulula_1_aoh.tif,Surnia ulula,1,Northern Hawk-Owl
+IUCN,BIRD,Synthliboramphus_antiquus_1_aoh.tif,Synthliboramphus antiquus,1,Ancient Murrelet
+IUCN,BIRD,Synthliboramphus_antiquus_3_aoh.tif,Synthliboramphus antiquus,3,Ancient Murrelet
+IUCN,BIRD,Synthliboramphus_hypoleucus_3_aoh.tif,Synthliboramphus hypoleucus,3,Guadalupe Murrelet
+IUCN,BIRD,Synthliboramphus_scrippsi_3_aoh.tif,Synthliboramphus scrippsi,3,Scripps's Murrelet
+IUCN,BIRD,Tachycineta_bicolor_2_aoh.tif,Tachycineta bicolor,2,Tree Swallow
+IUCN,BIRD,Tachycineta_thalassina_2_aoh.tif,Tachycineta thalassina,2,Violet-green Swallow
+IUCN,BIRD,Thryomanes_bewickii_1_aoh.tif,Thryomanes bewickii,1,Bewick's Wren
+IUCN,BIRD,Thryothorus_ludovicianus_1_aoh.tif,Thryothorus ludovicianus,1,Carolina Wren
+IUCN,BIRD,Toxostoma_rufum_2_aoh.tif,Toxostoma rufum,2,Brown Thrasher
+IUCN,BIRD,Tringa_flavipes_2_aoh.tif,Tringa flavipes,2,Lesser Yellowlegs
+IUCN,BIRD,Tringa_incana_2_aoh.tif,Tringa incana,2,Wandering (Alaskan) Tattler
+IUCN,BIRD,Tringa_melanoleuca_2_aoh.tif,Tringa melanoleuca,2,Greater Yellowlegs
+IUCN,BIRD,Tringa_semipalmata_2_aoh.tif,Tringa semipalmata,2,Willet
+IUCN,BIRD,Tringa_solitaria_2_aoh.tif,Tringa solitaria,2,Solitary Sandpiper
+IUCN,BIRD,Troglodytes_aedon_2_aoh.tif,Troglodytes aedon,2,House Wren
+IUCN,BIRD,Troglodytes_hiemalis_2_aoh.tif,Troglodytes hiemalis,2,Winter Wren
+IUCN,BIRD,Troglodytes_hiemalis_3_aoh.tif,Troglodytes hiemalis,3,Winter Wren
+IUCN,BIRD,Troglodytes_pacificus_1_aoh.tif,Troglodytes pacificus,1,Pacific Wren
+IUCN,BIRD,Troglodytes_pacificus_2_aoh.tif,Troglodytes pacificus,2,Pacific Wren
+IUCN,BIRD,Turdus_migratorius_1_aoh.tif,Turdus migratorius,1,American Robin
+IUCN,BIRD,Turdus_migratorius_2_aoh.tif,Turdus migratorius,2,American Robin
+IUCN,BIRD,Tympanuchus_phasianellus_1_aoh.tif,Tympanuchus phasianellus,1,Sharp-tailed Grouse
+IUCN,BIRD,Tyrannus_tyrannus_2_aoh.tif,Tyrannus tyrannus,2,Eastern Kingbird
+IUCN,BIRD,Tyrannus_verticalis_2_aoh.tif,Tyrannus verticalis,2,Western Kingbird
+IUCN,BIRD,Tyto_alba_1_aoh.tif,Tyto alba,1,Common Barn-owl
+IUCN,BIRD,Uria_aalge_1_aoh.tif,Uria aalge,1,Common Murre
+IUCN,BIRD,Uria_aalge_2_aoh.tif,Uria aalge,2,Common Murre
+IUCN,BIRD,Uria_aalge_3_aoh.tif,Uria aalge,3,Common Murre
+IUCN,BIRD,Uria_lomvia_1_aoh.tif,Uria lomvia,1,Brünnich's Guillemot
+IUCN,BIRD,Uria_lomvia_2_aoh.tif,Uria lomvia,2,Brünnich's Guillemot
+IUCN,BIRD,Uria_lomvia_3_aoh.tif,Uria lomvia,3,Brünnich's Guillemot
+IUCN,BIRD,Urile_pelagicus_1_aoh.tif,Urile pelagicus,1,Kenyon's Shag
+IUCN,BIRD,Urile_pelagicus_3_aoh.tif,Urile pelagicus,3,Kenyon's Shag
+IUCN,BIRD,Urile_penicillatus_1_aoh.tif,Urile penicillatus,1,Brandt's Cormorant
+IUCN,BIRD,Urile_penicillatus_3_aoh.tif,Urile penicillatus,3,Brandt's Cormorant
+IUCN,BIRD,Vermivora_chrysoptera_2_aoh.tif,Vermivora chrysoptera,2,Golden-winged Warbler
+IUCN,BIRD,Vermivora_cyanoptera_2_aoh.tif,Vermivora cyanoptera,2,Blue-winged Warbler
+IUCN,BIRD,Vireo_cassinii_2_aoh.tif,Vireo cassinii,2,Cassin's Vireo
+IUCN,BIRD,Vireo_flavifrons_2_aoh.tif,Vireo flavifrons,2,Yellow-throated Vireo
+IUCN,BIRD,Vireo_gilvus_2_aoh.tif,Vireo gilvus,2,Warbling Vireo
+IUCN,BIRD,Vireo_griseus_2_aoh.tif,Vireo griseus,2,White-eyed Vireo
+IUCN,BIRD,Vireo_huttoni_1_aoh.tif,Vireo huttoni,1,Hutton's Vireo
+IUCN,BIRD,Vireo_olivaceus_2_aoh.tif,Vireo olivaceus,2,Red-eyed Vireo
+IUCN,BIRD,Vireo_philadelphicus_2_aoh.tif,Vireo philadelphicus,2,Philadelphia Vireo
+IUCN,BIRD,Vireo_solitarius_2_aoh.tif,Vireo solitarius,2,Blue-headed Vireo
+IUCN,BIRD,Xanthocephalus_xanthocephalus_2_aoh.tif,Xanthocephalus xanthocephalus,2,Yellow-headed Blackbird
+IUCN,BIRD,Zenaida_macroura_1_aoh.tif,Zenaida macroura,1,American Mourning Dove
+IUCN,BIRD,Zenaida_macroura_2_aoh.tif,Zenaida macroura,2,American Mourning Dove
+IUCN,BIRD,Zonotrichia_albicollis_1_aoh.tif,Zonotrichia albicollis,1,White-throated Sparrow
+IUCN,BIRD,Zonotrichia_albicollis_2_aoh.tif,Zonotrichia albicollis,2,White-throated Sparrow
+IUCN,BIRD,Zonotrichia_albicollis_3_aoh.tif,Zonotrichia albicollis,3,White-throated Sparrow
+IUCN,BIRD,Zonotrichia_atricapilla_2_aoh.tif,Zonotrichia atricapilla,2,Golden-crowned Sparrow
+IUCN,BIRD,Zonotrichia_atricapilla_3_aoh.tif,Zonotrichia atricapilla,3,Golden-crowned Sparrow
+IUCN,BIRD,Zonotrichia_leucophrys_1_aoh.tif,Zonotrichia leucophrys,1,White-crowned Sparrow
+IUCN,BIRD,Zonotrichia_leucophrys_2_aoh.tif,Zonotrichia leucophrys,2,White-crowned Sparrow
+IUCN,BIRD,Zonotrichia_leucophrys_3_aoh.tif,Zonotrichia leucophrys,3,White-crowned Sparrow
+IUCN,BIRD,Zonotrichia_querula_2_aoh.tif,Zonotrichia querula,2,Harris's Sparrow
+IUCN,MAMM,Alces_alces_aoh.tif,Alces alces,NA,Moose
+IUCN,MAMM,Antilocapra_americana_aoh.tif,Antilocapra americana,NA,Pronghorn
+IUCN,MAMM,Antrozous_pallidus_aoh.tif,Antrozous pallidus,NA,Pallid Bat
+IUCN,MAMM,Aplodontia_rufa_aoh.tif,Aplodontia rufa,NA,Mountain Beaver
+IUCN,MAMM,Bison_bison_aoh.tif,Bison bison,NA,American Bison
+IUCN,MAMM,Blarina_brevicauda_aoh.tif,Blarina brevicauda,NA,Northern Short-tailed Shrew
+IUCN,MAMM,Callospermophilus_lateralis_aoh.tif,Callospermophilus lateralis,NA,Golden Mantled Ground Squirrel
+IUCN,MAMM,Callospermophilus_saturatus_aoh.tif,Callospermophilus saturatus,NA,Cascade Golden-mantled Ground Squirrel
+IUCN,MAMM,Canis_latrans_aoh.tif,Canis latrans,NA,Coyote
+IUCN,MAMM,Canis_lupus_aoh.tif,Canis lupus,NA,Wolf
+IUCN,MAMM,Castor_canadensis_aoh.tif,Castor canadensis,NA,American Beaver
+IUCN,MAMM,Cervus_canadensis_aoh.tif,Cervus canadensis,NA,Wapiti
+IUCN,MAMM,Condylura_cristata_aoh.tif,Condylura cristata,NA,Star-nosed Mole
+IUCN,MAMM,Corynorhinus_townsendii_aoh.tif,Corynorhinus townsendii,NA,Townsend's Big-eared Bat
+IUCN,MAMM,Cryptotis_parva_aoh.tif,Cryptotis parva,NA,Least Shrew
+IUCN,MAMM,Cynomys_ludovicianus_aoh.tif,Cynomys ludovicianus,NA,Arizona Black-tailed Prairie Dog
+IUCN,MAMM,Dicrostonyx_groenlandicus_aoh.tif,Dicrostonyx groenlandicus,NA,Neartic Collared Lemming
+IUCN,MAMM,Dicrostonyx_hudsonius_aoh.tif,Dicrostonyx hudsonius,NA,Ungava Collared Lemming
+IUCN,MAMM,Dicrostonyx_nunatakensis_aoh.tif,Dicrostonyx nunatakensis,NA,Ogilvie Mountains Collared Lemming
+IUCN,MAMM,Dicrostonyx_richardsoni_aoh.tif,Dicrostonyx richardsoni,NA,Richardson's Collared Lemming
+IUCN,MAMM,Didelphis_virginiana_aoh.tif,Didelphis virginiana,NA,Virginia Opossum
+IUCN,MAMM,Dipodomys_ordii_aoh.tif,Dipodomys ordii,NA,Ord's Kangaroo Rat
+IUCN,MAMM,Enhydra_lutris_aoh.tif,Enhydra lutris,NA,Sea Otter
+IUCN,MAMM,Eptesicus_fuscus_aoh.tif,Eptesicus fuscus,NA,Big Brown Bat
+IUCN,MAMM,Erethizon_dorsatum_aoh.tif,Erethizon dorsatum,NA,North American Porcupine
+IUCN,MAMM,Euderma_maculatum_aoh.tif,Euderma maculatum,NA,Spotted Bat
+IUCN,MAMM,Geomys_bursarius_aoh.tif,Geomys bursarius,NA,Plains Pocket Gopher
+IUCN,MAMM,Glaucomys_sabrinus_aoh.tif,Glaucomys sabrinus,NA,Northern Flying Squirrel
+IUCN,MAMM,Glaucomys_volans_aoh.tif,Glaucomys volans,NA,Southern Flying Squirrel
+IUCN,MAMM,Gulo_gulo_aoh.tif,Gulo gulo,NA,Wolverine
+IUCN,MAMM,Ictidomys_tridecemlineatus_aoh.tif,Ictidomys tridecemlineatus,NA,Big Horn Thirteen-lined Ground Squirrel
+IUCN,MAMM,Lasionycteris_noctivagans_aoh.tif,Lasionycteris noctivagans,NA,Silver-haired Bat
+IUCN,MAMM,Lasiurus_blossevillii_aoh.tif,Lasiurus blossevillii,NA,Southern Red Bat
+IUCN,MAMM,Lasiurus_borealis_aoh.tif,Lasiurus borealis,NA,Red Bat
+IUCN,MAMM,Lasiurus_cinereus_aoh.tif,Lasiurus cinereus,NA,Hawaiian Hoary Bat
+IUCN,MAMM,Lemmiscus_curtatus_aoh.tif,Lemmiscus curtatus,NA,Sagebrush Vole
+IUCN,MAMM,Lemmus_trimucronatus_aoh.tif,Lemmus trimucronatus,NA,Brown Lemming
+IUCN,MAMM,Lepus_americanus_aoh.tif,Lepus americanus,NA,Snowshoe Hare
+IUCN,MAMM,Lepus_arcticus_aoh.tif,Lepus arcticus,NA,Arctic Hare
+IUCN,MAMM,Lepus_europaeus_aoh.tif,Lepus europaeus,NA,European Hare
+IUCN,MAMM,Lepus_townsendii_aoh.tif,Lepus townsendii,NA,White-tailed Jackrabbit
+IUCN,MAMM,Lontra_canadensis_aoh.tif,Lontra canadensis,NA,Northern River Otter
+IUCN,MAMM,Lynx_canadensis_aoh.tif,Lynx canadensis,NA,Canada Lynx
+IUCN,MAMM,Lynx_rufus_aoh.tif,Lynx rufus,NA,Bobcat
+IUCN,MAMM,Marmota_broweri_aoh.tif,Marmota broweri,NA,Alaska Marmot
+IUCN,MAMM,Marmota_caligata_aoh.tif,Marmota caligata,NA,Montague Island Hoary Marmot
+IUCN,MAMM,Marmota_flaviventris_aoh.tif,Marmota flaviventris,NA,Yellow-bellied Marmot
+IUCN,MAMM,Marmota_monax_aoh.tif,Marmota monax,NA,Woodchuck
+IUCN,MAMM,Marmota_vancouverensis_aoh.tif,Marmota vancouverensis,NA,Vancouver Island Marmot
+IUCN,MAMM,Martes_americana_aoh.tif,Martes americana,NA,American Marten
+IUCN,MAMM,Martes_pennanti_aoh.tif,Martes pennanti,NA,Fisher
+IUCN,MAMM,Mephitis_mephitis_aoh.tif,Mephitis mephitis,NA,Striped Skunk
+IUCN,MAMM,Microtus_chrotorrhinus_aoh.tif,Microtus chrotorrhinus,NA,Rock Vole
+IUCN,MAMM,Microtus_longicaudus_aoh.tif,Microtus longicaudus,NA,Long-tailed Vole
+IUCN,MAMM,Microtus_miurus_aoh.tif,Microtus miurus,NA,Singing Vole
+IUCN,MAMM,Microtus_montanus_aoh.tif,Microtus montanus,NA,Pahranagat Valley Montane Vole
+IUCN,MAMM,Microtus_ochrogaster_aoh.tif,Microtus ochrogaster,NA,Prairie Vole
+IUCN,MAMM,Microtus_oeconomus_aoh.tif,Microtus oeconomus,NA,Tundra Vole
+IUCN,MAMM,Microtus_oregoni_aoh.tif,Microtus oregoni,NA,Creeping Vole
+IUCN,MAMM,Microtus_pennsylvanicus_aoh.tif,Microtus pennsylvanicus,NA,Meadow Vole
+IUCN,MAMM,Microtus_pinetorum_aoh.tif,Microtus pinetorum,NA,Woodland Vole
+IUCN,MAMM,Microtus_richardsoni_aoh.tif,Microtus richardsoni,NA,Water Vole
+IUCN,MAMM,Microtus_townsendii_aoh.tif,Microtus townsendii,NA,Townsend's Vole
+IUCN,MAMM,Microtus_xanthognathus_aoh.tif,Microtus xanthognathus,NA,Taiga Vole
+IUCN,MAMM,Mus_musculus_aoh.tif,Mus musculus,NA,House Mouse
+IUCN,MAMM,Mustela_erminea_aoh.tif,Mustela erminea,NA,Short-tailed Weasel
+IUCN,MAMM,Mustela_frenata_aoh.tif,Mustela frenata,NA,Long-tailed Weasel
+IUCN,MAMM,Mustela_nivalis_aoh.tif,Mustela nivalis,NA,Least Weasel
+IUCN,MAMM,Myodes_gapperi_aoh.tif,Myodes gapperi,NA,Revillagigedo Island Red-backed Vole
+IUCN,MAMM,Myodes_rutilus_aoh.tif,Myodes rutilus,NA,Red Vole
+IUCN,MAMM,Myotis_californicus_aoh.tif,Myotis californicus,NA,Californian Myotis
+IUCN,MAMM,Myotis_ciliolabrum_aoh.tif,Myotis ciliolabrum,NA,Western Small-footed Myotis
+IUCN,MAMM,Myotis_evotis_aoh.tif,Myotis evotis,NA,Long-eared Myotis
+IUCN,MAMM,Myotis_keenii_aoh.tif,Myotis keenii,NA,Keen's Myotis
+IUCN,MAMM,Myotis_leibii_aoh.tif,Myotis leibii,NA,Eastern Small-footed Myotis
+IUCN,MAMM,Myotis_lucifugus_aoh.tif,Myotis lucifugus,NA,Little Brown Myotis
+IUCN,MAMM,Myotis_melanorhinus_aoh.tif,Myotis melanorhinus,NA,Dark-nosed Small-footed Myotis
+IUCN,MAMM,Myotis_septentrionalis_aoh.tif,Myotis septentrionalis,NA,Northern Myotis
+IUCN,MAMM,Myotis_sodalis_aoh.tif,Myotis sodalis,NA,Indiana Myotis
+IUCN,MAMM,Myotis_thysanodes_aoh.tif,Myotis thysanodes,NA,Fringed Myotis
+IUCN,MAMM,Myotis_volans_aoh.tif,Myotis volans,NA,Long-legged Myotis
+IUCN,MAMM,Myotis_yumanensis_aoh.tif,Myotis yumanensis,NA,Yuma Myotis
+IUCN,MAMM,Napaeozapus_insignis_aoh.tif,Napaeozapus insignis,NA,Woodland Jumping Mouse
+IUCN,MAMM,Neotamias_amoenus_aoh.tif,Neotamias amoenus,NA,Yellow-pine Chipmunk
+IUCN,MAMM,Neotamias_minimus_aoh.tif,Neotamias minimus,NA,Selkirk Least Chipmunk
+IUCN,MAMM,Neotamias_ruficaudus_aoh.tif,Neotamias ruficaudus,NA,Red-tailed Chipmunk
+IUCN,MAMM,Neotamias_townsendii_aoh.tif,Neotamias townsendii,NA,Townsend's Chipmunk
+IUCN,MAMM,Neotoma_cinerea_aoh.tif,Neotoma cinerea,NA,Bushy-tailed Woodrat
+IUCN,MAMM,Neovison_vison_aoh.tif,Neovison vison,NA,American Mink
+IUCN,MAMM,Neurotrichus_gibbsii_aoh.tif,Neurotrichus gibbsii,NA,Shrew-mole
+IUCN,MAMM,Ochotona_collaris_aoh.tif,Ochotona collaris,NA,Collared Pika
+IUCN,MAMM,Ochotona_princeps_aoh.tif,Ochotona princeps,NA,American Pika
+IUCN,MAMM,Odocoileus_hemionus_aoh.tif,Odocoileus hemionus,NA,Mule Deer
+IUCN,MAMM,Odocoileus_virginianus_aoh.tif,Odocoileus virginianus,NA,White-tailed Deer
+IUCN,MAMM,Ondatra_zibethicus_aoh.tif,Ondatra zibethicus,NA,Muskrat
+IUCN,MAMM,Onychomys_leucogaster_aoh.tif,Onychomys leucogaster,NA,Northern Grasshopper Mouse
+IUCN,MAMM,Oreamnos_americanus_aoh.tif,Oreamnos americanus,NA,Mountain Goat
+IUCN,MAMM,Ovibos_moschatus_aoh.tif,Ovibos moschatus,NA,Muskox
+IUCN,MAMM,Ovis_canadensis_aoh.tif,Ovis canadensis,NA,Bighorn Sheep
+IUCN,MAMM,Ovis_dalli_aoh.tif,Ovis dalli,NA,Dall's Sheep
+IUCN,MAMM,Parascalops_breweri_aoh.tif,Parascalops breweri,NA,Hairy-tailed Mole
+IUCN,MAMM,Perognathus_fasciatus_aoh.tif,Perognathus fasciatus,NA,Olive-backed Pocket Mouse
+IUCN,MAMM,Perognathus_parvus_aoh.tif,Perognathus parvus,NA,Great Basin Pocket Mouse
+IUCN,MAMM,Peromyscus_keeni_aoh.tif,Peromyscus keeni,NA,Keen's Mouse
+IUCN,MAMM,Peromyscus_leucopus_aoh.tif,Peromyscus leucopus,NA,White-footed Mouse
+IUCN,MAMM,Peromyscus_maniculatus_aoh.tif,Peromyscus maniculatus,NA,North American Deermouse
+IUCN,MAMM,Phenacomys_intermedius_aoh.tif,Phenacomys intermedius,NA,Western Heather Vole
+IUCN,MAMM,Phenacomys_ungava_aoh.tif,Phenacomys ungava,NA,Eastern Heather Vole
+IUCN,MAMM,Pipistrellus_subflavus_aoh.tif,Pipistrellus subflavus,NA,Tricolor Bat
+IUCN,MAMM,Poliocitellus_franklinii_aoh.tif,Poliocitellus franklinii,NA,Franklin's Ground Squirrel
+IUCN,MAMM,Procyon_lotor_aoh.tif,Procyon lotor,NA,Northern Raccoon
+IUCN,MAMM,Puma_concolor_aoh.tif,Puma concolor,NA,Puma
+IUCN,MAMM,Rangifer_tarandus_aoh.tif,Rangifer tarandus,NA,Reindeer
+IUCN,MAMM,Reithrodontomys_megalotis_aoh.tif,Reithrodontomys megalotis,NA,Southern Marsh Harvest Mouse
+IUCN,MAMM,Scalopus_aquaticus_aoh.tif,Scalopus aquaticus,NA,Eastern Mole
+IUCN,MAMM,Scapanus_orarius_aoh.tif,Scapanus orarius,NA,Coast Mole
+IUCN,MAMM,Scapanus_townsendii_aoh.tif,Scapanus townsendii,NA,Townsend's Mole
+IUCN,MAMM,Sciurus_carolinensis_aoh.tif,Sciurus carolinensis,NA,Gray Squirrel
+IUCN,MAMM,Sciurus_niger_aoh.tif,Sciurus niger,NA,Bryant's Fox Squirrel
+IUCN,MAMM,Sorex_arcticus_aoh.tif,Sorex arcticus,NA,Arctic Shrew
+IUCN,MAMM,Sorex_bendirii_aoh.tif,Sorex bendirii,NA,Marsh Shrew
+IUCN,MAMM,Sorex_cinereus_aoh.tif,Sorex cinereus,NA,Cinereus Shrew
+IUCN,MAMM,Sorex_dispar_aoh.tif,Sorex dispar,NA,Long-tailed Shrew
+IUCN,MAMM,Sorex_fumeus_aoh.tif,Sorex fumeus,NA,Smoky Shrew
+IUCN,MAMM,Sorex_haydeni_aoh.tif,Sorex haydeni,NA,Hayden's Shrew
+IUCN,MAMM,Sorex_hoyi_aoh.tif,Sorex hoyi,NA,Pygmy Shrew
+IUCN,MAMM,Sorex_maritimensis_aoh.tif,Sorex maritimensis,NA,Maritime Shrew
+IUCN,MAMM,Sorex_merriami_aoh.tif,Sorex merriami,NA,Merriam's Shrew
+IUCN,MAMM,Sorex_monticolus_aoh.tif,Sorex monticolus,NA,Montane Shrew
+IUCN,MAMM,Sorex_palustris_aoh.tif,Sorex palustris,NA,American Water Shrew
+IUCN,MAMM,Sorex_preblei_aoh.tif,Sorex preblei,NA,Preble's Shrew
+IUCN,MAMM,Sorex_rohweri_aoh.tif,Sorex rohweri,NA,Olympic Shrew
+IUCN,MAMM,Sorex_trowbridgii_aoh.tif,Sorex trowbridgii,NA,Trowbridge's Shrew
+IUCN,MAMM,Sorex_tundrensis_aoh.tif,Sorex tundrensis,NA,Tundra Shrew
+IUCN,MAMM,Sorex_ugyunak_aoh.tif,Sorex ugyunak,NA,Barren Ground Shrew
+IUCN,MAMM,Sorex_vagrans_aoh.tif,Sorex vagrans,NA,Vagrant Shrew
+IUCN,MAMM,Spilogale_gracilis_aoh.tif,Spilogale gracilis,NA,Western Spotted Skunk
+IUCN,MAMM,Spilogale_putorius_aoh.tif,Spilogale putorius,NA,Eastern Spotted Skunk
+IUCN,MAMM,Sylvilagus_floridanus_aoh.tif,Sylvilagus floridanus,NA,Eastern Cottontail
+IUCN,MAMM,Sylvilagus_nuttallii_aoh.tif,Sylvilagus nuttallii,NA,Nuttall's Cottontail
+IUCN,MAMM,Synaptomys_borealis_aoh.tif,Synaptomys borealis,NA,Northern Bog Lemming
+IUCN,MAMM,Synaptomys_cooperi_aoh.tif,Synaptomys cooperi,NA,Southern Bog Lemming
+IUCN,MAMM,Tamias_striatus_aoh.tif,Tamias striatus,NA,Eastern Chipmunk
+IUCN,MAMM,Tamiasciurus_douglasii_aoh.tif,Tamiasciurus douglasii,NA,Douglas's Squirrel
+IUCN,MAMM,Tamiasciurus_hudsonicus_aoh.tif,Tamiasciurus hudsonicus,NA,Red Squirrel
+IUCN,MAMM,Taxidea_taxus_aoh.tif,Taxidea taxus,NA,American Badger
+IUCN,MAMM,Thomomys_talpoides_aoh.tif,Thomomys talpoides,NA,Northern Pocket Gopher
+IUCN,MAMM,Urocitellus_columbianus_aoh.tif,Urocitellus columbianus,NA,Columbian Ground Squirrel
+IUCN,MAMM,Urocitellus_parryii_aoh.tif,Urocitellus parryii,NA,Arctic Ground Squirrel
+IUCN,MAMM,Urocitellus_richardsonii_aoh.tif,Urocitellus richardsonii,NA,Richardson's Ground Squirrel
+IUCN,MAMM,Urocyon_cinereoargenteus_aoh.tif,Urocyon cinereoargenteus,NA,Tree Fox
+IUCN,MAMM,Ursus_americanus_aoh.tif,Ursus americanus,NA,American Black Bear
+IUCN,MAMM,Ursus_arctos_aoh.tif,Ursus arctos,NA,Brown Bear
+IUCN,MAMM,Ursus_maritimus_aoh.tif,Ursus maritimus,NA,Polar Bear
+IUCN,MAMM,Vulpes_lagopus_aoh.tif,Vulpes lagopus,NA,Arctic Fox
+IUCN,MAMM,Vulpes_velox_aoh.tif,Vulpes velox,NA,Swift Fox
+IUCN,MAMM,Vulpes_vulpes_aoh.tif,Vulpes vulpes,NA,Red Fox
+IUCN,MAMM,Zapus_hudsonius_aoh.tif,Zapus hudsonius,NA,Meadow Jumping Mouse
+IUCN,MAMM,Zapus_princeps_aoh.tif,Zapus princeps,NA,Pacific Jumping Mouse
+IUCN,MAMM,Zapus_trinotatus_aoh.tif,Zapus trinotatus,NA,Point Reyes Jumping Mouse
+IUCN,REPT,Caretta_caretta_aoh.tif,Caretta caretta,NA,Loggerhead Turtle
+IUCN,REPT,Charina_bottae_aoh.tif,Charina bottae,NA,Northern Rubber Boa
+IUCN,REPT,Chelonia_mydas_aoh.tif,Chelonia mydas,NA,Green Turtle
+IUCN,REPT,Contia_tenuis_aoh.tif,Contia tenuis,NA,Sharptail Snake
+IUCN,REPT,Crotalus_oreganus_aoh.tif,Crotalus oreganus,NA,Western Rattlesnake
+IUCN,REPT,Crotalus_viridis_aoh.tif,Crotalus viridis,NA,Prairie Rattlesnake
+IUCN,REPT,Dermochelys_coriacea_aoh.tif,Dermochelys coriacea,NA,Leatherback
+IUCN,REPT,Diadophis_punctatus_aoh.tif,Diadophis punctatus,NA,Ring-necked Snake
+IUCN,REPT,Elgaria_coerulea_aoh.tif,Elgaria coerulea,NA,Northern Alligator Lizard
+IUCN,REPT,Eretmochelys_imbricata_aoh.tif,Eretmochelys imbricata,NA,Hawksbill Turtle
+IUCN,REPT,Heterodon_nasicus_aoh.tif,Heterodon nasicus,NA,Western Hognose Snake
+IUCN,REPT,Heterodon_platirhinos_aoh.tif,Heterodon platirhinos,NA,Eastern Hognose Snake
+IUCN,REPT,Hypsiglena_torquata_aoh.tif,Hypsiglena torquata,NA,Night Snake
+IUCN,REPT,Lepidochelys_olivacea_aoh.tif,Lepidochelys olivacea,NA,Olive Ridley
+IUCN,REPT,Nerodia_sipedon_aoh.tif,Nerodia sipedon,NA,Lake Erie Water Snake
+IUCN,REPT,Opheodrys_vernalis_aoh.tif,Opheodrys vernalis,NA,Smooth Greensnake
+IUCN,REPT,Pantherophis_gloydi_aoh.tif,Pantherophis gloydi,NA,Eastern Fox Snake
+IUCN,REPT,Pantherophis_obsoletus_aoh.tif,Pantherophis obsoletus,NA,Western Rat Snake
+IUCN,REPT,Phrynosoma_hernandesi_aoh.tif,Phrynosoma hernandesi,NA,Short-horned Lizard
+IUCN,REPT,Pituophis_catenifer_aoh.tif,Pituophis catenifer,NA,Gophersnake
+IUCN,REPT,Plestiodon_fasciatus_aoh.tif,Plestiodon fasciatus,NA,Five-lined Skink
+IUCN,REPT,Plestiodon_septentrionalis_aoh.tif,Plestiodon septentrionalis,NA,Northern Prairie Skink
+IUCN,REPT,Plestiodon_skiltonianus_aoh.tif,Plestiodon skiltonianus,NA,Western Skink
+IUCN,REPT,Sistrurus_catenatus_aoh.tif,Sistrurus catenatus,NA,Massasauga
+IUCN,REPT,Storeria_occipitomaculata_aoh.tif,Storeria occipitomaculata,NA,Redbelly Snake
+IUCN,REPT,Thamnophis_butleri_aoh.tif,Thamnophis butleri,NA,Butler's Gartersnake
+IUCN,REPT,Thamnophis_elegans_aoh.tif,Thamnophis elegans,NA,Western Terrestrial Garter Snake
+IUCN,REPT,Thamnophis_ordinoides_aoh.tif,Thamnophis ordinoides,NA,Northwestern Garter Snake
+IUCN,REPT,Thamnophis_radix_aoh.tif,Thamnophis radix,NA,Plains Gartersnake
+IUCN,REPT,Thamnophis_sauritus_aoh.tif,Thamnophis sauritus,NA,Eastern Ribbonsnake
+IUCN,REPT,Thamnophis_sirtalis_aoh.tif,Thamnophis sirtalis,NA,Common Gartersnake
