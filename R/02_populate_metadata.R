@@ -4,7 +4,7 @@
 # Date: Nov 16th, 2022
 #
 # Description: Assists in generating a metadata.csv required for 
-#              04_format_data.R.  
+#              02_format_data.R.  
 #
 # Inputs:  1. A folder of rasters 
 #          2. Required R libraries
@@ -37,14 +37,15 @@ source("R/fct_sci_to_common.R")
 # 2.0 Set up -------------------------------------------------------------------
 
 ## File path variables ----
-input_tiff_folder <- "Tiffs" # <--- CHANGE PATH FOR NEW PROJECT
+input_tiff_folder <-"Tiffs" # <--- CHANGE PATH FOR NEW PROJECT
 input_aoi_name <- "AOI.tif" # <--- CHANGE NAME FOR NEW PROJECT (aoi needs to be in Tiffs folder)
-output_metadata_folder <- "./WtW/metadata" # <--- CHANGE PATH FOR NEW PROJECT
+output_metadata_folder <- "WtW/metadata" # <--- CHANGE PATH FOR NEW PROJECT
 output_metadata_name <- "sw-on" # <--- CHANGE NAME FOR NEW PROJECT
-table_path <- "./Variables/_Tables/" # <--- CHANGE PATH FOR NEW PROJECT
+table_path <- "Variables/_Tables/" # <--- CHANGE PATH FOR NEW PROJECT
 
 # Read-in look up tables ----
 ECCC_SAR_LU <- read_csv(paste0(table_path, "ECCC_SAR_Metadata.csv"))
+ECCC_CH_LU <- readxl::read_excel(paste0(table_path,  "ECCC_CH_Metadata.xlsx"))
 IUCN_LU <- read_csv(paste0(table_path, "IUCN_Metadata.csv"))
 NSC_END_LU <- readxl::read_excel(paste0(table_path,  "NSC_END_Metadata.xlsx"))
 NSC_SAR_LU <- readxl::read_excel(paste0(table_path, "NSC_SAR_Metadata.xlsx"))
@@ -110,11 +111,11 @@ for (file in file_list) {
   ## Name ----
   if (startsWith(file_no_ext, "T_ECCC_SAR_")) {
     name <- unlist(str_split(file_no_ext, "T_ECCC_SAR_COSEWICID_"))[2] 
-    name <- cosewicid_to_name(ECCC_SAR_LU, name, "common")
+    name <- sar_cosewicid_to_name(ECCC_SAR_LU, name, "common")
     
   } else if (startsWith(file_no_ext, "T_ECCC_CH")) {
-    name <- unlist(str_split(file_no_ext, "T_ECCC_CH_"))[2]
-    name <- str_replace_all(name, "_", " ")
+    name <- unlist(str_split(file_no_ext, "T_ECCC_CH_COSEWICID_"))[2]
+    name <- ch_cosewicid_to_name(ECCC_CH_LU, name, "common")
     
   } else if (startsWith(file_no_ext, "T_IUCN_AMPH")) {
     name <- unlist(str_split(file, "T_IUCN_AMPH_"))[2]
@@ -201,11 +202,8 @@ for (file in file_list) {
   }
   
   ## Legend ----
-  if (any(startsWith(file_no_ext, c("T_ECCC", "T_IUCN", "T_NSC", "I_")))) {
+  if (any(startsWith(file_no_ext, c("T_ECCC", "T_IUCN", "T_NSC", "I_", "W_Key")))) {
     legend <- "manual"
-    
-  } else if (startsWith(file_no_ext, "W_Key"))  {
-    legend <- "manual"      
     
   } else if (any(startsWith(file_no_ext, c("T_LC", "W_")))) {
     legend <- "continuous"
@@ -298,16 +296,10 @@ for (file in file_list) {
     }
     
   } else if (startsWith(file_no_ext, "T_LC")) {
-    color <- "viridis"
+    color <- "viridis"     
     
   } else if (startsWith(file_no_ext, "I")) {
     color <- "#00000000, #7fbc41"
-    
-  } else if (startsWith(file_no_ext, "W_River")) {
-    color <- "viridis"
-    
-  } else if (startsWith(file_no_ext, "W_Shoreline")) {
-    color <- "viridis"        
     
   } else if (startsWith(file_no_ext, "W_Carbon")) {
     color <- "YlOrBr"    
@@ -318,11 +310,17 @@ for (file in file_list) {
   } else if (startsWith(file_no_ext, "W_Human")) {
     color <- "rocket"
     
-  } else if (startsWith(file_no_ext, "W_Freshwater")) {
+  } else if (any(startsWith(file_no_ext, c("W_Freshwater", "W_River_length")))) {
     color <- "Blues"
+    
+  } else if (startsWith(file_no_ext, "Shoreline_length")) {
+    color <- "Oranges"    
     
   } else if (startsWith(file_no_ext, "W_Recreation")) {
     color <- "Greens"
+    
+  } else if (startsWith(file_no_ext, "W_Connectivity")) {
+    color <- "mako"    
     
   } else if (startsWith(file_no_ext, "W_Key")) {
     color <- "#00000000, #7fbc41"     
@@ -375,8 +373,12 @@ for (file in file_list) {
   } else if (startsWith(file_no_ext, "W_Carbon_storage")) {
     unit <- "tonnes"
     
+  } else if (startsWith(file_no_ext, "W_Connectivity")) {
+    unit <- "current density"    
+    
   } else if (file_no_ext %in% c("W_Climate_forward_velocity", 
-                                "W_Climate_refugia", 
+                                "W_Climate_refugia",
+                                "W_Climate_extremes",
                                 "W_Human_footprint")) {
     unit <- "index" 
     
@@ -435,7 +437,7 @@ for (file in file_list) {
 # Write to CSV ----
 write.csv(df, 
           file.path(output_metadata_folder, 
-          paste0(output_metadata_name, "-metadata-NEEDS-QC.csv")),
+                    paste0(output_metadata_name, "-metadata-NEEDS-QC.csv")),
           row.names = FALSE)
 
 # 4.0 Clear R environment ------------------------------------------------------ 
