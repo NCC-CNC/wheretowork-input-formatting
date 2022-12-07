@@ -45,13 +45,13 @@ library(wheretowork)
 # 2.0 Set up -------------------------------------------------------------------
 
 ## Set path where a QC'd metadata.csv version is located
-metadata_path <- "WtW/metadata/sw-on-metadata.csv" # <--- CHANGE PATH HERE FOR NEW PROJECT
+metadata_path <- "WtW/metadata/bc-cmc-metadata.csv" # <--- CHANGE PATH HERE FOR NEW PROJECT
 
 ## Set path where rasters are located
 tiffs_path <- "Tiffs" # <--- CHANGE PATH HERE FOR NEW PROJECT
 
 ## Name of study area (planning unit) raster
-aoi_path <- "AOI/AOI.tif" # <--- CHANGE PATH HERE FOR NEW PROJECT
+study_area_file <- "AOI.tif" # <--- CHANGE PATH HERE FOR NEW PROJECT
 
 ## Import formatted csv (metadata) as tibble 
 metadata <- tibble::as_tibble(
@@ -71,7 +71,7 @@ assertthat::assert_that(
 )
 
 ## Import study area (planning units) raster
-study_area_data <- raster::raster(aoi_path)
+study_area_data <- raster::raster(file.path(tiffs_path, study_area_file))
 
 # 3.0 Import rasters -----------------------------------------------------------
 
@@ -107,18 +107,6 @@ theme_labels <- metadata$Labels[metadata$Type == "theme"]
 theme_values <- metadata$Values[metadata$Type == "theme"]
 theme_goals <- metadata$Goal[metadata$Type == "theme"]
 
-## Prepare include inputs ----
-include_data <- raster_data[[which(metadata$Type == "include")]]
-include_data <- round(include_data > 0.5)
-include_names <- metadata$Name[metadata$Type == "include"]
-include_colors <- metadata$Color[metadata$Type == "include"]
-include_units <- metadata$Unit[metadata$Type == "include"]
-include_visible <- metadata$Visible[metadata$Type == "include"]
-include_provenance <- metadata$Provenance[metadata$Type == "include"]
-include_legend <- metadata$Legend[metadata$Type == "include"]
-include_labels <- metadata$Labels[metadata$Type == "include"]
-include_hidden <- metadata$Hidden[metadata$Type == "include"]
-
 ## Prepare weight inputs ----
 weight_data <- raster_data[[which(metadata$Type == "weight")]]
 weight_data <- raster::clamp(weight_data, lower = 0)
@@ -132,12 +120,37 @@ weight_legend <- metadata$Legend[metadata$Type == "weight"]
 weight_labels <- metadata$Labels[metadata$Type == "weight"]
 weight_values <- metadata$Values[metadata$Type == "weight"]
 
+## Prepare include inputs ----
+include_data <- raster_data[[which(metadata$Type == "include")]]
+include_data <- round(include_data > 0.5)
+include_names <- metadata$Name[metadata$Type == "include"]
+include_colors <- metadata$Color[metadata$Type == "include"]
+include_units <- metadata$Unit[metadata$Type == "include"]
+include_visible <- metadata$Visible[metadata$Type == "include"]
+include_provenance <- metadata$Provenance[metadata$Type == "include"]
+include_legend <- metadata$Legend[metadata$Type == "include"]
+include_labels <- metadata$Labels[metadata$Type == "include"]
+include_hidden <- metadata$Hidden[metadata$Type == "include"]
+
+## Prepare exclude inputs ----
+exclude_data <- raster_data[[which(metadata$Type == "exclude")]]
+if (length(exclude_data) > 0) {
+  exclude_data <- round(exclude_data > 0.5)
+  exclude_names <- metadata$Name[metadata$Type == "exclude"]
+  exclude_colors <- metadata$Color[metadata$Type == "exclude"]
+  exclude_units <- metadata$Unit[metadata$Type == "exclude"]
+  exclude_visible <- metadata$Visible[metadata$Type == "exclude"]
+  exclude_provenance <- metadata$Provenance[metadata$Type == "exclude"]
+  exclude_legend <- metadata$Legend[metadata$Type == "exclude"]
+  exclude_labels <- metadata$Labels[metadata$Type == "exclude"]
+  exclude_hidden <- metadata$Hidden[metadata$Type == "exclude"]
+}
 
 # 5.0 Build wheretowork objects ------------------------------------------------
 
 ## Create data set ----
 dataset <- new_dataset_from_auto(
-  raster::stack(theme_data, weight_data, include_data)
+  raster::stack(theme_data, weight_data, include_data, exclude_data)
 )
 
 ## Create themes ----
@@ -177,8 +190,8 @@ themes <- lapply(seq_along(unique(theme_groups)), function(i) {
         ),
         provenance = new_provenance_from_source(curr_theme_provenance[j])
       )
-    
-    #### create variable (if continuous legend)    
+      
+      #### create variable (if continuous legend)    
     } else if (identical(curr_theme_legend[j], "continuous")) {
       v <-  new_variable_from_auto(
         dataset = dataset,
@@ -191,7 +204,7 @@ themes <- lapply(seq_along(unique(theme_groups)), function(i) {
         hidden = curr_theme_hidden[j]
       )
       
-    #### create variable (if null legend)   
+      #### create variable (if null legend)   
     } else if (identical(curr_theme_legend[j], "null")) {
       v <- new_variable(
         dataset = dataset,
@@ -254,6 +267,39 @@ includes <- lapply(seq_len(raster::nlayers(include_data)), function(i) {
   )
 })
 
+## Create excludes ----
+
+## Create excludes ----
+### loop over each raster in exclude_data
+excludes <- lapply(seq_len(raster::nlayers(exclude_data)), function(i) {
+  
+  ### build legend
+  if (identical(exclude_legend[i], "null")) {
+    legend <- new_null_legend()
+  } else {
+    legend <- new_manual_legend(
+      values = c(0, 1),
+      colors = trimws(unlist(strsplit(exclude_colors[i], ","))),
+      labels = unlist(strsplit(exclude_labels[i], ","))
+    )
+  }
+  
+  ### build exclude
+  new_exclude(
+    name = exclude_names[i],
+    visible = exclude_visible[i],
+    hidden = exclude_hidden[i],
+    variable = new_variable(
+      dataset = dataset,
+      index = names(exclude_data)[i],
+      units = " ",
+      total = raster::cellStats(exclude_data[[i]], "sum"),
+      legend = legend,
+      provenance = new_provenance_from_source(exclude_provenance[i])
+    )
+  )
+})
+
 ## Create weights ---- 
 
 ### loop over each raster in weight_data
@@ -270,8 +316,8 @@ weights <- lapply(seq_len(raster::nlayers(weight_data)), function(i) {
       provenance = weight_provenance[i],
       labels = trimws(unlist(strsplit(weight_labels[i], ",")))
     )
-  
-  #### prepare variable (if null legend)    
+    
+    #### prepare variable (if null legend)    
   } else if (identical(weight_legend[i], "null")) {
     v <- new_variable(
       dataset = dataset,
@@ -282,17 +328,15 @@ weights <- lapply(seq_len(raster::nlayers(weight_data)), function(i) {
       provenance = new_provenance_from_source("missing")
     )
     
-  ### prepare variable (if continuous legend)    
-  } else { 
+    ### prepare variable (if continuous legend)    
+  } else if (identical(weight_legend[i], "continuous")) { 
     v <- new_variable_from_auto(
       dataset = dataset,
       index = names(weight_data)[i],
       units = weight_units[i],
-      type = "auto",
+      type = "continuous",
       colors = weight_colors[i],
-      provenance = weight_provenance[i],
-      labels = "missing",
-      hidden = weight_hidden[i]
+      provenance = weight_provenance[i]
     )
   }
   
@@ -305,7 +349,7 @@ weights <- lapply(seq_len(raster::nlayers(weight_data)), function(i) {
 
 ## Save project to disk ---- <--- CHANGE FOR NEW PROJECT
 write_project(
-  x = append(themes, append(includes, weights)),
+  x = append(append(themes, append(includes, weights)), excludes),
   dataset = dataset,
   name = "South Western Ontario", 
   path ="WTW/sw_on.yaml", 
