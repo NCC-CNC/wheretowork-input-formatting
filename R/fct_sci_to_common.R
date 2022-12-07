@@ -1,6 +1,13 @@
+ch_cosewicid_to_name <- function(LUT, cosewicid, name_type) {
+  x <- LUT %>% filter(COSEWIC_ID == cosewicid)
+  if (name_type == "common") {
+    name <- x$CommName_E[1]
+  } else {
+    name <- x$SciName[1]
+  }
+}
 
-# ECCC SAR
-cosewicid_to_name <- function(LUT, cosewicid, name_type) {
+sar_cosewicid_to_name <- function(LUT, cosewicid, name_type) {
   x <- LUT %>% filter(COSEWICID == cosewicid)
   if (name_type == "common") {
     name <- x$COM_NAME_E[1]
@@ -9,7 +16,6 @@ cosewicid_to_name <- function(LUT, cosewicid, name_type) {
   }
 }
 
-# NSC END
 nsc_end_to_name <- function(LUT, sci_name) {
   x <- LUT %>% filter(NSC_SCI_NAME == sci_name)
   name <- str_to_title(x$COMMON_NAME)
@@ -22,7 +28,6 @@ nsc_end_to_name <- function(LUT, sci_name) {
   return(name)  
 }
 
-# NSC SAR
 nsc_sar_to_name <- function(LUT, sci_name) {
   x <- LUT %>% filter(CAN_SCI_NAME == sci_name)
   name <- str_to_title(x$CAN_COM_NAME)
@@ -35,7 +40,6 @@ nsc_sar_to_name <- function(LUT, sci_name) {
   return(name)
 }
 
-# NSC SPP
 nsc_spp_to_name <- function(LUT, sci_name) {
   x <- LUT %>% filter(NATIONAL_SCIENTIFIC_NAME == sci_name)
   if (nrow(x) > 1) {
@@ -55,7 +59,6 @@ nsc_spp_to_name <- function(LUT, sci_name) {
   return(name)
 }
 
-# IUCN
 iucn_to_name <- function(LUT, file_name) {
   x <- LUT %>% filter(File_Name == file_name)
   if (is.na(x$Common_Name)) {
