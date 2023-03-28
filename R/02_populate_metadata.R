@@ -330,7 +330,7 @@ for (file in file_list) {
     color <- "YlOrBr"    
   ### Climate  
   } else if (startsWith(file_no_ext, "W_Climate")) {
-    color <- "PuBuGn"
+    color <- "magma"
   ### Human Footprint Index  
   } else if (startsWith(file_no_ext, "W_Human")) {
     color <- "rocket"
@@ -405,10 +405,15 @@ for (file in file_list) {
   order <- "" # manual assignment in csv
   
   ## VISIBLE -------------------------------------------------------------------
-  visible <- "" # manual assignment in csv
+  ### Includes
+  if (startsWith(file_no_ext, "I_")) {
+    visible <- "TRUE"
+  } else {
+    visible <- "FALSE" 
+  }
   
   ## HIDDEN --------------------------------------------------------------------
-  hidden <- "" # manual assignment in csv
+  hidden <- "FALSE" 
   
   ## GOAL ----------------------------------------------------------------------
   goal <- "0.2"  # default
