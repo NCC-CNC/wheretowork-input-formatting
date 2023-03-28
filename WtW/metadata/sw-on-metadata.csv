@@ -1,378 +1,400 @@
-Type,Theme,File,Name,Legend,Values,Color,Labels,Unit,Provenance,Order,Visible,Hidden,Goal,Targets
-include,,I_Protected.tif,Existing Conservation (CPCAD),manual,"0, 1","#00000000, #7fbc41","not included, included",km2,national,,TRUE,FALSE,0.2,
-theme,Critical Habitat (ECCC),T_ECCC_CH_Aristida_basiramea.tif,Aristida basiramea,manual,"0, 1","#00000000, #ffed6f","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Critical Habitat (ECCC),T_ECCC_CH_Charadrius_melodus_circumcinctus.tif,Charadrius melodus circumcinctus,manual,"0, 1","#00000000, #ffed6f","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Critical Habitat (ECCC),T_ECCC_CH_Clemmys_guttata.tif,Clemmys guttata,manual,"0, 1","#00000000, #ffed6f","absence, presence",km2,national,,FALSE,TRUE,0.2,0.831590579
-theme,Critical Habitat (ECCC),T_ECCC_CH_Emydoidea_blandingii.tif,Emydoidea blandingii,manual,"0, 1","#00000000, #ffed6f","absence, presence",km2,national,,FALSE,TRUE,0.2,0.934999357
-theme,Critical Habitat (ECCC),T_ECCC_CH_Glyptemys_insculpta.tif,Glyptemys insculpta,manual,"0, 1","#00000000, #ffed6f","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Critical Habitat (ECCC),T_ECCC_CH_Ixobrychus_exilis.tif,Ixobrychus exilis,manual,"0, 1","#00000000, #ffed6f","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Critical Habitat (ECCC),T_ECCC_CH_Platanthera_leucophaea.tif,Platanthera leucophaea,manual,"0, 1","#00000000, #ffed6f","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Critical Habitat (ECCC),T_ECCC_CH_Pseudacris_triseriata.tif,Pseudacris triseriata,manual,"0, 1","#00000000, #ffed6f","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Critical Habitat (ECCC),T_ECCC_CH_Sternotherus_odoratus.tif,Sternotherus odoratus,manual,"0, 1","#00000000, #ffed6f","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Critical Habitat (ECCC),T_ECCC_CH_Thamnophis_butleri.tif,Thamnophis butleri,manual,"0, 1","#00000000, #ffed6f","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Critical Habitat (ECCC),T_ECCC_CH_Wilsonia_citrina.tif,Wilsonia citrina,manual,"0, 1","#00000000, #ffed6f","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_1008.tif,Canada Warbler,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.588997966
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_1019.tif,Western Chorus Frog (Great Lakes / St. Lawrence - Canadian Shield population),manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.982110572
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_1022.tif,Eastern Foxsnake (Great Lakes / St. Lawrence population),manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_1033.tif,Snapping Turtle,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.582050368
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_1047.tif,Eastern Whip–poor–will,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.584783765
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_1081.tif,Rusty–patched Bumble Bee,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.586954823
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_1087.tif,Bobolink,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.607153976
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_1142.tif,Macropis Cuckoo Bee,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.586618926
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_1144.tif,Eastern Meadowlark,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.586954823
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_1145.tif,Hine's Emerald,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_1146.tif,Hungerford's Crawling Water Beetle,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_1147.tif,Barn Swallow,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.586618926
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_1197.tif,Wood Thrush,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.586618926
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_1198.tif,Eastern Wood–pewee,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.586618926
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_1212.tif,Mottled Duskywing (Great Lakes Plains population),manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.816741973
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_1220.tif,Massasauga (Great Lakes population),manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.77657984
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_1232.tif,Gypsy Cuckoo Bumble Bee,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.586618926
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_1233.tif,Bank Swallow,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.586618926
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_1241.tif,"Grasshopper Sparrow, pratensis subspecies",manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.582037819
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_1265.tif,Loggerhead Shrike Eastern subspecies,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.705008003
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_157.tif,Gray Fox,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_180.tif,Gattinger's Agalinis,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_196.tif,Spotted Wintergreen,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_217.tif,American Ginseng,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.597229954
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_225.tif,Pitcher's Thistle,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_23.tif,Henslow's Sparrow,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.768111433
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_24.tif,King Rail,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_248.tif,Eastern Prairie Fringed–orchid,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_25.tif,Kirtland's Warbler,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_254.tif,Hill's Pondweed,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.892908495
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_256.tif,Tuberous Indian–plantain,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_26.tif,Loggerhead Shrike migrans subspecies,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.765499629
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_277.tif,Massasauga,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.916800463
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_285.tif,Spotted Turtle,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.58745997
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_294.tif,Monarch,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.585602543
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_301.tif,Eastern Hog–nosed Snake,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.859279883
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_37.tif,Hooded Warbler,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_46.tif,Cerulean Warbler,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.647997067
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_51.tif,Least Bittern,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.585602543
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_53.tif,Louisiana Waterthrush,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.749349968
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_552.tif,Northern Leopard Frog (Western Boreal/Prairie populations),manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.584656202
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_57.tif,Red–headed Woodpecker,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.584783765
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_574.tif,Yellow Rail,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.588448879
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_588.tif,Butler's Gartersnake,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_60.tif,Short–eared Owl,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.582037819
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_61.tif,Yellow-breasted Chat virens subspecies,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.760023946
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_621.tif,American Badger jacksoni subspecies,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.809846671
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_642.tif,Jefferson Salamander,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_647.tif,Hart's–tongue Fern,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.819950745
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_705.tif,Lakeside Daisy,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_706.tif,Eastern Musk Turtle,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_709.tif,Eastern Ribbonsnake (Great Lakes population),manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.698624249
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_712.tif,Northern Map Turtle,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.862824264
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_714.tif,Eastern Milksnake,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.583133179
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_744.tif,Forked Three–awned Grass,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_793.tif,Butternut,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.583095286
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_807.tif,Hill's Thistle,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.911316902
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_826.tif,Dwarf Lake Iris,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.933474961
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_846.tif,Blanding's Turtle (Great Lakes / St. Lawrence population),manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.903557914
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_868.tif,Houghton's Goldenrod,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_907.tif,Rusty Blackbird,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.589024159
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_919.tif,Aweme Borer,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_942.tif,Golden–winged Warbler,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.584783765
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_951.tif,Chimney Swift,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.584783765
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_986.tif,Common Nighthawk,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.58874934
-theme,Species at Risk (ECCC),T_ECCC_SAR_COSEWICID_999.tif,Olive–sided Flycatcher,manual,"0, 1","#00000000, #fb9a99","absence, presence",km2,national,,FALSE,TRUE,0.2,0.662031272
-theme,Amphibians (IUCN),T_IUCN_AMPH_Ambystoma_jeffersonianum_aoh.tif,Jefferson Salamander,manual,"0, 1","#00000000, #a6cee3","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Amphibians (IUCN),T_IUCN_AMPH_Ambystoma_maculatum_aoh.tif,Spotted Salamander,manual,"0, 1","#00000000, #a6cee3","absence, presence",km2,national,,FALSE,TRUE,0.2,0.769571913
-theme,Amphibians (IUCN),T_IUCN_AMPH_Anaxyrus_americanus_aoh.tif,American Toad,manual,"0, 1","#00000000, #a6cee3","absence, presence",km2,national,,FALSE,TRUE,0.2,0.742827711
-theme,Amphibians (IUCN),T_IUCN_AMPH_Dryophytes_chrysoscelis_aoh.tif,Southern Gray Treefrog,manual,"0, 1","#00000000, #a6cee3","absence, presence",km2,national,,FALSE,TRUE,0.2,0.769215455
-theme,Amphibians (IUCN),T_IUCN_AMPH_Dryophytes_versicolor_aoh.tif,Chameleon Treefrog,manual,"0, 1","#00000000, #a6cee3","absence, presence",km2,national,,FALSE,TRUE,0.2,0.769255023
-theme,Amphibians (IUCN),T_IUCN_AMPH_Hemidactylium_scutatum_aoh.tif,Four-Toed Salamander,manual,"0, 1","#00000000, #a6cee3","absence, presence",km2,national,,FALSE,TRUE,0.2,0.769255023
-theme,Amphibians (IUCN),T_IUCN_AMPH_Lithobates_catesbeianus_aoh.tif,American Bullfrog,manual,"0, 1","#00000000, #a6cee3","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Amphibians (IUCN),T_IUCN_AMPH_Lithobates_clamitans_aoh.tif,Bronze Frog,manual,"0, 1","#00000000, #a6cee3","absence, presence",km2,national,,FALSE,TRUE,0.2,0.769571913
-theme,Amphibians (IUCN),T_IUCN_AMPH_Lithobates_palustris_aoh.tif,Pickerel Frog,manual,"0, 1","#00000000, #a6cee3","absence, presence",km2,national,,FALSE,TRUE,0.2,0.767601382
-theme,Amphibians (IUCN),T_IUCN_AMPH_Lithobates_pipiens_aoh.tif,Northern Leopard Frog,manual,"0, 1","#00000000, #a6cee3","absence, presence",km2,national,,FALSE,TRUE,0.2,0.601175333
-theme,Amphibians (IUCN),T_IUCN_AMPH_Lithobates_septentrionalis_aoh.tif,Mink Frog,manual,"0, 1","#00000000, #a6cee3","absence, presence",km2,national,,FALSE,TRUE,0.2,0.769255023
-theme,Amphibians (IUCN),T_IUCN_AMPH_Lithobates_sylvaticus_aoh.tif,Wood Frog,manual,"0, 1","#00000000, #a6cee3","absence, presence",km2,national,,FALSE,TRUE,0.2,0.769571913
-theme,Amphibians (IUCN),T_IUCN_AMPH_Notophthalmus_viridescens_aoh.tif,Eastern Newt,manual,"0, 1","#00000000, #a6cee3","absence, presence",km2,national,,FALSE,TRUE,0.2,0.769255023
-theme,Amphibians (IUCN),T_IUCN_AMPH_Plethodon_cinereus_aoh.tif,Red-Backed Salamander,manual,"0, 1","#00000000, #a6cee3","absence, presence",km2,national,,FALSE,TRUE,0.2,0.748825457
-theme,Amphibians (IUCN),T_IUCN_AMPH_Pseudacris_crucifer_aoh.tif,Spring Peeper,manual,"0, 1","#00000000, #a6cee3","absence, presence",km2,national,,FALSE,TRUE,0.2,0.769255023
-theme,Amphibians (IUCN),T_IUCN_AMPH_Pseudacris_maculata_aoh.tif,Boreal Chorus Frog,manual,"0, 1","#00000000, #a6cee3","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Acanthis_flammea_3_aoh.tif,Common Redpoll 3,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.750545145
-theme,Birds (IUCN),T_IUCN_BIRD_Accipiter_cooperii_2_aoh.tif,Cooper's Hawk 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.74705464
-theme,Birds (IUCN),T_IUCN_BIRD_Accipiter_gentilis_1_aoh.tif,Northern Goshawk 1,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.7662749
-theme,Birds (IUCN),T_IUCN_BIRD_Accipiter_striatus_2_aoh.tif,Sharp-Shinned Hawk 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.751075228
-theme,Birds (IUCN),T_IUCN_BIRD_Actitis_macularius_2_aoh.tif,Actitis macularius 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Aegolius_acadicus_1_aoh.tif,Northern Saw-Whet Owl 1,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.768268693
-theme,Birds (IUCN),T_IUCN_BIRD_Agelaius_phoeniceus_2_aoh.tif,Red-Winged Blackbird 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.663617312
-theme,Birds (IUCN),T_IUCN_BIRD_Aix_sponsa_1_aoh.tif,Wood Duck 1,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.907206647
-theme,Birds (IUCN),T_IUCN_BIRD_Aix_sponsa_2_aoh.tif,Wood Duck 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.856147783
-theme,Birds (IUCN),T_IUCN_BIRD_Ammodramus_savannarum_2_aoh.tif,Grasshopper Sparrow 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Ammospiza_leconteii_2_aoh.tif,Leconte's Sparrow 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Anas_acuta_2_aoh.tif,Northern Pintail 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Anas_crecca_2_aoh.tif,Common Teal 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Anas_platyrhynchos_2_aoh.tif,Mallard 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Anas_rubripes_2_aoh.tif,American Black Duck 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Antrostomus_vociferus_2_aoh.tif,Antrostomus vociferus 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.774564163
-theme,Birds (IUCN),T_IUCN_BIRD_Archilochus_colubris_2_aoh.tif,Archilochus colubris 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.74705464
-theme,Birds (IUCN),T_IUCN_BIRD_Ardea_alba_2_aoh.tif,Great Egret 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Ardea_herodias_2_aoh.tif,Great Blue Heron 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Asio_flammeus_1_aoh.tif,Short-Eared Owl 1,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Asio_flammeus_2_aoh.tif,Short-Eared Owl 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.663493168
-theme,Birds (IUCN),T_IUCN_BIRD_Asio_otus_1_aoh.tif,Long-Eared Owl 1,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.751181451
-theme,Birds (IUCN),T_IUCN_BIRD_Aythya_americana_2_aoh.tif,Redhead 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Aythya_collaris_2_aoh.tif,Ring-Necked Duck 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Aythya_marila_3_aoh.tif,Greater Scaup 3,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Aythya_valisineria_2_aoh.tif,Canvasback 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Bartramia_longicauda_2_aoh.tif,Upland Sandpiper 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Bombycilla_cedrorum_1_aoh.tif,Cedar Waxwing 1,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.746778602
-theme,Birds (IUCN),T_IUCN_BIRD_Bombycilla_garrulus_3_aoh.tif,Bombycilla garrulus 3,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.588396681
-theme,Birds (IUCN),T_IUCN_BIRD_Bonasa_umbellus_1_aoh.tif,Ruffed Grouse 1,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.772532727
-theme,Birds (IUCN),T_IUCN_BIRD_Botaurus_lentiginosus_2_aoh.tif,American Bittern 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Branta_canadensis_1_aoh.tif,Canada Goose 1,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.658663628
-theme,Birds (IUCN),T_IUCN_BIRD_Bubo_scandiacus_3_aoh.tif,Snowy Owl 3,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Bubo_virginianus_1_aoh.tif,Great Horned Owl 1,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.594633699
-theme,Birds (IUCN),T_IUCN_BIRD_Bubulcus_ibis_2_aoh.tif,Cattle Egret 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.601429536
-theme,Birds (IUCN),T_IUCN_BIRD_Bucephala_clangula_3_aoh.tif,Common Goldeneye 3,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.766702876
-theme,Birds (IUCN),T_IUCN_BIRD_Buteo_jamaicensis_2_aoh.tif,Red-Tailed Hawk 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.590471307
-theme,Birds (IUCN),T_IUCN_BIRD_Buteo_lagopus_3_aoh.tif,Rough-Legged Hawk 3,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.596748579
-theme,Birds (IUCN),T_IUCN_BIRD_Buteo_lineatus_2_aoh.tif,Red-Shouldered Hawk 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.591133372
-theme,Birds (IUCN),T_IUCN_BIRD_Buteo_platypterus_2_aoh.tif,Broad-Winged Hawk 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.7726135
-theme,Birds (IUCN),T_IUCN_BIRD_Butorides_striata_2_aoh.tif,Green-Backed Heron 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Calcarius_lapponicus_3_aoh.tif,Lapland Longspur 3,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.660643332
-theme,Birds (IUCN),T_IUCN_BIRD_Cardellina_canadensis_2_aoh.tif,Canada Warbler 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.773870631
-theme,Birds (IUCN),T_IUCN_BIRD_Cardinalis_cardinalis_1_aoh.tif,Northern Cardinal 1,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.869346581
-theme,Birds (IUCN),T_IUCN_BIRD_Cathartes_aura_2_aoh.tif,Turkey Vulture 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.87883127
-theme,Birds (IUCN),T_IUCN_BIRD_Catharus_fuscescens_2_aoh.tif,Veery 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.772775167
-theme,Birds (IUCN),T_IUCN_BIRD_Catharus_guttatus_2_aoh.tif,Hermit Thrush 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.772532727
-theme,Birds (IUCN),T_IUCN_BIRD_Catharus_swainsoni_2_aoh.tif,Catharus swainsoni 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.857978886
-theme,Birds (IUCN),T_IUCN_BIRD_Certhia_americana_1_aoh.tif,Certhia americana 1,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.772532727
-theme,Birds (IUCN),T_IUCN_BIRD_Chaetura_pelagica_2_aoh.tif,Chimney Swift 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.768190044
-theme,Birds (IUCN),T_IUCN_BIRD_Charadrius_vociferus_2_aoh.tif,Killdeer 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Chlidonias_niger_2_aoh.tif,Black Tern 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Chordeiles_minor_2_aoh.tif,Common Nighthawk 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.594769318
-theme,Birds (IUCN),T_IUCN_BIRD_Circus_hudsonius_2_aoh.tif,American Harrier 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.770446551
-theme,Birds (IUCN),T_IUCN_BIRD_Cistothorus_palustris_2_aoh.tif,Cistothorus palustris 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Cistothorus_stellaris_2_aoh.tif,Cistothorus stellaris 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Clangula_hyemalis_2_aoh.tif,Long-Tailed Duck 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Clangula_hyemalis_3_aoh.tif,Long-Tailed Duck 3,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Coccyzus_americanus_2_aoh.tif,Coccyzus americanus 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.760510794
-theme,Birds (IUCN),T_IUCN_BIRD_Coccyzus_erythropthalmus_2_aoh.tif,Black-Billec Cuckoo 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.775754102
-theme,Birds (IUCN),T_IUCN_BIRD_Colaptes_auratus_2_aoh.tif,Colaptes auratus 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.594796455
-theme,Birds (IUCN),T_IUCN_BIRD_Contopus_cooperi_2_aoh.tif,Contopus cooperi 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.91037361
-theme,Birds (IUCN),T_IUCN_BIRD_Contopus_virens_2_aoh.tif,Contopus virens 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.772492355
-theme,Birds (IUCN),T_IUCN_BIRD_Corvus_brachyrhynchos_1_aoh.tif,American Crow 1,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.921666507
-theme,Birds (IUCN),T_IUCN_BIRD_Corvus_brachyrhynchos_2_aoh.tif,American Crow 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.859348645
-theme,Birds (IUCN),T_IUCN_BIRD_Coturnicops_noveboracensis_2_aoh.tif,Yellow Rail 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Cyanocitta_cristata_1_aoh.tif,Blue Jay 1,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.747089178
-theme,Birds (IUCN),T_IUCN_BIRD_Cygnus_buccinator_1_aoh.tif,Trumperter Swan 1,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Dolichonyx_oryzivorus_2_aoh.tif,Bobolink 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.663534539
-theme,Birds (IUCN),T_IUCN_BIRD_Dryobates_pubescens_1_aoh.tif,Downy Woodpecker 1,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.768544264
-theme,Birds (IUCN),T_IUCN_BIRD_Dumetella_carolinensis_2_aoh.tif,Grey Catbird 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.750545145
-theme,Birds (IUCN),T_IUCN_BIRD_Empidonax_alnorum_2_aoh.tif,Alder Flycatcher 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.79440802
-theme,Birds (IUCN),T_IUCN_BIRD_Empidonax_flaviventris_2_aoh.tif,Empidonax flaviventris 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.766702876
-theme,Birds (IUCN),T_IUCN_BIRD_Empidonax_minimus_2_aoh.tif,Empidonax minimus 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.75469005
-theme,Birds (IUCN),T_IUCN_BIRD_Empidonax_traillii_2_aoh.tif,Willow Flycatcher 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.792480086
-theme,Birds (IUCN),T_IUCN_BIRD_Eremophila_alpestris_2_aoh.tif,Horned Lark 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.663451808
-theme,Birds (IUCN),T_IUCN_BIRD_Euphagus_cyanocephalus_2_aoh.tif,Brewer's Blackbird 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.660968844
-theme,Birds (IUCN),T_IUCN_BIRD_Falcipennis_canadensis_1_aoh.tif,Siberian Grouse 1,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.907946298
-theme,Birds (IUCN),T_IUCN_BIRD_Falco_columbarius_2_aoh.tif,Falco columbarius 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.766236049
-theme,Birds (IUCN),T_IUCN_BIRD_Falco_peregrinus_2_aoh.tif,Peregrine Falcon 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.766197207
-theme,Birds (IUCN),T_IUCN_BIRD_Falco_rusticolus_3_aoh.tif,Gyrfalcon 3,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.596063357
-theme,Birds (IUCN),T_IUCN_BIRD_Falco_sparverius_2_aoh.tif,Falco sparverius 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.769334188
-theme,Birds (IUCN),T_IUCN_BIRD_Fulica_americana_2_aoh.tif,American Coot 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Gallinago_delicata_2_aoh.tif,Gallinago delicata 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.766741838
-theme,Birds (IUCN),T_IUCN_BIRD_Gallinula_galeata_2_aoh.tif,Gallinula galeata 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Gavia_immer_2_aoh.tif,Great Northern Loon 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Geothlypis_philadelphia_2_aoh.tif,Mourning Warbler 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.772492355
-theme,Birds (IUCN),T_IUCN_BIRD_Geothlypis_trichas_2_aoh.tif,Common Yellowthroat 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Haemorhous_mexicanus_1_aoh.tif,House Finch 1,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.650231539
-theme,Birds (IUCN),T_IUCN_BIRD_Haemorhous_purpureus_1_aoh.tif,Purple Finch 1,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.587200725
-theme,Birds (IUCN),T_IUCN_BIRD_Haliaeetus_leucocephalus_1_aoh.tif,Bald Eagle 1,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Haliaeetus_leucocephalus_3_aoh.tif,Bald Eagle 3,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.765345017
-theme,Birds (IUCN),T_IUCN_BIRD_Hesperiphona_vespertina_3_aoh.tif,Hesperiphona vespertina 3,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.747089178
-theme,Birds (IUCN),T_IUCN_BIRD_Hirundo_rustica_2_aoh.tif,Barn Swallow 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.647433831
-theme,Birds (IUCN),T_IUCN_BIRD_Hydrocoloeus_minutus_2_aoh.tif,Hydrocoloeus minutus 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Hylatomus_pileatus_1_aoh.tif,Hylatomus pileatus 1,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.742390848
-theme,Birds (IUCN),T_IUCN_BIRD_Hylocichla_mustelina_2_aoh.tif,Hylocichla mustelina 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.772532727
-theme,Birds (IUCN),T_IUCN_BIRD_Icterus_galbula_2_aoh.tif,Baltimore Oriole 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.747365742
-theme,Birds (IUCN),T_IUCN_BIRD_Icterus_spurius_2_aoh.tif,Icterus spurius 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Ixobrychus_exilis_2_aoh.tif,Least Bittern 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Junco_hyemalis_1_aoh.tif,Dark-Eyed Junco 1,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.750898342
-theme,Birds (IUCN),T_IUCN_BIRD_Junco_hyemalis_2_aoh.tif,Dark-Eyed Junco 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Lanius_borealis_3_aoh.tif,Lanius borealis 3,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.765074797
-theme,Birds (IUCN),T_IUCN_BIRD_Lanius_ludovicianus_2_aoh.tif,Lanius ludovicianus 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.773707874
-theme,Birds (IUCN),T_IUCN_BIRD_Larus_atricilla_2_aoh.tif,Laughing Gull 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Larus_delawarensis_2_aoh.tif,Larus delawarensis 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Larus_hyperboreus_3_aoh.tif,Larus hyperboreus 3,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Larus_marinus_3_aoh.tif,Larus marinus 3,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Larus_philadelphia_3_aoh.tif,Larus philadelphia 3,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Larus_smithsonianus_1_aoh.tif,American Herring Gull 1,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.659610078
-theme,Birds (IUCN),T_IUCN_BIRD_Leiothlypis_ruficapilla_2_aoh.tif,Leiothlypis ruficapilla 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.772532727
-theme,Birds (IUCN),T_IUCN_BIRD_Leuconotopicus_villosus_1_aoh.tif,Leuconotopicus villosus 1,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Lophodytes_cucullatus_1_aoh.tif,Lophodytes cucullatus 1,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.78179495
-theme,Birds (IUCN),T_IUCN_BIRD_Lophodytes_cucullatus_2_aoh.tif,Lophodytes cucullatus 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Loxia_leucoptera_1_aoh.tif,Loxia leucoptera 1,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.772532727
-theme,Birds (IUCN),T_IUCN_BIRD_Mareca_americana_2_aoh.tif,American Wigeon 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Mareca_strepera_2_aoh.tif,Gadwall 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Megaceryle_alcyon_2_aoh.tif,Belted Kingfisher 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Megascops_asio_1_aoh.tif,Eastern Screech-Owl 1,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.74705464
-theme,Birds (IUCN),T_IUCN_BIRD_Melanerpes_erythrocephalus_2_aoh.tif,Red-Headed Woodpecker 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.587174823
-theme,Birds (IUCN),T_IUCN_BIRD_Meleagris_gallopavo_1_aoh.tif,Turkey 1,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.65122603
-theme,Birds (IUCN),T_IUCN_BIRD_Melospiza_georgiana_2_aoh.tif,Melospiza georgiana 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Melospiza_lincolnii_2_aoh.tif,Melospiza lincolnii 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Melospiza_melodia_1_aoh.tif,Song Sparrow 1,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.75022792
-theme,Birds (IUCN),T_IUCN_BIRD_Melospiza_melodia_2_aoh.tif,Song Sparrow 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.77538388
-theme,Birds (IUCN),T_IUCN_BIRD_Mergus_merganser_1_aoh.tif,Common Merganser 1,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.767092922
-theme,Birds (IUCN),T_IUCN_BIRD_Mergus_serrator_2_aoh.tif,Mergus serrator 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Mergus_serrator_3_aoh.tif,Mergus serrator 3,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Mimus_polyglottos_1_aoh.tif,Northern Mockingbird 1,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.750545145
-theme,Birds (IUCN),T_IUCN_BIRD_Mniotilta_varia_2_aoh.tif,Black-And-White Warbler 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.772492355
-theme,Birds (IUCN),T_IUCN_BIRD_Molothrus_ater_2_aoh.tif,Molothrus ater 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.596282315
-theme,Birds (IUCN),T_IUCN_BIRD_Myiarchus_crinitus_2_aoh.tif,Great Crested Flycatcher 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.766547118
-theme,Birds (IUCN),T_IUCN_BIRD_Nannopterum_auritus_2_aoh.tif,Nannopterum auritus 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Nycticorax_nycticorax_2_aoh.tif,Black-Crowned Night-Heron 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.780390683
-theme,Birds (IUCN),T_IUCN_BIRD_Oxyura_jamaicensis_2_aoh.tif,Ruddy Duck 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Pandion_haliaetus_2_aoh.tif,Pandion haliaetus 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Parkesia_motacilla_2_aoh.tif,Lousiana Waterthrush 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.947736684
-theme,Birds (IUCN),T_IUCN_BIRD_Parkesia_noveboracensis_2_aoh.tif,Northern Waterthrush 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.766624978
-theme,Birds (IUCN),T_IUCN_BIRD_Passer_domesticus_1_aoh.tif,House Sparrow 1,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.585295019
-theme,Birds (IUCN),T_IUCN_BIRD_Passerculus_sandwichensis_2_aoh.tif,Savannah Sparrow 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.663451808
-theme,Birds (IUCN),T_IUCN_BIRD_Passerella_arborea_3_aoh.tif,Passerella arborea 3,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Passerina_cyanea_2_aoh.tif,Indigo Bunting 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.772492355
-theme,Birds (IUCN),T_IUCN_BIRD_Perdix_perdix_1_aoh.tif,Grey Partridge 1,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Petrochelidon_pyrrhonota_2_aoh.tif,Cliff Swallow 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.59304186
-theme,Birds (IUCN),T_IUCN_BIRD_Phasianus_colchicus_1_aoh.tif,Ring-Necked Pheasant 1,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.662750287
-theme,Birds (IUCN),T_IUCN_BIRD_Pheucticus_ludovicianus_2_aoh.tif,Rose-Breasted Grosbeak 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.75058043
-theme,Birds (IUCN),T_IUCN_BIRD_Pinicola_enucleator_3_aoh.tif,Pine Grosbeak 3,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.596268621
-theme,Birds (IUCN),T_IUCN_BIRD_Pipilo_erythrophthalmus_2_aoh.tif,Pipilo erythrophthalmus 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.756217167
-theme,Birds (IUCN),T_IUCN_BIRD_Plectrophenax_nivalis_3_aoh.tif,Plectrophenax nivalis 3,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Podiceps_grisegena_3_aoh.tif,Podiceps grisegena 3,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Podilymbus_podiceps_2_aoh.tif,Podilymbus podiceps 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Poecile_atricapillus_1_aoh.tif,Black-Capped Chickadee 1,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.747089178
-theme,Birds (IUCN),T_IUCN_BIRD_Polioptila_caerulea_2_aoh.tif,Polioptila caerulea 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.75432855
-theme,Birds (IUCN),T_IUCN_BIRD_Pooecetes_gramineus_2_aoh.tif,Pooecetes gramineus 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.663782984
-theme,Birds (IUCN),T_IUCN_BIRD_Porzana_carolina_2_aoh.tif,Sora 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Progne_subis_2_aoh.tif,Progne subis 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.592921084
-theme,Birds (IUCN),T_IUCN_BIRD_Quiscalus_quiscula_2_aoh.tif,Common Grackle 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.587071257
-theme,Birds (IUCN),T_IUCN_BIRD_Rallus_limicola_2_aoh.tif,Rallus limicola 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Regulus_calendula_2_aoh.tif,Regulus calendula 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.842505307
-theme,Birds (IUCN),T_IUCN_BIRD_Regulus_satrapa_1_aoh.tif,Golden-Crowned Kinglet 1,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.789854642
-theme,Birds (IUCN),T_IUCN_BIRD_Regulus_satrapa_3_aoh.tif,Golden-Crowned Kinglet 3,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Riparia_riparia_2_aoh.tif,Riparia riparia 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.658743964
-theme,Birds (IUCN),T_IUCN_BIRD_Sayornis_phoebe_2_aoh.tif,Eastern Phoebe 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.772492355
-theme,Birds (IUCN),T_IUCN_BIRD_Scolopax_minor_2_aoh.tif,Scolopax minor 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.772492355
-theme,Birds (IUCN),T_IUCN_BIRD_Seiurus_aurocapilla_2_aoh.tif,Ovenbird 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.774564163
-theme,Birds (IUCN),T_IUCN_BIRD_Setophaga_americana_2_aoh.tif,Setophaga americana 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.777534639
-theme,Birds (IUCN),T_IUCN_BIRD_Setophaga_caerulescens_2_aoh.tif,Black-Throated Blue Warbler 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.748337431
-theme,Birds (IUCN),T_IUCN_BIRD_Setophaga_cerulea_2_aoh.tif,Cerulean Warbler 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Setophaga_coronata_2_aoh.tif,Yellow-Rumped Warbler 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.814115421
-theme,Birds (IUCN),T_IUCN_BIRD_Setophaga_fusca_2_aoh.tif,Blackburnian Warbler 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.772532727
-theme,Birds (IUCN),T_IUCN_BIRD_Setophaga_magnolia_2_aoh.tif,Magnolia Warbler 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.59684474
-theme,Birds (IUCN),T_IUCN_BIRD_Setophaga_pensylvanica_2_aoh.tif,Chestnut-Sided Warbler 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.59684474
-theme,Birds (IUCN),T_IUCN_BIRD_Setophaga_petechia_2_aoh.tif,Yellow Warbler 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.750545145
-theme,Birds (IUCN),T_IUCN_BIRD_Setophaga_pinus_2_aoh.tif,Pine Warbler 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.796873892
-theme,Birds (IUCN),T_IUCN_BIRD_Setophaga_ruticilla_2_aoh.tif,Setophaga ruticilla 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.74674413
-theme,Birds (IUCN),T_IUCN_BIRD_Sialia_sialis_2_aoh.tif,Eastern Bluebird 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.774196631
-theme,Birds (IUCN),T_IUCN_BIRD_Sitta_canadensis_1_aoh.tif,Red-Breasted Nuthatch 1,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.750545145
-theme,Birds (IUCN),T_IUCN_BIRD_Sitta_carolinensis_1_aoh.tif,Sitta carolinensis 1,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.75058043
-theme,Birds (IUCN),T_IUCN_BIRD_Spatula_discors_2_aoh.tif,Blue-Winged Teal 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Sphyrapicus_varius_2_aoh.tif,Yellow-Bellied Sapsucker 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.745644861
-theme,Birds (IUCN),T_IUCN_BIRD_Spinus_pinus_1_aoh.tif,Pine Siskin 1,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.750545145
-theme,Birds (IUCN),T_IUCN_BIRD_Spinus_tristis_1_aoh.tif,American Goldfinch 1,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.588488038
-theme,Birds (IUCN),T_IUCN_BIRD_Spizella_pallida_2_aoh.tif,Clay-Colored Sparrow 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.765036231
-theme,Birds (IUCN),T_IUCN_BIRD_Spizella_passerina_2_aoh.tif,Chipping Sparrow 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.749070018
-theme,Birds (IUCN),T_IUCN_BIRD_Spizella_pusilla_2_aoh.tif,Field Sparrow 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.770805715
-theme,Birds (IUCN),T_IUCN_BIRD_Steganopus_tricolor_2_aoh.tif,Wilson's Phalarope 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.840471244
-theme,Birds (IUCN),T_IUCN_BIRD_Stelgidopteryx_serripennis_2_aoh.tif,Northern Rough-Winged Swallow 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.661642274
-theme,Birds (IUCN),T_IUCN_BIRD_Sterna_hirundo_2_aoh.tif,Common Tern 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Strix_nebulosa_1_aoh.tif,Great Grey Owl 1,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Strix_varia_1_aoh.tif,Northern Barred Owl 1,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.749174943
-theme,Birds (IUCN),T_IUCN_BIRD_Sturnella_magna_2_aoh.tif,Sturnella magna 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.652149438
-theme,Birds (IUCN),T_IUCN_BIRD_Sturnella_neglecta_2_aoh.tif,Western Meadowlark 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.663782984
-theme,Birds (IUCN),T_IUCN_BIRD_Sturnus_vulgaris_1_aoh.tif,Common Starling 1,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.589128974
-theme,Birds (IUCN),T_IUCN_BIRD_Surnia_ulula_1_aoh.tif,Northern Hawk-Owl 1,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Birds (IUCN),T_IUCN_BIRD_Tachycineta_bicolor_2_aoh.tif,Tree Swallow 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.661642274
-theme,Birds (IUCN),T_IUCN_BIRD_Toxostoma_rufum_2_aoh.tif,Toxostoma rufum 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.772492355
-theme,Birds (IUCN),T_IUCN_BIRD_Troglodytes_aedon_2_aoh.tif,House Wren 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.587174823
-theme,Birds (IUCN),T_IUCN_BIRD_Troglodytes_hiemalis_2_aoh.tif,Eastern Winter Wren 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.747434957
-theme,Birds (IUCN),T_IUCN_BIRD_Turdus_migratorius_1_aoh.tif,American Robin 1,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.587732622
-theme,Birds (IUCN),T_IUCN_BIRD_Tyrannus_tyrannus_2_aoh.tif,Eastern Kingbird 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.585410273
-theme,Birds (IUCN),T_IUCN_BIRD_Vermivora_chrysoptera_2_aoh.tif,Golden-Winged Warbler 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.770446551
-theme,Birds (IUCN),T_IUCN_BIRD_Vireo_flavifrons_2_aoh.tif,Vireo flavifrons 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.779714157
-theme,Birds (IUCN),T_IUCN_BIRD_Vireo_gilvus_2_aoh.tif,Warbling Vireo 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.767053875
-theme,Birds (IUCN),T_IUCN_BIRD_Vireo_olivaceus_2_aoh.tif,Red-Eyed Vireo 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.756253702
-theme,Birds (IUCN),T_IUCN_BIRD_Vireo_solitarius_2_aoh.tif,Solitary Vireo 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.793716851
-theme,Birds (IUCN),T_IUCN_BIRD_Zenaida_macroura_1_aoh.tif,Mourning Dove 1,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.587732622
-theme,Birds (IUCN),T_IUCN_BIRD_Zonotrichia_albicollis_2_aoh.tif,White-Throated Sparrow 2,manual,"0, 1","#00000000, #ff7f00","absence, presence",km2,national,,FALSE,TRUE,0.2,0.74705464
-theme,Mammals (IUCN),T_IUCN_MAMM_Alces_alces_aoh.tif,Eurasian Elk,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Mammals (IUCN),T_IUCN_MAMM_Blarina_brevicauda_aoh.tif,Short-Tailed Shrew,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.774196631
-theme,Mammals (IUCN),T_IUCN_MAMM_Canis_latrans_aoh.tif,Coyote,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.603792726
-theme,Mammals (IUCN),T_IUCN_MAMM_Castor_canadensis_aoh.tif,American Beaver,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.794269551
-theme,Mammals (IUCN),T_IUCN_MAMM_Condylura_cristata_aoh.tif,Star-Nosed Mole,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.769175896
-theme,Mammals (IUCN),T_IUCN_MAMM_Eptesicus_fuscus_aoh.tif,Big Brown Bat,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.748825457
-theme,Mammals (IUCN),T_IUCN_MAMM_Erethizon_dorsatum_aoh.tif,North American Porcupine,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.797014591
-theme,Mammals (IUCN),T_IUCN_MAMM_Glaucomys_sabrinus_aoh.tif,Northern Flying Squirrel,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.774564163
-theme,Mammals (IUCN),T_IUCN_MAMM_Glaucomys_volans_aoh.tif,Southern Flying Squirrel,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.774564163
-theme,Mammals (IUCN),T_IUCN_MAMM_Lasionycteris_noctivagans_aoh.tif,Silver-Haired Bat,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.770526297
-theme,Mammals (IUCN),T_IUCN_MAMM_Lasiurus_borealis_aoh.tif,Red Bat,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Mammals (IUCN),T_IUCN_MAMM_Lasiurus_cinereus_aoh.tif,Hoary Bat,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.770526297
-theme,Mammals (IUCN),T_IUCN_MAMM_Lepus_americanus_aoh.tif,Snowshoe Hare,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.752318833
-theme,Mammals (IUCN),T_IUCN_MAMM_Lepus_europaeus_aoh.tif,European Hare,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.715191957
-theme,Mammals (IUCN),T_IUCN_MAMM_Lontra_canadensis_aoh.tif,Northern American River Otter,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Mammals (IUCN),T_IUCN_MAMM_Lynx_canadensis_aoh.tif,Canada Lynx,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Mammals (IUCN),T_IUCN_MAMM_Lynx_rufus_aoh.tif,Bobcat,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.772532727
-theme,Mammals (IUCN),T_IUCN_MAMM_Marmota_monax_aoh.tif,Woodchuck,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.589155189
-theme,Mammals (IUCN),T_IUCN_MAMM_Martes_pennanti_aoh.tif,Fisher,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.789093061
-theme,Mammals (IUCN),T_IUCN_MAMM_Mephitis_mephitis_aoh.tif,Striped Skunk,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.587836609
-theme,Mammals (IUCN),T_IUCN_MAMM_Microtus_pennsylvanicus_aoh.tif,Meadow Vole,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.596830999
-theme,Mammals (IUCN),T_IUCN_MAMM_Mus_musculus_aoh.tif,House Mouse,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.647340147
-theme,Mammals (IUCN),T_IUCN_MAMM_Mustela_erminea_aoh.tif,Ermine,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.767249202
-theme,Mammals (IUCN),T_IUCN_MAMM_Mustela_frenata_aoh.tif,Long-Tailed Weasel,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Mammals (IUCN),T_IUCN_MAMM_Mustela_nivalis_aoh.tif,Least Weasel,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.588945592
-theme,Mammals (IUCN),T_IUCN_MAMM_Myodes_gapperi_aoh.tif,Southern Red-Backed Vole,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.774564163
-theme,Mammals (IUCN),T_IUCN_MAMM_Myotis_leibii_aoh.tif,Eastern Small-Footed Myotis,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.774564163
-theme,Mammals (IUCN),T_IUCN_MAMM_Myotis_lucifugus_aoh.tif,Little Brown Bat,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.770526297
-theme,Mammals (IUCN),T_IUCN_MAMM_Myotis_septentrionalis_aoh.tif,Northern Long-Eared Myotis,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.774564163
-theme,Mammals (IUCN),T_IUCN_MAMM_Napaeozapus_insignis_aoh.tif,Woodland Jumping Mouse,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.798286382
-theme,Mammals (IUCN),T_IUCN_MAMM_Neovison_vison_aoh.tif,American Mink,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.769215455
-theme,Mammals (IUCN),T_IUCN_MAMM_Odocoileus_virginianus_aoh.tif,White-Tailed Deer,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.585987765
-theme,Mammals (IUCN),T_IUCN_MAMM_Ondatra_zibethicus_aoh.tif,Muskrat,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Mammals (IUCN),T_IUCN_MAMM_Parascalops_breweri_aoh.tif,Hairy-Tailed Mole,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.756509675
-theme,Mammals (IUCN),T_IUCN_MAMM_Peromyscus_leucopus_aoh.tif,White-Footed Mouse,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.596858482
-theme,Mammals (IUCN),T_IUCN_MAMM_Peromyscus_maniculatus_aoh.tif,North American Deer Mouse,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.588945592
-theme,Mammals (IUCN),T_IUCN_MAMM_Pipistrellus_subflavus_aoh.tif,Eastern Pipistrelle,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.775301723
-theme,Mammals (IUCN),T_IUCN_MAMM_Procyon_lotor_aoh.tif,Raccoon,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.747089178
-theme,Mammals (IUCN),T_IUCN_MAMM_Sciurus_carolinensis_aoh.tif,Gray Squirrel,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.754292444
-theme,Mammals (IUCN),T_IUCN_MAMM_Sorex_cinereus_aoh.tif,Cinereus Shrew,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.772492355
-theme,Mammals (IUCN),T_IUCN_MAMM_Sorex_fumeus_aoh.tif,Smoky Shrew,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.774523286
-theme,Mammals (IUCN),T_IUCN_MAMM_Sorex_hoyi_aoh.tif,Pygmy Shrew,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.772492355
-theme,Mammals (IUCN),T_IUCN_MAMM_Sylvilagus_floridanus_aoh.tif,Eastern Cottontail,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.594986543
-theme,Mammals (IUCN),T_IUCN_MAMM_Synaptomys_cooperi_aoh.tif,Southern Bog Lemming,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.772492355
-theme,Mammals (IUCN),T_IUCN_MAMM_Tamias_striatus_aoh.tif,Eastern Chipmunk,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.769136348
-theme,Mammals (IUCN),T_IUCN_MAMM_Tamiasciurus_hudsonicus_aoh.tif,American Red Squirrel,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.798617732
-theme,Mammals (IUCN),T_IUCN_MAMM_Taxidea_taxus_aoh.tif,American Badger,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Mammals (IUCN),T_IUCN_MAMM_Urocyon_cinereoargenteus_aoh.tif,Gray Fox,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Mammals (IUCN),T_IUCN_MAMM_Ursus_americanus_aoh.tif,American Black Bear,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.596748579
-theme,Mammals (IUCN),T_IUCN_MAMM_Vulpes_vulpes_aoh.tif,Red Fox,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,0.595721823
-theme,Mammals (IUCN),T_IUCN_MAMM_Zapus_hudsonius_aoh.tif,Meadow Jumping Mouse,manual,"0, 1","#00000000, #b15928","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Reptiles (IUCN),T_IUCN_REPT_Caretta_caretta_aoh.tif,Loggerhead Turtle,manual,"0, 1","#00000000, #b2df8a","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Reptiles (IUCN),T_IUCN_REPT_Diadophis_punctatus_aoh.tif,Ringneck Snake,manual,"0, 1","#00000000, #b2df8a","absence, presence",km2,national,,FALSE,TRUE,0.2,0.75040408
-theme,Reptiles (IUCN),T_IUCN_REPT_Eretmochelys_imbricata_aoh.tif,Hawksbill Sea Turtle,manual,"0, 1","#00000000, #b2df8a","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Reptiles (IUCN),T_IUCN_REPT_Heterodon_platirhinos_aoh.tif,Heterodon platirhinos,manual,"0, 1","#00000000, #b2df8a","absence, presence",km2,national,,FALSE,TRUE,0.2,0.772815609
-theme,Reptiles (IUCN),T_IUCN_REPT_Nerodia_sipedon_aoh.tif,Nerodia sipedon,manual,"0, 1","#00000000, #b2df8a","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Reptiles (IUCN),T_IUCN_REPT_Opheodrys_vernalis_aoh.tif,Opheodrys vernalis,manual,"0, 1","#00000000, #b2df8a","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Reptiles (IUCN),T_IUCN_REPT_Pantherophis_gloydi_aoh.tif,Pantherophis gloydi,manual,"0, 1","#00000000, #b2df8a","absence, presence",km2,national,,FALSE,TRUE,0.2,0.793487111
-theme,Reptiles (IUCN),T_IUCN_REPT_Plestiodon_fasciatus_aoh.tif,Plestiodon fasciatus,manual,"0, 1","#00000000, #b2df8a","absence, presence",km2,national,,FALSE,TRUE,0.2,0.812044232
-theme,Reptiles (IUCN),T_IUCN_REPT_Sistrurus_catenatus_aoh.tif,Massasauga,manual,"0, 1","#00000000, #b2df8a","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Reptiles (IUCN),T_IUCN_REPT_Storeria_occipitomaculata_aoh.tif,Storeria occipitomaculata,manual,"0, 1","#00000000, #b2df8a","absence, presence",km2,national,,FALSE,TRUE,0.2,0.774196631
-theme,Reptiles (IUCN),T_IUCN_REPT_Thamnophis_butleri_aoh.tif,Thamnophis butleri,manual,"0, 1","#00000000, #b2df8a","absence, presence",km2,national,,FALSE,TRUE,0.2,1
-theme,Reptiles (IUCN),T_IUCN_REPT_Thamnophis_sauritus_aoh.tif,Eastern Ribbonsnake,manual,"0, 1","#00000000, #b2df8a","absence, presence",km2,national,,FALSE,TRUE,0.2,0.767562213
-theme,Reptiles (IUCN),T_IUCN_REPT_Thamnophis_sirtalis_aoh.tif,Thamnophis sirtalis,manual,"0, 1","#00000000, #b2df8a","absence, presence",km2,national,,FALSE,TRUE,0.2,0.746090546
-theme,Land Cover,T_LC_Lakes.tif,Lakes,continuous,,viridis,,ha,national,,FALSE,TRUE,0.2,
-theme,Land Cover,T_LC_Wetlands.tif,Wetlands,continuous,,viridis,,ha,national,,FALSE,TRUE,0.2,
-weight,,W_Carbon_potential.tif,Carbon potential,continuous,,YlOrBr,,tonnes/yr,national,,FALSE,TRUE,0.2,
-weight,,W_Carbon_storage.tif,Carbon storage,continuous,,YlOrBr,,tonnes,national,,FALSE,TRUE,0.2,
-weight,,W_Climate_forward_velocity.tif,Climate forward velocity,continuous,,PuBuGn,,index,national,,FALSE,TRUE,0.2,
-weight,,W_Climate_refugia.tif,Climate refugia,continuous,,PuBuGn,,index,national,,FALSE,TRUE,0.2,
-weight,,W_Freshwater.tif,Freshwater,continuous,,Blues,,ha,national,,FALSE,TRUE,0.2,
-weight,,W_Human_footprint.tif,Human footprint,continuous,,rocket,,index,national,,FALSE,TRUE,0.2,
-weight,,W_Key_biodiversity_areas.tif,Key biodiversity areas,manual,"0, 1","#00000000, #7fbc41","not KBA, KBA",km2,national,,FALSE,TRUE,0.2,
-weight,,W_Recreation.tif,Recreation,continuous,,Greens,,ha,national,,FALSE,TRUE,0.2,
-weight,,W_River_length.tif,River length,continuous,,viridis,,km,national,,FALSE,TRUE,0.2,
-weight,,W_Shoreline_length.tif,Shoreline length,continuous,,viridis,,km,national,,FALSE,TRUE,0.2,
+"Type","Theme","File","Name","Legend","Values","Color","Labels","Unit","Provenance","Order","Visible","Hidden","Goal"
+"include","","I_Protected.tif","Existing Conservation (CPCAD)","manual","0, 1","#00000000, #7fbc41","not included, included","km2","national","","TRUE","FALSE",""
+"theme","Critical Habitat (ECCC)","T_ECCC_CH_COSEWICID_1019.tif","Western Chorus Frog (Great Lakes / St. Lawrence - Canadian Shield population)","manual","0, 1","#00000000, #ffed6f","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Critical Habitat (ECCC)","T_ECCC_CH_COSEWICID_1022.tif","Eastern Foxsnake (Great Lakes / St. Lawrence population)","manual","0, 1","#00000000, #ffed6f","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Critical Habitat (ECCC)","T_ECCC_CH_COSEWICID_1047.tif","Eastern Whip-poor-will","manual","0, 1","#00000000, #ffed6f","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Critical Habitat (ECCC)","T_ECCC_CH_COSEWICID_1087.tif","Bobolink","manual","0, 1","#00000000, #ffed6f","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Critical Habitat (ECCC)","T_ECCC_CH_COSEWICID_1144.tif","Eastern Meadowlark","manual","0, 1","#00000000, #ffed6f","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Critical Habitat (ECCC)","T_ECCC_CH_COSEWICID_1145.tif","Hine's Emerald","manual","0, 1","#00000000, #ffed6f","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Critical Habitat (ECCC)","T_ECCC_CH_COSEWICID_1146.tif","Hungerford's Crawling Water Beetle","manual","0, 1","#00000000, #ffed6f","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Critical Habitat (ECCC)","T_ECCC_CH_COSEWICID_1173.tif","Little Brown Myotis","manual","0, 1","#00000000, #ffed6f","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Critical Habitat (ECCC)","T_ECCC_CH_COSEWICID_1174.tif","Tri-coloured Bat","manual","0, 1","#00000000, #ffed6f","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Critical Habitat (ECCC)","T_ECCC_CH_COSEWICID_1175.tif","Northern Myotis","manual","0, 1","#00000000, #ffed6f","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Critical Habitat (ECCC)","T_ECCC_CH_COSEWICID_1233.tif","Bank Swallow","manual","0, 1","#00000000, #ffed6f","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Critical Habitat (ECCC)","T_ECCC_CH_COSEWICID_217.tif","American Ginseng","manual","0, 1","#00000000, #ffed6f","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Critical Habitat (ECCC)","T_ECCC_CH_COSEWICID_221.tif","Goldenseal","manual","0, 1","#00000000, #ffed6f","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Critical Habitat (ECCC)","T_ECCC_CH_COSEWICID_248.tif","Eastern Prairie Fringed-orchid","manual","0, 1","#00000000, #ffed6f","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Critical Habitat (ECCC)","T_ECCC_CH_COSEWICID_277.tif","Massasauga","manual","0, 1","#00000000, #ffed6f","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Critical Habitat (ECCC)","T_ECCC_CH_COSEWICID_285.tif","Spotted Turtle","manual","0, 1","#00000000, #ffed6f","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Critical Habitat (ECCC)","T_ECCC_CH_COSEWICID_286.tif","Wood Turtle","manual","0, 1","#00000000, #ffed6f","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Critical Habitat (ECCC)","T_ECCC_CH_COSEWICID_46.tif","Cerulean Warbler","manual","0, 1","#00000000, #ffed6f","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Critical Habitat (ECCC)","T_ECCC_CH_COSEWICID_57.tif","Red-headed Woodpecker","manual","0, 1","#00000000, #ffed6f","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Critical Habitat (ECCC)","T_ECCC_CH_COSEWICID_585.tif","Queensnake","manual","0, 1","#00000000, #ffed6f","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Critical Habitat (ECCC)","T_ECCC_CH_COSEWICID_588.tif","Butler's Gartersnake","manual","0, 1","#00000000, #ffed6f","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Critical Habitat (ECCC)","T_ECCC_CH_COSEWICID_642.tif","Jefferson Salamander","manual","0, 1","#00000000, #ffed6f","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Critical Habitat (ECCC)","T_ECCC_CH_COSEWICID_686.tif","Piping Plover circumcinctus subspecies","manual","0, 1","#00000000, #ffed6f","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Critical Habitat (ECCC)","T_ECCC_CH_COSEWICID_705.tif","Lakeside Daisy","manual","0, 1","#00000000, #ffed6f","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Critical Habitat (ECCC)","T_ECCC_CH_COSEWICID_744.tif","Forked Three-awned Grass","manual","0, 1","#00000000, #ffed6f","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Critical Habitat (ECCC)","T_ECCC_CH_COSEWICID_807.tif","Hill's Thistle","manual","0, 1","#00000000, #ffed6f","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Critical Habitat (ECCC)","T_ECCC_CH_COSEWICID_846.tif","Blanding's Turtle (Great Lakes / St. Lawrence population)","manual","0, 1","#00000000, #ffed6f","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Critical Habitat (ECCC)","T_ECCC_CH_COSEWICID_951.tif","Chimney Swift","manual","0, 1","#00000000, #ffed6f","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_1008.tif","Canada Warbler","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_1019.tif","Western Chorus Frog (Great Lakes / St. Lawrence - Canadian Shield population)","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_1022.tif","Eastern Foxsnake (Great Lakes / St. Lawrence population)","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_1033.tif","Snapping Turtle","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_1047.tif","Eastern Whip–poor–will","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_1081.tif","Rusty–patched Bumble Bee","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_1087.tif","Bobolink","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_1142.tif","Macropis Cuckoo Bee","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_1144.tif","Eastern Meadowlark","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_1145.tif","Hine's Emerald","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_1146.tif","Hungerford's Crawling Water Beetle","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_1147.tif","Barn Swallow","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_1197.tif","Wood Thrush","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_1198.tif","Eastern Wood–pewee","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_1212.tif","Mottled Duskywing (Great Lakes Plains population)","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_1220.tif","Massasauga (Great Lakes population)","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_1232.tif","Gypsy Cuckoo Bumble Bee","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_1233.tif","Bank Swallow","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_1241.tif","Grasshopper Sparrow, pratensis subspecies","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_1265.tif","Loggerhead Shrike Eastern subspecies","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_157.tif","Gray Fox","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_180.tif","Gattinger's Agalinis","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_196.tif","Spotted Wintergreen","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_217.tif","American Ginseng","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_225.tif","Pitcher's Thistle","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_23.tif","Henslow's Sparrow","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_24.tif","King Rail","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_248.tif","Eastern Prairie Fringed–orchid","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_25.tif","Kirtland's Warbler","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_254.tif","Hill's Pondweed","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_256.tif","Tuberous Indian–plantain","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_26.tif","Loggerhead Shrike migrans subspecies","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_277.tif","Massasauga","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_285.tif","Spotted Turtle","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_294.tif","Monarch","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_301.tif","Eastern Hog–nosed Snake","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_37.tif","Hooded Warbler","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_46.tif","Cerulean Warbler","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_51.tif","Least Bittern","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_53.tif","Louisiana Waterthrush","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_552.tif","Northern Leopard Frog (Western Boreal/Prairie populations)","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_57.tif","Red–headed Woodpecker","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_574.tif","Yellow Rail","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_588.tif","Butler's Gartersnake","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_60.tif","Short–eared Owl","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_61.tif","Yellow-breasted Chat virens subspecies","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_621.tif","American Badger jacksoni subspecies","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_642.tif","Jefferson Salamander","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_647.tif","Hart's–tongue Fern","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_705.tif","Lakeside Daisy","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_706.tif","Eastern Musk Turtle","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_709.tif","Eastern Ribbonsnake (Great Lakes population)","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_712.tif","Northern Map Turtle","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_714.tif","Eastern Milksnake","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_744.tif","Forked Three–awned Grass","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_793.tif","Butternut","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_807.tif","Hill's Thistle","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_826.tif","Dwarf Lake Iris","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_846.tif","Blanding's Turtle (Great Lakes / St. Lawrence population)","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_868.tif","Houghton's Goldenrod","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_907.tif","Rusty Blackbird","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_919.tif","Aweme Borer","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_942.tif","Golden–winged Warbler","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_951.tif","Chimney Swift","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_986.tif","Common Nighthawk","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Species at Risk (ECCC)","T_ECCC_SAR_COSEWICID_999.tif","Olive–sided Flycatcher","manual","0, 1","#00000000, #fb9a99","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Amphibians (IUCN)","T_IUCN_AMPH_Ambystoma_jeffersonianum_aoh.tif","Jefferson Salamander","manual","0, 1","#00000000, #a6cee3","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Amphibians (IUCN)","T_IUCN_AMPH_Ambystoma_maculatum_aoh.tif","Spotted Salamander","manual","0, 1","#00000000, #a6cee3","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Amphibians (IUCN)","T_IUCN_AMPH_Anaxyrus_americanus_aoh.tif","American Toad","manual","0, 1","#00000000, #a6cee3","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Amphibians (IUCN)","T_IUCN_AMPH_Dryophytes_chrysoscelis_aoh.tif","Cope's Gray Treefrog","manual","0, 1","#00000000, #a6cee3","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Amphibians (IUCN)","T_IUCN_AMPH_Dryophytes_versicolor_aoh.tif","Gray Treefrog","manual","0, 1","#00000000, #a6cee3","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Amphibians (IUCN)","T_IUCN_AMPH_Hemidactylium_scutatum_aoh.tif","Four-toed Salamander","manual","0, 1","#00000000, #a6cee3","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Amphibians (IUCN)","T_IUCN_AMPH_Lithobates_catesbeianus_aoh.tif","Common Bullfrog","manual","0, 1","#00000000, #a6cee3","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Amphibians (IUCN)","T_IUCN_AMPH_Lithobates_clamitans_aoh.tif","Green Frog","manual","0, 1","#00000000, #a6cee3","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Amphibians (IUCN)","T_IUCN_AMPH_Lithobates_palustris_aoh.tif","Pickerel Frog","manual","0, 1","#00000000, #a6cee3","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Amphibians (IUCN)","T_IUCN_AMPH_Lithobates_pipiens_aoh.tif","Northern Leopard Frog","manual","0, 1","#00000000, #a6cee3","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Amphibians (IUCN)","T_IUCN_AMPH_Lithobates_septentrionalis_aoh.tif","Mink Frog","manual","0, 1","#00000000, #a6cee3","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Amphibians (IUCN)","T_IUCN_AMPH_Lithobates_sylvaticus_aoh.tif","Wood Frog","manual","0, 1","#00000000, #a6cee3","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Amphibians (IUCN)","T_IUCN_AMPH_Notophthalmus_viridescens_aoh.tif","Eastern Newt","manual","0, 1","#00000000, #a6cee3","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Amphibians (IUCN)","T_IUCN_AMPH_Plethodon_cinereus_aoh.tif","Redback Salamander","manual","0, 1","#00000000, #a6cee3","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Amphibians (IUCN)","T_IUCN_AMPH_Pseudacris_crucifer_aoh.tif","Spring Peeper","manual","0, 1","#00000000, #a6cee3","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Amphibians (IUCN)","T_IUCN_AMPH_Pseudacris_maculata_aoh.tif","Boreal Chorus Frog","manual","0, 1","#00000000, #a6cee3","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Acanthis_flammea_3_aoh.tif","Redpoll 3","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Accipiter_cooperii_2_aoh.tif","Cooper's Hawk 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Accipiter_gentilis_1_aoh.tif","Northern Goshawk 1","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Accipiter_striatus_2_aoh.tif","Sharp-shinned Hawk 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Actitis_macularius_2_aoh.tif","Spotted Sandpiper 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Aegolius_acadicus_1_aoh.tif","Northern Saw-whet Owl 1","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Agelaius_phoeniceus_2_aoh.tif","Red-winged Blackbird 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Aix_sponsa_1_aoh.tif","Wood Duck 1","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Aix_sponsa_2_aoh.tif","Wood Duck 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Ammodramus_savannarum_2_aoh.tif","Grasshopper Sparrow 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Ammospiza_leconteii_2_aoh.tif","Le Conte's Sparrow 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Anas_acuta_2_aoh.tif","Pintail 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Anas_crecca_2_aoh.tif","Common Teal 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Anas_platyrhynchos_2_aoh.tif","Mallard 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Anas_rubripes_2_aoh.tif","American Black Duck 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Antrostomus_vociferus_2_aoh.tif","Eastern Whip-poor-will 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Archilochus_colubris_2_aoh.tif","Ruby-throated Hummingbird 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Ardea_alba_2_aoh.tif","Great White Egret 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Ardea_herodias_2_aoh.tif","Great Blue Heron 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Asio_flammeus_1_aoh.tif","Short-eared Owl 1","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Asio_flammeus_2_aoh.tif","Short-eared Owl 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Asio_otus_1_aoh.tif","Northern Long-eared Owl 1","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Aythya_americana_2_aoh.tif","Redhead 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Aythya_collaris_2_aoh.tif","Ring-necked Duck 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Aythya_marila_3_aoh.tif","Greater Scaup 3","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Aythya_valisineria_2_aoh.tif","Canvasback 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Bartramia_longicauda_2_aoh.tif","Upland Sandpiper 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Bombycilla_cedrorum_1_aoh.tif","Cedar Waxwing 1","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Bombycilla_garrulus_3_aoh.tif","Waxwing 3","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Bonasa_umbellus_1_aoh.tif","Ruffed Grouse 1","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Botaurus_lentiginosus_2_aoh.tif","American Bittern 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Branta_canadensis_1_aoh.tif","Canada Goose 1","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Bubo_scandiacus_3_aoh.tif","Snowy Owl 3","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Bubo_virginianus_1_aoh.tif","Great Horned Owl 1","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Bubulcus_ibis_2_aoh.tif","Cattle Egret 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Bucephala_clangula_3_aoh.tif","Common Goldeneye 3","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Buteo_jamaicensis_2_aoh.tif","Red-tailed Hawk 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Buteo_lagopus_3_aoh.tif","Rough-legged Buzzard 3","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Buteo_lineatus_2_aoh.tif","Red-shouldered Hawk 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Buteo_platypterus_2_aoh.tif","Broad-winged Hawk 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Butorides_striata_2_aoh.tif","Green-backed Heron 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Calcarius_lapponicus_3_aoh.tif","Lapland Bunting 3","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Cardellina_canadensis_2_aoh.tif","Canada Warbler 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Cardinalis_cardinalis_1_aoh.tif","Northern Cardinal 1","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Cathartes_aura_2_aoh.tif","Turkey Vulture 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Catharus_fuscescens_2_aoh.tif","Veery 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Catharus_guttatus_2_aoh.tif","Hermit Thrush 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Catharus_swainsoni_2_aoh.tif","Swainson's Thrush 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Certhia_americana_1_aoh.tif","American Treecreeper 1","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Chaetura_pelagica_2_aoh.tif","Chimney Swift 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Charadrius_vociferus_2_aoh.tif","Killdeer 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Chlidonias_niger_2_aoh.tif","Black Tern 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Chordeiles_minor_2_aoh.tif","Common Nighthawk 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Circus_hudsonius_2_aoh.tif","Northern Harrier 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Cistothorus_palustris_2_aoh.tif","Marsh Wren 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Cistothorus_stellaris_2_aoh.tif","Sedge Wren 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Clangula_hyemalis_2_aoh.tif","Long-tailed Duck 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Clangula_hyemalis_3_aoh.tif","Long-tailed Duck 3","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Coccyzus_americanus_2_aoh.tif","Yellow-billed Cuckoo 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Coccyzus_erythropthalmus_2_aoh.tif","Black-billed Cuckoo 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Colaptes_auratus_2_aoh.tif","Northern Flicker 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Contopus_cooperi_2_aoh.tif","Olive-sided Flycatcher 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Contopus_virens_2_aoh.tif","Eastern Wood-Pewee 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Corvus_brachyrhynchos_1_aoh.tif","American Crow 1","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Corvus_brachyrhynchos_2_aoh.tif","American Crow 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Coturnicops_noveboracensis_2_aoh.tif","Yellow Rail 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Cyanocitta_cristata_1_aoh.tif","Blue Jay 1","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Cygnus_buccinator_1_aoh.tif","Trumpeter Swan 1","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Dolichonyx_oryzivorus_2_aoh.tif","Bobolink 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Dryobates_pubescens_1_aoh.tif","Downy Woodpecker 1","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Dumetella_carolinensis_2_aoh.tif","Gray Catbird 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Empidonax_alnorum_2_aoh.tif","Alder Flycatcher 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Empidonax_flaviventris_2_aoh.tif","Yellow-bellied Flycatcher 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Empidonax_minimus_2_aoh.tif","Least Flycatcher 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Empidonax_traillii_2_aoh.tif","Willow Flycatcher 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Eremophila_alpestris_2_aoh.tif","Shore Lark 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Euphagus_cyanocephalus_2_aoh.tif","Brewer's Blackbird 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Falcipennis_canadensis_1_aoh.tif","Spruce Grouse 1","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Falco_columbarius_2_aoh.tif","Merlin 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Falco_peregrinus_2_aoh.tif","Peregrine Falcon 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Falco_rusticolus_3_aoh.tif","Gyrfalcon 3","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Falco_sparverius_2_aoh.tif","American Kestrel 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Fulica_americana_2_aoh.tif","American Coot 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Gallinago_delicata_2_aoh.tif","Wilson's Snipe 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Gallinula_galeata_2_aoh.tif","Common Gallinule 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Gavia_immer_2_aoh.tif","Great Northern Loon 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Geothlypis_philadelphia_2_aoh.tif","Mourning Warbler 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Geothlypis_trichas_2_aoh.tif","Common Yellowthroat 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Haemorhous_mexicanus_1_aoh.tif","House Finch 1","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Haemorhous_purpureus_1_aoh.tif","Purple Finch 1","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Haliaeetus_leucocephalus_1_aoh.tif","Bald Eagle 1","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Haliaeetus_leucocephalus_3_aoh.tif","Bald Eagle 3","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Hesperiphona_vespertina_3_aoh.tif","Evening Grosbeak 3","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Hirundo_rustica_2_aoh.tif","European Swallow 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Hydrocoloeus_minutus_2_aoh.tif","Little Gull 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Hylatomus_pileatus_1_aoh.tif","Pileated Woodpecker 1","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Hylocichla_mustelina_2_aoh.tif","Wood Thrush 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Icterus_galbula_2_aoh.tif","Baltimore Oriole 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Icterus_spurius_2_aoh.tif","Orchard Oriole 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Ixobrychus_exilis_2_aoh.tif","Least Bittern 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Junco_hyemalis_1_aoh.tif","Dark-eyed Junco 1","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Junco_hyemalis_2_aoh.tif","Dark-eyed Junco 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Lanius_borealis_3_aoh.tif","Northern Grey Shrike 3","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Lanius_ludovicianus_2_aoh.tif","Loggerhead Shrike 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Larus_atricilla_2_aoh.tif","Laughing Gull 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Larus_delawarensis_2_aoh.tif","Ring-billed Gull 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Larus_hyperboreus_3_aoh.tif","Glaucous Gull 3","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Larus_marinus_3_aoh.tif","Greater Black-backed Gull 3","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Larus_philadelphia_3_aoh.tif","Bonaparte's Gull 3","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Larus_smithsonianus_1_aoh.tif","Arctic Herring Gull 1","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Leiothlypis_ruficapilla_2_aoh.tif","Nashville Warbler 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Leuconotopicus_villosus_1_aoh.tif","Hairy Woodpecker 1","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Lophodytes_cucullatus_1_aoh.tif","Hooded Merganser 1","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Lophodytes_cucullatus_2_aoh.tif","Hooded Merganser 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Loxia_leucoptera_1_aoh.tif","Two-barred Crossbill 1","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Mareca_americana_2_aoh.tif","American Wigeon 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Mareca_strepera_2_aoh.tif","Gadwall 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Megaceryle_alcyon_2_aoh.tif","Belted Kingfisher 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Megascops_asio_1_aoh.tif","Eastern Screech-owl 1","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Melanerpes_erythrocephalus_2_aoh.tif","Red-headed Woodpecker 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Meleagris_gallopavo_1_aoh.tif","Turkey 1","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Melospiza_georgiana_2_aoh.tif","Swamp Sparrow 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Melospiza_lincolnii_2_aoh.tif","Lincoln's Sparrow 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Melospiza_melodia_1_aoh.tif","Song Sparrow 1","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Melospiza_melodia_2_aoh.tif","Song Sparrow 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Mergus_merganser_1_aoh.tif","Goosander 1","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Mergus_serrator_2_aoh.tif","Red-breasted Merganser 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Mergus_serrator_3_aoh.tif","Red-breasted Merganser 3","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Mimus_polyglottos_1_aoh.tif","Northern Mockingbird 1","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Mniotilta_varia_2_aoh.tif","Black-and-white Warbler 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Molothrus_ater_2_aoh.tif","Brown-headed Cowbird 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Myiarchus_crinitus_2_aoh.tif","Great Crested Flycatcher 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Nannopterum_auritus_2_aoh.tif","Double-crested Cormorant 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Nycticorax_nycticorax_2_aoh.tif","Night Heron 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Oxyura_jamaicensis_2_aoh.tif","Ruddy Duck 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Pandion_haliaetus_2_aoh.tif","Osprey 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Parkesia_motacilla_2_aoh.tif","Louisiana Waterthrush 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Parkesia_noveboracensis_2_aoh.tif","Northern Waterthrush 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Passer_domesticus_1_aoh.tif","House Sparrow 1","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Passerculus_sandwichensis_2_aoh.tif","Savannah Sparrow 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Passerella_arborea_3_aoh.tif","American Tree Sparrow 3","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Passerina_cyanea_2_aoh.tif","Indigo Bunting 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Perdix_perdix_1_aoh.tif","Grey Partridge 1","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Petrochelidon_pyrrhonota_2_aoh.tif","American Cliff Swallow 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Phasianus_colchicus_1_aoh.tif","Common Pheasant 1","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Pheucticus_ludovicianus_2_aoh.tif","Rose-breasted Grosbeak 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Pinicola_enucleator_3_aoh.tif","Pine Grosbeak 3","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Pipilo_erythrophthalmus_2_aoh.tif","Eastern Towhee 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Plectrophenax_nivalis_3_aoh.tif","Snow Bunting 3","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Podiceps_grisegena_3_aoh.tif","Red-necked Grebe 3","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Podilymbus_podiceps_2_aoh.tif","Pied-billed Grebe 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Poecile_atricapillus_1_aoh.tif","Black-capped Chickadee 1","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Polioptila_caerulea_2_aoh.tif","Blue-grey Gnatcatcher 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Pooecetes_gramineus_2_aoh.tif","Vesper Sparrow 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Porzana_carolina_2_aoh.tif","Sora 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Progne_subis_2_aoh.tif","Purple Martin 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Quiscalus_quiscula_2_aoh.tif","Common Grackle 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Rallus_limicola_2_aoh.tif","Virginia Rail 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Regulus_calendula_2_aoh.tif","Ruby-crowned Kinglet 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Regulus_satrapa_1_aoh.tif","Golden-crowned Kinglet 1","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Regulus_satrapa_3_aoh.tif","Golden-crowned Kinglet 3","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Riparia_riparia_2_aoh.tif","Collared Sand Martin 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Sayornis_phoebe_2_aoh.tif","Eastern Phoebe 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Scolopax_minor_2_aoh.tif","American Woodcock 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Seiurus_aurocapilla_2_aoh.tif","Ovenbird 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Setophaga_americana_2_aoh.tif","Northern Parula 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Setophaga_caerulescens_2_aoh.tif","Black-throated Blue Warbler 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Setophaga_cerulea_2_aoh.tif","Cerulean Warbler 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Setophaga_coronata_2_aoh.tif","Myrtle Warbler 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Setophaga_fusca_2_aoh.tif","Blackburnian Warbler 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Setophaga_magnolia_2_aoh.tif","Magnolia Warbler 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Setophaga_pensylvanica_2_aoh.tif","Chestnut-sided Warbler 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Setophaga_petechia_2_aoh.tif","Golden Warbler 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Setophaga_pinus_2_aoh.tif","Pine Warbler 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Setophaga_ruticilla_2_aoh.tif","American Redstart 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Sialia_sialis_2_aoh.tif","Eastern Bluebird 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Sitta_canadensis_1_aoh.tif","Red-breasted Nuthatch 1","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Sitta_carolinensis_1_aoh.tif","White-breasted Nuthatch 1","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Spatula_discors_2_aoh.tif","Blue-winged Teal 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Sphyrapicus_varius_2_aoh.tif","Yellow-bellied Sapsucker 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Spinus_pinus_1_aoh.tif","Pine Siskin 1","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Spinus_tristis_1_aoh.tif","American Goldfinch 1","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Spizella_pallida_2_aoh.tif","Clay-colored Sparrow 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Spizella_passerina_2_aoh.tif","Chipping Sparrow 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Spizella_pusilla_2_aoh.tif","Field Sparrow 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Steganopus_tricolor_2_aoh.tif","Wilson's Phalarope 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Stelgidopteryx_serripennis_2_aoh.tif","Northern Rough-winged Swallow 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Sterna_hirundo_2_aoh.tif","Common Tern 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Strix_nebulosa_1_aoh.tif","Great Gray Owl 1","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Strix_varia_1_aoh.tif","Barred Owl 1","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Sturnella_magna_2_aoh.tif","Eastern Meadowlark 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Sturnella_neglecta_2_aoh.tif","Western Meadowlark 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Sturnus_vulgaris_1_aoh.tif","Starling 1","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Surnia_ulula_1_aoh.tif","Northern Hawk-Owl 1","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Tachycineta_bicolor_2_aoh.tif","Tree Swallow 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Toxostoma_rufum_2_aoh.tif","Brown Thrasher 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Troglodytes_aedon_2_aoh.tif","House Wren 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Troglodytes_hiemalis_2_aoh.tif","Winter Wren 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Turdus_migratorius_1_aoh.tif","American Robin 1","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Tyrannus_tyrannus_2_aoh.tif","Eastern Kingbird 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Vermivora_chrysoptera_2_aoh.tif","Golden-winged Warbler 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Vireo_flavifrons_2_aoh.tif","Yellow-throated Vireo 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Vireo_gilvus_2_aoh.tif","Warbling Vireo 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Vireo_olivaceus_2_aoh.tif","Red-eyed Vireo 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Vireo_solitarius_2_aoh.tif","Blue-headed Vireo 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Zenaida_macroura_1_aoh.tif","American Mourning Dove 1","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Birds (IUCN)","T_IUCN_BIRD_Zonotrichia_albicollis_2_aoh.tif","White-throated Sparrow 2","manual","0, 1","#00000000, #ff7f00","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Mammals (IUCN)","T_IUCN_MAMM_Alces_alces_aoh.tif","Moose","manual","0, 1","#00000000, #b15928","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Mammals (IUCN)","T_IUCN_MAMM_Blarina_brevicauda_aoh.tif","Northern Short-tailed Shrew","manual","0, 1","#00000000, #b15928","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Mammals (IUCN)","T_IUCN_MAMM_Canis_latrans_aoh.tif","Coyote","manual","0, 1","#00000000, #b15928","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Mammals (IUCN)","T_IUCN_MAMM_Castor_canadensis_aoh.tif","American Beaver","manual","0, 1","#00000000, #b15928","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Mammals (IUCN)","T_IUCN_MAMM_Condylura_cristata_aoh.tif","Star-nosed Mole","manual","0, 1","#00000000, #b15928","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Mammals (IUCN)","T_IUCN_MAMM_Eptesicus_fuscus_aoh.tif","Big Brown Bat","manual","0, 1","#00000000, #b15928","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Mammals (IUCN)","T_IUCN_MAMM_Erethizon_dorsatum_aoh.tif","North American Porcupine","manual","0, 1","#00000000, #b15928","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Mammals (IUCN)","T_IUCN_MAMM_Glaucomys_sabrinus_aoh.tif","Northern Flying Squirrel","manual","0, 1","#00000000, #b15928","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Mammals (IUCN)","T_IUCN_MAMM_Glaucomys_volans_aoh.tif","Southern Flying Squirrel","manual","0, 1","#00000000, #b15928","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Mammals (IUCN)","T_IUCN_MAMM_Lasionycteris_noctivagans_aoh.tif","Silver-haired Bat","manual","0, 1","#00000000, #b15928","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Mammals (IUCN)","T_IUCN_MAMM_Lasiurus_borealis_aoh.tif","Red Bat","manual","0, 1","#00000000, #b15928","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Mammals (IUCN)","T_IUCN_MAMM_Lasiurus_cinereus_aoh.tif","Hawaiian Hoary Bat","manual","0, 1","#00000000, #b15928","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Mammals (IUCN)","T_IUCN_MAMM_Lepus_americanus_aoh.tif","Snowshoe Hare","manual","0, 1","#00000000, #b15928","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Mammals (IUCN)","T_IUCN_MAMM_Lepus_europaeus_aoh.tif","European Hare","manual","0, 1","#00000000, #b15928","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Mammals (IUCN)","T_IUCN_MAMM_Lontra_canadensis_aoh.tif","Northern River Otter","manual","0, 1","#00000000, #b15928","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Mammals (IUCN)","T_IUCN_MAMM_Lynx_canadensis_aoh.tif","Canada Lynx","manual","0, 1","#00000000, #b15928","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Mammals (IUCN)","T_IUCN_MAMM_Lynx_rufus_aoh.tif","Bobcat","manual","0, 1","#00000000, #b15928","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Mammals (IUCN)","T_IUCN_MAMM_Marmota_monax_aoh.tif","Woodchuck","manual","0, 1","#00000000, #b15928","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Mammals (IUCN)","T_IUCN_MAMM_Martes_pennanti_aoh.tif","Fisher","manual","0, 1","#00000000, #b15928","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Mammals (IUCN)","T_IUCN_MAMM_Mephitis_mephitis_aoh.tif","Striped Skunk","manual","0, 1","#00000000, #b15928","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Mammals (IUCN)","T_IUCN_MAMM_Microtus_pennsylvanicus_aoh.tif","Meadow Vole","manual","0, 1","#00000000, #b15928","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Mammals (IUCN)","T_IUCN_MAMM_Mus_musculus_aoh.tif","House Mouse","manual","0, 1","#00000000, #b15928","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Mammals (IUCN)","T_IUCN_MAMM_Mustela_erminea_aoh.tif","Short-tailed Weasel","manual","0, 1","#00000000, #b15928","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Mammals (IUCN)","T_IUCN_MAMM_Mustela_frenata_aoh.tif","Long-tailed Weasel","manual","0, 1","#00000000, #b15928","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Mammals (IUCN)","T_IUCN_MAMM_Mustela_nivalis_aoh.tif","Least Weasel","manual","0, 1","#00000000, #b15928","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Mammals (IUCN)","T_IUCN_MAMM_Myodes_gapperi_aoh.tif","Revillagigedo Island Red-backed Vole","manual","0, 1","#00000000, #b15928","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Mammals (IUCN)","T_IUCN_MAMM_Myotis_leibii_aoh.tif","Eastern Small-footed Myotis","manual","0, 1","#00000000, #b15928","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Mammals (IUCN)","T_IUCN_MAMM_Myotis_lucifugus_aoh.tif","Little Brown Myotis","manual","0, 1","#00000000, #b15928","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Mammals (IUCN)","T_IUCN_MAMM_Myotis_septentrionalis_aoh.tif","Northern Myotis","manual","0, 1","#00000000, #b15928","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Mammals (IUCN)","T_IUCN_MAMM_Napaeozapus_insignis_aoh.tif","Woodland Jumping Mouse","manual","0, 1","#00000000, #b15928","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Mammals (IUCN)","T_IUCN_MAMM_Neovison_vison_aoh.tif","American Mink","manual","0, 1","#00000000, #b15928","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Mammals (IUCN)","T_IUCN_MAMM_Odocoileus_virginianus_aoh.tif","White-tailed Deer","manual","0, 1","#00000000, #b15928","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Mammals (IUCN)","T_IUCN_MAMM_Ondatra_zibethicus_aoh.tif","Muskrat","manual","0, 1","#00000000, #b15928","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Mammals (IUCN)","T_IUCN_MAMM_Parascalops_breweri_aoh.tif","Hairy-tailed Mole","manual","0, 1","#00000000, #b15928","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Mammals (IUCN)","T_IUCN_MAMM_Peromyscus_leucopus_aoh.tif","White-footed Mouse","manual","0, 1","#00000000, #b15928","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Mammals (IUCN)","T_IUCN_MAMM_Peromyscus_maniculatus_aoh.tif","North American Deermouse","manual","0, 1","#00000000, #b15928","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Mammals (IUCN)","T_IUCN_MAMM_Pipistrellus_subflavus_aoh.tif","Tricolor Bat","manual","0, 1","#00000000, #b15928","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Mammals (IUCN)","T_IUCN_MAMM_Procyon_lotor_aoh.tif","Northern Raccoon","manual","0, 1","#00000000, #b15928","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Mammals (IUCN)","T_IUCN_MAMM_Sciurus_carolinensis_aoh.tif","Gray Squirrel","manual","0, 1","#00000000, #b15928","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Mammals (IUCN)","T_IUCN_MAMM_Sorex_cinereus_aoh.tif","Cinereus Shrew","manual","0, 1","#00000000, #b15928","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Mammals (IUCN)","T_IUCN_MAMM_Sorex_fumeus_aoh.tif","Smoky Shrew","manual","0, 1","#00000000, #b15928","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Mammals (IUCN)","T_IUCN_MAMM_Sorex_hoyi_aoh.tif","Pygmy Shrew","manual","0, 1","#00000000, #b15928","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Mammals (IUCN)","T_IUCN_MAMM_Sylvilagus_floridanus_aoh.tif","Eastern Cottontail","manual","0, 1","#00000000, #b15928","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Mammals (IUCN)","T_IUCN_MAMM_Synaptomys_cooperi_aoh.tif","Southern Bog Lemming","manual","0, 1","#00000000, #b15928","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Mammals (IUCN)","T_IUCN_MAMM_Tamias_striatus_aoh.tif","Eastern Chipmunk","manual","0, 1","#00000000, #b15928","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Mammals (IUCN)","T_IUCN_MAMM_Tamiasciurus_hudsonicus_aoh.tif","Red Squirrel","manual","0, 1","#00000000, #b15928","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Mammals (IUCN)","T_IUCN_MAMM_Taxidea_taxus_aoh.tif","American Badger","manual","0, 1","#00000000, #b15928","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Mammals (IUCN)","T_IUCN_MAMM_Urocyon_cinereoargenteus_aoh.tif","Tree Fox","manual","0, 1","#00000000, #b15928","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Mammals (IUCN)","T_IUCN_MAMM_Ursus_americanus_aoh.tif","American Black Bear","manual","0, 1","#00000000, #b15928","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Mammals (IUCN)","T_IUCN_MAMM_Vulpes_vulpes_aoh.tif","Red Fox","manual","0, 1","#00000000, #b15928","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Mammals (IUCN)","T_IUCN_MAMM_Zapus_hudsonius_aoh.tif","Meadow Jumping Mouse","manual","0, 1","#00000000, #b15928","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Reptiles (IUCN)","T_IUCN_REPT_Caretta_caretta_aoh.tif","Loggerhead Turtle","manual","0, 1","#00000000, #b2df8a","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Reptiles (IUCN)","T_IUCN_REPT_Diadophis_punctatus_aoh.tif","Ring-necked Snake","manual","0, 1","#00000000, #b2df8a","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Reptiles (IUCN)","T_IUCN_REPT_Eretmochelys_imbricata_aoh.tif","Hawksbill Turtle","manual","0, 1","#00000000, #b2df8a","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Reptiles (IUCN)","T_IUCN_REPT_Heterodon_platirhinos_aoh.tif","Eastern Hognose Snake","manual","0, 1","#00000000, #b2df8a","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Reptiles (IUCN)","T_IUCN_REPT_Nerodia_sipedon_aoh.tif","Lake Erie Water Snake","manual","0, 1","#00000000, #b2df8a","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Reptiles (IUCN)","T_IUCN_REPT_Opheodrys_vernalis_aoh.tif","Smooth Greensnake","manual","0, 1","#00000000, #b2df8a","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Reptiles (IUCN)","T_IUCN_REPT_Pantherophis_gloydi_aoh.tif","Eastern Fox Snake","manual","0, 1","#00000000, #b2df8a","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Reptiles (IUCN)","T_IUCN_REPT_Plestiodon_fasciatus_aoh.tif","Five-lined Skink","manual","0, 1","#00000000, #b2df8a","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Reptiles (IUCN)","T_IUCN_REPT_Sistrurus_catenatus_aoh.tif","Massasauga","manual","0, 1","#00000000, #b2df8a","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Reptiles (IUCN)","T_IUCN_REPT_Storeria_occipitomaculata_aoh.tif","Redbelly Snake","manual","0, 1","#00000000, #b2df8a","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Reptiles (IUCN)","T_IUCN_REPT_Thamnophis_butleri_aoh.tif","Butler's Gartersnake","manual","0, 1","#00000000, #b2df8a","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Reptiles (IUCN)","T_IUCN_REPT_Thamnophis_sauritus_aoh.tif","Eastern Ribbonsnake","manual","0, 1","#00000000, #b2df8a","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Reptiles (IUCN)","T_IUCN_REPT_Thamnophis_sirtalis_aoh.tif","Common Gartersnake","manual","0, 1","#00000000, #b2df8a","absence, presence","km2","national","","FALSE","FALSE","0.2"
+"theme","Rivers","T_KM_River_length.tif","Rivers","continuous","","Blues","","km","national","","FALSE","FALSE","0.2"
+"theme","Shoreline","T_KM_Shoreline_length.tif","Shoreline","continuous","","YlOrBr","","km","national","","FALSE","FALSE","0.2"
+"theme","Land Cover","T_LC_Forest-lc.tif","Forest (LC)","continuous","","viridis","","ha","national","","FALSE","FALSE","0.2"
+"theme","Land Cover","T_LC_Forest-lu.tif","Forest (LU)","continuous","","viridis","","ha","national","","FALSE","FALSE","0.2"
+"theme","Land Cover","T_LC_Grassland.tif","Grassland","continuous","","viridis","","ha","national","","FALSE","FALSE","0.2"
+"theme","Land Cover","T_LC_Lakes.tif","Lakes","continuous","","viridis","","ha","national","","FALSE","FALSE","0.2"
+"theme","Land Cover","T_LC_Wetlands.tif","Wetlands","continuous","","viridis","","ha","national","","FALSE","FALSE","0.2"
+"weight","","W_Carbon_potential.tif","Carbon potential","continuous","","YlOrBr","","tonnes/yr","national","","FALSE","FALSE",""
+"weight","","W_Carbon_storage.tif","Carbon storage","continuous","","YlOrBr","","tonnes","national","","FALSE","FALSE",""
+"weight","","W_Climate_extremes.tif","Climate extremes","continuous","","magma","","index","national","","FALSE","FALSE",""
+"weight","","W_Climate_forward_velocity.tif","Climate forward velocity","continuous","","magma","","index","national","","FALSE","FALSE",""
+"weight","","W_Climate_refugia.tif","Climate refugia","continuous","","magma","","index","national","","FALSE","FALSE",""
+"weight","","W_Connectivity.tif","Connectivity","continuous","","mako","","current density","national","","FALSE","FALSE",""
+"weight","","W_Freshwater.tif","Freshwater","continuous","","Blues","","ha","national","","FALSE","FALSE",""
+"weight","","W_Human_footprint.tif","Human footprint","continuous","","rocket","","index","national","","FALSE","FALSE",""
+"weight","","W_Key_biodiversity_areas.tif","Key biodiversity areas","manual","0, 1","#00000000, #7fbc41","not KBA, KBA","km2","national","","FALSE","FALSE",""
+"weight","","W_Recreation.tif","Recreation","continuous","","Greens","","ha","national","","FALSE","FALSE",""

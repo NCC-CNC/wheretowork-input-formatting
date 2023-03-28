@@ -9,9 +9,9 @@ boundary_path: sw_on_boundary.csv.gz
 themes:
 - name: Critical Habitat (ECCC)
   feature:
-  - name: Aristida basiramea
+  - name: Western Chorus Frog (Great Lakes / St. Lawrence - Canadian Shield population)
     variable:
-      index: T_ECCC_CH_Aristida_basiramea
+      index: T_ECCC_CH_COSEWICID_1019
       units: km2
       legend:
         type: manual
@@ -24,12 +24,12 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Charadrius melodus circumcinctus
+  - name: Eastern Foxsnake (Great Lakes / St. Lawrence population)
     variable:
-      index: T_ECCC_CH_Charadrius_melodus_circumcinctus
+      index: T_ECCC_CH_COSEWICID_1022
       units: km2
       legend:
         type: manual
@@ -42,12 +42,12 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Clemmys guttata
+  - name: Eastern Whip-poor-will
     variable:
-      index: T_ECCC_CH_Clemmys_guttata
+      index: T_ECCC_CH_COSEWICID_1047
       units: km2
       legend:
         type: manual
@@ -60,12 +60,12 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Emydoidea blandingii
+  - name: Bobolink
     variable:
-      index: T_ECCC_CH_Emydoidea_blandingii
+      index: T_ECCC_CH_COSEWICID_1087
       units: km2
       legend:
         type: manual
@@ -78,12 +78,12 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Glyptemys insculpta
+  - name: Eastern Meadowlark
     variable:
-      index: T_ECCC_CH_Glyptemys_insculpta
+      index: T_ECCC_CH_COSEWICID_1144
       units: km2
       legend:
         type: manual
@@ -96,12 +96,12 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Ixobrychus exilis
+  - name: Hine's Emerald
     variable:
-      index: T_ECCC_CH_Ixobrychus_exilis
+      index: T_ECCC_CH_COSEWICID_1145
       units: km2
       legend:
         type: manual
@@ -114,12 +114,12 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Platanthera leucophaea
+  - name: Hungerford's Crawling Water Beetle
     variable:
-      index: T_ECCC_CH_Platanthera_leucophaea
+      index: T_ECCC_CH_COSEWICID_1146
       units: km2
       legend:
         type: manual
@@ -132,12 +132,12 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Pseudacris triseriata
+  - name: Little Brown Myotis
     variable:
-      index: T_ECCC_CH_Pseudacris_triseriata
+      index: T_ECCC_CH_COSEWICID_1173
       units: km2
       legend:
         type: manual
@@ -150,12 +150,12 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Sternotherus odoratus
+  - name: Tri-coloured Bat
     variable:
-      index: T_ECCC_CH_Sternotherus_odoratus
+      index: T_ECCC_CH_COSEWICID_1174
       units: km2
       legend:
         type: manual
@@ -168,12 +168,12 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Thamnophis butleri
+  - name: Northern Myotis
     variable:
-      index: T_ECCC_CH_Thamnophis_butleri
+      index: T_ECCC_CH_COSEWICID_1175
       units: km2
       legend:
         type: manual
@@ -186,12 +186,12 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Wilsonia citrina
+  - name: Bank Swallow
     variable:
-      index: T_ECCC_CH_Wilsonia_citrina
+      index: T_ECCC_CH_COSEWICID_1233
       units: km2
       legend:
         type: manual
@@ -204,7 +204,313 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
+    goal: 0.2
+    limit_goal: 0.0
+  - name: American Ginseng
+    variable:
+      index: T_ECCC_CH_COSEWICID_217
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ffed6f'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: no
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Goldenseal
+    variable:
+      index: T_ECCC_CH_COSEWICID_221
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ffed6f'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: no
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Eastern Prairie Fringed-orchid
+    variable:
+      index: T_ECCC_CH_COSEWICID_248
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ffed6f'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: no
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Massasauga
+    variable:
+      index: T_ECCC_CH_COSEWICID_277
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ffed6f'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: no
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Spotted Turtle
+    variable:
+      index: T_ECCC_CH_COSEWICID_285
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ffed6f'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: no
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Wood Turtle
+    variable:
+      index: T_ECCC_CH_COSEWICID_286
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ffed6f'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: no
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Cerulean Warbler
+    variable:
+      index: T_ECCC_CH_COSEWICID_46
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ffed6f'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: no
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Red-headed Woodpecker
+    variable:
+      index: T_ECCC_CH_COSEWICID_57
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ffed6f'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: no
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Queensnake
+    variable:
+      index: T_ECCC_CH_COSEWICID_585
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ffed6f'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: no
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Butler's Gartersnake
+    variable:
+      index: T_ECCC_CH_COSEWICID_588
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ffed6f'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: no
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Jefferson Salamander
+    variable:
+      index: T_ECCC_CH_COSEWICID_642
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ffed6f'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: no
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Piping Plover circumcinctus subspecies
+    variable:
+      index: T_ECCC_CH_COSEWICID_686
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ffed6f'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: no
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Lakeside Daisy
+    variable:
+      index: T_ECCC_CH_COSEWICID_705
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ffed6f'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: no
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Forked Three-awned Grass
+    variable:
+      index: T_ECCC_CH_COSEWICID_744
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ffed6f'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: no
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Hill's Thistle
+    variable:
+      index: T_ECCC_CH_COSEWICID_807
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ffed6f'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: no
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Blanding's Turtle (Great Lakes / St. Lawrence population)
+    variable:
+      index: T_ECCC_CH_COSEWICID_846
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ffed6f'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: no
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Chimney Swift
+    variable:
+      index: T_ECCC_CH_COSEWICID_951
+      units: km2
+      legend:
+        type: manual
+        colors:
+        - '#00000000'
+        - '#ffed6f'
+        labels:
+        - absence
+        - presence
+      provenance: national
+    status: yes
+    visible: no
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
 - name: Species at Risk (ECCC)
@@ -224,7 +530,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Western Chorus Frog (Great Lakes / St. Lawrence - Canadian Shield population)
@@ -242,7 +548,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Eastern Foxsnake (Great Lakes / St. Lawrence population)
@@ -260,7 +566,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Snapping Turtle
@@ -278,7 +584,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Eastern Whippoorwill
@@ -296,7 +602,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Rustypatched Bumble Bee
@@ -314,7 +620,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Bobolink
@@ -332,7 +638,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Macropis Cuckoo Bee
@@ -350,7 +656,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Eastern Meadowlark
@@ -368,7 +674,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Hine's Emerald
@@ -386,7 +692,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Hungerford's Crawling Water Beetle
@@ -404,7 +710,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Barn Swallow
@@ -422,7 +728,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Wood Thrush
@@ -440,7 +746,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Eastern Woodpewee
@@ -458,7 +764,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Mottled Duskywing (Great Lakes Plains population)
@@ -476,7 +782,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Massasauga (Great Lakes population)
@@ -494,7 +800,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Gypsy Cuckoo Bumble Bee
@@ -512,7 +818,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Bank Swallow
@@ -530,7 +836,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Grasshopper Sparrow, pratensis subspecies
@@ -548,7 +854,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Loggerhead Shrike Eastern subspecies
@@ -566,7 +872,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Gray Fox
@@ -584,7 +890,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Gattinger's Agalinis
@@ -602,7 +908,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Spotted Wintergreen
@@ -620,7 +926,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: American Ginseng
@@ -638,7 +944,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Pitcher's Thistle
@@ -656,7 +962,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Henslow's Sparrow
@@ -674,7 +980,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: King Rail
@@ -692,7 +998,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Eastern Prairie Fringedorchid
@@ -710,7 +1016,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Kirtland's Warbler
@@ -728,7 +1034,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Hill's Pondweed
@@ -746,7 +1052,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Tuberous Indianplantain
@@ -764,7 +1070,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Loggerhead Shrike migrans subspecies
@@ -782,7 +1088,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Massasauga
@@ -800,7 +1106,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Spotted Turtle
@@ -818,7 +1124,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Monarch
@@ -836,7 +1142,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Eastern Hognosed Snake
@@ -854,7 +1160,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Hooded Warbler
@@ -872,7 +1178,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Cerulean Warbler
@@ -890,7 +1196,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Least Bittern
@@ -908,7 +1214,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Louisiana Waterthrush
@@ -926,7 +1232,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Northern Leopard Frog (Western Boreal/Prairie populations)
@@ -944,7 +1250,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Redheaded Woodpecker
@@ -962,7 +1268,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Yellow Rail
@@ -980,7 +1286,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Butler's Gartersnake
@@ -998,7 +1304,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Shorteared Owl
@@ -1016,7 +1322,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Yellow-breasted Chat virens subspecies
@@ -1034,7 +1340,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: American Badger jacksoni subspecies
@@ -1052,7 +1358,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Jefferson Salamander
@@ -1070,7 +1376,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Hart'stongue Fern
@@ -1088,7 +1394,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Lakeside Daisy
@@ -1106,7 +1412,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Eastern Musk Turtle
@@ -1124,7 +1430,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Eastern Ribbonsnake (Great Lakes population)
@@ -1142,7 +1448,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Northern Map Turtle
@@ -1160,7 +1466,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Eastern Milksnake
@@ -1178,7 +1484,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Forked Threeawned Grass
@@ -1196,7 +1502,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Butternut
@@ -1214,7 +1520,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Hill's Thistle
@@ -1232,7 +1538,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Dwarf Lake Iris
@@ -1250,7 +1556,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Blanding's Turtle (Great Lakes / St. Lawrence population)
@@ -1268,7 +1574,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Houghton's Goldenrod
@@ -1286,7 +1592,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Rusty Blackbird
@@ -1304,7 +1610,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Aweme Borer
@@ -1322,7 +1628,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Goldenwinged Warbler
@@ -1340,7 +1646,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Chimney Swift
@@ -1358,7 +1664,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Common Nighthawk
@@ -1376,7 +1682,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Olivesided Flycatcher
@@ -1394,7 +1700,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
 - name: Amphibians (IUCN)
@@ -1414,7 +1720,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Spotted Salamander
@@ -1432,7 +1738,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: American Toad
@@ -1450,10 +1756,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Southern Gray Treefrog
+  - name: Cope's Gray Treefrog
     variable:
       index: T_IUCN_AMPH_Dryophytes_chrysoscelis_aoh
       units: km2
@@ -1468,10 +1774,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Chameleon Treefrog
+  - name: Gray Treefrog
     variable:
       index: T_IUCN_AMPH_Dryophytes_versicolor_aoh
       units: km2
@@ -1486,10 +1792,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Four-Toed Salamander
+  - name: Four-toed Salamander
     variable:
       index: T_IUCN_AMPH_Hemidactylium_scutatum_aoh
       units: km2
@@ -1504,10 +1810,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: American Bullfrog
+  - name: Common Bullfrog
     variable:
       index: T_IUCN_AMPH_Lithobates_catesbeianus_aoh
       units: km2
@@ -1522,10 +1828,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Bronze Frog
+  - name: Green Frog
     variable:
       index: T_IUCN_AMPH_Lithobates_clamitans_aoh
       units: km2
@@ -1540,7 +1846,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Pickerel Frog
@@ -1558,7 +1864,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Northern Leopard Frog
@@ -1576,7 +1882,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Mink Frog
@@ -1594,7 +1900,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Wood Frog
@@ -1612,7 +1918,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Eastern Newt
@@ -1630,10 +1936,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Red-Backed Salamander
+  - name: Redback Salamander
     variable:
       index: T_IUCN_AMPH_Plethodon_cinereus_aoh
       units: km2
@@ -1648,7 +1954,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Spring Peeper
@@ -1666,7 +1972,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Boreal Chorus Frog
@@ -1684,12 +1990,12 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
 - name: Birds (IUCN)
   feature:
-  - name: Common Redpoll 3
+  - name: Redpoll 3
     variable:
       index: T_IUCN_BIRD_Acanthis_flammea_3_aoh
       units: km2
@@ -1704,7 +2010,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Cooper's Hawk 2
@@ -1722,7 +2028,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Northern Goshawk 1
@@ -1740,10 +2046,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Sharp-Shinned Hawk 2
+  - name: Sharp-shinned Hawk 2
     variable:
       index: T_IUCN_BIRD_Accipiter_striatus_2_aoh
       units: km2
@@ -1758,10 +2064,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Actitis macularius 2
+  - name: Spotted Sandpiper 2
     variable:
       index: T_IUCN_BIRD_Actitis_macularius_2_aoh
       units: km2
@@ -1776,10 +2082,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Northern Saw-Whet Owl 1
+  - name: Northern Saw-whet Owl 1
     variable:
       index: T_IUCN_BIRD_Aegolius_acadicus_1_aoh
       units: km2
@@ -1794,10 +2100,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Red-Winged Blackbird 2
+  - name: Red-winged Blackbird 2
     variable:
       index: T_IUCN_BIRD_Agelaius_phoeniceus_2_aoh
       units: km2
@@ -1812,7 +2118,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Wood Duck 1
@@ -1830,7 +2136,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Wood Duck 2
@@ -1848,7 +2154,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Grasshopper Sparrow 2
@@ -1866,10 +2172,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Leconte's Sparrow 2
+  - name: Le Conte's Sparrow 2
     variable:
       index: T_IUCN_BIRD_Ammospiza_leconteii_2_aoh
       units: km2
@@ -1884,10 +2190,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Northern Pintail 2
+  - name: Pintail 2
     variable:
       index: T_IUCN_BIRD_Anas_acuta_2_aoh
       units: km2
@@ -1902,7 +2208,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Common Teal 2
@@ -1920,7 +2226,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Mallard 2
@@ -1938,7 +2244,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: American Black Duck 2
@@ -1956,10 +2262,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Antrostomus vociferus 2
+  - name: Eastern Whip-poor-will 2
     variable:
       index: T_IUCN_BIRD_Antrostomus_vociferus_2_aoh
       units: km2
@@ -1974,10 +2280,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Archilochus colubris 2
+  - name: Ruby-throated Hummingbird 2
     variable:
       index: T_IUCN_BIRD_Archilochus_colubris_2_aoh
       units: km2
@@ -1992,10 +2298,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Great Egret 2
+  - name: Great White Egret 2
     variable:
       index: T_IUCN_BIRD_Ardea_alba_2_aoh
       units: km2
@@ -2010,7 +2316,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Great Blue Heron 2
@@ -2028,10 +2334,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Short-Eared Owl 1
+  - name: Short-eared Owl 1
     variable:
       index: T_IUCN_BIRD_Asio_flammeus_1_aoh
       units: km2
@@ -2046,10 +2352,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Short-Eared Owl 2
+  - name: Short-eared Owl 2
     variable:
       index: T_IUCN_BIRD_Asio_flammeus_2_aoh
       units: km2
@@ -2064,10 +2370,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Long-Eared Owl 1
+  - name: Northern Long-eared Owl 1
     variable:
       index: T_IUCN_BIRD_Asio_otus_1_aoh
       units: km2
@@ -2082,7 +2388,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Redhead 2
@@ -2100,10 +2406,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Ring-Necked Duck 2
+  - name: Ring-necked Duck 2
     variable:
       index: T_IUCN_BIRD_Aythya_collaris_2_aoh
       units: km2
@@ -2118,7 +2424,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Greater Scaup 3
@@ -2136,7 +2442,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Canvasback 2
@@ -2154,7 +2460,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Upland Sandpiper 2
@@ -2172,7 +2478,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Cedar Waxwing 1
@@ -2190,10 +2496,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Bombycilla garrulus 3
+  - name: Waxwing 3
     variable:
       index: T_IUCN_BIRD_Bombycilla_garrulus_3_aoh
       units: km2
@@ -2208,7 +2514,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Ruffed Grouse 1
@@ -2226,7 +2532,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: American Bittern 2
@@ -2244,7 +2550,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Canada Goose 1
@@ -2262,7 +2568,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Snowy Owl 3
@@ -2280,7 +2586,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Great Horned Owl 1
@@ -2298,7 +2604,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Cattle Egret 2
@@ -2316,7 +2622,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Common Goldeneye 3
@@ -2334,10 +2640,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Red-Tailed Hawk 2
+  - name: Red-tailed Hawk 2
     variable:
       index: T_IUCN_BIRD_Buteo_jamaicensis_2_aoh
       units: km2
@@ -2352,10 +2658,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Rough-Legged Hawk 3
+  - name: Rough-legged Buzzard 3
     variable:
       index: T_IUCN_BIRD_Buteo_lagopus_3_aoh
       units: km2
@@ -2370,10 +2676,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Red-Shouldered Hawk 2
+  - name: Red-shouldered Hawk 2
     variable:
       index: T_IUCN_BIRD_Buteo_lineatus_2_aoh
       units: km2
@@ -2388,10 +2694,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Broad-Winged Hawk 2
+  - name: Broad-winged Hawk 2
     variable:
       index: T_IUCN_BIRD_Buteo_platypterus_2_aoh
       units: km2
@@ -2406,10 +2712,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Green-Backed Heron 2
+  - name: Green-backed Heron 2
     variable:
       index: T_IUCN_BIRD_Butorides_striata_2_aoh
       units: km2
@@ -2424,10 +2730,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Lapland Longspur 3
+  - name: Lapland Bunting 3
     variable:
       index: T_IUCN_BIRD_Calcarius_lapponicus_3_aoh
       units: km2
@@ -2442,7 +2748,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Canada Warbler 2
@@ -2460,7 +2766,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Northern Cardinal 1
@@ -2478,7 +2784,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Turkey Vulture 2
@@ -2496,7 +2802,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Veery 2
@@ -2514,7 +2820,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Hermit Thrush 2
@@ -2532,10 +2838,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Catharus swainsoni 2
+  - name: Swainson's Thrush 2
     variable:
       index: T_IUCN_BIRD_Catharus_swainsoni_2_aoh
       units: km2
@@ -2550,10 +2856,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Certhia americana 1
+  - name: American Treecreeper 1
     variable:
       index: T_IUCN_BIRD_Certhia_americana_1_aoh
       units: km2
@@ -2568,7 +2874,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Chimney Swift 2
@@ -2586,7 +2892,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Killdeer 2
@@ -2604,7 +2910,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Black Tern 2
@@ -2622,7 +2928,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Common Nighthawk 2
@@ -2640,10 +2946,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: American Harrier 2
+  - name: Northern Harrier 2
     variable:
       index: T_IUCN_BIRD_Circus_hudsonius_2_aoh
       units: km2
@@ -2658,10 +2964,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Cistothorus palustris 2
+  - name: Marsh Wren 2
     variable:
       index: T_IUCN_BIRD_Cistothorus_palustris_2_aoh
       units: km2
@@ -2676,10 +2982,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Cistothorus stellaris 2
+  - name: Sedge Wren 2
     variable:
       index: T_IUCN_BIRD_Cistothorus_stellaris_2_aoh
       units: km2
@@ -2694,10 +3000,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Long-Tailed Duck 2
+  - name: Long-tailed Duck 2
     variable:
       index: T_IUCN_BIRD_Clangula_hyemalis_2_aoh
       units: km2
@@ -2712,10 +3018,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Long-Tailed Duck 3
+  - name: Long-tailed Duck 3
     variable:
       index: T_IUCN_BIRD_Clangula_hyemalis_3_aoh
       units: km2
@@ -2730,10 +3036,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Coccyzus americanus 2
+  - name: Yellow-billed Cuckoo 2
     variable:
       index: T_IUCN_BIRD_Coccyzus_americanus_2_aoh
       units: km2
@@ -2748,10 +3054,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Black-Billec Cuckoo 2
+  - name: Black-billed Cuckoo 2
     variable:
       index: T_IUCN_BIRD_Coccyzus_erythropthalmus_2_aoh
       units: km2
@@ -2766,10 +3072,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Colaptes auratus 2
+  - name: Northern Flicker 2
     variable:
       index: T_IUCN_BIRD_Colaptes_auratus_2_aoh
       units: km2
@@ -2784,10 +3090,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Contopus cooperi 2
+  - name: Olive-sided Flycatcher 2
     variable:
       index: T_IUCN_BIRD_Contopus_cooperi_2_aoh
       units: km2
@@ -2802,10 +3108,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Contopus virens 2
+  - name: Eastern Wood-Pewee 2
     variable:
       index: T_IUCN_BIRD_Contopus_virens_2_aoh
       units: km2
@@ -2820,7 +3126,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: American Crow 1
@@ -2838,7 +3144,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: American Crow 2
@@ -2856,7 +3162,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Yellow Rail 2
@@ -2874,7 +3180,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Blue Jay 1
@@ -2892,10 +3198,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Trumperter Swan 1
+  - name: Trumpeter Swan 1
     variable:
       index: T_IUCN_BIRD_Cygnus_buccinator_1_aoh
       units: km2
@@ -2910,7 +3216,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Bobolink 2
@@ -2928,7 +3234,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Downy Woodpecker 1
@@ -2946,10 +3252,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Grey Catbird 2
+  - name: Gray Catbird 2
     variable:
       index: T_IUCN_BIRD_Dumetella_carolinensis_2_aoh
       units: km2
@@ -2964,7 +3270,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Alder Flycatcher 2
@@ -2982,10 +3288,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Empidonax flaviventris 2
+  - name: Yellow-bellied Flycatcher 2
     variable:
       index: T_IUCN_BIRD_Empidonax_flaviventris_2_aoh
       units: km2
@@ -3000,10 +3306,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Empidonax minimus 2
+  - name: Least Flycatcher 2
     variable:
       index: T_IUCN_BIRD_Empidonax_minimus_2_aoh
       units: km2
@@ -3018,7 +3324,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Willow Flycatcher 2
@@ -3036,10 +3342,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Horned Lark 2
+  - name: Shore Lark 2
     variable:
       index: T_IUCN_BIRD_Eremophila_alpestris_2_aoh
       units: km2
@@ -3054,7 +3360,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Brewer's Blackbird 2
@@ -3072,10 +3378,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Siberian Grouse 1
+  - name: Spruce Grouse 1
     variable:
       index: T_IUCN_BIRD_Falcipennis_canadensis_1_aoh
       units: km2
@@ -3090,10 +3396,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Falco columbarius 2
+  - name: Merlin 2
     variable:
       index: T_IUCN_BIRD_Falco_columbarius_2_aoh
       units: km2
@@ -3108,7 +3414,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Peregrine Falcon 2
@@ -3126,7 +3432,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Gyrfalcon 3
@@ -3144,10 +3450,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Falco sparverius 2
+  - name: American Kestrel 2
     variable:
       index: T_IUCN_BIRD_Falco_sparverius_2_aoh
       units: km2
@@ -3162,7 +3468,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: American Coot 2
@@ -3180,10 +3486,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Gallinago delicata 2
+  - name: Wilson's Snipe 2
     variable:
       index: T_IUCN_BIRD_Gallinago_delicata_2_aoh
       units: km2
@@ -3198,10 +3504,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Gallinula galeata 2
+  - name: Common Gallinule 2
     variable:
       index: T_IUCN_BIRD_Gallinula_galeata_2_aoh
       units: km2
@@ -3216,7 +3522,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Great Northern Loon 2
@@ -3234,7 +3540,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Mourning Warbler 2
@@ -3252,7 +3558,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Common Yellowthroat 2
@@ -3270,7 +3576,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: House Finch 1
@@ -3288,7 +3594,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Purple Finch 1
@@ -3306,7 +3612,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Bald Eagle 1
@@ -3324,7 +3630,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Bald Eagle 3
@@ -3342,10 +3648,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Hesperiphona vespertina 3
+  - name: Evening Grosbeak 3
     variable:
       index: T_IUCN_BIRD_Hesperiphona_vespertina_3_aoh
       units: km2
@@ -3360,10 +3666,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Barn Swallow 2
+  - name: European Swallow 2
     variable:
       index: T_IUCN_BIRD_Hirundo_rustica_2_aoh
       units: km2
@@ -3378,10 +3684,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Hydrocoloeus minutus 2
+  - name: Little Gull 2
     variable:
       index: T_IUCN_BIRD_Hydrocoloeus_minutus_2_aoh
       units: km2
@@ -3396,10 +3702,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Hylatomus pileatus 1
+  - name: Pileated Woodpecker 1
     variable:
       index: T_IUCN_BIRD_Hylatomus_pileatus_1_aoh
       units: km2
@@ -3414,10 +3720,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Hylocichla mustelina 2
+  - name: Wood Thrush 2
     variable:
       index: T_IUCN_BIRD_Hylocichla_mustelina_2_aoh
       units: km2
@@ -3432,7 +3738,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Baltimore Oriole 2
@@ -3450,10 +3756,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Icterus spurius 2
+  - name: Orchard Oriole 2
     variable:
       index: T_IUCN_BIRD_Icterus_spurius_2_aoh
       units: km2
@@ -3468,7 +3774,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Least Bittern 2
@@ -3486,10 +3792,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Dark-Eyed Junco 1
+  - name: Dark-eyed Junco 1
     variable:
       index: T_IUCN_BIRD_Junco_hyemalis_1_aoh
       units: km2
@@ -3504,10 +3810,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Dark-Eyed Junco 2
+  - name: Dark-eyed Junco 2
     variable:
       index: T_IUCN_BIRD_Junco_hyemalis_2_aoh
       units: km2
@@ -3522,10 +3828,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Lanius borealis 3
+  - name: Northern Grey Shrike 3
     variable:
       index: T_IUCN_BIRD_Lanius_borealis_3_aoh
       units: km2
@@ -3540,10 +3846,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Lanius ludovicianus 2
+  - name: Loggerhead Shrike 2
     variable:
       index: T_IUCN_BIRD_Lanius_ludovicianus_2_aoh
       units: km2
@@ -3558,7 +3864,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Laughing Gull 2
@@ -3576,10 +3882,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Larus delawarensis 2
+  - name: Ring-billed Gull 2
     variable:
       index: T_IUCN_BIRD_Larus_delawarensis_2_aoh
       units: km2
@@ -3594,10 +3900,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Larus hyperboreus 3
+  - name: Glaucous Gull 3
     variable:
       index: T_IUCN_BIRD_Larus_hyperboreus_3_aoh
       units: km2
@@ -3612,10 +3918,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Larus marinus 3
+  - name: Greater Black-backed Gull 3
     variable:
       index: T_IUCN_BIRD_Larus_marinus_3_aoh
       units: km2
@@ -3630,10 +3936,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Larus philadelphia 3
+  - name: Bonaparte's Gull 3
     variable:
       index: T_IUCN_BIRD_Larus_philadelphia_3_aoh
       units: km2
@@ -3648,10 +3954,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: American Herring Gull 1
+  - name: Arctic Herring Gull 1
     variable:
       index: T_IUCN_BIRD_Larus_smithsonianus_1_aoh
       units: km2
@@ -3666,10 +3972,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Leiothlypis ruficapilla 2
+  - name: Nashville Warbler 2
     variable:
       index: T_IUCN_BIRD_Leiothlypis_ruficapilla_2_aoh
       units: km2
@@ -3684,10 +3990,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Leuconotopicus villosus 1
+  - name: Hairy Woodpecker 1
     variable:
       index: T_IUCN_BIRD_Leuconotopicus_villosus_1_aoh
       units: km2
@@ -3702,10 +4008,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Lophodytes cucullatus 1
+  - name: Hooded Merganser 1
     variable:
       index: T_IUCN_BIRD_Lophodytes_cucullatus_1_aoh
       units: km2
@@ -3720,10 +4026,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Lophodytes cucullatus 2
+  - name: Hooded Merganser 2
     variable:
       index: T_IUCN_BIRD_Lophodytes_cucullatus_2_aoh
       units: km2
@@ -3738,10 +4044,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Loxia leucoptera 1
+  - name: Two-barred Crossbill 1
     variable:
       index: T_IUCN_BIRD_Loxia_leucoptera_1_aoh
       units: km2
@@ -3756,7 +4062,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: American Wigeon 2
@@ -3774,7 +4080,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Gadwall 2
@@ -3792,7 +4098,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Belted Kingfisher 2
@@ -3810,10 +4116,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Eastern Screech-Owl 1
+  - name: Eastern Screech-owl 1
     variable:
       index: T_IUCN_BIRD_Megascops_asio_1_aoh
       units: km2
@@ -3828,10 +4134,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Red-Headed Woodpecker 2
+  - name: Red-headed Woodpecker 2
     variable:
       index: T_IUCN_BIRD_Melanerpes_erythrocephalus_2_aoh
       units: km2
@@ -3846,7 +4152,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Turkey 1
@@ -3864,10 +4170,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Melospiza georgiana 2
+  - name: Swamp Sparrow 2
     variable:
       index: T_IUCN_BIRD_Melospiza_georgiana_2_aoh
       units: km2
@@ -3882,10 +4188,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Melospiza lincolnii 2
+  - name: Lincoln's Sparrow 2
     variable:
       index: T_IUCN_BIRD_Melospiza_lincolnii_2_aoh
       units: km2
@@ -3900,7 +4206,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Song Sparrow 1
@@ -3918,7 +4224,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Song Sparrow 2
@@ -3936,10 +4242,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Common Merganser 1
+  - name: Goosander 1
     variable:
       index: T_IUCN_BIRD_Mergus_merganser_1_aoh
       units: km2
@@ -3954,10 +4260,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Mergus serrator 2
+  - name: Red-breasted Merganser 2
     variable:
       index: T_IUCN_BIRD_Mergus_serrator_2_aoh
       units: km2
@@ -3972,10 +4278,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Mergus serrator 3
+  - name: Red-breasted Merganser 3
     variable:
       index: T_IUCN_BIRD_Mergus_serrator_3_aoh
       units: km2
@@ -3990,7 +4296,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Northern Mockingbird 1
@@ -4008,10 +4314,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Black-And-White Warbler 2
+  - name: Black-and-white Warbler 2
     variable:
       index: T_IUCN_BIRD_Mniotilta_varia_2_aoh
       units: km2
@@ -4026,10 +4332,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Molothrus ater 2
+  - name: Brown-headed Cowbird 2
     variable:
       index: T_IUCN_BIRD_Molothrus_ater_2_aoh
       units: km2
@@ -4044,7 +4350,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Great Crested Flycatcher 2
@@ -4062,10 +4368,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Nannopterum auritus 2
+  - name: Double-crested Cormorant 2
     variable:
       index: T_IUCN_BIRD_Nannopterum_auritus_2_aoh
       units: km2
@@ -4080,10 +4386,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Black-Crowned Night-Heron 2
+  - name: Night Heron 2
     variable:
       index: T_IUCN_BIRD_Nycticorax_nycticorax_2_aoh
       units: km2
@@ -4098,7 +4404,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Ruddy Duck 2
@@ -4116,10 +4422,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Pandion haliaetus 2
+  - name: Osprey 2
     variable:
       index: T_IUCN_BIRD_Pandion_haliaetus_2_aoh
       units: km2
@@ -4134,10 +4440,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Lousiana Waterthrush 2
+  - name: Louisiana Waterthrush 2
     variable:
       index: T_IUCN_BIRD_Parkesia_motacilla_2_aoh
       units: km2
@@ -4152,7 +4458,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Northern Waterthrush 2
@@ -4170,7 +4476,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: House Sparrow 1
@@ -4188,7 +4494,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Savannah Sparrow 2
@@ -4206,10 +4512,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Passerella arborea 3
+  - name: American Tree Sparrow 3
     variable:
       index: T_IUCN_BIRD_Passerella_arborea_3_aoh
       units: km2
@@ -4224,7 +4530,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Indigo Bunting 2
@@ -4242,7 +4548,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Grey Partridge 1
@@ -4260,10 +4566,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Cliff Swallow 2
+  - name: American Cliff Swallow 2
     variable:
       index: T_IUCN_BIRD_Petrochelidon_pyrrhonota_2_aoh
       units: km2
@@ -4278,10 +4584,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Ring-Necked Pheasant 1
+  - name: Common Pheasant 1
     variable:
       index: T_IUCN_BIRD_Phasianus_colchicus_1_aoh
       units: km2
@@ -4296,10 +4602,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Rose-Breasted Grosbeak 2
+  - name: Rose-breasted Grosbeak 2
     variable:
       index: T_IUCN_BIRD_Pheucticus_ludovicianus_2_aoh
       units: km2
@@ -4314,7 +4620,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Pine Grosbeak 3
@@ -4332,10 +4638,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Pipilo erythrophthalmus 2
+  - name: Eastern Towhee 2
     variable:
       index: T_IUCN_BIRD_Pipilo_erythrophthalmus_2_aoh
       units: km2
@@ -4350,10 +4656,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Plectrophenax nivalis 3
+  - name: Snow Bunting 3
     variable:
       index: T_IUCN_BIRD_Plectrophenax_nivalis_3_aoh
       units: km2
@@ -4368,10 +4674,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Podiceps grisegena 3
+  - name: Red-necked Grebe 3
     variable:
       index: T_IUCN_BIRD_Podiceps_grisegena_3_aoh
       units: km2
@@ -4386,10 +4692,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Podilymbus podiceps 2
+  - name: Pied-billed Grebe 2
     variable:
       index: T_IUCN_BIRD_Podilymbus_podiceps_2_aoh
       units: km2
@@ -4404,10 +4710,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Black-Capped Chickadee 1
+  - name: Black-capped Chickadee 1
     variable:
       index: T_IUCN_BIRD_Poecile_atricapillus_1_aoh
       units: km2
@@ -4422,10 +4728,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Polioptila caerulea 2
+  - name: Blue-grey Gnatcatcher 2
     variable:
       index: T_IUCN_BIRD_Polioptila_caerulea_2_aoh
       units: km2
@@ -4440,10 +4746,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Pooecetes gramineus 2
+  - name: Vesper Sparrow 2
     variable:
       index: T_IUCN_BIRD_Pooecetes_gramineus_2_aoh
       units: km2
@@ -4458,7 +4764,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Sora 2
@@ -4476,10 +4782,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Progne subis 2
+  - name: Purple Martin 2
     variable:
       index: T_IUCN_BIRD_Progne_subis_2_aoh
       units: km2
@@ -4494,7 +4800,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Common Grackle 2
@@ -4512,10 +4818,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Rallus limicola 2
+  - name: Virginia Rail 2
     variable:
       index: T_IUCN_BIRD_Rallus_limicola_2_aoh
       units: km2
@@ -4530,10 +4836,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Regulus calendula 2
+  - name: Ruby-crowned Kinglet 2
     variable:
       index: T_IUCN_BIRD_Regulus_calendula_2_aoh
       units: km2
@@ -4548,10 +4854,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Golden-Crowned Kinglet 1
+  - name: Golden-crowned Kinglet 1
     variable:
       index: T_IUCN_BIRD_Regulus_satrapa_1_aoh
       units: km2
@@ -4566,10 +4872,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Golden-Crowned Kinglet 3
+  - name: Golden-crowned Kinglet 3
     variable:
       index: T_IUCN_BIRD_Regulus_satrapa_3_aoh
       units: km2
@@ -4584,10 +4890,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Riparia riparia 2
+  - name: Collared Sand Martin 2
     variable:
       index: T_IUCN_BIRD_Riparia_riparia_2_aoh
       units: km2
@@ -4602,7 +4908,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Eastern Phoebe 2
@@ -4620,10 +4926,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Scolopax minor 2
+  - name: American Woodcock 2
     variable:
       index: T_IUCN_BIRD_Scolopax_minor_2_aoh
       units: km2
@@ -4638,7 +4944,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Ovenbird 2
@@ -4656,10 +4962,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Setophaga americana 2
+  - name: Northern Parula 2
     variable:
       index: T_IUCN_BIRD_Setophaga_americana_2_aoh
       units: km2
@@ -4674,10 +4980,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Black-Throated Blue Warbler 2
+  - name: Black-throated Blue Warbler 2
     variable:
       index: T_IUCN_BIRD_Setophaga_caerulescens_2_aoh
       units: km2
@@ -4692,7 +4998,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Cerulean Warbler 2
@@ -4710,10 +5016,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Yellow-Rumped Warbler 2
+  - name: Myrtle Warbler 2
     variable:
       index: T_IUCN_BIRD_Setophaga_coronata_2_aoh
       units: km2
@@ -4728,7 +5034,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Blackburnian Warbler 2
@@ -4746,7 +5052,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Magnolia Warbler 2
@@ -4764,10 +5070,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Chestnut-Sided Warbler 2
+  - name: Chestnut-sided Warbler 2
     variable:
       index: T_IUCN_BIRD_Setophaga_pensylvanica_2_aoh
       units: km2
@@ -4782,10 +5088,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Yellow Warbler 2
+  - name: Golden Warbler 2
     variable:
       index: T_IUCN_BIRD_Setophaga_petechia_2_aoh
       units: km2
@@ -4800,7 +5106,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Pine Warbler 2
@@ -4818,10 +5124,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Setophaga ruticilla 2
+  - name: American Redstart 2
     variable:
       index: T_IUCN_BIRD_Setophaga_ruticilla_2_aoh
       units: km2
@@ -4836,7 +5142,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Eastern Bluebird 2
@@ -4854,10 +5160,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Red-Breasted Nuthatch 1
+  - name: Red-breasted Nuthatch 1
     variable:
       index: T_IUCN_BIRD_Sitta_canadensis_1_aoh
       units: km2
@@ -4872,10 +5178,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Sitta carolinensis 1
+  - name: White-breasted Nuthatch 1
     variable:
       index: T_IUCN_BIRD_Sitta_carolinensis_1_aoh
       units: km2
@@ -4890,10 +5196,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Blue-Winged Teal 2
+  - name: Blue-winged Teal 2
     variable:
       index: T_IUCN_BIRD_Spatula_discors_2_aoh
       units: km2
@@ -4908,10 +5214,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Yellow-Bellied Sapsucker 2
+  - name: Yellow-bellied Sapsucker 2
     variable:
       index: T_IUCN_BIRD_Sphyrapicus_varius_2_aoh
       units: km2
@@ -4926,7 +5232,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Pine Siskin 1
@@ -4944,7 +5250,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: American Goldfinch 1
@@ -4962,10 +5268,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Clay-Colored Sparrow 2
+  - name: Clay-colored Sparrow 2
     variable:
       index: T_IUCN_BIRD_Spizella_pallida_2_aoh
       units: km2
@@ -4980,7 +5286,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Chipping Sparrow 2
@@ -4998,7 +5304,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Field Sparrow 2
@@ -5016,7 +5322,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Wilson's Phalarope 2
@@ -5034,10 +5340,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Northern Rough-Winged Swallow 2
+  - name: Northern Rough-winged Swallow 2
     variable:
       index: T_IUCN_BIRD_Stelgidopteryx_serripennis_2_aoh
       units: km2
@@ -5052,7 +5358,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Common Tern 2
@@ -5070,10 +5376,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Great Grey Owl 1
+  - name: Great Gray Owl 1
     variable:
       index: T_IUCN_BIRD_Strix_nebulosa_1_aoh
       units: km2
@@ -5088,10 +5394,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Northern Barred Owl 1
+  - name: Barred Owl 1
     variable:
       index: T_IUCN_BIRD_Strix_varia_1_aoh
       units: km2
@@ -5106,10 +5412,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Sturnella magna 2
+  - name: Eastern Meadowlark 2
     variable:
       index: T_IUCN_BIRD_Sturnella_magna_2_aoh
       units: km2
@@ -5124,7 +5430,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Western Meadowlark 2
@@ -5142,10 +5448,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Common Starling 1
+  - name: Starling 1
     variable:
       index: T_IUCN_BIRD_Sturnus_vulgaris_1_aoh
       units: km2
@@ -5160,7 +5466,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Northern Hawk-Owl 1
@@ -5178,7 +5484,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Tree Swallow 2
@@ -5196,10 +5502,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Toxostoma rufum 2
+  - name: Brown Thrasher 2
     variable:
       index: T_IUCN_BIRD_Toxostoma_rufum_2_aoh
       units: km2
@@ -5214,7 +5520,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: House Wren 2
@@ -5232,10 +5538,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Eastern Winter Wren 2
+  - name: Winter Wren 2
     variable:
       index: T_IUCN_BIRD_Troglodytes_hiemalis_2_aoh
       units: km2
@@ -5250,7 +5556,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: American Robin 1
@@ -5268,7 +5574,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Eastern Kingbird 2
@@ -5286,10 +5592,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Golden-Winged Warbler 2
+  - name: Golden-winged Warbler 2
     variable:
       index: T_IUCN_BIRD_Vermivora_chrysoptera_2_aoh
       units: km2
@@ -5304,10 +5610,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Vireo flavifrons 2
+  - name: Yellow-throated Vireo 2
     variable:
       index: T_IUCN_BIRD_Vireo_flavifrons_2_aoh
       units: km2
@@ -5322,7 +5628,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Warbling Vireo 2
@@ -5340,10 +5646,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Red-Eyed Vireo 2
+  - name: Red-eyed Vireo 2
     variable:
       index: T_IUCN_BIRD_Vireo_olivaceus_2_aoh
       units: km2
@@ -5358,10 +5664,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Solitary Vireo 2
+  - name: Blue-headed Vireo 2
     variable:
       index: T_IUCN_BIRD_Vireo_solitarius_2_aoh
       units: km2
@@ -5376,10 +5682,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Mourning Dove 1
+  - name: American Mourning Dove 1
     variable:
       index: T_IUCN_BIRD_Zenaida_macroura_1_aoh
       units: km2
@@ -5394,10 +5700,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: White-Throated Sparrow 2
+  - name: White-throated Sparrow 2
     variable:
       index: T_IUCN_BIRD_Zonotrichia_albicollis_2_aoh
       units: km2
@@ -5412,12 +5718,12 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
 - name: Mammals (IUCN)
   feature:
-  - name: Eurasian Elk
+  - name: Moose
     variable:
       index: T_IUCN_MAMM_Alces_alces_aoh
       units: km2
@@ -5432,10 +5738,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Short-Tailed Shrew
+  - name: Northern Short-tailed Shrew
     variable:
       index: T_IUCN_MAMM_Blarina_brevicauda_aoh
       units: km2
@@ -5450,7 +5756,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Coyote
@@ -5468,7 +5774,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: American Beaver
@@ -5486,10 +5792,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Star-Nosed Mole
+  - name: Star-nosed Mole
     variable:
       index: T_IUCN_MAMM_Condylura_cristata_aoh
       units: km2
@@ -5504,7 +5810,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Big Brown Bat
@@ -5522,7 +5828,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: North American Porcupine
@@ -5540,7 +5846,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Northern Flying Squirrel
@@ -5558,7 +5864,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Southern Flying Squirrel
@@ -5576,10 +5882,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Silver-Haired Bat
+  - name: Silver-haired Bat
     variable:
       index: T_IUCN_MAMM_Lasionycteris_noctivagans_aoh
       units: km2
@@ -5594,7 +5900,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Red Bat
@@ -5612,10 +5918,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Hoary Bat
+  - name: Hawaiian Hoary Bat
     variable:
       index: T_IUCN_MAMM_Lasiurus_cinereus_aoh
       units: km2
@@ -5630,7 +5936,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Snowshoe Hare
@@ -5648,7 +5954,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: European Hare
@@ -5666,10 +5972,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Northern American River Otter
+  - name: Northern River Otter
     variable:
       index: T_IUCN_MAMM_Lontra_canadensis_aoh
       units: km2
@@ -5684,7 +5990,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Canada Lynx
@@ -5702,7 +6008,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Bobcat
@@ -5720,7 +6026,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Woodchuck
@@ -5738,7 +6044,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Fisher
@@ -5756,7 +6062,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Striped Skunk
@@ -5774,7 +6080,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Meadow Vole
@@ -5792,7 +6098,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: House Mouse
@@ -5810,10 +6116,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Ermine
+  - name: Short-tailed Weasel
     variable:
       index: T_IUCN_MAMM_Mustela_erminea_aoh
       units: km2
@@ -5828,10 +6134,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Long-Tailed Weasel
+  - name: Long-tailed Weasel
     variable:
       index: T_IUCN_MAMM_Mustela_frenata_aoh
       units: km2
@@ -5846,7 +6152,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Least Weasel
@@ -5864,10 +6170,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Southern Red-Backed Vole
+  - name: Revillagigedo Island Red-backed Vole
     variable:
       index: T_IUCN_MAMM_Myodes_gapperi_aoh
       units: km2
@@ -5882,10 +6188,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Eastern Small-Footed Myotis
+  - name: Eastern Small-footed Myotis
     variable:
       index: T_IUCN_MAMM_Myotis_leibii_aoh
       units: km2
@@ -5900,10 +6206,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Little Brown Bat
+  - name: Little Brown Myotis
     variable:
       index: T_IUCN_MAMM_Myotis_lucifugus_aoh
       units: km2
@@ -5918,10 +6224,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Northern Long-Eared Myotis
+  - name: Northern Myotis
     variable:
       index: T_IUCN_MAMM_Myotis_septentrionalis_aoh
       units: km2
@@ -5936,7 +6242,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Woodland Jumping Mouse
@@ -5954,7 +6260,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: American Mink
@@ -5972,10 +6278,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: White-Tailed Deer
+  - name: White-tailed Deer
     variable:
       index: T_IUCN_MAMM_Odocoileus_virginianus_aoh
       units: km2
@@ -5990,7 +6296,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Muskrat
@@ -6008,10 +6314,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Hairy-Tailed Mole
+  - name: Hairy-tailed Mole
     variable:
       index: T_IUCN_MAMM_Parascalops_breweri_aoh
       units: km2
@@ -6026,10 +6332,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: White-Footed Mouse
+  - name: White-footed Mouse
     variable:
       index: T_IUCN_MAMM_Peromyscus_leucopus_aoh
       units: km2
@@ -6044,10 +6350,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: North American Deer Mouse
+  - name: North American Deermouse
     variable:
       index: T_IUCN_MAMM_Peromyscus_maniculatus_aoh
       units: km2
@@ -6062,10 +6368,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Eastern Pipistrelle
+  - name: Tricolor Bat
     variable:
       index: T_IUCN_MAMM_Pipistrellus_subflavus_aoh
       units: km2
@@ -6080,10 +6386,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Raccoon
+  - name: Northern Raccoon
     variable:
       index: T_IUCN_MAMM_Procyon_lotor_aoh
       units: km2
@@ -6098,7 +6404,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Gray Squirrel
@@ -6116,7 +6422,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Cinereus Shrew
@@ -6134,7 +6440,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Smoky Shrew
@@ -6152,7 +6458,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Pygmy Shrew
@@ -6170,7 +6476,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Eastern Cottontail
@@ -6188,7 +6494,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Southern Bog Lemming
@@ -6206,7 +6512,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Eastern Chipmunk
@@ -6224,10 +6530,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: American Red Squirrel
+  - name: Red Squirrel
     variable:
       index: T_IUCN_MAMM_Tamiasciurus_hudsonicus_aoh
       units: km2
@@ -6242,7 +6548,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: American Badger
@@ -6260,10 +6566,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Gray Fox
+  - name: Tree Fox
     variable:
       index: T_IUCN_MAMM_Urocyon_cinereoargenteus_aoh
       units: km2
@@ -6278,7 +6584,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: American Black Bear
@@ -6296,7 +6602,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Red Fox
@@ -6314,7 +6620,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Meadow Jumping Mouse
@@ -6332,7 +6638,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
 - name: Reptiles (IUCN)
@@ -6352,10 +6658,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Ringneck Snake
+  - name: Ring-necked Snake
     variable:
       index: T_IUCN_REPT_Diadophis_punctatus_aoh
       units: km2
@@ -6370,10 +6676,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Hawksbill Sea Turtle
+  - name: Hawksbill Turtle
     variable:
       index: T_IUCN_REPT_Eretmochelys_imbricata_aoh
       units: km2
@@ -6388,10 +6694,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Heterodon platirhinos
+  - name: Eastern Hognose Snake
     variable:
       index: T_IUCN_REPT_Heterodon_platirhinos_aoh
       units: km2
@@ -6406,10 +6712,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Nerodia sipedon
+  - name: Lake Erie Water Snake
     variable:
       index: T_IUCN_REPT_Nerodia_sipedon_aoh
       units: km2
@@ -6424,10 +6730,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Opheodrys vernalis
+  - name: Smooth Greensnake
     variable:
       index: T_IUCN_REPT_Opheodrys_vernalis_aoh
       units: km2
@@ -6442,10 +6748,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Pantherophis gloydi
+  - name: Eastern Fox Snake
     variable:
       index: T_IUCN_REPT_Pantherophis_gloydi_aoh
       units: km2
@@ -6460,10 +6766,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Plestiodon fasciatus
+  - name: Five-lined Skink
     variable:
       index: T_IUCN_REPT_Plestiodon_fasciatus_aoh
       units: km2
@@ -6478,7 +6784,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Massasauga
@@ -6496,10 +6802,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Storeria occipitomaculata
+  - name: Redbelly Snake
     variable:
       index: T_IUCN_REPT_Storeria_occipitomaculata_aoh
       units: km2
@@ -6514,10 +6820,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Thamnophis butleri
+  - name: Butler's Gartersnake
     variable:
       index: T_IUCN_REPT_Thamnophis_butleri_aoh
       units: km2
@@ -6532,7 +6838,7 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Eastern Ribbonsnake
@@ -6550,10 +6856,10 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
-  - name: Thamnophis sirtalis
+  - name: Common Gartersnake
     variable:
       index: T_IUCN_REPT_Thamnophis_sirtalis_aoh
       units: km2
@@ -6568,23 +6874,129 @@ themes:
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
+    goal: 0.2
+    limit_goal: 0.0
+- name: Rivers
+  feature:
+  - name: Rivers
+    variable:
+      index: T_KM_River_length
+      units: km
+      legend:
+        type: continuous
+        colors:
+        - '#F7FBFF'
+        - '#DEEBF7'
+        - '#C6DBEF'
+        - '#9ECAE1'
+        - '#6BAED6'
+        - '#4292C6'
+        - '#2171B5'
+        - '#08519C'
+        - '#08306B'
+      provenance: national
+    status: yes
+    visible: no
+    hidden: no
+    goal: 0.2
+    limit_goal: 0.0
+- name: Shoreline
+  feature:
+  - name: Shoreline
+    variable:
+      index: T_KM_Shoreline_length
+      units: km
+      legend:
+        type: continuous
+        colors:
+        - '#FFFFE5'
+        - '#FFF7BC'
+        - '#FEE391'
+        - '#FEC44F'
+        - '#FE9929'
+        - '#EC7014'
+        - '#CC4C02'
+        - '#993404'
+        - '#662506'
+      provenance: national
+    status: yes
+    visible: no
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
 - name: Land Cover
   feature:
+  - name: Forest (LC)
+    variable:
+      index: T_LC_Forest_lc
+      units: ha
+      legend:
+        type: continuous
+        colors:
+        - '#440154FF'
+        - '#3B528BFF'
+        - '#21908CFF'
+        - '#5DC863FF'
+        - '#FDE725FF'
+      provenance: national
+    status: yes
+    visible: no
+    hidden: no
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Forest (LU)
+    variable:
+      index: T_LC_Forest_lu
+      units: ha
+      legend:
+        type: continuous
+        colors:
+        - '#440154FF'
+        - '#3B528BFF'
+        - '#21908CFF'
+        - '#5DC863FF'
+        - '#FDE725FF'
+      provenance: national
+    status: yes
+    visible: no
+    hidden: no
+    goal: 0.2
+    limit_goal: 0.0
+  - name: Grassland
+    variable:
+      index: T_LC_Grassland
+      units: ha
+      legend:
+        type: continuous
+        colors:
+        - '#440154FF'
+        - '#3B528BFF'
+        - '#21908CFF'
+        - '#5DC863FF'
+        - '#FDE725FF'
+      provenance: national
+    status: yes
+    visible: no
+    hidden: no
+    goal: 0.2
+    limit_goal: 0.0
   - name: Lakes
     variable:
       index: T_LC_Lakes
       units: ha
       legend:
-        type: 'null'
-        colors: NA
-        labels: NA
+        type: continuous
+        colors:
+        - '#440154FF'
+        - '#3B528BFF'
+        - '#21908CFF'
+        - '#5DC863FF'
+        - '#FDE725FF'
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
   - name: Wetlands
@@ -6592,13 +7004,17 @@ themes:
       index: T_LC_Wetlands
       units: ha
       legend:
-        type: 'null'
-        colors: NA
-        labels: NA
+        type: continuous
+        colors:
+        - '#440154FF'
+        - '#3B528BFF'
+        - '#21908CFF'
+        - '#5DC863FF'
+        - '#FDE725FF'
       provenance: national
     status: yes
     visible: no
-    hidden: yes
+    hidden: no
     goal: 0.2
     limit_goal: 0.0
 weights:
@@ -6607,78 +7023,148 @@ weights:
     index: W_Carbon_potential
     units: tonnes/yr
     legend:
-      type: 'null'
-      colors: NA
-      labels: NA
+      type: continuous
+      colors:
+      - '#FFFFE5'
+      - '#FFF7BC'
+      - '#FEE391'
+      - '#FEC44F'
+      - '#FE9929'
+      - '#EC7014'
+      - '#CC4C02'
+      - '#993404'
+      - '#662506'
     provenance: national
   status: yes
   visible: no
-  hidden: yes
+  hidden: no
   factor: 0.0
 - name: Carbon storage
   variable:
     index: W_Carbon_storage
     units: tonnes
     legend:
-      type: 'null'
-      colors: NA
-      labels: NA
+      type: continuous
+      colors:
+      - '#FFFFE5'
+      - '#FFF7BC'
+      - '#FEE391'
+      - '#FEC44F'
+      - '#FE9929'
+      - '#EC7014'
+      - '#CC4C02'
+      - '#993404'
+      - '#662506'
     provenance: national
   status: yes
   visible: no
-  hidden: yes
+  hidden: no
+  factor: 0.0
+- name: Climate extremes
+  variable:
+    index: W_Climate_extremes
+    units: index
+    legend:
+      type: continuous
+      colors:
+      - '#000004FF'
+      - '#51127CFF'
+      - '#B63679FF'
+      - '#FB8861FF'
+      - '#FCFDBFFF'
+    provenance: national
+  status: yes
+  visible: no
+  hidden: no
   factor: 0.0
 - name: Climate forward velocity
   variable:
     index: W_Climate_forward_velocity
     units: index
     legend:
-      type: 'null'
-      colors: NA
-      labels: NA
+      type: continuous
+      colors:
+      - '#000004FF'
+      - '#51127CFF'
+      - '#B63679FF'
+      - '#FB8861FF'
+      - '#FCFDBFFF'
     provenance: national
   status: yes
   visible: no
-  hidden: yes
+  hidden: no
   factor: 0.0
 - name: Climate refugia
   variable:
     index: W_Climate_refugia
     units: index
     legend:
-      type: 'null'
-      colors: NA
-      labels: NA
+      type: continuous
+      colors:
+      - '#000004FF'
+      - '#51127CFF'
+      - '#B63679FF'
+      - '#FB8861FF'
+      - '#FCFDBFFF'
     provenance: national
   status: yes
   visible: no
-  hidden: yes
+  hidden: no
+  factor: 0.0
+- name: Connectivity
+  variable:
+    index: W_Connectivity
+    units: current density
+    legend:
+      type: continuous
+      colors:
+      - '#0B0405FF'
+      - '#3E356BFF'
+      - '#357BA2FF'
+      - '#49C1ADFF'
+      - '#DEF5E5FF'
+    provenance: national
+  status: yes
+  visible: no
+  hidden: no
   factor: 0.0
 - name: Freshwater
   variable:
     index: W_Freshwater
     units: ha
     legend:
-      type: 'null'
-      colors: NA
-      labels: NA
+      type: continuous
+      colors:
+      - '#F7FBFF'
+      - '#DEEBF7'
+      - '#C6DBEF'
+      - '#9ECAE1'
+      - '#6BAED6'
+      - '#4292C6'
+      - '#2171B5'
+      - '#08519C'
+      - '#08306B'
     provenance: national
   status: yes
   visible: no
-  hidden: yes
+  hidden: no
   factor: 0.0
 - name: Human footprint
   variable:
     index: W_Human_footprint
     units: index
     legend:
-      type: 'null'
-      colors: NA
-      labels: NA
+      type: continuous
+      colors:
+      - '#03051AFF'
+      - '#611F53FF'
+      - '#CB1B4FFF'
+      - '#F4875EFF'
+      - '#FAEBDDFF'
     provenance: national
   status: yes
   visible: no
-  hidden: yes
+  hidden: no
   factor: 0.0
 - name: Key biodiversity areas
   variable:
@@ -6695,46 +7181,28 @@ weights:
     provenance: national
   status: yes
   visible: no
-  hidden: yes
+  hidden: no
   factor: 0.0
 - name: Recreation
   variable:
     index: W_Recreation
     units: ha
     legend:
-      type: 'null'
-      colors: NA
-      labels: NA
+      type: continuous
+      colors:
+      - '#F7FCF5'
+      - '#E5F5E0'
+      - '#C7E9C0'
+      - '#A1D99B'
+      - '#74C476'
+      - '#41AB5D'
+      - '#238B45'
+      - '#006D2C'
+      - '#00441B'
     provenance: national
   status: yes
   visible: no
-  hidden: yes
-  factor: 0.0
-- name: River length
-  variable:
-    index: W_River_length
-    units: km
-    legend:
-      type: 'null'
-      colors: NA
-      labels: NA
-    provenance: national
-  status: yes
-  visible: no
-  hidden: yes
-  factor: 0.0
-- name: Shoreline length
-  variable:
-    index: W_Shoreline_length
-    units: km
-    legend:
-      type: 'null'
-      colors: NA
-      labels: NA
-    provenance: national
-  status: yes
-  visible: no
-  hidden: yes
+  hidden: no
   factor: 0.0
 includes:
 - name: Existing Conservation (CPCAD)
@@ -6754,4 +7222,5 @@ includes:
   status: yes
   visible: yes
   hidden: no
+  overlap: .na.character
 excludes: []
