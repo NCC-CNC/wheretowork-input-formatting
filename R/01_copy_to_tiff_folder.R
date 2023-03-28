@@ -1,8 +1,17 @@
-# Author: Dan Wismer 
-# Date: Nov 25th, 2022
-# Description: Copy .tiffs from Variable folder to Tiff folder 
+#
+# Author: Dan Wismer
+#
+# Date: March 28th, 2022
+#
+# Description: Copy's .tiffs from Variable folder to Tiff folder
+#
+# Inputs: a root folder directory
+#
+# Outputs: copy of all national rasters in one consolidated folder 
 
-root_folder <- NULL # <--- CHANGE PATH HERE
+# Set root folder ---
+# KEEP NULL IF WORKING DIRECTORY IS ALREADY SET AS THE ROOT FOLDER.
+root_folder <- NULL 
 
 # Get list of files ----
 ECCC_CH <- list.files(paste0(root_folder, "Variables/Themes/ECCC_CH"), 
@@ -35,6 +44,9 @@ NSC_SPP <- list.files(paste0(root_folder, "Variables/Themes/NSC_SPP"),
 LC <- list.files(paste0(root_folder, "Variables/Themes/LC"), 
                  pattern='.tif$', full.names = T, recursive = F)
 
+KM <- list.files(paste0(root_folder, "Variables/Themes/KM"), 
+                 pattern='.tif$', full.names = T, recursive = F)
+
 W <- list.files(paste0(root_folder,"Variables/Weights"), 
                 pattern='.tif$', full.names = T, recursive = F)
 
@@ -44,11 +56,11 @@ Incl <- list.files(paste0(root_folder, "Variables/Includes"),
 Excl <- list.files(paste0(root_folder, "Variables/Excludes"), 
                    pattern='.tif$', full.names = T, recursive = F)
 
-# Change list here to include or exclude layers to copy
+# Change list here to include or exclude layers to copy ----
 WtW <- list(ECCC_CH, ECCC_SAR, 
             IUCN_AMPH, IUCN_BIRD, IUCN_MAMM, IUCN_REPT, 
             NSC_END, NSC_SAR, NSC_SPP, 
-            LC, 
+            LC, KM, 
             W, Incl, Excl)
 
 # Copy files to Tiff folder ----
