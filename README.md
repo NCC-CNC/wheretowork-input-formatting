@@ -12,25 +12,23 @@ The spatial tiff file defines the spatial properties of the area of interest,
 such as cell size, extent, number of rows, number of columns and coordinate reference system.
 
 3. **attribute.csv.gz:** <br>
-The attribute file defines the cell values of each theme, weight and include in tabular form
-
+The attribute file defines the cell values of each theme, weight, include and exclude in tabular form
 
 4. **boundary.csv.gz:** <br>
-The boundary file defines the adjacency table of each theme, weight and include
+The boundary file defines the adjacency table of each theme, weight, include and exclude
 
 ## Prerequisites
-- Raster layers that represent themes, weights, includes and AOI must be organized into one folder
+- Raster layers (.tiffs) that represent themes, weights, includes, excludes and AOI must be organized into one folder
 
 - All rasters must have the same spatial properties (cell size, coordinate reference system, extent, etc.)
 
 - Raster file names should follow some type of naming convention 
 
-
 ## Getting Started
 #### Before you can run `03_format_data_wtw.R` you must create a new 'metadata.csv` that defines the following properties for each raster layer in the project. You can view a QC'd version [here.](https://github.com/NCC-CNC/wheretowork-input-formatting/blob/main/WtW/metadata/sw-on-metadata.csv)
 
 - **Type** <br>
-Available choices: theme, weight or include.
+Available choices: theme, weight, include or exclude.
 
 - **Theme** <br>
 If Type is theme, provide a name for the grouping. <br>
