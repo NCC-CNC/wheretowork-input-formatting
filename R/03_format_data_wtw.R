@@ -45,7 +45,7 @@ library(wheretowork)
 # 2.0 Set up -------------------------------------------------------------------
 
 ## Set path where a QC'd metadata.csv version is located
-metadata_path <- "WtW/metadata/bc-cmc-metadata.csv" # <--- CHANGE PATH HERE FOR NEW PROJECT
+metadata_path <- "WTW/metadata/sw-on-metadata.csv" # <--- CHANGE PATH HERE FOR NEW PROJECT
 
 ## Set path where rasters are located
 tiffs_path <- "Tiffs" # <--- CHANGE PATH HERE FOR NEW PROJECT
@@ -66,7 +66,7 @@ metadata <- dplyr::arrange(metadata, Order)
 
 ## Validate metadata
 assertthat::assert_that(
-  all(metadata$Type %in% c("theme", "include", "weight")),
+  all(metadata$Type %in% c("theme", "include", "weight", "exclude")),
   all(file.exists(file.path(tiffs_path, metadata$File)))
 )
 
