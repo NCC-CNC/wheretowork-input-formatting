@@ -416,7 +416,11 @@ for (file in file_list) {
   hidden <- "FALSE" 
   
   ## GOAL ----------------------------------------------------------------------
-  goal <- "0.2"  # default
+  if (type == "theme") {
+    goal <- "0.2"  # default 
+  } else {
+    goal <- ""
+  }
   
   ## Append row to data.frame ----
   new_row <- c(type, theme, file, name, legend, values, color, labels, unit, 
