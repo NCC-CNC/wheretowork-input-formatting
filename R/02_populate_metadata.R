@@ -6,7 +6,7 @@
 # Description: Generates a metadata.csv for all national layers. This csv is 
 #              a required input for 03_format_data_wtw.R.  
 #
-# Inputs:  1. A folder of rasters 
+# Inputs:  1. A folder of national rasters 
 #          2. Output names and paths
 #
 # Outputs: 1. A metadata.csv to QC (quality control)
