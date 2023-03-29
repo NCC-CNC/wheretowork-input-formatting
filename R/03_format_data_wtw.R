@@ -7,8 +7,8 @@
 #              upload project data into Where To Work
 #
 # Inputs:  1. A metadata.csv that defines attributes of each raster layer
-#          2. A folder of rasters (AOI, themes, includes and weights) that all
-#             have the same spatial properties (cell size, extent, CRS)
+#          2. A folder of rasters (AOI, themes, weights, includes and excludes) 
+#             that all have the same spatial properties (cell size, extent, CRS)
 #          3. Required R libraries
 #
 # Outputs: 1. Configuration.yaml
