@@ -18,7 +18,7 @@
 start_time <- Sys.time()
 
 ## Package names
-packages <- c("tibble", "raster", "dplyr", "stringr")
+packages <- c("tibble", "raster", "dplyr", "stringr", "readr", "readxl")
 
 ## Install packages not yet installed
 installed_packages <- packages %in% rownames(installed.packages())
@@ -31,6 +31,7 @@ library(raster)
 library(dplyr)
 library(stringr)
 library(readr)
+library(readxl)
 source("R/fct_sci_to_common.R")
 
 # 2.0 Set up -------------------------------------------------------------------
@@ -45,11 +46,11 @@ table_path <- "Variables/_Tables"
 
 # Read-in look up tables ----
 ECCC_SAR_LU <- read_csv(file.path(table_path, "ECCC_SAR_Metadata.csv"))
-ECCC_CH_LU <- readxl::read_excel(file.path(table_path,  "ECCC_CH_Metadata.xlsx"))
+ECCC_CH_LU <- read_excel(file.path(table_path,  "ECCC_CH_Metadata.xlsx"))
 IUCN_LU <- read_csv(file.path(table_path, "IUCN_Metadata.csv"))
-NSC_END_LU <- readxl::read_excel(file.path(table_path,  "NSC_END_Metadata.xlsx"))
-NSC_SAR_LU <- readxl::read_excel(file.path(table_path, "NSC_SAR_Metadata.xlsx"))
-NSC_SPP_LU <- readxl::read_excel(file.path(table_path, "NSC_SPP_Metadata.xlsx"))
+NSC_END_LU <- read_excel(file.path(table_path,  "NSC_END_Metadata.xlsx"))
+NSC_SAR_LU <- read_excel(file.path(table_path, "NSC_SAR_Metadata.xlsx"))
+NSC_SPP_LU <- read_excel(file.path(table_path, "NSC_SPP_Metadata.xlsx"))
 
 ## Read-in tiff file paths ----
 file_list <- list.files(input_tiff_folder, pattern='.tif$', 
