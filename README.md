@@ -4,8 +4,7 @@
 ### This repo assists in formating your raster data into the 4 mandatory files (described below) required for import into **Where To Work** when using the *upload project data* method.
 
 1. **configuration.yaml:** <br>
-The configuration file defines project attributes, legend elements / map display in the left side bar 'Table of contents'  
-and initial goals in the 'New solution' right side bar.
+The configuration file defines project attributes, legend elements / map display in the left side bar 'Table of contents' and initial goals in the 'New solution' right side bar.
  
 2. **spatial.tif:** <br>
 The spatial tiff file defines the spatial properties of the planning units, 
