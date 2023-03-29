@@ -4,18 +4,18 @@
 ### This repo assists in formating your raster data into the 4 mandatory files (described below) required for import into **Where To Work** when using the *upload project data* method.
 
 1. **configuration.yaml:** <br>
-The configuration file defines user access, UI elements in the 'Table of contents' 
-and initial values in the 'New solution' side bars.
+The configuration file defines project attributes, legend elements / map display in the left side bar 'Table of contents'  
+and initial goals in the 'New solution' right side bar.
  
 2. **spatial.tif:** <br>
-The spatial tiff file defines the spatial properties of the area of interest, 
-such as cell size, extent, number of rows, number of columns and coordinate reference system.
+The spatial tiff file defines the spatial properties of the planning units, 
+such as cell size, extent, number of rows, number of columns and coordinate reference system. It acts as the template to build rasters from columns within the attribute.csv.gz.
 
 3. **attribute.csv.gz:** <br>
-The attribute file defines the cell values of each theme, weight, include and exclude in tabular form
+The attribute file defines the cell values of each theme, weight, include and exclude in tabular form. Each column in the .csv is a variable. 
 
 4. **boundary.csv.gz:** <br>
-The boundary file defines the adjacency table of each theme, weight, include and exclude
+The boundary file defines the adjacency table of each theme, weight, include and exclude. It stores information on the perimeter and shared boundary lengths of the planning units. This is needed to run optimizations for spatial clustering.
 
 ## Prerequisites
 - Raster layers (.tiffs) that represent themes, weights, includes, excludes and AOI must be organized into one folder
@@ -86,7 +86,7 @@ Available choices: a number between 0 and 1
 #### The `02_populate_metadata.R` script assists in creating the metadata.csv. However, manual editing and QC is still needed.
 
 ## Format Data
-#### Change path names in `03_format_data_wtw.R` to point to your "Tiffs" folder and "metadata.csv". This script outputs the 4 mandatory files required for import into **Where To Work**.
+#### Change path names in `03_format_data_wtw.R` to reflect the input/output locations of your data. This script outputs the 4 mandatory files required for import into **Where To Work**.
 
 ## Help
 #### Reach out to Dan Wismer (daniel.wismer@natureconservancy.ca) for help using these scripts or to report a bug.
