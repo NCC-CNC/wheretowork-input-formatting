@@ -51,9 +51,9 @@ If legend is manual, provide the categorical values. <br>
 Example: 0, 1
 
 - **Color** <br>
-If legend is manual, provide the hex colors. This must be the same length as values. <br>
+If legend is **manual**, provide the hex colors. This must be the same length as values. <br>
 Example: #00000000, #b3de69 <br>
-If legend is continuous, provide a colors ramp from [wheretowork::color_palette()](https://ncc-cnc.github.io/wheretowork/reference/color_palette.html) <br>
+If legend is **continuous**, provide a colors ramp from [wheretowork::color_palette()](https://ncc-cnc.github.io/wheretowork/reference/color_palette.html) <br>
 Example: magma
 
 - **Labels** <br>
