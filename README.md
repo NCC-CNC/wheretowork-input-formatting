@@ -25,7 +25,7 @@ The boundary file defines the adjacency table of each theme, weight, include and
 - Raster file names should follow some type of naming convention 
 
 ## Getting Started
-#### Before you can run `03_format_data_wtw.R` you must create a new 'metadata.csv` that defines the following properties for each raster layer in the project. You can view a QC'd version [here.](https://github.com/NCC-CNC/wheretowork-input-formatting/blob/main/WtW/metadata/sw-on-metadata.csv)
+#### Before you can run `03_format_data_wtw.R` you must create a new 'metadata.csv` that defines the following properties for each raster layer in the project. You can view a QC'd version [here.](https://github.com/NCC-CNC/wheretowork-input-formatting/blob/main/WTW/metadata/sw-on-metadata-NEEDS-QC.csv)
 
 - **Type** <br>
 Available choices: theme, weight, include or exclude.
