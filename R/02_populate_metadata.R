@@ -345,7 +345,7 @@ for (file in file_list) {
     color <- "mako"    
   ### KBA  
   } else if (startsWith(file_no_ext, "W_Key")) {
-    color <- "#00000000, #7fbc41"     
+    color <- "#00000000, #1c9099"     
   } else {
     color <- ""
   }  
