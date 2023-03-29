@@ -396,5 +396,5 @@
 "weight","","W_Connectivity.tif","Connectivity","continuous","","mako","","current density","national","","FALSE","FALSE",""
 "weight","","W_Freshwater.tif","Freshwater","continuous","","Blues","","ha","national","","FALSE","FALSE",""
 "weight","","W_Human_footprint.tif","Human footprint","continuous","","rocket","","index","national","","FALSE","FALSE",""
-"weight","","W_Key_biodiversity_areas.tif","Key biodiversity areas","manual","0, 1","#00000000, #7fbc41","not KBA, KBA","km2","national","","FALSE","FALSE",""
+"weight","","W_Key_biodiversity_areas.tif","Key biodiversity areas","manual","0, 1","#00000000, #1c9099","not KBA, KBA","km2","national","","FALSE","FALSE",""
 "weight","","W_Recreation.tif","Recreation","continuous","","Greens","","ha","national","","FALSE","FALSE",""

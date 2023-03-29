@@ -1,15 +1,15 @@
 #
 # Author: Dan Wismer 
 #
-# Date: Nov 16th, 2022
+# Date: March 29th, 2023
 #
-# Description: Assists in generating a metadata.csv required for 
-#              02_format_data.R.  
+# Description: Generates a metadata.csv for all national layers. This csv is 
+#              a required input for 03_format_data_wtw.R.  
 #
 # Inputs:  1. A folder of rasters 
-#          2. Required R libraries
+#          2. Output names and paths
 #
-# Outputs: 1. A partially built metadata.csv to QC and manually edit in excel
+# Outputs: 1. A metadata.csv to QC (quality control)
 #
 #
 # 1.0 Load packages ------------------------------------------------------------
@@ -36,19 +36,20 @@ source("R/fct_sci_to_common.R")
 # 2.0 Set up -------------------------------------------------------------------
 
 ## File path variables ----
-input_tiff_folder <-"Tiffs" # <--- CHANGE PATH FOR NEW PROJECT
-input_aoi_name <- "AOI.tif" # <--- CHANGE NAME FOR NEW PROJECT (aoi needs to be in Tiffs folder)
-output_metadata_folder <- "WTW/metadata" # <--- CHANGE PATH FOR NEW PROJECT
-output_metadata_name <- "sw-on" # <--- CHANGE NAME FOR NEW PROJECT
-table_path <- "Variables/_Tables/" # <--- CHANGE PATH FOR NEW PROJECT
+### CHANGE PATH AND NAMES FOR NEW PROJECT
+input_tiff_folder <-"Tiffs" 
+input_aoi_name <- "AOI.tif" # aoi needs to be in Tiffs folder
+output_metadata_folder <- "WTW/metadata" 
+output_metadata_name <- "sw-on" 
+table_path <- "Variables/_Tables" 
 
 # Read-in look up tables ----
-ECCC_SAR_LU <- read_csv(paste0(table_path, "ECCC_SAR_Metadata.csv"))
-ECCC_CH_LU <- readxl::read_excel(paste0(table_path,  "ECCC_CH_Metadata.xlsx"))
-IUCN_LU <- read_csv(paste0(table_path, "IUCN_Metadata.csv"))
-NSC_END_LU <- readxl::read_excel(paste0(table_path,  "NSC_END_Metadata.xlsx"))
-NSC_SAR_LU <- readxl::read_excel(paste0(table_path, "NSC_SAR_Metadata.xlsx"))
-NSC_SPP_LU <- readxl::read_excel(paste0(table_path, "NSC_SPP_Metadata.xlsx"))
+ECCC_SAR_LU <- read_csv(file.path(table_path, "ECCC_SAR_Metadata.csv"))
+ECCC_CH_LU <- readxl::read_excel(file.path(table_path,  "ECCC_CH_Metadata.xlsx"))
+IUCN_LU <- read_csv(file.path(table_path, "IUCN_Metadata.csv"))
+NSC_END_LU <- readxl::read_excel(file.path(table_path,  "NSC_END_Metadata.xlsx"))
+NSC_SAR_LU <- readxl::read_excel(file.path(table_path, "NSC_SAR_Metadata.xlsx"))
+NSC_SPP_LU <- readxl::read_excel(file.path(table_path, "NSC_SPP_Metadata.xlsx"))
 
 ## Read-in tiff file paths ----
 file_list <- list.files(input_tiff_folder, pattern='.tif$', 
@@ -109,7 +110,10 @@ for (file in file_list) {
   ### Exclude  
   } else if (startsWith(file_no_ext, "E_")) {
     type <- "exclude"
-  } 
+  ### Other ...    
+  } else {
+    type <- ""
+  }
   
   ## NAME ----------------------------------------------------------------------
   ### ECCC SAR
@@ -175,7 +179,8 @@ for (file in file_list) {
     name <- str_replace_all(name_, "_", " ") # replace underscore with space
   ### Includes  
   } else if (startsWith(file_no_ext, "I_Protected")) {
-    name <- "Existing Conservation (CPCAD)"    
+    name <- "Existing Conservation (CPCAD)"
+  ### Other ...   
   } else {
     name <- ""
   }
@@ -216,7 +221,8 @@ for (file in file_list) {
     theme <- "Rivers"
   ### KM, Shoreline  
   } else if (startsWith(file_no_ext, "T_KM_Shore")) {
-    theme <- "Shoreline"  
+    theme <- "Shoreline"
+  ### Other ...      
   } else {
     theme <- ""
   }
@@ -228,6 +234,7 @@ for (file in file_list) {
   ### LC, KM, Weights  
   } else if (any(startsWith(file_no_ext, c("T_LC", "T_KM", "W_")))) {
     legend <- "continuous"
+  ### Other ...    
   } else {
     legend <- ""
   }
@@ -245,7 +252,8 @@ for (file in file_list) {
     values <- "0, 1"  
   ### KBA  
   } else if (startsWith(file_no_ext, "W_Key")) {
-    values <- "0, 1"     
+    values <- "0, 1"
+  ### Other ...    
   } else {
     values <- ""
   }
@@ -314,6 +322,7 @@ for (file in file_list) {
     } else {
       color <- "#e6f598" # layer covers entire AOI
     }
+  ### LC  
   } else if (startsWith(file_no_ext, "T_LC")) {
     color <- "viridis"
   ### Rivers  
@@ -345,7 +354,8 @@ for (file in file_list) {
     color <- "mako"    
   ### KBA  
   } else if (startsWith(file_no_ext, "W_Key")) {
-    color <- "#00000000, #1c9099"     
+    color <- "#00000000, #1c9099"
+  ### Other ...  
   } else {
     color <- ""
   }  
@@ -363,7 +373,8 @@ for (file in file_list) {
     labels <- "not included, included"
   ### KBA  
   } else if (startsWith(file_no_ext, "W_Key")) {
-    labels <- "not KBA, KBA"    
+    labels <- "not KBA, KBA" 
+  ### Other ...    
   } else {
     labels <- ""
   }   
@@ -393,7 +404,7 @@ for (file in file_list) {
   ### Freshwater, Recreation  
   } else if (any(startsWith(file_no_ext, c("W_Freshwater", "W_Recreation")))) {
     unit <- "ha"      
-  ### Other  
+  ### Other ...  
   } else {
     unit <- ""
   }  
