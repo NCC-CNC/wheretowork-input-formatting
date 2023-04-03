@@ -51,7 +51,13 @@ metadata_path <- "WTW/metadata/sw-on-metadata.csv" # <--- CHANGE PATH HERE FOR N
 tiffs_path <- "Tiffs" # <--- CHANGE PATH HERE FOR NEW PROJECT
 
 ## Name of study area (planning unit) raster
-study_area_file <- "AOI.tif" # <--- CHANGE PATH HERE FOR NEW PROJECT
+study_area_file <- "AOI/AOI.tif" # <--- CHANGE PATH HERE FOR NEW PROJECT
+
+## Set output variables
+prj_name <- "SW Ontario"
+prj_file_name <-"sw_on"
+author_name <- "Dan Wismer"
+author_email <- "dan.wismer@natureconservancy.ca"
 
 ## Import formatted csv (metadata) as tibble 
 metadata <- tibble::as_tibble(
@@ -71,7 +77,7 @@ assertthat::assert_that(
 )
 
 ## Import study area (planning units) raster
-study_area_data <- raster::raster(file.path(tiffs_path, study_area_file))
+study_area_data <- raster::raster(study_area_file)
 
 # 3.0 Import rasters -----------------------------------------------------------
 
@@ -351,14 +357,14 @@ weights <- lapply(seq_len(raster::nlayers(weight_data)), function(i) {
 write_project(
   x = append(append(themes, append(includes, weights)), excludes),
   dataset = dataset,
-  name = "South Western Ontario", 
-  path ="WTW/sw_on.yaml", 
-  spatial_path ="WTW/sw_on.tif", 
-  attribute_path ="WTW/sw_on_attribute.csv.gz", 
-  boundary_path ="WTW/sw_on_boundary.csv.gz", 
+  name = prj_name, 
+  path = paste0("WTW/", prj_file_name, ".yaml"),
+  spatial_path = paste0("WTW/", prj_file_name, ".tif"),
+  attribute_path = paste0("WTW/", prj_file_name, "_attribute.csv.gz"), 
+  boundary_path = paste0("WTW/", prj_file_name, "_boundary.csv.gz"),
   mode = "advanced",
-  author_name = "Dan Wismer", 
-  author_email = "daniel.wismer@natureconservancy.ca" 
+  author_name = author_name, 
+  author_email = author_email 
 )
 
 # 7.0 Clear R environment ------------------------------------------------------ 
