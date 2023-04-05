@@ -180,7 +180,7 @@ for (file in file_list) {
     name <- str_replace_all(name_, "_", " ") # replace underscore with space
   ### Includes  
   } else if (startsWith(file_no_ext, "I_Protected")) {
-    name <- "Existing Conservation (CPCAD)"
+    name <- "Existing Conservation (CPCAD + NCC Fee Simple and Conservation Agreements)"
   ### Other ...   
   } else {
     name <- ""
